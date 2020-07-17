@@ -935,5 +935,94 @@
                         Сковороды и сотейники                    </category>
                 
                     </categories>
+        <offers>
+                            <offer id="333764" type="vendor.model"
+                       available="true">
+
+                    <url>https://ogogo.ru/goods/02262210/</url>
+
+                    <price>490</price>
+
+                    <stock>28</stock>
+
+                    <currencyId>RUB</currencyId>
+
+                    <categoryId>19033</categoryId>
+
+                    <description>Пиала фарфоровая</description>
+
+                    <color></color>
+
+                    <vendor>ОГОГО Обстановочка!</vendor>
+
+                    <vendorCode>02262210</vendorCode>
+
+                    <model>Пиала Stars</model>
+
+                    <name>Пиала Stars</name>
+
+                                            <picture>https://ogogo.ru/upload/resize_cache/iblock/8d8/1200_900_1/8d8aef6ade059d2a2723dbd9f2dd54a4.jpg</picture>
+                                            <picture>https://ogogo.ru/upload/resize_cache/iblock/c84/1200_900_1/c84b1a0da024fe3cde53034aa877cc41.jpg</picture>
+                                            <picture>https://ogogo.ru/upload/resize_cache/iblock/5bf/1200_900_1/5bf6f7565031de080523d56b91a2a172.jpg</picture>
+                                            <picture>https://ogogo.ru/upload/resize_cache/iblock/74a/1200_900_1/74af4e9a0c3bcbff1a9367fec79ebfb1.jpg</picture>
+                                            <picture>https://ogogo.ru/upload/resize_cache/iblock/ef6/1200_900_1/ef6f45a65042e28585f236a746b8d69b.jpg</picture>
+                    
+
+                                            <production_time></production_time>
+                    
+                    <collection>Gratie</collection>
+
+                                            <param name="диаметр" unit="см">13,5</param>
+                                            <param name="высота" unit="см">8,5</param>
+                                            <param name="бренд" >ОГОГО</param>
+                                            <param name="материал" >фарфор</param>
+                                            <param name="исполнение" ></param>
+                    
+                    <material>
+                        фарфор                    </material>
+                </offer>
+                            <offer id="332563" type="vendor.model"
+                       available="true">
+
+                    <url>https://ogogo.ru/goods/02262300/</url>
+
+                    <price>590</price>
+
+                    <stock>9</stock>
+
+                    <currencyId>RUB</currencyId>
+
+                    <categoryId>19089</categoryId>
+
+                    <description>Блюдо сервировочное</description>
+
+                    <color></color>
+
+                    <vendor>ОГОГО Обстановочка!</vendor>
+
+                    <vendorCode>02262300</vendorCode>
+
+                    <model>Блюдо Flowers</model>
+
+                    <name>Блюдо Flowers</name>
+
+                                            <picture>https://ogogo.ru/upload/iblock/38e/38ea2afbd7c67dba86380fab246ff1f0.jpg</picture>
+                                            <picture>https://ogogo.ru/upload/iblock/d3e/d3e42b00f39d89cdb26e0bf05fe6ea9c.jpg</picture>
+                                            <picture>https://ogogo.ru/upload/iblock/8b6/8b627c9aede2f2f12e0b1ea80d9bb0e6.jpg</picture>
+                    
+
+                                            <production_time></production_time>
+                    
+                    <collection>Gratie</collection>
+
+                                            <param name="длина" unit="см">22,5</param>
+                                            <param name="ширина" unit="см">12,5</param>
+                                            <param name="бренд" >ОГОГО</param>
+                                            <param name="материал" >фарфор</param>
+                                            <param name="исполнение" ></param>
+                    
+                    <material>
+                        фарфор                    </material>
+                </offer>
     </shop>
 </yml_catalog>
