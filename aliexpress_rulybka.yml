@@ -1,0 +1,692 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2020-07-24 05:10">
+<shop>
+<name>Улыбка радуги</name>
+<company>Улыбка Радуги</company>
+<url>https://www.r-ulybka.ru</url>
+<currencies>
+<currency id="RUB" rate="1"/>
+</currencies>
+<categories>
+<category id="6798">Всё для дома</category>
+<category id="6838" parentId="6798">Для мытья посуды</category>
+<category id="6880" parentId="6838">Бальзамы и гели</category>
+<category id="6839" parentId="6838">Средства для посудомоечных машин</category>
+<category id="6915" parentId="6838">Губки и мочалки</category>
+<category id="6827" parentId="6798">Для уборки</category>
+<category id="6978" parentId="6827">Средства для уборки квартиры</category>
+<category id="6828" parentId="6827">Средства для уборки ванной комнаты и туалета</category>
+<category id="6861" parentId="6827">Средства для уборки кухни</category>
+<category id="6941" parentId="6827">Универсальные средства</category>
+<category id="6843" parentId="6827">Средства для устранения засоров</category>
+<category id="6935" parentId="6827">Салфетки и тряпки</category>
+<category id="6997" parentId="6827">Перчатки хозяйственные</category>
+<category id="6936" parentId="6827">Мусорные пакеты</category>
+<category id="7025" parentId="6827">Швабры, совки и ведра</category>
+<category id="6887" parentId="6798">Для стирки</category>
+<category id="6966" parentId="6887">Порошки</category>
+<category id="6888" parentId="6887">Гели</category>
+<category id="6920" parentId="6887">Капсулы и таблетки</category>
+<category id="7032" parentId="6887">Кондиционеры и ополаскиватели</category>
+<category id="6975" parentId="6887">Отбеливатели и пятновыводители</category>
+<category id="6913" parentId="6887">Хозяйственное мыло</category>
+<category id="7019" parentId="6887">Принадлежности для стирки и сушки белья</category>
+<category id="7018" parentId="6887">Уход за стиральной машиной</category>
+<category id="7072" parentId="6887">Средства для глажения</category>
+<category id="6876" parentId="6798">Для ароматизации</category>
+<category id="6877" parentId="6876">Освежители воздуха</category>
+<category id="6921" parentId="6876">Ароматизированные свечи</category>
+<category id="7056" parentId="6876">Сухие духи и саше</category>
+<category id="7050" parentId="6876">Поглотители влаги</category>
+<category id="7037" parentId="6876">Для автомобиля</category>
+<category id="6864" parentId="6798">Для уничтожения насекомых</category>
+<category id="6965" parentId="6864">Средства от летающих насекомых</category>
+<category id="6865" parentId="6864">Средства от тараканов</category>
+<category id="7053" parentId="6864">Средства от моли</category>
+<category id="7033" parentId="6864">Средства от грызунов</category>
+<category id="6873" parentId="6864">Универсальные</category>
+<category id="6874" parentId="6798">Кулинария</category>
+<category id="6949" parentId="6874">Фильтры для воды</category>
+<category id="6889" parentId="6874">Кухонная утварь</category>
+<category id="6875" parentId="6874">Посуда для сервировки стола</category>
+<category id="6914" parentId="6874">Хранение на кухне</category>
+<category id="7004" parentId="6874">Принадлежности для выпечки</category>
+<category id="6976" parentId="6874">Для пикника</category>
+<category id="6799" parentId="6798">Для декорирования</category>
+<category id="7023" parentId="6799">Праздничные аксессуары</category>
+<category id="6950" parentId="6799">Подарочная упаковка</category>
+<category id="6800" parentId="6799">Наклейки и сувениры</category>
+<category id="7080" parentId="6799">Сувениры</category>
+<category id="6922" parentId="6799">Новый год</category>
+<category id="6953" parentId="6798">Прочие товары</category>
+<category id="7003" parentId="6953">Аксессуары для дома</category>
+<category id="6958" parentId="6953">Аксессуары для кухни</category>
+<category id="6954" parentId="6953">Аксессуары для ванной комнаты и туалета</category>
+<category id="11015" parentId="6953">Для ремонта</category>
+<category id="6956" parentId="6953">Для дачи</category>
+<category id="6973" parentId="6953">Приятные мелочи</category>
+<category id="11120" parentId="6798">Бумажные изделия</category>
+<category id="11121" parentId="11120">Туалетная бумага</category>
+<category id="11122" parentId="11120">Полотенца</category>
+<category id="6801">Волосы</category>
+<category id="6858" parentId="6801">Для ухода</category>
+<category id="6860" parentId="6858">Шампуни</category>
+<category id="6859" parentId="6858">Бальзамы и кондиционеры</category>
+<category id="6872" parentId="6858">Маски</category>
+<category id="6871" parentId="6858">Сыворотки и эликсиры</category>
+<category id="6870" parentId="6858">Масла</category>
+<category id="7076" parentId="6858">Аксессуары</category>
+<category id="6868" parentId="6801">Для окрашивания</category>
+<category id="6869" parentId="6868">Краски</category>
+<category id="7002" parentId="6868">Оттеночные бальзамы и шампуни</category>
+<category id="7071" parentId="6868">Окислители</category>
+<category id="6968" parentId="6868">Аксессуары</category>
+<category id="6802" parentId="6801">Для укладки и стайлинга</category>
+<category id="6863" parentId="6802">Лаки</category>
+<category id="6862" parentId="6802">Муссы и пенки</category>
+<category id="6890" parentId="6802">Кремы и пасты</category>
+<category id="7022" parentId="6802">Воски и гели</category>
+<category id="7010" parentId="6802">Спреи</category>
+<category id="6803" parentId="6802">Аксессуары</category>
+<category id="6804">Макияж</category>
+<category id="6893" parentId="6804">Для лица</category>
+<category id="7042" parentId="6893">Основа под макияж</category>
+<category id="11179" parentId="6893">Фиксаторы макияжа</category>
+<category id="6911" parentId="6893">BB/CC кремы</category>
+<category id="6971" parentId="6893">Тональные кремы</category>
+<category id="6894" parentId="6893">Пудры</category>
+<category id="6903" parentId="6893">Корректоры и консилеры</category>
+<category id="6896" parentId="6893">Хайлайтеры</category>
+<category id="6902" parentId="6893">Румяна</category>
+<category id="6844" parentId="6804">Для глаз</category>
+<category id="6845" parentId="6844">Тушь</category>
+<category id="6895" parentId="6844">Карандаши и подводки</category>
+<category id="6907" parentId="6844">Основа под тени</category>
+<category id="6884" parentId="6844">Тени</category>
+<category id="7043" parentId="6844">Накладные ресницы</category>
+<category id="6897" parentId="6804">Для губ</category>
+<category id="6898" parentId="6897">Бальзамы и масла</category>
+<category id="6905" parentId="6897">Помады</category>
+<category id="6906" parentId="6897">Блески</category>
+<category id="6904" parentId="6897">Карандаши</category>
+<category id="6848" parentId="6804">Для бровей</category>
+<category id="7075" parentId="6848">Краски</category>
+<category id="6849" parentId="6848">Тушь</category>
+<category id="6885" parentId="6848">Карандаши</category>
+<category id="7062" parentId="6848">Тени</category>
+<category id="6805" parentId="6804">Для маникюра</category>
+<category id="6806" parentId="6805">Лаки</category>
+<category id="6925" parentId="6805">Верхнее покрытие</category>
+<category id="6901" parentId="6805">Средства для ухода</category>
+<category id="6948" parentId="6805">Жидкости для снятия лака</category>
+<category id="7051" parentId="6805">Накладные ногти и наклейки</category>
+<category id="6919" parentId="6805">Средства для гель-лакового маникюра</category>
+<category id="6932" parentId="6805">Маникюрные принадлежности</category>
+<category id="6881" parentId="6804">Аксессуары</category>
+<category id="6882" parentId="6881">Кисти и спонжи</category>
+<category id="6883" parentId="6881">Расчески и пинцеты для бровей</category>
+<category id="7058" parentId="6881">Щипцы для завивки ресниц</category>
+<category id="6963" parentId="6881">Точилки</category>
+<category id="6977" parentId="6881">Зеркала</category>
+<category id="6984" parentId="6881">Косметички</category>
+<category id="6807">Наборы</category>
+<category id="6808" parentId="6807">Для красоты</category>
+<category id="6899" parentId="6808">Промо</category>
+<category id="6809" parentId="6808">Подарочные наборы</category>
+<category id="11016" parentId="6807">Готовые комплекты</category>
+<category id="6810">Парфюмерия</category>
+<category id="6846" parentId="6810">Для мужчин</category>
+<category id="6847" parentId="6846">Туалетная вода</category>
+<category id="6879" parentId="6846">Парфюмерная вода</category>
+<category id="7054" parentId="6846">Одеколон</category>
+<category id="6811" parentId="6810">Для женщин</category>
+<category id="6909" parentId="6811">Духи</category>
+<category id="6812" parentId="6811">Туалетная вода</category>
+<category id="6850" parentId="6811">Парфюмерная вода</category>
+<category id="6998" parentId="6810">Для детей</category>
+<category id="6999" parentId="6998">Туалетная вода</category>
+<category id="6821">Тело</category>
+<category id="6822" parentId="6821">Для душа и бани</category>
+<category id="6823" parentId="6822">Гели</category>
+<category id="6841" parentId="6822">Мыло</category>
+<category id="7013" parentId="6822">Масла, пенки и муссы</category>
+<category id="6996" parentId="6822">Скрабы</category>
+<category id="6878" parentId="6822">Соли и пены для ванн</category>
+<category id="7082" parentId="6822">Интимная гигиена</category>
+<category id="6908" parentId="6822">Мочалки</category>
+<category id="6923" parentId="6821">Для ухода</category>
+<category id="6926" parentId="6923">Кремы, бальзамы и лосьоны</category>
+<category id="6979" parentId="6923">Дезодоранты</category>
+<category id="7060" parentId="6923">Глина</category>
+<category id="6924" parentId="6923">Масла</category>
+<category id="6937" parentId="6821">Для бритья и депиляции</category>
+<category id="7077" parentId="6937">Гели и пены</category>
+<category id="6938" parentId="6937">Станки</category>
+<category id="7073" parentId="6937">Сменные кассеты</category>
+<category id="6991" parentId="6937">Кремы для депиляции</category>
+<category id="6993" parentId="6937">Воск и полоски</category>
+<category id="10604" parentId="6937">Сахарная паста</category>
+<category id="10603" parentId="6937">Средства до/после депиляции</category>
+<category id="7020" parentId="6821">Для коррекции фигуры</category>
+<category id="7068" parentId="7020">Бальзамы и кремы</category>
+<category id="7069" parentId="7020">Скрабы и маски</category>
+<category id="7070" parentId="7020">Гели, сыворотки и масла</category>
+<category id="7021" parentId="7020">Пластыри и пленки</category>
+<category id="6961" parentId="6821">Для загара</category>
+<category id="7031" parentId="6961">Автозагар</category>
+<category id="6962" parentId="6961">Средства для загара</category>
+<category id="6967" parentId="6961">Средства после загара</category>
+<category id="7014" parentId="6821">Для массажа</category>
+<category id="7015" parentId="7014">Масла и бальзамы</category>
+<category id="7048" parentId="7014">Аксессуары</category>
+<category id="6959" parentId="6821">Для защиты от насекомых</category>
+<category id="7007" parentId="6959">Брелоки и браслеты</category>
+<category id="6964" parentId="6959">Средства от укусов</category>
+<category id="6960" parentId="6959">Средства после укусов</category>
+<category id="6929" parentId="6821">Для рук</category>
+<category id="6930" parentId="6929">Мыло</category>
+<category id="7005" parentId="6929">Кремы</category>
+<category id="7035" parentId="6929">Антисептики</category>
+<category id="7061" parentId="6929">Маски</category>
+<category id="7067" parentId="6929">Пилинги и пасты для очищения</category>
+<category id="6891" parentId="6821">Для ног</category>
+<category id="6994" parentId="6891">Кремы и бальзамы</category>
+<category id="7006" parentId="6891">Дезодоранты</category>
+<category id="7027" parentId="6891">Маски и скрабы</category>
+<category id="7026" parentId="6891">Ванны и эликсиры</category>
+<category id="6892" parentId="6891">Педикюрные принадлежности</category>
+<category id="6824">Одежда, аксессуары, для обуви</category>
+<category id="6834" parentId="6824">Бижутерия</category>
+<category id="7086" parentId="6834">Броши</category>
+<category id="6969" parentId="6834">Браслеты</category>
+<category id="6835" parentId="6834">Украшения для волос</category>
+<category id="7065" parentId="6834">Украшения на шею</category>
+<category id="6970" parentId="6834">Украшения для тела</category>
+<category id="6825" parentId="6824">Одежда</category>
+<category id="6939" parentId="6825">Носки и гольфы</category>
+<category id="6826" parentId="6825">Колготки и чулки</category>
+<category id="6910" parentId="6825">Нижнее белье</category>
+<category id="6842" parentId="6825">Уход за одеждой</category>
+<category id="7064" parentId="6825">Верхняя одежда</category>
+<category id="7085" parentId="6825">Маски для сна</category>
+<category id="6856" parentId="6824">Для ухода за обувью</category>
+<category id="7008" parentId="6856">Дезодоранты</category>
+<category id="6927" parentId="6856">Пропитки</category>
+<category id="6928" parentId="6856">Краски</category>
+<category id="6942" parentId="6856">Воски и кремы</category>
+<category id="7046" parentId="6856">Очистители</category>
+<category id="7009" parentId="6856">Растяжители</category>
+<category id="6943" parentId="6856">Губки</category>
+<category id="6886" parentId="6856">Стельки и гелевые вставки для обуви</category>
+<category id="6857" parentId="6856">Аксессуары</category>
+<category id="7011" parentId="6824">Текстиль</category>
+<category id="7012" parentId="7011">Полотенца</category>
+<category id="7045" parentId="7011">Покрывало</category>
+<category id="6854" parentId="6824">Прочие товары</category>
+<category id="7030" parentId="6854">Очки</category>
+<category id="6972" parentId="6854">Зонты</category>
+<category id="6855" parentId="6854">Игрушки</category>
+<category id="6931" parentId="6854">Канцтовары</category>
+<category id="6986" parentId="6854">Дорожные наборы</category>
+<category id="6829">Электротовары</category>
+<category id="6951" parentId="6829">Для дома</category>
+<category id="7079" parentId="6951">Лампочки</category>
+<category id="7066" parentId="6951">Батарейки и аккумуляторы</category>
+<category id="7084" parentId="6951">Тройники и удлинители</category>
+<category id="6957" parentId="6951">Техника для кухни</category>
+<category id="6952" parentId="6951">Бытовая техника</category>
+<category id="6830" parentId="6829">Для красоты</category>
+<category id="7000" parentId="6830">Весы</category>
+<category id="6831" parentId="6830">Приборы для укладки</category>
+<category id="6988" parentId="6830">Приборы для маникюра и педикюра</category>
+<category id="7017" parentId="6830">Приборы для бритья и депиляции</category>
+<category id="6900" parentId="6830">Машинки для стрижки и триммеры</category>
+<category id="7001" parentId="6830">Приборы для очищения и увлажнения кожи</category>
+<category id="11230" parentId="6830">Приборы для очищения и увлажнения лица</category>
+<category id="6816">Личная гигиена</category>
+<category id="6817" parentId="6816">Средства гигиены</category>
+<category id="6995" parentId="6817">Влажные салфетки</category>
+<category id="7028" parentId="6817">Ватные палочки</category>
+<category id="6933" parentId="6817">Ватные диски и вата</category>
+<category id="6818" parentId="6817">Прокладки и тампоны</category>
+<category id="6974" parentId="6817">Подгузники и пеленки</category>
+<category id="6940" parentId="6817">Пластыри</category>
+<category id="7055" parentId="6817">Вкладыши для одежды</category>
+<category id="7044" parentId="6817">Тесты на беременность</category>
+<category id="11180" parentId="6817">Защитные маски</category>
+<category id="6832" parentId="6816">Для полости рта</category>
+<category id="6840" parentId="6832">Пасты, порошки и пенки</category>
+<category id="6985" parentId="6832">Ополаскиватели</category>
+<category id="7052" parentId="6832">Освежители дыхания</category>
+<category id="6833" parentId="6832">Щетки</category>
+<category id="7047" parentId="6832">Зубочистки и зубные нити</category>
+<category id="6836" parentId="6816">Бумажные изделия</category>
+<category id="6837" parentId="6836">Туалетная бумага</category>
+<category id="7039" parentId="6836">Полотенца</category>
+<category id="7034" parentId="6836">Носовые платочки</category>
+<category id="7038" parentId="6836">Салфетки</category>
+<category id="10639">Для животных</category>
+<category id="10640" parentId="10639">Для собак</category>
+<category id="10645" parentId="10640">Сухой корм</category>
+<category id="10646" parentId="10640">Влажный корм</category>
+<category id="10660" parentId="10640">Лакомство</category>
+<category id="10641" parentId="10639">Для кошек</category>
+<category id="10643" parentId="10641">Сухой корм</category>
+<category id="10644" parentId="10641">Влажный корм</category>
+<category id="10661" parentId="10641">Лакомство</category>
+<category id="10642" parentId="10639">Наполнители</category>
+<category id="6813">Лицо</category>
+<category id="6819" parentId="6813">Для ухода</category>
+<category id="6820" parentId="6819">Кремы</category>
+<category id="6852" parentId="6819">Лосьоны и тоники</category>
+<category id="6851" parentId="6819">Маски и патчи</category>
+<category id="7049" parentId="6819">Масла и флюиды</category>
+<category id="6947" parentId="6819">Сыворотки и гели</category>
+<category id="7041" parentId="6819">Термальная вода</category>
+<category id="6918" parentId="6819">Аксессуары</category>
+<category id="6916" parentId="6813">Для бритья и депиляции</category>
+<category id="6934" parentId="6916">Гели и пены</category>
+<category id="6992" parentId="6916">Воск и полоски</category>
+<category id="6955" parentId="6916">Средства после бритья</category>
+<category id="6917" parentId="6916">Станки</category>
+<category id="7063" parentId="6916">Сменные кассеты</category>
+<category id="11019" parentId="6916">Уход за бородой</category>
+<category id="7074" parentId="6916">Аксессуары</category>
+<category id="6814" parentId="6813">Для умывания</category>
+<category id="6853" parentId="6814">Гели</category>
+<category id="7016" parentId="6814">Пенки и муссы</category>
+<category id="6815" parentId="6814">Скрабы и пилинги</category>
+<category id="11005" parentId="6814">Мыло</category>
+<category id="7040" parentId="6814">Спонжи</category>
+<category id="6866" parentId="6813">Для снятия макияжа</category>
+<category id="6867" parentId="6866">Молочко</category>
+<category id="7029" parentId="6866">Лосьоны</category>
+<category id="6912" parentId="6866">Мицеллярная вода</category>
+<category id="7059" parentId="6866">Влажные салфетки и диски</category>
+<category id="11026">Профессиональный уход</category>
+<category id="11064" parentId="11026">Estel Professional</category>
+<category id="11065" parentId="11064">Шампуни</category>
+<category id="11066" parentId="11064">Бальзамы и кондиционеры</category>
+<category id="11067" parentId="11064">Маски</category>
+<category id="11068" parentId="11064">Сыворотки и эликсиры</category>
+<category id="11224" parentId="11064">Для окрашивания волос</category>
+<category id="11081" parentId="11064">Для мужчин</category>
+<category id="11069" parentId="11064">Для окрашивания бровей</category>
+<category id="11070" parentId="11064">Дорожные наборы</category>
+<category id="11071" parentId="11026">Ollin Professional</category>
+<category id="11072" parentId="11071">Шампуни</category>
+<category id="11073" parentId="11071">Бальзамы и кондиционеры</category>
+<category id="11074" parentId="11071">Маски</category>
+<category id="11083" parentId="11071">Сыворотки и эликсиры</category>
+<category id="11075" parentId="11071">Для укладки и стайлинга</category>
+<category id="11159" parentId="11071">Для окрашивания бровей</category>
+<category id="11076" parentId="11026">Aravia Professional</category>
+<category id="11077" parentId="11076">Сахарная паста</category>
+<category id="11078" parentId="11076">Средства до шугаринга</category>
+<category id="11079" parentId="11076">Средства после шугаринга</category>
+<category id="11084" parentId="11076">Уход за лицом</category>
+<category id="11085" parentId="11076">Уход за телом</category>
+<category id="11087" parentId="11076">Уход за руками</category>
+<category id="11088" parentId="11076">Уход за ногами</category>
+<category id="11123" parentId="11026">Concept</category>
+<category id="11124" parentId="11123">Шампуни</category>
+<category id="11125" parentId="11123">Бальзамы и кондиционеры</category>
+<category id="11126" parentId="11123">Маски</category>
+<category id="11127" parentId="11123">Сыворотки и эликсиры</category>
+<category id="11128" parentId="11123">Для окрашивания</category>
+<category id="11129" parentId="11123">Для укладки и стайлинга</category>
+<category id="11176" parentId="11123">Для окрашивания бровей</category>
+<category id="11037">Корейская и Японская косметика</category>
+<category id="11039" parentId="11037">Для лица</category>
+<category id="11052" parentId="11039">Для ухода</category>
+<category id="11047" parentId="11039">Для очищения</category>
+<category id="11050" parentId="11039">Для кожи вокруг глаз</category>
+<category id="11049" parentId="11039">Маски</category>
+<category id="11048" parentId="11039">Патчи</category>
+<category id="11040" parentId="11037">Для тела</category>
+<category id="11045" parentId="11040">Для рук</category>
+<category id="11046" parentId="11040">Для ног</category>
+<category id="11042" parentId="11037">Всё для дома</category>
+<category id="11043" parentId="11042">Для стирки</category>
+<category id="11044" parentId="11042">Для мытья посуды</category>
+<category id="11038" parentId="11037">Для волос</category>
+<category id="11174" parentId="11037">Личная гигиена</category>
+<category id="11041" parentId="11174">Для полости рта</category>
+<category id="11175" parentId="11174">Прокладки</category>
+<category id="11092">Для детей</category>
+<category id="11093" parentId="11092">Для ухода</category>
+<category id="11099" parentId="11093">Для купания</category>
+<category id="11100" parentId="11093">Для волос</category>
+<category id="11101" parentId="11093">Для ухода за кожей</category>
+<category id="11102" parentId="11093">Для полости рта</category>
+<category id="11103" parentId="11093">Солнцезащитные средства</category>
+<category id="11104" parentId="11093">От укусов насекомых</category>
+<category id="11206" parentId="11093">Влажные салфетки</category>
+<category id="11094" parentId="11092">Средства гигиены</category>
+<category id="11105" parentId="11094">Подгузники</category>
+<category id="11106" parentId="11094">Пеленки</category>
+<category id="11107" parentId="11094">Влажные салфетки</category>
+<category id="11108" parentId="11094">Ватно-бумажные изделия</category>
+<category id="11095" parentId="11092">Для красоты</category>
+<category id="11110" parentId="11095">Декоративная косметика</category>
+<category id="11111" parentId="11095">Парфюмерия</category>
+<category id="11112" parentId="11095">Бижутерия</category>
+<category id="11096" parentId="11092">Бытовая химия</category>
+<category id="11113" parentId="11096">Для стирки</category>
+<category id="11114" parentId="11096">Для мытья посуды</category>
+<category id="11097" parentId="11092">Одежда</category>
+<category id="11115" parentId="11097">Носки и гольфы</category>
+<category id="11116" parentId="11097">Колготки</category>
+<category id="11098" parentId="11092">Хобби и творчество</category>
+<category id="11117" parentId="11098">Игрушки</category>
+<category id="11118" parentId="11098">Канцелярия</category>
+<category id="11130">Для мужчин</category>
+<category id="11131" parentId="11130">Для волос</category>
+<category id="11136" parentId="11131">Шампуни</category>
+<category id="11137" parentId="11131">Для окрашивания</category>
+<category id="11138" parentId="11131">Для укладки и стайлинга</category>
+<category id="11132" parentId="11130">Уход за телом</category>
+<category id="11139" parentId="11132">Гели для душа</category>
+<category id="11140" parentId="11132">Дезодоранты</category>
+<category id="11141" parentId="11132">Мыло</category>
+<category id="11142" parentId="11132">Мочалки</category>
+<category id="11133" parentId="11130">Для бритья</category>
+<category id="11144" parentId="11133">Гели и пены</category>
+<category id="11145" parentId="11133">Средства после бритья</category>
+<category id="11146" parentId="11133">Станки</category>
+<category id="11147" parentId="11133">Сменные кассеты</category>
+<category id="11148" parentId="11133">Уход за бородой</category>
+<category id="11149" parentId="11133">Аксессуары</category>
+<category id="11134" parentId="11130">Одежда</category>
+<category id="11150" parentId="11134">Нижнее белье</category>
+<category id="11151" parentId="11134">Носки</category>
+<category id="11153" parentId="11134">Солнезащитные очки</category>
+<category id="11135" parentId="11130">Парфюмерия</category>
+<category id="11154" parentId="11135">Туалетная вода</category>
+<category id="11155" parentId="11135">Парфюмерная вода</category>
+<category id="11156" parentId="11135">Одеколон</category>
+</categories>
+<offers>
+<offer id="15758" available="true">
+<url>https://www.r-ulybka.ru/u-catalog/goods/15758/?utm_source=market.yandex.ru&amp;utm_term=15758</url>
+<oldprice>175</oldprice>
+<currencyId>RUB</currencyId>
+<vat>VAT_20</vat>
+<categoryId>6926</categoryId>
+<picture>https://www.r-ulybka.ru/upload/iblock/074/074dd0f5071d0533de835df95f972eb5.jpg</picture>
+<picture>https://www.r-ulybka.ru/upload/iblock/0b4/0b4c88e1764a4d731cb55bd18d4db237.jpg</picture>
+<picture>https://www.r-ulybka.ru/upload/iblock/fb6/fb64a4f733a465bbae276119301ccdf5.jpg</picture>
+<vendor>Nivea</vendor>
+<name>Увлажняющий крем Nivea Creme универсальный для тела 150мл</name>
+<description>Описание от производителя:NIVEA Creme – универсальный увлажняющий крем. Как это работает Благодаря уникальной формуле с эвцеритом, пантенолом и глицерином, крем прекрасно увлажняет, питает и бережно ухаживает за кожей тела, особенно за ее сухими участками. NIVEA Creme не содержит консервантов и поэтому подходит даже для нежной детской кожи. Продукт одобрен дерматологами.  Тип кожи:Для всех типов кожи.</description>
+<country_of_origin>Германия</country_of_origin>
+<param name="Артикул">3000374</param>
+<param name="Фасовка (мл\гг)">150мл</param>
+<param name="Увлажнение">Эффект увлажнения</param>
+<param name="Тип кожи">Все типы кожи</param>
+<param name="Зона применения">Для тела</param>
+<param name="Гендерная принадлежность">Унисекс</param>
+<param name="Зона применения">Для тела</param>
+<param name="Назначение">Для красоты</param>
+<param name="Тип\Консистенция">Крем</param>
+<param name="Линейка\Серия">Creme</param>
+<param name="Питание">Питающий эффект</param>
+<param name="Процесс">Для ухода</param>
+<param name="Смягчение">Смягчающий эффект</param>
+<barcode>4005808158003</barcode>
+<min-quantity>1</min-quantity>
+<weight>0.162</weight>
+<stock>50</stock>
+</offer>
+<offer id="15764" available="true">
+<url>https://www.r-ulybka.ru/u-catalog/goods/15764/?utm_source=market.yandex.ru&amp;utm_term=15764</url>
+<price>200</price>
+<oldprice>199</oldprice>
+<currencyId>RUB</currencyId>
+<vat>VAT_20</vat>
+<categoryId>7069</categoryId>
+<picture>https://www.r-ulybka.ru/upload/iblock/636/636ec65f8114fb25af64f6a55eeca4aa.jpg</picture>
+<picture>https://www.r-ulybka.ru/upload/iblock/7ad/7add514518d90d350fbbb4a220553f3f.jpg</picture>
+<picture>https://www.r-ulybka.ru/upload/iblock/89d/89da86de52cf33ad89296c14a101b45e.jpg</picture>
+<picture>https://www.r-ulybka.ru/upload/iblock/0de/0de12851ec994268e374d2b4a319e4ee.jpg</picture>
+<vendor>Novosvit</vendor>
+<name>Маска для талии и живота Novosvit антицеллюлитная &quot; Горячий шоколад &quot; 300мл</name>
+<description>Описание от производителя:
+ Маска для талии и живота «Интенсивное похудение» создана как эффективное антицеллюлитное средство. Она улучшает кровообращение и активизирует обмен веществ, что способствует расщеплению жиров и выведению избыточной жидкости из тканей. Уже после первого применения кожа становится более упругой и гладкой.&amp;nbsp;
+ - SPA прямо у вас дома! Бьюти-процедура с маской способствует ускорению сжигания жировых отложений и уменьшения объёмов в области живота и талии.
+ - В составе множество натуральных компонентов: кофеин, какао, витамин РР, мёд, экстракты красного перца, чуангсионга, центеллы, абрикоса, цветков апельсина, грецкого ореха.
+ 
+ Применение:Нанесите маску на сухую кожу проблемных зон живота (максимальный эффект достигается при обёртывании полиэтиленовой простыней). Оставьте на 10-20 минут. Смойте прохладной водой. Внимание! Через 3-5 минут после нанесения маски может ощущаться жжение и покраснение кожи, которое пропадёт примерно через 30 минут после смывания маски. Применяйте 2 раза в неделю.
+ Избегайте попадания в глаза. Возможна индивидуальная непереносимость компонентов.
+ 
+ Состав:Aqua (Water), Kaolin, Zea Mays (Corn) Oil, Mineral Oil, Stearin, Cetearyl Alcohol, Glyceryl Stearate, Thereobroma Cacao (Cocoa) Seed Butter, Ligusticum Chuanxiong Extract, Centella Asiatica Extract, Prunus Armeniaca Extract, Citrus Aurantium Amara Extract, Juglans Regia Extract, Mel, Caffeine, Urea, Niacinamide, Capsicum Annum Extrat, Citric Acid, Triethanolamine, Methyl Paraben, Propyl Paraben, Methylisothiazolinone, Methylchloroisothiazolinone, Parfum, Benzyl Benzoate, Linalool, Caramel, CI 19140, CI 16035, CI 42090, ВНТ.</description>
+<country_of_origin>Россия</country_of_origin>
+<param name="Артикул">3052910</param>
+<param name="Фасовка (мл\гг)">300мл</param>
+<param name="Тип кожи">Все типы кожи</param>
+<param name="Зона применения">Для тела</param>
+<param name="Гендерная принадлежность">Для женщин</param>
+<param name="Зона применения">Для тела</param>
+<param name="Область применения">Живот и талия</param>
+<param name="Назначение">Для красоты</param>
+<param name="Тип\Консистенция">Маска</param>
+<param name="Тонизирование">Тонизирующий эффект</param>
+<param name="Процесс">Для коррекции фигуры</param>
+<param name="Укрепление">Укрепляющий эффект</param>
+<param name="Аромат">Экзотический</param>
+<barcode>4607086564196</barcode>
+<min-quantity>1</min-quantity>
+<weight>0.335</weight>
+<stock>50</stock>
+</offer>
+<offer id="15768" available="false">
+<url>https://www.r-ulybka.ru/u-catalog/goods/15768/?utm_source=market.yandex.ru&amp;utm_term=15768</url>
+<price>200</price>
+<oldprice>189</oldprice>
+<currencyId>RUB</currencyId>
+<vat>VAT_20</vat>
+<categoryId>6898</categoryId>
+<picture>https://www.r-ulybka.ru/upload/iblock/0c5/0c523e706f8afabec781745af00b15d6.jpg</picture>
+<picture>https://www.r-ulybka.ru/upload/iblock/630/6303f9a6a1acde20d6b2e7a84eeea3ee.jpg</picture>
+<picture>https://www.r-ulybka.ru/upload/iblock/b19/b199e286a721d9cd9b91bd8416f2743d.jpg</picture>
+<vendor>Bellaoggi</vendor>
+<name>Бальзам для губ Bellaoggi TENTAZIONE увлажняющий 04 Temptation Red</name>
+<description></description>
+<country_of_origin>Италия</country_of_origin>
+<param name="Артикул">3057013</param>
+<param name="Успокаивающий эффект">Успокаивающий эффект</param>
+<param name="Увлажнение">Эффект увлажнения</param>
+<param name="Зона применения">Для лица</param>
+<param name="Гендерная принадлежность">Для женщин</param>
+<param name="Зона применения">Для лица</param>
+<param name="Область применения">Губы</param>
+<param name="Назначение">Для души</param>
+<param name="Тип\Консистенция">Бальзам</param>
+<param name="Линейка\Серия">TENTAZIONE</param>
+<param name="Процесс">Для ухода</param>
+<param name="Цвет">Красный</param>
+<param name="Успокаивающий эффект">Успокаивающий эффект</param>
+<param name="Смягчение">Смягчающий эффект</param>
+<barcode>8028997459955</barcode>
+<min-quantity>1</min-quantity>
+<weight>0.015</weight>
+<stock>0</stock>
+</offer>
+<offer id="15773" available="true">
+<url>https://www.r-ulybka.ru/u-catalog/goods/15773/?utm_source=market.yandex.ru&amp;utm_term=15773</url>
+<oldprice>119</oldprice>
+<currencyId>RUB</currencyId>
+<vat>VAT_20</vat>
+<categoryId>6994</categoryId>
+<picture>https://www.r-ulybka.ru/upload/iblock/87b/87b9f4127861c778870376a2aeea1fa3.jpg</picture>
+<picture>https://www.r-ulybka.ru/upload/iblock/d78/d78383c8437e2a6b958c158cc1753ae5.jpg</picture>
+<picture>https://www.r-ulybka.ru/upload/iblock/66f/66f5862ba6dc58b9d221234591e78c87.jpg</picture>
+<picture>https://www.r-ulybka.ru/upload/iblock/a58/a58281f7f1306e79d5b5f8451c3328a2.jpg</picture>
+<vendor>Novosvit</vendor>
+<name>Бальзам Novosvit для огрубевшей кожи ступней ног 100мл</name>
+<description>Описание от производителя:
+Благодаря своим активным компонентам, насыщенная кремообразная основа бальзама быстро смягчает огрубевшую кожу ступней, глубоко увлажняет и дарит гладкость и мягкость вашим ногам.
+ - Идеально подходит для ночного ухода. Крем заботится о коже ваших ног, пока вы спите.
+ - Интенсивно увлажняет и смягчает сухую и огрубевшую кожу, а также отшелушивает отмершие клетки.
+ - Предупреждает образование натоптышей и потёртостей, чтобы кожа ваших ног оставалась гладкой и красивой.
+
+Применение:
+ Применяйте ежедневно (лучше перед сном). Небольшое количество крема втирайте в кожу стопы в течении 60 секунд до полного впитывания. Эффект смягчения кожи наблюдается через 3-5 дней регулярного использования. Избегайте попадания в глаза. Возможна индивидуальная непереносимость компонентов.
+
+ Состав:
+ Aqua (Water), Stearin, Zea Mays (Corn) Oil, Mineral Oil, Propylene Glycol, Glycerin, Urea, Glyceryl Stearate, Cetearyl Alcohol, Tocopheryl Acetate, Hydrolyzed Wheat Protein, Avena Sativa (Oat) Kernel Extract, Salvia Оfficinalis (Sage) Leaf Extract, Triethanolamine, Parfum, Hexyl Cinnamal, Limonene, Linalool, Geraniol, Citral, Citric Acid, Methyl Paraben, Propyl Paraben.</description>
+<country_of_origin>Россия</country_of_origin>
+<param name="Артикул">3024682</param>
+<param name="Фасовка (мл\гг)">100мл</param>
+<param name="Увлажнение">Эффект увлажнения</param>
+<param name="Тип кожи">Очень сухая кожа</param>
+<param name="Зона применения">Для ног</param>
+<param name="Гендерная принадлежность">Унисекс</param>
+<param name="Зона применения">Для ног</param>
+<param name="Область применения">Стопы</param>
+<param name="Назначение">Для красоты</param>
+<param name="Тип\Консистенция">Бальзам</param>
+<param name="Текстура">Легкая</param>
+<param name="Процесс">Для ухода</param>
+<param name="Решение проблемы">Против мозолей</param>
+<param name="Смягчение">Смягчающий эффект</param>
+<barcode>4607086562307</barcode>
+<min-quantity>1</min-quantity>
+<weight>0.114</weight>
+<stock>50</stock>
+</offer>
+<offer id="15775" available="false">
+<url>https://www.r-ulybka.ru/u-catalog/goods/15775/?utm_source=market.yandex.ru&amp;utm_term=15775</url>
+<price>200</price>
+<oldprice>339</oldprice>
+<currencyId>RUB</currencyId>
+<vat>VAT_20</vat>
+<categoryId>6926</categoryId>
+<picture>https://www.r-ulybka.ru/upload/iblock/e54/e546d90c88fe69b24a90049560bc18a2.jpg</picture>
+<picture>https://www.r-ulybka.ru/upload/iblock/d40/d40f16511fedfcbd5670c074ea9fb386.jpg</picture>
+<picture>https://www.r-ulybka.ru/upload/iblock/858/85862673d9e9247cd18518597f514623.jpg</picture>
+<vendor>Nivea</vendor>
+<name>Бальзам Nivea SOS для тела , для очень сухой кожи 250мл</name>
+<description>Описание от производителя:Бальзам для тела SOS от NIVEA разработан дерматологами специально для очень сухой и обезвоженной кожи. Благодаря насыщенной формуле с Пантенолом и Hydra IQ бальзам интенсивно увлажняет обезвоженную кожу, избавляя от ощущения сухости и стянутости на 48 часов.•Пантенол усиливает способность кожи удерживать влагу и успокаивает особо сухие участки кожи.•Hydra IQ активизирует микроциркуляцию влаги в клетках кожи.Бальзам быстро впитывается и не оставляет на коже жирной пленки. Применение:Наносите бальзам ежедневно на сухую чистую кожу тела, повторно увлажняйте особенно сухие участки кожи, такие как локти, колени и голени.  Тип кожи:Для всех типов кожи.</description>
+<country_of_origin>Испания</country_of_origin>
+<param name="Артикул">3040901</param>
+<param name="Фасовка (мл\гг)">250мл</param>
+<param name="Успокаивающий эффект">Успокаивающий эффект</param>
+<param name="Увлажнение">Эффект увлажнения</param>
+<param name="Тип кожи">Очень сухая кожа</param>
+<param name="Зона применения">Для тела</param>
+<param name="Гендерная принадлежность">Унисекс</param>
+<param name="Зона применения">Для тела</param>
+<param name="Назначение">Для красоты</param>
+<param name="Тип\Консистенция">Бальзам</param>
+<param name="Линейка\Серия">SOS</param>
+<param name="Процесс">Для ухода</param>
+<param name="Восстановление">Восстанавливающий эффект</param>
+<param name="Успокаивающий эффект">Успокаивающий эффект</param>
+<param name="Смягчение">Смягчающий эффект</param>
+<barcode>4005900029850</barcode>
+<min-quantity>1</min-quantity>
+<weight>0.282</weight>
+<stock>0</stock>
+</offer>
+<offer id="15776" available="true">
+<url>https://www.r-ulybka.ru/u-catalog/goods/15776/?utm_source=market.yandex.ru&amp;utm_term=15776</url>
+<price>200</price>
+<oldprice>75</oldprice>
+<currencyId>RUB</currencyId>
+<vat>VAT_20</vat>
+<categoryId>7005</categoryId>
+<picture>https://www.r-ulybka.ru/upload/iblock/e85/e85e2a392677303d63f9e7c431705f9d.jpg</picture>
+<picture>https://www.r-ulybka.ru/upload/iblock/12f/12f4f10c5f3b73df1f5a62386aade1b4.jpg</picture>
+<picture>https://www.r-ulybka.ru/upload/iblock/d61/d61fb6f2349f428ba83dae77499a4628.jpg</picture>
+<picture>https://www.r-ulybka.ru/upload/iblock/92a/92a258a6092a4ffa893bf32055f575ae.jpg</picture>
+<vendor>Бархатные Ручки</vendor>
+<name>Крем для рук Бархатные Ручки &quot; Питательный &quot; 80мл</name>
+<description>Способо применения:
+ Наносите на чистую сухую кожу, легко массируя до полного впитывания. Используйте по мере необходимости.
+ 
+ Особенности:
+ Не является лекарственным средством.
+ 
+ Возрастные рекомендации:
+ 3+
+ 
+ Тип кожи:
+ Для всех типов кожи.
+ 
+ Аромат:
+ Свежий
+ 
+ Текстура:
+ Кремообразная
+ 
+ Состав :
+ Aqua, Cyclopentasiloxane, Caprylic/Capric Triglyceride, Glycerin, Glyceryl Stearate Citrate, Isohexadecane, Cetearyl Alcohol, Butyrospermum Parkii [Shea Butter] (масло ши), Dimethicone, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Allantoin, Ammonium Lactate, Disodium EDTA, Ethylparaben, Hydroxyethyl Urea, Hydrolyzed Silk, Methylparaben, Parfum, Panthenol (провитамин B5), Pantolactone, Phenoxyethanol, Persea Gratissima (Avocado) Oil, Potassium Cetyl Phosphate, Potassium Sorbate, Tocopheryl Acetate, Triethanolamine, Alpha-Isomethyl Ionone, Butylphenyl Methylpropional, Cinnamyl Alcohol, Citronellol, Coumarin, Hexyl Cinnamal, Hydroxycitronellal, Geraniol, Linalool.
+ 
+
+ 
+	 
+
+ </description>
+<country_of_origin>Россия</country_of_origin>
+<param name="Артикул">3021412</param>
+<param name="Фасовка (мл\гг)">80мл</param>
+<param name="Увлажнение">Эффект увлажнения</param>
+<param name="Тип кожи">Все типы кожи</param>
+<param name="Зона применения">Для рук</param>
+<param name="Гендерная принадлежность">Для женщин</param>
+<param name="Зона применения">Для рук</param>
+<param name="Назначение">Для красоты</param>
+<param name="Тип\Консистенция">Крем</param>
+<param name="Очищение">Без эффекта очищения</param>
+<param name="Питание">Питающий эффект</param>
+<param name="Тонизирование">Без тонизирующего эффекта</param>
+<param name="Текстура">Легкая</param>
+<param name="Устранение неприятных запахов">Без дезодорирующего эффекта</param>
+<param name="Антисептик">Без антисептического действия</param>
+<param name="Защита">Без защитной функции</param>
+<param name="Процесс">Для ухода</param>
+<param name="Смягчение">Смягчающий эффект</param>
+<barcode>4600702025972</barcode>
+<min-quantity>1</min-quantity>
+<weight>0.09</weight>
+<stock>50</stock>
+</offer>
+<offer id="15778" available="true">
+<url>https://www.r-ulybka.ru/u-catalog/goods/15778/?utm_source=market.yandex.ru&amp;utm_term=15778</url>
+<price>200</price>
+<oldprice>259</oldprice>
+<currencyId>RUB</currencyId>
+<vat>VAT_20</vat>
+<categoryId>6926</categoryId>
+<picture>https://www.r-ulybka.ru/upload/iblock/204/2044e499bb08a2e2e15868d93f4cec5d.jpg</picture>
+<picture>https://www.r-ulybka.ru/upload/iblock/803/80356f847f2266e0873eaf4c8afe8a8c.jpg</picture>
+<picture>https://www.r-ulybka.ru/upload/iblock/d9f/d9fd55dcf3bb46bc0de47b24d8b8b0f4.jpg</picture>
+<picture>https://www.r-ulybka.ru/upload/iblock/3c0/3c00d9c7dca547394cecaf016281ed47.jpg</picture>
+<picture>https://www.r-ulybka.ru/upload/iblock/fb7/fb792bbd3d3880d505b153493edd2a47.jpg</picture>
+<picture>https://www.r-ulybka.ru/upload/iblock/e54/e54110f23af38a85685fb8e1473e5b3a.jpg</picture>
+<vendor>Nivea</vendor>
+<name>Увлажняющий крем Nivea для тела  250мл</name>
+<description>Описание от производителя:Крем для тела Nivea питает и бережно ухаживает за кожей тела, особенно за сухими участками, благодаря уникальной формуле с эвцеритом. Не содержит консервантов, поэтому подходит даже для нежной детской кожи. Дерматологически протестирован.Применение:Наносить на сухую чистую кожу тела.  Состав:Aqua, Paraffinum Liquidum, Cera Microcristaltina, Glycerin, Lanolin Alcohol (Eucerit), Paraffin, Panthenol, Magnesium Sulfate, Decyl Oleate, Octyldodecanol, Aluminum Stearates, Citric Acid, Magnesium S tea rate, limonene, Geraniol, Hydroxycitronellal, Linalool, Citronellol, Benzyl Benzoate, Cinnamyl Alcohol, Parfum.Тип кожи:Для всех типов кожи.</description>
+<country_of_origin>Германия</country_of_origin>
+<param name="Артикул">3000376</param>
+<param name="Фасовка (мл\гг)">250мл</param>
+<param name="Увлажнение">Эффект увлажнения</param>
+<param name="Тип кожи">Все типы кожи</param>
+<param name="Зона применения">Для тела</param>
+<param name="Гендерная принадлежность">Унисекс</param>
+<param name="Зона применения">Для тела</param>
+<param name="Назначение">Для красоты</param>
+<param name="Тип\Консистенция">Крем</param>
+<param name="Питание">Питающий эффект</param>
+<param name="Процесс">Для ухода</param>
+<param name="Смягчение">Смягчающий эффект</param>
+<barcode>4005808158065</barcode>
+<min-quantity>1</min-quantity>
+<weight>0.265</weight>
+<stock>50</stock>
+</offer>
+</offers>
+</shop>
+</yml_catalog>
