@@ -2,7 +2,7 @@
 <yml_catalog date="2020-07-30 03:35">
 	<shop>
 		<name>Mehano</name>
-		<company>ип грибов</company>
+		<company>ДЌДЏ ДѓД‘ДЌГЎГ®Гў</company>
 		<url>http://10kr.ru/</url>
 		<currencies id="RUR" rate="1"/>
 		<categories>
@@ -20,56 +20,56 @@
 			<category id="9503003350  ">Lampe Berger</category>
 			<category id="9503003398  ">Millefiori MILANO</category>
 			<category id="9503003440  ">TARGET PAPER</category>
-			<category id="9503004030  ">TARGET PAPER Беру</category>
+			<category id="9503004030  ">TARGET PAPER ГЃДєД‘Гі</category>
 			<category id="9503003695  ">TARGET PAPER WB</category>
 			<category id="9503003696  ">TARGET PAPER OZON</category>
 			<category id="9503003776  ">Mehano BACKPACK</category>
 		</categories>
 		<offers>
 			<offer id="9503003484" available="true">
-				<name>Рюкзак супер лёгкий "I love Ballet" 3 в 1</name>
+				<name>ДђЕЈД™Г§Е•Д™ Е„ГіДЏДєД‘ Г«ВёДѓД™ДЌГ© "I love Ballet" 3 Гў 1</name>
 				<price>8080</price>
 				<currency>RUR</currency>
 				<categoryId>000000291</categoryId>
 				<barcode>3838622266682</barcode>
 			</offer>
 			<offer id="9503003485" available="true">
-				<name>Рюкзак супер лёгкий "Summer Love" 3 в 1</name>
+				<name>ДђЕЈД™Г§Е•Д™ Е„ГіДЏДєД‘ Г«ВёДѓД™ДЌГ© "Summer Love" 3 Гў 1</name>
 				<price>8080</price>
 				<currency>RUR</currency>
 				<categoryId>000000291</categoryId>
 				<barcode>3838622266699</barcode>
 			</offer>
 			<offer id="9503003487" available="true">
-				<name>Рюкзак супер лёгкий "Football Blatte" 3 в 1</name>
+				<name>ДђЕЈД™Г§Е•Д™ Е„ГіДЏДєД‘ Г«ВёДѓД™ДЌГ© "Football Blatte" 3 Гў 1</name>
 				<price>8080</price>
 				<currency>RUR</currency>
 				<categoryId>000000291</categoryId>
 				<barcode>3838622266712</barcode>
 			</offer>
 			<offer id="9503003488" available="true">
-				<name>Рюкзак супер лёгкий "46 Original" 3 в 1</name>
+				<name>ДђЕЈД™Г§Е•Д™ Е„ГіДЏДєД‘ Г«ВёДѓД™ДЌГ© "46 Original" 3 Гў 1</name>
 				<price>8080</price>
 				<currency>RUR</currency>
 				<categoryId>000000291</categoryId>
 				<barcode>3838622266729</barcode>
 			</offer>
 			<offer id="9503003590" available="true">
-				<name>Грузовой вагон Mehano 67392 Santa Fe all the way, зеленый</name>
+				<name>Д‚Д‘ГіГ§Г®ГўГ®Г© ГўЕ•ДѓГ®Г­ Mehano 67392 Santa Fe all the way, Г§ДєГ«ДєГ­Е±Г©</name>
 				<price>399</price>
 				<currency>RUR</currency>
 				<categoryId>000000289</categoryId>
 				<barcode>2000196437077</barcode>
 			</offer>
 			<offer id="9503003591" available="true">
-				<name>Вагон-платформа Mehano CSX 7073, оранжевый</name>
+				<name>Г‚Е•ДѓГ®Г­-ДЏГ«Е•Е€ГґГ®Д‘Д›Е• Mehano CSX 7073, Г®Д‘Е•Г­Д‡ДєГўЕ±Г©</name>
 				<price>399</price>
 				<currency>RUR</currency>
 				<categoryId>000000289</categoryId>
 				<barcode>2000196437084</barcode>
 			</offer>
 			<offer id="9503003592" available="true">
-				<name>Вагон-камбуз Mehano Pennsylvania, коричневый</name>
+				<name>Г‚Е•ДѓГ®Г­-Д™Е•Д›ГЎГіГ§ Mehano Pennsylvania, Д™Г®Д‘ДЌГ·Г­ДєГўЕ±Г©</name>
 				<price>399</price>
 				<currency>RUR</currency>
 				<categoryId>000000289</categoryId>
