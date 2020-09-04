@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<yml_catalog date="2020-09-04 10:34">
+<shop>
+<name>Интернет-магазин LG</name>
+<company>ООО "ЛАБОРАТОРИЯ ИННОВАЦИЙ"</company>
+<url>https://rushop.lg.com</url>
+<currencies>
+<currency id="RUB" rate="1"/>
+</currencies>
+<categories>
+
+<category id="13697732" parentId="13697729">Встраиваемые духовые шкафы</category>
+
+<category id="13697512" parentId="13697509">Крупная техника для кухни</category>
+
+<category id="13697514" parentId="13697512">Холодильники и морозильники</category>
+
+<category id="13698030" parentId="13698028">Проекторы</category>
+
+<category id="13697515" parentId="13697514">Холодильники</category>
+
+<category id="13697786" parentId="13697782">Очистители и увлажнители воздуха</category>
+
+<category id="13697509" >Бытовая техника</category>
+
+<category id="13697983" parentId="13697982">Мониторы</category>
+
+<category id="13697990" parentId="13697986">DVD-плееры и аксессуары</category>
+
+<category id="13697576" parentId="13697575">Паровые шкафы</category>
+
+<category id="13697997" parentId="13697990">DVD-плееры</category>
+
+<category id="13697470" parentId="13697468">Телевизоры и аксессуары</category>
+
+<category id="13697471" parentId="13697470">Телевизоры</category>
+
+<category id="13697982" parentId="13697468">Компьютеры и комплектующие</category>
+
+<category id="13697573" parentId="13697512">Микроволновые печи</category>
+
+<category id="13697575" parentId="13697509">Техника для дома</category>
+
+<category id="13697616" parentId="13697575">Стиральные машины</category>
+
+<category id="13697748" parentId="13697729">Встраиваемые варочные панели</category>
+
+<category id="13697468" >Электроника</category>
+
+<category id="13698003" parentId="13697986">Домашние кинотеатры</category>
+
+<category id="13697847" parentId="13697514">Морозильные камеры и лари</category>
+
+<category id="13697758" parentId="13697729">Вытяжки</category>
+
+<category id="13697675" parentId="13697575">Пылесосы</category>
+
+<category id="13697729" parentId="13697509">Встраиваемая техника</category>
+
+<category id="13697986" parentId="13697468">Аудио и видео</category>
+
+<category id="13698028" parentId="13697986">Проекторы и аксессуары</category>
+
+<category id="13697771" parentId="13697729">Встраиваемые холодильники</category>
+
+<category id="13698042" parentId="13697986">Музыкальные центры и магнитолы</category>
+
+<category id="13697782" parentId="13697509">Климатическая техника</category>
+
+<category id="13698054" parentId="13697986">Портативная акустика</category>
+
+</categories>
+<offers>
+<offer id="138274402" available="true">
+<name>OLED телевизор LG SIGNATURE 77 дюймов OLED77W9PLA</name>
+<url>https://rushop.lg.com/product_by_id/138274402</url>
+<price>999990.0</price>
+<currencyId>RUB</currencyId>
+<categoryId>13697471</categoryId>
+<picture>https://static-ru.insales.ru/images/products/1/7844/325549732/OLED77W9PLA.jpg</picture>
+<shipment-options>
+<option days="2" order-before="12"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="9"/>
+</outlets>
+<vendor>LG</vendor>
+<vendorCode>OLED77W9PLA.ARUZ</vendorCode>
+<model>OLED77W9PLA</model>
+<description>OLED телевизор LG SIGNATURE 77 дюймов OLED77W9PLA со Smart TV и 4K Cinema HDR.</description>
+<param name="Weight">52.0</param>
+<param name="Width">192</param>
+<param name="Length">29</param>
+<param name="Height">113</param>
+<param name="Габариты">192x29x113</param>
+<param name="Бренд">LG</param>
+<param name="Страна изготовитель">Южная Корея</param>
+<barcode>8806098373758</barcode>
+</offer>
+
+<offer id="190946563" available="true">
+<name>OLED телевизор LG SIGNATURE 88 дюймов OLED88ZX9LA</name>
+<url>https://rushop.lg.com/product_by_id/190946563</url>
+<price>2499990.0</price>
+
+<currencyId>RUB</currencyId>
+<categoryId>13697471</categoryId>
+
+<picture>https://static-ru.insales.ru/images/products/1/5934/325547822/OLED88ZX9LA.jpg</picture>
+
+
+
+<shipment-options>
+<option days="0" order-before="12"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="1"/>
+</outlets>
+
+
+<vendor>LG</vendor>
+<vendorCode>OLED88ZX9LA.ARUZ</vendorCode>
+<model>OLED88ZX9LA</model>
+<description>OLED телевизор LG SIGNATURE OLED88ZX9LA 88 дюймов с технологией 4K Активный HDR и Smart TV</description>
+<param name="Weight">151.0</param>
+<param name="Width">213</param>
+<param name="Length">71</param>
+<param name="Height">139</param>
+<param name="Габариты">213x71x139</param>
+<param name="Бренд">LG</param>
+<param name="Страна изготовитель">Южная Корея</param>
+<barcode>8806098664313</barcode>
+</offer>
+
+</offers>
+</shop>
+</yml_catalog>
