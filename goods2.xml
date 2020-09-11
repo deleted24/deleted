@@ -1,0 +1,3712 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2020-09-10 10:45">
+	<shop>
+    <name>ЭМПИЭМ ИМПОРТ ООО</name>
+  <company>Общество с ограниченной ответственностью ЭМПИЭМ ИМПОРТ</company>
+  <url></url>
+  <currencies>
+    <currency id="RUR" rate="1"/>
+  </currencies>
+		<categories>
+			<category id="ЦБ-00003892">06 ОБОРУДОВАНИЕ ИНОСТРАННЫХ ПОСТАВЩИКОВ
+			</category>
+			<category id="ЦБ-00003550">Выставка
+			</category>
+			<category id="ЦУ-00004523">01 ROYAL TALENS + SAKURA
+			</category>
+			<category id="ЦУ-00004524">02 ДИСТРИБЬЮЦИЯ
+			</category>
+			<category id="ЦУ-00004525">03 ОПТ
+			</category>
+			<category id="ЦУ-00004526">04 РАСПРОДАЖА-СЛИВ
+			</category>
+			<category id="ЦУ-00004527">05 ЛОГИСТИКА
+			</category>
+			<category id="ЦУ-00004954">08 ТЕНДЕР
+			</category>
+			<category id="ЦУ-00005078">10 ПРОАКРИЛ
+			</category>
+			<category id="00-00001714">Услуги
+			</category>
+			<category id="00-00006866">07 Оборудование производства Россия
+			</category>
+			<category id="00-00001919">Удалено заводом, стопы
+			</category>
+			<category id="00-00002256">Прочие мат. ценности
+			</category>
+			<category id="00-00008008">Вкладыши для портфолио
+			</category>
+			<category id="00-00006091">Завести в базу
+			</category>
+			<category id="00-00005687">До выяснения обстоятельств
+			</category>
+			<category id="ЦБ-00001099" parentid="ЦБ-00000569">01 Склейки, альбомы, блокноты для акварели Arches
+			</category>
+			<category id="ЦБ-00001100" parentid="ЦБ-00000569">02 Бумага в листах для акварели Arches
+			</category>
+			<category id="ЦБ-00001101" parentid="ЦБ-00000569">03 Бумага в рулонах для акварели Arches
+			</category>
+			<category id="ЦБ-00001102" parentid="ЦБ-00000569">04 Бумага для офорта Arches
+			</category>
+			<category id="ЦБ-00004458" parentid="ЦБ-00000569">05 Arches артикула от Canson
+			</category>
+			<category id="00-00001296" parentid="00-00000006">01 Стенды
+			</category>
+			<category id="00-00001297" parentid="00-00000006">02 Аксессуары и комплектующие для стендов
+			</category>
+			<category id="00-00001298" parentid="00-00000006">03 Образцы
+			</category>
+			<category id="00-00001299" parentid="00-00000006">04 Тест-карты
+			</category>
+			<category id="00-00007963" parentid="00-00006887">04 Серия LAKELAND
+			</category>
+			<category id="00-00007964" parentid="00-00006887">05 Серия REXEL
+			</category>
+			<category id="00-00006888" parentid="00-00006887">01 Бумага DERWENT
+			</category>
+			<category id="00-00006889" parentid="00-00006887">02 Графические материалы DERWENT
+			</category>
+			<category id="00-00007669" parentid="00-00006887">03 Серия ACADEMY
+			</category>
+			<category id="00-00001684" parentid="00-00000419">07 55х75
+			</category>
+			<category id="00-00000420" parentid="00-00000419">01 А4
+			</category>
+			<category id="00-00000481" parentid="00-00000419">03 50х65
+			</category>
+			<category id="00-00000541" parentid="00-00000419">04 75х110
+			</category>
+			<category id="00-00000602" parentid="00-00000419">02 А3
+			</category>
+			<category id="00-00000663" parentid="00-00000419">05 Рулоны
+			</category>
+			<category id="00-00000666" parentid="00-00000419">06 Наборы бумаги и склейки
+			</category>
+			<category id="00-00002472" parentid="00-00002471">01 Масляные краски Rembrandt
+			</category>
+			<category id="00-00002473" parentid="00-00002471">02 Акриловые краски Rembrandt
+			</category>
+			<category id="00-00002474" parentid="00-00002471">03 Акварельные краски Rembrandt
+			</category>
+			<category id="00-00002475" parentid="00-00002471">04 Сухая пастель Rembrandt
+			</category>
+			<category id="00-00002476" parentid="00-00002470">02 COBRA
+			</category>
+			<category id="00-00002478" parentid="00-00002470">03 VAN GOGH
+			</category>
+			<category id="00-00002471" parentid="00-00002470">01 REMBRANDT
+			</category>
+			<category id="00-00002484" parentid="00-00002470">04 AMSTERDAM
+			</category>
+			<category id="00-00002486" parentid="00-00002470">05 TALENS
+			</category>
+			<category id="00-00002491" parentid="00-00002470">06 ART CREATION
+			</category>
+			<category id="00-00004275" parentid="00-00002470">08 Кисти Royal Talens
+			</category>
+			<category id="00-00004204" parentid="00-00002470">07 Холсты Royal Talens
+			</category>
+			<category id="00-00005441" parentid="00-00002470">09 TALENS для детского творчества
+			</category>
+			<category id="00-00005659" parentid="00-00002470">10 ECOLINE
+			</category>
+			<category id="00-00005375" parentid="00-00002470">12 ПРОМО
+			</category>
+			<category id="ЦУ-00000071" parentid="ЦУ-00004523">05 Кисти ROYAL TALENS
+			</category>
+			<category id="ЦБ-00001304" parentid="ЦУ-00004523">03 SAKURA
+			</category>
+			<category id="00-00008168" parentid="ЦУ-00004523">02 R-T Бумага
+			</category>
+			<category id="00-00002470" parentid="ЦУ-00004523">01 ROYAL TALENS
+			</category>
+			<category id="00-00003469" parentid="ЦУ-00004523">04 BRUYNZEEL
+			</category>
+			<category id="ЦБ-00004229" parentid="ЦБ-00004225">01 Strathmore 500 для графики
+			</category>
+			<category id="ЦБ-00004230" parentid="ЦБ-00004225">02 Strathmore 500 для маркера
+			</category>
+			<category id="ЦБ-00004231" parentid="ЦБ-00004225">03 Strathmore 500 для смешанных техник
+			</category>
+			<category id="ЦБ-00002709" parentid="00-00006213">07 Заправка для маркеров Stylefile
+			</category>
+			<category id="00-00006214" parentid="00-00006213">01 Маркеры Stylefile в ассортименте
+			</category>
+			<category id="00-00006215" parentid="00-00006213">02 Наборы маркеровStylefile
+			</category>
+			<category id="00-00006216" parentid="00-00006213">03 Бумага для маркеров Stylefile
+			</category>
+			<category id="00-00006217" parentid="00-00006213">04 Аксессуары Stylefile
+			</category>
+			<category id="00-00008020" parentid="00-00006213">05 Маркеры Stylefile Brush в ассортименте
+			</category>
+			<category id="00-00008021" parentid="00-00006213">06 Наборы маркеров Stylefile Brush
+			</category>
+			<category id="00-00002137" parentid="00-00001895">06 Canson FINFACE
+			</category>
+			<category id="00-00000015" parentid="00-00001891">02 Fontenay® (Фонтене)
+			</category>
+			<category id="00-00000016" parentid="00-00001891">03 Montval® (Монваль)
+			</category>
+			<category id="00-00001882" parentid="00-00001891">04 Vidalon
+			</category>
+			<category id="00-00001894" parentid="00-00001891">01 Arches® Aquarelle (Арш)
+			</category>
+			<category id="00-00001896" parentid="00-00001895">01 Arches® Aquarelle (Арш)
+			</category>
+			<category id="00-00001898" parentid="00-00001897">01 Arches® Aquarelle (Арш)
+			</category>
+			<category id="00-00001899" parentid="00-00001895">02 Fontenay® (Фонтене)
+			</category>
+			<category id="00-00001900" parentid="00-00001895">04 XL® Mix Media
+			</category>
+			<category id="00-00001901" parentid="00-00001895">05 Vidalon
+			</category>
+			<category id="00-00001902" parentid="00-00001895">03 Montval® (Монваль)
+			</category>
+			<category id="00-00001903" parentid="00-00001897">02 Montval® (Монваль)
+			</category>
+			<category id="00-00002347" parentid="00-00001895">07 Moulin du Roy (Мулин де Руа)
+			</category>
+			<category id="00-00002354" parentid="00-00001897">03 Moulin du Roy (Мулин де Руа)
+			</category>
+			<category id="00-00002358" parentid="00-00001891">05 Moulin du Roy (Мулин де Руа)
+			</category>
+			<category id="ЦБ-00000642" parentid="00-00001891">06 Guarro
+			</category>
+			<category id="ЦБ-00000644" parentid="00-00001897">04 Heritage (Херитейж)
+			</category>
+			<category id="ЦБ-00000648" parentid="00-00001895">08 Heritage (Херитейж)
+			</category>
+			<category id="ЦБ-00000655" parentid="00-00001891">07 Heritage (Херитейж)
+			</category>
+			<category id="ЦУ-00002055" parentid="ЦУ-00002064">01 Акварельные краски Horadam кюветы 1.6мл
+			</category>
+			<category id="ЦУ-00002056" parentid="ЦУ-00002064">02 Акварельные краски Horadam тубы 5мл
+			</category>
+			<category id="ЦУ-00002065" parentid="ЦУ-00002064">03 Наборы акварельных красок Horadam
+			</category>
+			<category id="ЦУ-00002034" parentid="ЦУ-00002036">01 Акварельные краски Mission Gold 15мл
+			</category>
+			<category id="ЦУ-00002035" parentid="ЦУ-00002036">02 Акварельные краски Mission Gold 7мл
+			</category>
+			<category id="ЦУ-00002037" parentid="ЦУ-00002036">03 Акварельные краски Mission Gold Pan
+			</category>
+			<category id="ЦУ-00002039" parentid="ЦУ-00002036">04 Наборы акварельных красок Mission Gold
+			</category>
+			<category id="00-00005993" parentid="00-00002485">02 Акрил AMSTERDAM туба 120мл
+			</category>
+			<category id="00-00005994" parentid="00-00002485">03 Акрил AMSTERDAM туба 250мл
+			</category>
+			<category id="00-00005995" parentid="00-00002485">01 Акрил AMSTERDAM туба 20мл
+			</category>
+			<category id="00-00005996" parentid="00-00002485">04 Наборы акриловых красок AMSTERDAM
+			</category>
+			<category id="00-00005997" parentid="00-00002485">05 Аксессуары для акрила AMSTERDAM
+			</category>
+			<category id="ЦБ-00000541" parentid="00-00004028">01 Акриловые краски Art Creation 75мл
+			</category>
+			<category id="ЦБ-00000542" parentid="00-00004028">02 Акриловые краски Art Creation 750мл
+			</category>
+			<category id="ЦБ-00000543" parentid="00-00004028">03 Акриловые краски Art Creation 200мл
+			</category>
+			<category id="ЦУ-00002061" parentid="ЦУ-00002060">01 Акриловые краски College 200мл
+			</category>
+			<category id="ЦУ-00002062" parentid="ЦУ-00002060">02 Акриловые краски College 75мл
+			</category>
+			<category id="ЦУ-00002100" parentid="ЦУ-00002096">01 Блокноты Rhodia Basics
+			</category>
+			<category id="ЦУ-00002101" parentid="ЦУ-00002096">02 Блокноты Rhodia Classic
+			</category>
+			<category id="ЦУ-00002102" parentid="ЦУ-00002096">03 Блокноты Rhodia Heritage
+			</category>
+			<category id="ЦУ-00002103" parentid="ЦУ-00002096">04 Блокноты Rhodia Webnotebook
+			</category>
+			<category id="ЦУ-00002104" parentid="ЦУ-00002096">05 Блокноты Rhodia ePure
+			</category>
+			<category id="ЦУ-00002105" parentid="ЦУ-00002096">06 Блокноты Rhodia Exabook
+			</category>
+			<category id="ЦУ-00002106" parentid="ЦУ-00002096">07 Блокноты Rhodia Rhodiactive
+			</category>
+			<category id="ЦУ-00002107" parentid="ЦУ-00002096">08 Блокноты Rhodia Rhodiarama
+			</category>
+			<category id="ЦУ-00002108" parentid="ЦУ-00002096">11 Блокноты на скобах
+			</category>
+			<category id="ЦУ-00002109" parentid="ЦУ-00002096">09 Блокноты Rhodia Business
+			</category>
+			<category id="ЦУ-00002110" parentid="ЦУ-00002096">10 Блокноты Rhodia Essential
+			</category>
+			<category id="ЦБ-00004172" parentid="ЦБ-00001447">01 Блокноты, альбомы Fabriano Schizzi
+			</category>
+			<category id="ЦБ-00004173" parentid="ЦБ-00001447">03 Блокноты, альбомы Fabriano ArtistS Journal
+			</category>
+			<category id="ЦБ-00004174" parentid="ЦБ-00001447">02 Блокноты, альбомы Fabriano Accademia
+			</category>
+			<category id="ЦБ-00004175" parentid="ЦБ-00001447">04 Блокноты, альбомы Fabriano Colours
+			</category>
+			<category id="ЦБ-00004176" parentid="ЦБ-00001447">05 Блокноты, альбомы Fabriano Bristol
+			</category>
+			<category id="ЦБ-00004177" parentid="ЦБ-00001447">06 Блокноты, альбомы Fabriano BlackBlack
+			</category>
+			<category id="ЦБ-00004178" parentid="ЦБ-00001447">07 Блокноты, альбомы Fabriano Traccia
+			</category>
+			<category id="ЦБ-00004179" parentid="ЦБ-00001447">08 Блокноты, альбомы Fabriano Venezia Book
+			</category>
+			<category id="ЦБ-00004180" parentid="ЦБ-00001447">09 Блокноты, альбомы Fabriano Qua Accademia
+			</category>
+			<category id="ЦБ-00004181" parentid="ЦБ-00001447">10 Блокноты, альбомы Fabriano Disegno Ecologico per Artisti
+			</category>
+			<category id="ЦБ-00004182" parentid="ЦБ-00001447">11 Блокноты, альбомы Fabriano Bouquet
+			</category>
+			<category id="00-00007658" parentid="00-00006888">01 Альбомы для акварельных карандашей Derwent
+			</category>
+			<category id="00-00007659" parentid="00-00006888">02 Альбомы для пастели Derwent
+			</category>
+			<category id="00-00007660" parentid="00-00006888">03 Альбомы с калькой Derwent
+			</category>
+			<category id="00-00007661" parentid="00-00006888">04 Альбомы, блокноты для зарисовок Derwent
+			</category>
+			<category id="ЦУ-00001810" parentid="ЦУ-00001809">01 Бумага для акварели в листах
+			</category>
+			<category id="ЦУ-00001811" parentid="ЦУ-00001809">02 Альбомы, блокноты для акварели
+			</category>
+			<category id="ЦБ-00001435" parentid="ЦБ-00001426">01 Склейки, альбомы, блокноты для акварели Fabriano
+			</category>
+			<category id="ЦБ-00001436" parentid="ЦБ-00001426">02 Бумага для акварели в листах Fabriano
+			</category>
+			<category id="ЦБ-00001437" parentid="ЦБ-00001426">03 Бумага для акварели в рулонах Fabriano
+			</category>
+			<category id="ЦУ-00001817" parentid="ЦУ-00001810">01 Бумага для акварели Etival
+			</category>
+			<category id="ЦУ-00001818" parentid="ЦУ-00001810">02 Бумага для акварели Fontaine
+			</category>
+			<category id="ЦБ-00004166" parentid="ЦБ-00001443">02 Бумага для офорта в листах Fabriano Tiepolo
+			</category>
+			<category id="ЦБ-00004167" parentid="ЦБ-00001443">01 Бумага для офорта в листах Fabriano Rosaspina
+			</category>
+			<category id="ЦБ-00004168" parentid="ЦБ-00001443">03 Бумага для офорта в листах Fabriano Unica
+			</category>
+			<category id="ЦБ-00004169" parentid="ЦБ-00001443">04 Бумага для офорта в листах Esportazione
+			</category>
+			<category id="00-00001890" parentid="00-00000002">03 Склейки, альбомы, блокноты, папки
+			</category>
+			<category id="00-00001892" parentid="00-00000002">01 Бумага широкоформатная в листах
+			</category>
+			<category id="00-00001893" parentid="00-00000002">02 Бумага в рулонах
+			</category>
+			<category id="00-00000012" parentid="00-00000002">04 Картон для паспарту, реставрации, хранения
+			</category>
+			<category id="00-00001961" parentid="00-00000002">05 Папки и тубусы
+			</category>
+			<category id="ЦБ-00004192" parentid="ЦБ-00004191">02 Бумага цветная в листах Fabriano Colore 200 г/квм 70*100
+			</category>
+			<category id="ЦБ-00004193" parentid="ЦБ-00004191">01 Бумага цветная в листах Fabriano Colore 200 г/квм 50*70
+			</category>
+			<category id="00-00002012" parentid="00-00001892">06 Для пастели
+			</category>
+			<category id="00-00000013" parentid="00-00001892">05 Художественный картон
+			</category>
+			<category id="00-00000011" parentid="00-00001892">04 Бумага для офорта, литографии и эстампа
+			</category>
+			<category id="00-00000008" parentid="00-00001892">02 Масло и акрил
+			</category>
+			<category id="00-00001895" parentid="00-00001892">01 Акварель
+			</category>
+			<category id="00-00001909" parentid="00-00001892">03 Для черчения и графики
+			</category>
+			<category id="00-00007681" parentid="00-00007662">01 Графит XL
+			</category>
+			<category id="00-00007682" parentid="00-00007662">02 Графит натуральный
+			</category>
+			<category id="00-00007683" parentid="00-00007662">03 Карандаши угольные Charcoal в ассортименте
+			</category>
+			<category id="00-00007684" parentid="00-00007662">04 Наборы угольных карандашей Charcoal
+			</category>
+			<category id="00-00007685" parentid="00-00007662">05 Карандаши угольные Tinted Charcoal в ассортименте
+			</category>
+			<category id="00-00007686" parentid="00-00007662">06 Наборы угольных карандашей Tinted Charcoal
+			</category>
+			<category id="00-00007689" parentid="00-00007662">07 Уголь XL
+			</category>
+			<category id="00-00007690" parentid="00-00007662">08 Уголь ивовый
+			</category>
+			<category id="00-00007691" parentid="00-00007662">09 Уголь прессованный
+			</category>
+			<category id="00-00003470" parentid="00-00003676">01 Клей
+			</category>
+			<category id="ЦУ-00004829" parentid="00-00003676">04 Скетчбуки
+			</category>
+			<category id="ЦУ-00004787" parentid="00-00003676">02 Линеры
+			</category>
+			<category id="ЦУ-00004807" parentid="00-00003676">03 Текстовыделители
+			</category>
+			<category id="ЦУ-00005032" parentid="ЦУ-00001777">11 Коза
+			</category>
+			<category id="ЦУ-00005097" parentid="ЦУ-00001777">12 Серия Aqua
+			</category>
+			<category id="ЦУ-00002010" parentid="ЦУ-00001777">09 Волос щетина микс
+			</category>
+			<category id="ЦУ-00002011" parentid="ЦУ-00001777">10 Ушной волос
+			</category>
+			<category id="ЦУ-00001782" parentid="ЦУ-00001777">01 Волос белка
+			</category>
+			<category id="ЦУ-00001783" parentid="ЦУ-00001777">02 Волос белка микс
+			</category>
+			<category id="ЦУ-00001784" parentid="ЦУ-00001777">04 Волос колонок
+			</category>
+			<category id="ЦУ-00001785" parentid="ЦУ-00001777">03 Волос белка имитация
+			</category>
+			<category id="ЦУ-00001786" parentid="ЦУ-00001777">05 Волос колонок микс
+			</category>
+			<category id="ЦУ-00001787" parentid="ЦУ-00001777">06 Волос колонок имитация
+			</category>
+			<category id="ЦУ-00001788" parentid="ЦУ-00001777">07 Волос синтетика
+			</category>
+			<category id="ЦУ-00001789" parentid="ЦУ-00001777">08 Волос щетина
+			</category>
+			<category id="ЦУ-00000072" parentid="ЦУ-00000075">01 Кисти акварельные VanGogh
+			</category>
+			<category id="ЦУ-00000073" parentid="ЦУ-00000075">02 Кисти акриловые VanGogh
+			</category>
+			<category id="ЦУ-00000074" parentid="ЦУ-00000075">03 Кисти масло VanGogh
+			</category>
+			<category id="ЦУ-00001752" parentid="ЦУ-00001735">03 Краска масляная LB EXTRA FINE туба 40мл
+			</category>
+			<category id="ЦУ-00001738" parentid="ЦУ-00001735">01 Краска масляная LB EXTRA FINE туба 20мл
+			</category>
+			<category id="ЦУ-00001739" parentid="ЦУ-00001735">02 Краска масляная LB EXTRA FINE туба 200мл
+			</category>
+			<category id="ЦУ-00002064" parentid="ЦУ-00002054">01 Акварельные краски Horadam
+			</category>
+			<category id="ЦУ-00002087" parentid="ЦУ-00002054">02 Гуашь Horadam
+			</category>
+			<category id="ЦУ-00000313" parentid="ЦУ-00000308">Наборы акварельных красок PWC
+			</category>
+			<category id="ЦУ-00000314" parentid="ЦУ-00000308">01 Краски акварельные PWC (A)
+			</category>
+			<category id="ЦУ-00000315" parentid="ЦУ-00000308">02 Краски акварельные PWC (B)
+			</category>
+			<category id="ЦУ-00000316" parentid="ЦУ-00000308">03 Краски акварельные PWC (C)
+			</category>
+			<category id="ЦУ-00000317" parentid="ЦУ-00000308">04 Краски акварельные PWC (D)
+			</category>
+			<category id="ЦУ-00000318" parentid="ЦУ-00000308">05 Краски акварельные PWC (E)
+			</category>
+			<category id="ЦУ-00002462" parentid="ЦУ-00002461">01 Маркеры Copic Ciao в ассортименте
+			</category>
+			<category id="ЦУ-00002463" parentid="ЦУ-00002461">02 Наборы маркеров Copic Ciao
+			</category>
+			<category id="ЦБ-00001103" parentid="00-00002472">01 Масляные краски Rembrandt Тубы 150мл
+			</category>
+			<category id="ЦБ-00001104" parentid="00-00002472">02 Масляные краски Rembrandt Тубы 40мл
+			</category>
+			<category id="ЦБ-00001105" parentid="00-00002472">03 Масляные краски Rembrandt Тубы 60мл
+			</category>
+			<category id="ЦБ-00001106" parentid="00-00002472">05 Масляные краски Rembrandt Наборы
+			</category>
+			<category id="ЦБ-00001113" parentid="00-00002479">01 Масляные краски VAN GOGH Тубы 200мл
+			</category>
+			<category id="ЦБ-00001114" parentid="00-00002479">02 Масляные краски VAN GOGH Тубы 40мл
+			</category>
+			<category id="ЦБ-00001115" parentid="00-00002479">03 Масляные краски VAN GOGH Тубы 60мл
+			</category>
+			<category id="ЦБ-00001116" parentid="00-00002479">04 Масляные краски VAN GOGH Наборы
+			</category>
+			<category id="ЦУ-00001692" parentid="ЦУ-00001684">01 Ручки KAWECO Sport пластик
+			</category>
+			<category id="ЦУ-00001693" parentid="ЦУ-00001684">02 Ручки KAWECO Sport металл
+			</category>
+			<category id="ЦУ-00001694" parentid="ЦУ-00001684">03 Аксессуары KAWECO Sport
+			</category>
+			<category id="ЦБ-00004170" parentid="ЦБ-00001444">01 Склейки, альбомы для пастели Fabriano Tiziano
+			</category>
+			<category id="ЦБ-00004171" parentid="ЦБ-00001444">02 Склейки, альбомы для пастели Fabriano Ingres
+			</category>
+			<category id="ЦБ-00004159" parentid="ЦБ-00001435">01 Альбомы, склейки Fabriano Artistico
+			</category>
+			<category id="ЦБ-00004160" parentid="ЦБ-00001435">02 Альбомы, склейки Fabriano Watercolour Studio
+			</category>
+			<category id="ЦБ-00004161" parentid="ЦБ-00001435">03 Альбомы, склейки Fabriano 5
+			</category>
+			<category id="ЦБ-00004162" parentid="ЦБ-00001435">04 Альбомы, склейки Blocco Per Artisti
+			</category>
+			<category id="00-00005692" parentid="00-00004009">01 Деревянные стенды и оборудование
+			</category>
+			<category id="00-00005693" parentid="00-00004009">02 Металлические стенды и оборудование
+			</category>
+			<category id="00-00005698" parentid="00-00004009">03 Стеллажи одиночные и на полку
+			</category>
+			<category id="00-00000699" parentid="00-00000698">Artistico (100% хлопка)
+			</category>
+			<category id="00-00000764" parentid="00-00000698">Blocco per Artisti (50% хлопка)
+			</category>
+			<category id="00-00000771" parentid="00-00000698">Disegno 5 (50% хлопка)
+			</category>
+			<category id="00-00000794" parentid="00-00000698">Watercolour (25% хлопка)
+			</category>
+			<category id="ЦУ-00000333" parentid="ЦУ-00000332">01 Альбомы Authentic
+			</category>
+			<category id="ЦУ-00000334" parentid="ЦУ-00000332">02 Альбомы Authentic в папке
+			</category>
+			<category id="ЦУ-00000335" parentid="ЦУ-00000332">03 Альбомы Authentic на резинке
+			</category>
+			<category id="00-00005347" parentid="00-00000001">06 Canson Infinity
+			</category>
+			<category id="00-00000002" parentid="00-00000001">01 Бумага и картон для художников
+			</category>
+			<category id="00-00000003" parentid="00-00000001">02 Бумага для творчества и декорирования
+			</category>
+			<category id="00-00000004" parentid="00-00000001">03 Товары для обучения и детского творчества
+			</category>
+			<category id="00-00000005" parentid="00-00000001">04 Технические материалы
+			</category>
+			<category id="00-00001300" parentid="00-00000001">00 Промо-акции
+			</category>
+			<category id="00-00002477" parentid="00-00002476">01 Водорастворимые масляные краски COBRA (наборы)
+			</category>
+			<category id="00-00005409" parentid="00-00002476">02 COBRA Тубы 40мл (40 цветов)
+			</category>
+			<category id="00-00005413" parentid="00-00002476">03 COBRA Тубы 200мл (24 цвета)
+			</category>
+			<category id="00-00008260" parentid="00-00002476">05 COBRA Кисти
+			</category>
+			<category id="00-00005811" parentid="00-00002476">04 COBRA Вспомогательные средства
+			</category>
+			<category id="00-00000672" parentid="00-00000671">01 50х65 150 гр
+			</category>
+			<category id="00-00000711" parentid="00-00000671">02 А4, 300 гр
+			</category>
+			<category id="ЦБ-00001426" parentid="ЦБ-00001425">01 Бумага для акварели Fabriano
+			</category>
+			<category id="ЦБ-00001427" parentid="ЦБ-00001425">02 Бумага для акрила Fabriano
+			</category>
+			<category id="ЦБ-00001428" parentid="ЦБ-00001425">03 Бумага для масла Fabriano
+			</category>
+			<category id="ЦБ-00001429" parentid="ЦБ-00001425">04 Бумага для офорта Fabriano
+			</category>
+			<category id="ЦБ-00001430" parentid="ЦБ-00001425">05 Бумага для пастели Fabriano
+			</category>
+			<category id="ЦБ-00001431" parentid="ЦБ-00001425">06 Бумага для рисования и зарисовок Fabriano
+			</category>
+			<category id="ЦБ-00001432" parentid="ЦБ-00001425">07 Блокноты в твердом переплете Fabriano
+			</category>
+			<category id="ЦБ-00001433" parentid="ЦБ-00001425">08 Бумага цветная в листах Fabriano
+			</category>
+			<category id="ЦБ-00001434" parentid="ЦБ-00001425">09 Бумага Fabriano Mixed Media
+			</category>
+			<category id="ЦБ-00002992" parentid="ЦБ-00001425">10 POS материалы
+			</category>
+			<category id="00-00000333" parentid="00-00000378">01 Художественный картон Митант
+			</category>
+			<category id="ЦБ-00001345" parentid="GI81130">05 Маркеры акварельные Grapho в ассортименте
+			</category>
+			<category id="ЦБ-00001346" parentid="GI81130">06 Наборы акварельных маркеров Grapho
+			</category>
+			<category id="ЦБ-00001150" parentid="GI81130">03 Маркеры Graphit Brush в ассортименте
+			</category>
+			<category id="ЦБ-00001151" parentid="GI81130">04 Наборы маркеров Graphit Brush
+			</category>
+			<category id="00-00006369" parentid="GI81130">01 Маркеры Graphit в ассортименте
+			</category>
+			<category id="00-00006370" parentid="GI81130">02 Наборы маркеров Graphit
+			</category>
+			<category id="00-00006371" parentid="GI81130">07 Аксессуары Graphit
+			</category>
+			<category id="00-00004009" parentid="00-00004008">01 Стенды
+			</category>
+			<category id="00-00004011" parentid="00-00004008">02 Аксессуары и комплектующие для стендов
+			</category>
+			<category id="00-00004012" parentid="00-00004008">03 Промо-материалы, образцы, имиджевые подарки
+			</category>
+			<category id="00-00005342" parentid="00-00004008">04 Вспомогательные материалы: брошюры, постеры, выкраски
+			</category>
+			<category id="00-00008169" parentid="00-00008168">01 Альбомы Rembrantd
+			</category>
+			<category id="00-00008170" parentid="00-00008168">02 Альбомы Van Gogh
+			</category>
+			<category id="ЦБ-00000806" parentid="00-00008168">03 Альбомы Amsterdam
+			</category>
+			<category id="ЦБ-00003052" parentid="00-00008168">05 Альбомы
+			</category>
+			<category id="ЦБ-00001314" parentid="00-00008168">05 Блокноты для зарисовок Art Creation
+			</category>
+			<category id="ЦУ-00004877" parentid="00-00008168">04 Бумага Ecoline
+			</category>
+			<category id="ЦБ-00004232" parentid="ЦБ-00004226">01 Strathmore 400 для акварели
+			</category>
+			<category id="ЦБ-00004233" parentid="ЦБ-00004226">02 Strathmore 400 для маркера
+			</category>
+			<category id="ЦБ-00004234" parentid="ЦБ-00004226">03 Strathmore 400 для смешанных техник
+			</category>
+			<category id="ЦБ-00004235" parentid="ЦБ-00004226">04 Strathmore 400 для графики и зарисовок
+			</category>
+			<category id="ЦБ-00004236" parentid="ЦБ-00004226">05 Strathmore 400 для акрила
+			</category>
+			<category id="ЦУ-00002040" parentid="ЦУ-00002038">02 Наборы акварельных красок Mission Silver
+			</category>
+			<category id="ЦУ-00002047" parentid="ЦУ-00002038">01 Акварельные краски Mission Silver Pan
+			</category>
+			<category id="ЦУ-00001812" parentid="ЦУ-00001811">01 Альбомы Etival
+			</category>
+			<category id="ЦУ-00001813" parentid="ЦУ-00001811">02 Альбомы Fontaine
+			</category>
+			<category id="ЦБ-00004200" parentid="ЦБ-00002826">01 Бизнес-тетрадь OXFORD Inrernational Notebook
+			</category>
+			<category id="ЦБ-00004201" parentid="ЦБ-00002826">02 Бизнес-тетрадь OXFORD Inrernational MeetingBook
+			</category>
+			<category id="ЦБ-00004202" parentid="ЦБ-00002826">03 Бизнес-тетрадь OXFORD Inrernational ActiveBook
+			</category>
+			<category id="ЦБ-00004203" parentid="ЦБ-00002826">04 Бизнес-тетрадь OXFORD Inrernational Notepad
+			</category>
+			<category id="ЦБ-00004204" parentid="ЦБ-00002826">05 Бизнес-тетрадь OXFORD Inrernational FilingBook
+			</category>
+			<category id="ЦБ-00004205" parentid="ЦБ-00002826">06 Бизнес-тетрадь OXFORD Inrernational OrganiserBook
+			</category>
+			<category id="00-00001897" parentid="00-00001893">01 Акварель
+			</category>
+			<category id="00-00001910" parentid="00-00001893">03 Для черчения и графики
+			</category>
+			<category id="00-00001907" parentid="00-00001893">02 Масло и акрил
+			</category>
+			<category id="00-00000010" parentid="00-00001893">04 Для пастели
+			</category>
+			<category id="ЦБ-00004163" parentid="ЦБ-00001436">01 Бумага для акварели в листах Fabriano Artistico
+			</category>
+			<category id="ЦБ-00004164" parentid="ЦБ-00001436">02 Бумага для акварели в листах Fabriano Watercolour Studio
+			</category>
+			<category id="ЦБ-00004165" parentid="ЦБ-00001436">03 Бумага для акварели в листах Fabriano 5
+			</category>
+			<category id="ЦБ-00001438" parentid="ЦБ-00001427">01 Склейки для акрила Fabriano Pittura
+			</category>
+			<category id="ЦБ-00001439" parentid="ЦБ-00001427">02 Бумага для акрила в листах Fabriano Pittura
+			</category>
+			<category id="ЦУ-00001815" parentid="ЦУ-00001814">01 Бумага для пастели в листах
+			</category>
+			<category id="ЦУ-00001816" parentid="ЦУ-00001814">02 Альбомы, блокноты для пастели
+			</category>
+			<category id="ЦБ-00004183" parentid="ЦБ-00001448">01 Бумага для рисования и зарисовок в листах Fabriano Accademia
+			</category>
+			<category id="ЦБ-00004184" parentid="ЦБ-00001448">02 Бумага для рисования и зарисовок в листах Fabriano Bristol
+			</category>
+			<category id="00-00002150" parentid="00-00000003">04 Ingres Vidalon (Ингрес Видалон)
+			</category>
+			<category id="00-00000990" parentid="00-00000003">08 Цветная калька
+			</category>
+			<category id="00-00000419" parentid="00-00000003">01 Mi-Teintes® (Митант)
+			</category>
+			<category id="00-00000671" parentid="00-00000003">02 Colorline® (Колорлайн)
+			</category>
+			<category id="00-00000776" parentid="00-00000003">03 Iris Vivaldi® (Ирис Вивальди)
+			</category>
+			<category id="00-00000975" parentid="00-00000003">06 Дизайнерские бумаги
+			</category>
+			<category id="00-00001047" parentid="00-00000003">07 Пластик для декорирования
+			</category>
+			<category id="00-00001067" parentid="00-00000003">09 Бумага для декорирования в рулонах
+			</category>
+			<category id="00-00002163" parentid="00-00000003">05 Ingres Ecoles
+			</category>
+			<category id="00-00002017" parentid="00-00000003">10 Пенокартон Plume
+			</category>
+			<category id="ЦБ-00004194" parentid="ЦБ-00004190">02 Бумага цветная в листах Fabriano Cartacrea 220 г/квм 50*70
+			</category>
+			<category id="ЦБ-00004195" parentid="ЦБ-00004190">03 Бумага цветная в листах Fabriano Cartacrea 220 г/квм 70*100
+			</category>
+			<category id="ЦБ-00004196" parentid="ЦБ-00004190">01 Бумага цветная в листах Fabriano Cartacrea 220 г/квм 21*29,7
+			</category>
+			<category id="ЦБ-00004197" parentid="ЦБ-00004190">04 Картон цветной Fabriano Elle Erre 220 г/квм А3
+			</category>
+			<category id="00-00007989" parentid="00-00006889">08 Пастель Derwent
+			</category>
+			<category id="00-00007662" parentid="00-00006889">01 Графит, уголь, угольные карандаши
+			</category>
+			<category id="00-00007663" parentid="00-00006889">02 Инструменты и аксессуары для графических материалов
+			</category>
+			<category id="00-00007664" parentid="00-00006889">03 Карандаши акварельные, блоки
+			</category>
+			<category id="00-00007665" parentid="00-00006889">04 Карандаши пастельные
+			</category>
+			<category id="00-00007666" parentid="00-00006889">05 Карандаши цветные
+			</category>
+			<category id="00-00007667" parentid="00-00006889">06 Карандаши чернографитные
+			</category>
+			<category id="00-00007668" parentid="00-00006889">07 Ручки капилярные
+			</category>
+			<category id="00-00005023" parentid="00-00004478">01 Напольный дисплей COLOREXPRESS
+			</category>
+			<category id="00-00004993" parentid="00-00004478">06 Bruynzeel Art   Crafts - Adults creative
+			</category>
+			<category id="00-00005012" parentid="00-00004478">09 Раскраски по номерам
+			</category>
+			<category id="00-00005013" parentid="00-00004478">10 Серия My Grip
+			</category>
+			<category id="00-00005662" parentid="00-00004478">11 Новый концепт Fuzzy   Friends
+			</category>
+			<category id="00-00004481" parentid="00-00004478">02 Young Colors - ColorExpress
+			</category>
+			<category id="00-00004482" parentid="00-00004478">03 Толстые шестигранные карандаши MEGA - ColorExpress
+			</category>
+			<category id="00-00004498" parentid="00-00004478">04 Трехгранные карандаши TripleGrip - ColorExpress
+			</category>
+			<category id="00-00004500" parentid="00-00004478">07 Продукция для начинающих - ColorExpress
+			</category>
+			<category id="00-00004714" parentid="00-00004478">05 Шестигранные карандаши SUPER - ColorExpress
+			</category>
+			<category id="00-00004817" parentid="00-00004478">08 Специальная серия MIFFY - ColorExpress
+			</category>
+			<category id="ЦБ-00001425" parentid="ЦУ-00004524">02 FABRIANO
+			</category>
+			<category id="ЦБ-00001450" parentid="ЦУ-00004524">03 SADIPAL
+			</category>
+			<category id="ЦБ-00004576" parentid="ЦУ-00004524">05 ROUBLOFF
+			</category>
+			<category id="ЦБ-00004574" parentid="ЦУ-00004524">04 TOUCH
+			</category>
+			<category id="ЦБ-00004583" parentid="ЦУ-00004524">07 KAWECO
+			</category>
+			<category id="ЦБ-00004596" parentid="ЦУ-00004524">06 MANUSCRIPT
+			</category>
+			<category id="ЦБ-00004601" parentid="ЦУ-00004524">10 Fabriano из РХК
+			</category>
+			<category id="ЦУ-00000412" parentid="ЦУ-00004524">08 SKETCHMARKER
+			</category>
+			<category id="ЦУ-00002460" parentid="ЦУ-00004524">09 COPIC
+			</category>
+			<category id="00-00006887" parentid="ЦУ-00004524">01 DERWENT
+			</category>
+			<category id="00-00007692" parentid="00-00007663">01 Держатели, удлинители
+			</category>
+			<category id="00-00007693" parentid="00-00007663">02 Инструменты для пастели, угля, графита
+			</category>
+			<category id="00-00007694" parentid="00-00007663">03 Инструменты для блендинга и полировки Derwent
+			</category>
+			<category id="00-00007695" parentid="00-00007663">04 Инструменты для заточки карандашей Derwent
+			</category>
+			<category id="00-00007696" parentid="00-00007663">05 Кисти Derwent
+			</category>
+			<category id="00-00007697" parentid="00-00007663">06 Ластики Derwent
+			</category>
+			<category id="00-00007698" parentid="00-00007663">07 Пеналы, сумки Derwent
+			</category>
+			<category id="00-00007699" parentid="00-00007663">08 Растушевки Derwent
+			</category>
+			<category id="00-00007700" parentid="00-00007663">09 Точилки Derwent
+			</category>
+			<category id="00-00007701" parentid="00-00007663">10 Прочее Derwent
+			</category>
+			<category id="ЦУ-00001762" parentid="ЦУ-00000347">01 Карандаши механические
+			</category>
+			<category id="ЦУ-00001763" parentid="ЦУ-00000347">02 Карандаши чернографитовые
+			</category>
+			<category id="ЦУ-00001857" parentid="ЦУ-00000347">03 Дисплеи с карандашами
+			</category>
+			<category id="00-00007679" parentid="00-00007671">01 Карандаши чернографитные Academy в ассортименте
+			</category>
+			<category id="00-00007680" parentid="00-00007671">02 Наборы чернографитных карандашей Academy
+			</category>
+			<category id="00-00004278" parentid="00-00004277">01 Акварель. Серия 100. Круглая. Коническая форма. Колински. Красный соболь
+			</category>
+			<category id="00-00004279" parentid="00-00004277">02 Акварель. Серия 107. Круглая. Коническая форма с зауженным концом. Красный соболь
+			</category>
+			<category id="00-00004280" parentid="00-00004277">03 Акварель и гуашь. Серия 110. Круглая. Коническая форма. Красный соболь
+			</category>
+			<category id="00-00004281" parentid="00-00004277">04 Акварель и гуашь. Серия 114. Круглая. Коническая форма. Белка
+			</category>
+			<category id="00-00004282" parentid="00-00004277">05 Акварель. Серия 132. Овальная. Белка
+			</category>
+			<category id="00-00004283" parentid="00-00004277">06 Акварель. Серия 135. Коническая. Белка, крепление лебединым пером
+			</category>
+			<category id="00-00004284" parentid="00-00004277">07 Акварель. Серия 136. Мечевидная. Белка
+			</category>
+			<category id="00-00004285" parentid="00-00004277">08 Масло, акрил, гуашь. Серия 200. Овальная усеченная. Из обесцвеченной щетины китайского борова
+			</category>
+			<category id="00-00004286" parentid="00-00004277">09 Масло, акрил, гуашь. Серия 201. Круглая коническая. Из обесцвеченной щетины китайского борова
+			</category>
+			<category id="00-00004287" parentid="00-00004277">10 Масло, акрил, гуашь. Серия 208. Кошачий язычок. Из обесцвеченной щетины китайского борова
+			</category>
+			<category id="00-00004288" parentid="00-00004277">11 Масло, акрил, гуашь. Серия 209. Долото. Из обесцвеченной щетины китайского борова
+			</category>
+			<category id="00-00004289" parentid="00-00004277">12 Масло, акрил, гуашь. Серия 240. Плоская ровная. Натуральный красный соболь
+			</category>
+			<category id="00-00004290" parentid="00-00004277">13 Масло, акрил, гуашь. Серия 241. Круглая остроконечная. Натуральный красный соболь
+			</category>
+			<category id="00-00004291" parentid="00-00004277">14 Масло, акрил, гуашь. Серия 245. Кошачий язычок. Натуральный красный соболь
+			</category>
+			<category id="00-00004292" parentid="00-00004277">15 Масло, акрил, гуашь. Серия 280. Веер. Из обесцвеченной щетины китайского борова
+			</category>
+			<category id="00-00004293" parentid="00-00004277">16 Масло, акрил, гуашь. Серия 282. Веер. Барсук
+			</category>
+			<category id="00-00004294" parentid="00-00004277">17 Масло, акрил, гуашь, лак. Серия 290. Плоская ровная. Синтетика
+			</category>
+			<category id="00-00004295" parentid="00-00004277">18 Масло, акрил, гуашь. Серия 291. Круглая. Синтетика
+			</category>
+			<category id="00-00004296" parentid="00-00004277">19 Акварель, масло, акрил, гуашь. Серия 292. Кошачий язычок. Синтетика
+			</category>
+			<category id="00-00004297" parentid="00-00004277">20 Плакатные кисти. Серия 307. Круглая, тонкая длинношестная. Из ворса вола
+			</category>
+			<category id="00-00004298" parentid="00-00004277">21 Плакатные кисти. Серия 310. Круглая, остроконечная. Красный соболь
+			</category>
+			<category id="00-00004299" parentid="00-00004277">22 Малярные кисти: Масло, акрил, гуашь. Серия 380. Плоская широкая. Черная из ворса вола
+			</category>
+			<category id="ЦУ-00005089" parentid="ЦУ-00002312">02 Кисти для акрила Amsterdam имитация колонка
+			</category>
+			<category id="ЦУ-00004504" parentid="ЦУ-00002312">01 Кисти для акрила Amsterdam синтетика
+			</category>
+			<category id="ЦУ-00001740" parentid="ЦУ-00001736">01 Краска масляная LB FINE туба 150мл
+			</category>
+			<category id="ЦУ-00001753" parentid="ЦУ-00001736">02 Краска масляная LB FINE туба 40мл
+			</category>
+			<category id="ЦУ-00002070" parentid="ЦУ-00002057">03 Масляные краски Akademie 60мл
+			</category>
+			<category id="ЦУ-00002071" parentid="ЦУ-00002057">04 Масляные краски Akademie 200мл
+			</category>
+			<category id="ЦУ-00002058" parentid="ЦУ-00002057">01 Акриловые краски Akademie 120мл
+			</category>
+			<category id="ЦУ-00002059" parentid="ЦУ-00002057">02 Акриловые краски Akademie 60мл
+			</category>
+			<category id="ЦУ-00002073" parentid="ЦУ-00002057">05 Наборы акварельных красок Akademie
+			</category>
+			<category id="ЦУ-00002074" parentid="ЦУ-00002057">06 Наборы акриловых красок Akademie
+			</category>
+			<category id="ЦУ-00002075" parentid="ЦУ-00002057">07 Наборы масляных красок Akademie
+			</category>
+			<category id="ЦУ-00000319" parentid="ЦУ-00000309">01 Краски акварельные WATER COLOR PRO 7,5мл
+			</category>
+			<category id="ЦУ-00000320" parentid="ЦУ-00000309">02 Краски акварельные WATER COLOR PRO 12мл
+			</category>
+			<category id="ЦУ-00000321" parentid="ЦУ-00000309">03 Наборы акварельных красок WATER COLOR PRO
+			</category>
+			<category id="ЦУ-00002465" parentid="ЦУ-00002464">01 Маркеры Copic Classic в ассортименте
+			</category>
+			<category id="ЦУ-00002466" parentid="ЦУ-00002464">02 Наборы маркеров Copic Classic
+			</category>
+			<category id="00-00002114" parentid="00-00001904">03 Arches® Huile (Арш)
+			</category>
+			<category id="00-00002117" parentid="00-00001907">02 Arches® Huile (Арш)
+			</category>
+			<category id="00-00000727" parentid="00-00000008">03 Arches® Huile (Арш)
+			</category>
+			<category id="00-00001908" parentid="00-00001907">01 Figueras® (Фигерас)
+			</category>
+			<category id="00-00001905" parentid="00-00001904">01 Figueras® (Фигерас)
+			</category>
+			<category id="00-00001906" parentid="00-00001904">02 Acrylic®
+			</category>
+			<category id="00-00000112" parentid="00-00000008">01 Figueras® (Фигерас)
+			</category>
+			<category id="00-00000113" parentid="00-00000008">02 Acrylic®
+			</category>
+			<category id="00-00006728" parentid="00-00004072">01 Масляные краски Art Creation 40мл
+			</category>
+			<category id="00-00006729" parentid="00-00004072">02 Масляные краски Art Creation 200мл
+			</category>
+			<category id="ЦУ-00002068" parentid="ЦУ-00002067">01 Масляные краски College 35мл
+			</category>
+			<category id="ЦУ-00002069" parentid="ЦУ-00002067">02 Масляные краски College 200мл
+			</category>
+			<category id="00-00001250" parentid="00-00001249">01 Форматные материалы
+			</category>
+			<category id="00-00001251" parentid="00-00001249">02 Рулонные материалы
+			</category>
+			<category id="ЦУ-00001836" parentid="ЦУ-00001834">01 Tombow ZOOM
+			</category>
+			<category id="ЦУ-00001837" parentid="ЦУ-00001834">02 Tombow AIRPRESS
+			</category>
+			<category id="ЦУ-00001838" parentid="ЦУ-00001834">03 Tombow REPORTER
+			</category>
+			<category id="ЦУ-00001839" parentid="ЦУ-00001834">04 Tombow PFIT
+			</category>
+			<category id="ЦУ-00001840" parentid="ЦУ-00001834">05 Tombow XPA Outdoor
+			</category>
+			<category id="00-00000851" parentid="00-00000850">Ingres
+			</category>
+			<category id="00-00000853" parentid="00-00000850">Murillo
+			</category>
+			<category id="00-00000859" parentid="00-00000850">Roma
+			</category>
+			<category id="00-00000863" parentid="00-00000850">Tiziano
+			</category>
+			<category id="00-00004149" parentid="00-00004148">01 Стенды
+			</category>
+			<category id="00-00004150" parentid="00-00004148">02 Аксессуары и комплектующие для стендов
+			</category>
+			<category id="00-00004152" parentid="00-00004148">03 Образцы
+			</category>
+			<category id="00-00001798" parentid="00-00001716">Вивальди 120гр 50х32,5
+			</category>
+			<category id="00-00001837" parentid="00-00001716">Джамбо
+			</category>
+			<category id="00-00001717" parentid="00-00001716">Вивальди 120 гр 70х100
+			</category>
+			<category id="00-00001756" parentid="00-00001716">Вивальди 240 гр 70х100
+			</category>
+			<category id="00-00000378" parentid="00-00000382">02 Figueras® (Фигерас)
+			</category>
+			<category id="00-00001708" parentid="00-00000776">08 А4 185гр
+			</category>
+			<category id="00-00000777" parentid="00-00000776">01 A4 120гр
+			</category>
+			<category id="00-00000816" parentid="00-00000776">02 50х70 120 гр
+			</category>
+			<category id="00-00000855" parentid="00-00000776">04 А3 185гр
+			</category>
+			<category id="00-00000894" parentid="00-00000776">05 50х65 185гр
+			</category>
+			<category id="00-00000897" parentid="00-00000776">06 А4 240гр
+			</category>
+			<category id="00-00000936" parentid="00-00000776">07 50х65 240 гр
+			</category>
+			<category id="00-00006000" parentid="00-00000776">03 NEW 50х65 120гр
+			</category>
+			<category id="ЦБ-00001451" parentid="ЦБ-00001450">01 Бумага дизайнерская Sadipal
+			</category>
+			<category id="ЦБ-00001452" parentid="ЦБ-00001450">02 Гофрокартон в листах Sadipal
+			</category>
+			<category id="ЦБ-00001453" parentid="ЦБ-00001450">03 Бумага цветная в листах Sadipal
+			</category>
+			<category id="ЦБ-00001454" parentid="ЦБ-00001450">04 Фольга самоклеящаяся Sadipal
+			</category>
+			<category id="ЦБ-00001455" parentid="ЦБ-00001450">05 Бумага бархатная самоклеящаяся Sadipal
+			</category>
+			<category id="ЦБ-00001456" parentid="ЦБ-00001450">06 Бумага фольгированная Sadipal
+			</category>
+			<category id="ЦБ-00001457" parentid="ЦБ-00001450">07 Пленка прозрачная из целлюлозы Sadipal
+			</category>
+			<category id="ЦБ-00001458" parentid="ЦБ-00001450">08 Бумага глянцевая Sadipal
+			</category>
+			<category id="ЦБ-00001459" parentid="ЦБ-00001450">09 Бумага крепированная Sadipal
+			</category>
+			<category id="ЦБ-00001460" parentid="ЦБ-00001450">10 Бумага Крафт Sadipal
+			</category>
+			<category id="ЦБ-00001461" parentid="ЦБ-00001450">11 Бумага шелковая Sadipal
+			</category>
+			<category id="ЦБ-00001462" parentid="ЦБ-00001450">12 Пленка полиестер Sadipal
+			</category>
+			<category id="ЦБ-00001463" parentid="ЦБ-00001450">13 Наборы декоративной бумаги Sadipal
+			</category>
+			<category id="ЦБ-00003899" parentid="ЦБ-00001450">18 Ассортимент Euromax
+			</category>
+			<category id="ЦБ-00003740" parentid="ЦБ-00001450">17 POS материалы
+			</category>
+			<category id="ЦБ-00001306" parentid="ЦБ-00001304">01 Клей
+			</category>
+			<category id="ЦБ-00001307" parentid="ЦБ-00001304">17 Детская серия
+			</category>
+			<category id="ЦБ-00000814" parentid="ЦБ-00001304">14 Маркеры Pen-Touch Ceramglass
+			</category>
+			<category id="ЦБ-00000786" parentid="ЦБ-00001304">13 Ручка для каллиграфии Pigma Calligrapher
+			</category>
+			<category id="ЦУ-00004145" parentid="ЦБ-00001304">18 Блокноты для зарисовок Sakura
+			</category>
+			<category id="ЦУ-00005075" parentid="ЦБ-00001304">19 Ручка капиллярная Pigma
+			</category>
+			<category id="00-00006604" parentid="ЦБ-00001304">10 Маркеры Koi
+			</category>
+			<category id="00-00008193" parentid="ЦБ-00001304">16 Промышленные маркеры
+			</category>
+			<category id="00-00003471" parentid="ЦБ-00001304">02 Маркеры Pen-Touch: закругленный стержень
+			</category>
+			<category id="00-00003472" parentid="ЦБ-00001304">03 Маркеры Pen-Touch Calligrapher: плоский стержень
+			</category>
+			<category id="00-00003480" parentid="ЦБ-00001304">05 Ручка капиллярная Pigma Micron
+			</category>
+			<category id="00-00003481" parentid="ЦБ-00001304">07 Ручка капиллярная Pigma Brush
+			</category>
+			<category id="00-00003482" parentid="ЦБ-00001304">08 Ручка капиллярная Pigma Graphic
+			</category>
+			<category id="00-00008278" parentid="ЦБ-00001304">12 Акварельные краски Koi
+			</category>
+			<category id="00-00003688" parentid="ЦБ-00001304">15 Кисти с резервуаром для воды Koi
+			</category>
+			<category id="00-00005273" parentid="ЦБ-00001304">06 Ручка капиллярная Pigma Micron PN
+			</category>
+			<category id="00-00005016" parentid="ЦБ-00001304">09 Маркеры  Identi Pen
+			</category>
+			<category id="00-00006708" parentid="ЦБ-00001304">11 Наборы Zentangle
+			</category>
+			<category id="00-00005661" parentid="ЦБ-00001304">04 Гелевые ручки Sakura
+			</category>
+			<category id="ЦУ-00002066" parentid="ЦБ-00004586">03 Краски College
+			</category>
+			<category id="ЦУ-00002076" parentid="ЦБ-00004586">05 Краски Norma professional
+			</category>
+			<category id="ЦУ-00002057" parentid="ЦБ-00004586">02 Краски Akademie
+			</category>
+			<category id="ЦУ-00002054" parentid="ЦБ-00004586">01 Краски Horadam
+			</category>
+			<category id="ЦУ-00002063" parentid="ЦБ-00004586">04 Краски Mussini
+			</category>
+			<category id="ЦУ-00002072" parentid="ЦБ-00004586">06 Вспомогательные средства Schmincke
+			</category>
+			<category id="ЦУ-00002080" parentid="ЦБ-00004586">07 Пастель сухая Schmincke
+			</category>
+			<category id="ЦУ-00002085" parentid="ЦБ-00004586">08 Аксессуары
+			</category>
+			<category id="ЦУ-00002086" parentid="ЦБ-00004586">06 Краски PRIMAcryl
+			</category>
+			<category id="ЦБ-00004237" parentid="ЦБ-00004227">01 Strathmore 300 для акварели
+			</category>
+			<category id="ЦБ-00004238" parentid="ЦБ-00004227">02 Strathmore 300 для графики и зарисовок
+			</category>
+			<category id="00-00008251" parentid="00-00002478">06 Сухая пастель VanGogh
+			</category>
+			<category id="00-00002479" parentid="00-00002478">01 Масляные краски VAN GOGH
+			</category>
+			<category id="00-00002480" parentid="00-00002478">02 Акриловые краски VAN GOGH
+			</category>
+			<category id="00-00002481" parentid="00-00002478">03 Акварельные краски VAN GOGH
+			</category>
+			<category id="00-00002482" parentid="00-00002478">04 Масляная пастель VAN GOGH
+			</category>
+			<category id="00-00002483" parentid="00-00002478">05 Карандаши VAN GOGH
+			</category>
+			<category id="ЦБ-00000764" parentid="ЦБ-00000163">01 Маркеры W N Promarker в ассортименте
+			</category>
+			<category id="ЦБ-00000765" parentid="ЦБ-00000163">02 Наборы маркеров W N Promarker
+			</category>
+			<category id="ЦБ-00000766" parentid="ЦБ-00000163">03 Маркеры W N Brushmarker в ассортименте
+			</category>
+			<category id="ЦБ-00000767" parentid="ЦБ-00000163">04 Наборы маркеров W N Brushmarker
+			</category>
+			<category id="ЦБ-00001124" parentid="ЦБ-00000163">05 Маркеры W N Pigment в ассортименте
+			</category>
+			<category id="ЦБ-00001125" parentid="ЦБ-00000163">06 Наборы маркеров W N Pigment
+			</category>
+			<category id="ЦБ-00001126" parentid="ЦБ-00000163">07 Альбомы для маркеров W N
+			</category>
+			<category id="ЦБ-00003217" parentid="ЦБ-00000163">08 Бумага, альбомы, склейки для акварели W N
+			</category>
+			<category id="ЦУ-00002048" parentid="ЦУ-00002041">01 Акварельные краски Mission White 15мл
+			</category>
+			<category id="ЦУ-00002049" parentid="ЦУ-00002041">02 Наборы акварельных красок Mission White
+			</category>
+			<category id="ЦУ-00001873" parentid="00-00002474">04 Акварельные краски Rembrandt Тубы 10мл
+			</category>
+			<category id="ЦБ-00001107" parentid="00-00002474">01 Акварельные краски Rembrandt Кюветы 1,3мл
+			</category>
+			<category id="ЦБ-00001108" parentid="00-00002474">02 Акварельные краски Rembrandt Тубы 20мл
+			</category>
+			<category id="ЦБ-00001109" parentid="00-00002474">03 Акварельные краски Rembrandt Тубы 5мл
+			</category>
+			<category id="ЦБ-00001110" parentid="00-00002474">05 Акварельные краски Rembrandt Наборы
+			</category>
+			<category id="ЦБ-00001117" parentid="00-00002481">01 Акварельные краски VAN GOGH Кюветы 1,3мл
+			</category>
+			<category id="ЦБ-00001118" parentid="00-00002481">02 Акварельные краски VAN GOGH Тубы 10мл
+			</category>
+			<category id="ЦБ-00001119" parentid="00-00002481">03 Акварельные краски VAN GOGH Наборы
+			</category>
+			<category id="00-00005600" parentid="00-00005454">01 Маркеры 1-2мм
+			</category>
+			<category id="00-00005601" parentid="00-00005454">02 Маркеры 3-4мм
+			</category>
+			<category id="00-00005602" parentid="00-00005454">03 Маркеры 15мм
+			</category>
+			<category id="ЦБ-00004206" parentid="ЦБ-00002827">01 Блокнот OXFORD Office Signature
+			</category>
+			<category id="ЦБ-00004207" parentid="ЦБ-00002827">02 Блокнот OXFORD BlacknRed
+			</category>
+			<category id="ЦБ-00004208" parentid="ЦБ-00002827">03 Блокнот OXFORD Smart Black Notebook
+			</category>
+			<category id="ЦБ-00004209" parentid="ЦБ-00002827">04 Блокнот OXFORD Orig. Blue Notebook
+			</category>
+			<category id="ЦБ-00004970" parentid="ЦБ-00002827">05 Блокнот OXFORD Floral
+			</category>
+			<category id="ЦБ-00004240" parentid="ЦБ-00001437">01 Бумага для акварели в рулонах Fabriano Artistico
+			</category>
+			<category id="ЦБ-00004241" parentid="ЦБ-00001437">02 Бумага для акварели в рулонах Fabriano Watercolour Studio
+			</category>
+			<category id="ЦБ-00001440" parentid="ЦБ-00001428">01 Склейки для масла Fabriano Tela
+			</category>
+			<category id="ЦБ-00001441" parentid="ЦБ-00001428">02 Бумага для масла в листах Fabriano Tela
+			</category>
+			<category id="ЦБ-00001442" parentid="ЦБ-00001428">03 Бумага для масла в рулонах Fabriano Tela
+			</category>
+			<category id="ЦБ-00003448" parentid="ЦБ-00001453">01 Бумага цветная Sadipal Sirio 120гр А4
+			</category>
+			<category id="ЦБ-00003449" parentid="ЦБ-00001453">02 Бумага цветная Sadipal Sirio 240гр А4
+			</category>
+			<category id="ЦБ-00003450" parentid="ЦБ-00001453">03 Бумага цветная Sadipal Sirio 240гр 50*65
+			</category>
+			<category id="ЦБ-00004222" parentid="ЦБ-00001453">04 Бумага цветная Sadipal Sirio 170гр А4
+			</category>
+			<category id="ЦБ-00004223" parentid="ЦБ-00001453">05 Бумага цветная Sadipal Sirio 170гр А3
+			</category>
+			<category id="ЦБ-00004224" parentid="ЦБ-00001453">06 Бумага цветная Sadipal Sirio 170гр 50*65
+			</category>
+			<category id="ЦБ-00000157" parentid="00-00001909">06 The Wall
+			</category>
+			<category id="ЦБ-00000160" parentid="00-00000009">11 The Wall
+			</category>
+			<category id="00-00002138" parentid="00-00001909">05 Canson FINFACE
+			</category>
+			<category id="00-00000130" parentid="00-00000009">01 1557®-Dessin JA (Дизайн Джей)
+			</category>
+			<category id="00-00000179" parentid="00-00000009">02 C a grain® (Сагран)
+			</category>
+			<category id="00-00000194" parentid="00-00000009">03 Бристоль
+			</category>
+			<category id="00-00000225" parentid="00-00000009">04 Marker Layout
+			</category>
+			<category id="00-00000226" parentid="00-00000009">05 Бумага для черчения, калька, миллиметровка
+			</category>
+			<category id="00-00003284" parentid="00-00000009">09 Canson Esquisse®
+			</category>
+			<category id="00-00002377" parentid="00-00000009">08 CrobArt
+			</category>
+			<category id="00-00006032" parentid="00-00000009">10 Imagine
+			</category>
+			<category id="00-00001936" parentid="00-00000009">07 Arches® (Арш)
+			</category>
+			<category id="00-00001911" parentid="00-00001910">01 1557®-Dessin JA (Дизайн Джей)
+			</category>
+			<category id="00-00001912" parentid="00-00001909">01 1557®-Dessin JA (Дизайн Джей)
+			</category>
+			<category id="00-00001913" parentid="00-00001909">02 C a grain® (Сагран)
+			</category>
+			<category id="00-00001914" parentid="00-00001910">02 C a grain® (Сагран)
+			</category>
+			<category id="00-00001915" parentid="00-00001909">03 Бристоль
+			</category>
+			<category id="00-00001916" parentid="00-00001909">04 XL®
+			</category>
+			<category id="00-00001917" parentid="00-00001910">03 Бумага для черчения, калька, миллиметровка
+			</category>
+			<category id="00-00000729" parentid="00-00000009">06 Блокноты для художников
+			</category>
+			<category id="00-00007302" parentid="00-00007664">03 Карандаши акварельные Inktense в ассортименте
+			</category>
+			<category id="00-00006890" parentid="00-00007664">05 Карандаши акварельные Watercolour в ассортименте
+			</category>
+			<category id="00-00007572" parentid="00-00007664">01 Блоки акварельные Inktense в ассортименте
+			</category>
+			<category id="00-00007308" parentid="00-00007664">08 Карандаши акварельные графитовые Graphitint
+			</category>
+			<category id="00-00007702" parentid="00-00007664">02 Наборы акварельных блоков Inktense
+			</category>
+			<category id="00-00007703" parentid="00-00007664">04 Наборы акварельных карандашей Inktense
+			</category>
+			<category id="00-00007704" parentid="00-00007664">06 Наборы акварельных карандашей Watercolour
+			</category>
+			<category id="00-00007705" parentid="00-00007664">07 Наборы карандашей Watercolour Collection
+			</category>
+			<category id="00-00007706" parentid="00-00007664">09 Наборы карандашей акварельных графитовых Graphitint
+			</category>
+			<category id="00-00004301" parentid="00-00004300">01 Акварель и гуашь. Серия 120. Круглая. Коническая форма. Щетина
+			</category>
+			<category id="00-00004302" parentid="00-00004300">02 Акварель. Серия 130. Круглая. Коническая форма. Коза, крепление лебединым пером
+			</category>
+			<category id="00-00004303" parentid="00-00004300">03 Акварель, гуашь. Серия 171. Круглая. Коническая форма. Красный соболь
+			</category>
+			<category id="00-00004304" parentid="00-00004300">04 Акварель, гуашь. Серия 191. Круглая. Коническая форма. Синтетика
+			</category>
+			<category id="00-00004305" parentid="00-00004300">06 Масло, акрил, гуашь. Серия 211. Круглая, коническая. Из обесцвеченной щетины китайского борова
+			</category>
+			<category id="00-00004306" parentid="00-00004300">05 Масло, акрил, гуашь. Серия 210. Плоская, ровная. Из обесцвеченной щетины китайского борова
+			</category>
+			<category id="00-00004307" parentid="00-00004300">07 Масло, акрил, гуашь. Серия 232. Кошачий язычок. Светло-коричневая из ворса вола
+			</category>
+			<category id="00-00004308" parentid="00-00004300">08 Масло, акрил, гуашь. Серия 234. Плоская ровная. Светло-коричневая из ворса вола
+			</category>
+			<category id="00-00004309" parentid="00-00004300">09 Масло, акрил, гуашь. Серия 235. Круглая остроконечная. Светло-коричневая из ворса вола
+			</category>
+			<category id="00-00004310" parentid="00-00004300">10 Масло, акрил, гуашь. Серия 294. Плоская ровная. Синтетика
+			</category>
+			<category id="00-00004311" parentid="00-00004300">11 Масло, акрил. Серия 295. Круглая, остроконечная. Синтетика
+			</category>
+			<category id="00-00004312" parentid="00-00004300">12 Масло, акрил, гуашь. Серия 296. Кошачий язычок. Синтетика
+			</category>
+			<category id="00-00004314" parentid="00-00004300">14 Малярные кисти: масло, гуашь, лак. Серия 362. Плоская широкая, ровная. Из обесцвеченной щетины
+			</category>
+			<category id="00-00004315" parentid="00-00004300">15 Малярные кисти: масло, акрил, лак. Серия 370. Плоская широкая, ровная. Синтетика
+			</category>
+			<category id="ЦУ-00001741" parentid="ЦУ-00001737">01 Краска офортная 200мл
+			</category>
+			<category id="ЦУ-00001742" parentid="ЦУ-00001737">02 Краска офортная 60мл
+			</category>
+			<category id="ЦУ-00002060" parentid="ЦУ-00002066">01 Акриловые краски College
+			</category>
+			<category id="ЦУ-00002067" parentid="ЦУ-00002066">02 Масляные краски College
+			</category>
+			<category id="ЦУ-00001847" parentid="ЦУ-00000346">01 Ластики в ассортименте
+			</category>
+			<category id="ЦУ-00001848" parentid="ЦУ-00000346">03 Дисплеи с ластиками
+			</category>
+			<category id="ЦУ-00001849" parentid="ЦУ-00000346">02 Наборы ластиков
+			</category>
+			<category id="ЦУ-00002468" parentid="ЦУ-00002467">01 Маркеры Copic Sketch в ассортименте
+			</category>
+			<category id="ЦУ-00002469" parentid="ЦУ-00002467">02 Наборы маркеров Copic Sketch
+			</category>
+			<category id="ЦБ-00000951" parentid="00-00002492">05 Сухая пастель Art Creation наборы
+			</category>
+			<category id="ЦБ-00000955" parentid="00-00002492">06 Масляная пастель Art Creation наборы
+			</category>
+			<category id="00-00003954" parentid="00-00002492">04 Гуашь Art Creation наборы
+			</category>
+			<category id="00-00002493" parentid="00-00002492">01 Масляные краски Art Creation наборы
+			</category>
+			<category id="00-00002494" parentid="00-00002492">02 Акриловые краски Art Creation наборы
+			</category>
+			<category id="00-00002495" parentid="00-00002492">03 Акварельные краски Art Creation наборы
+			</category>
+			<category id="00-00000001" parentid="ЦУ-00004525">02 CANSON
+			</category>
+			<category id="00-00001716" parentid="ЦУ-00004525">03 CANSON сырье
+			</category>
+			<category id="ЦБ-00000569" parentid="ЦУ-00004525">01 ARCHES
+			</category>
+			<category id="ЦБ-00003071" parentid="ЦУ-00004525">05 REFLEX
+			</category>
+			<category id="ЦБ-00002824" parentid="ЦУ-00004525">04 OXFORD
+			</category>
+			<category id="ЦБ-00004575" parentid="ЦУ-00004525">06 ПОДПИСНЫЕ ИЗДАНИЯ
+			</category>
+			<category id="ЦБ-00004577" parentid="ЦУ-00004525">07 SM-LT
+			</category>
+			<category id="ЦБ-00004589" parentid="ЦУ-00004525">09 TOMBOW
+			</category>
+			<category id="ЦБ-00004592" parentid="ЦУ-00004525">10 ShinHanart
+			</category>
+			<category id="ЦБ-00005158" parentid="ЦУ-00004525">11 Timberlicious
+			</category>
+			<category id="ЦУ-00004683" parentid="ЦУ-00004525">12 WAO-ESPRIMO(золочение)
+			</category>
+			<category id="ЦУ-00001718" parentid="ЦУ-00004525">08 AZIENDA
+			</category>
+			<category id="ЦБ-00003933" parentid="00-00007669">10 Новинки Academy
+			</category>
+			<category id="00-00007670" parentid="00-00007669">01 Альбомы для графики Academy
+			</category>
+			<category id="00-00007671" parentid="00-00007669">02 Карандаши чернографитовые ACADEMY
+			</category>
+			<category id="00-00007672" parentid="00-00007669">03 Набор акварельных красок Academy
+			</category>
+			<category id="00-00007673" parentid="00-00007669">04 Набор комбинированный Academy
+			</category>
+			<category id="00-00007674" parentid="00-00007669">05 Наборы акварельных карандашей Academy
+			</category>
+			<category id="00-00007675" parentid="00-00007669">06 Наборы масляной пастели Academy
+			</category>
+			<category id="00-00007676" parentid="00-00007669">07 Наборы цветных карандашей Academy
+			</category>
+			<category id="00-00007677" parentid="00-00007669">08 Наборы Academy Flip
+			</category>
+			<category id="00-00007678" parentid="00-00007669">09 Инструменты и аксессуары Academy Flip
+			</category>
+			<category id="00-00005649" parentid="00-00001890">05 Голубая серия для новичков и любителей
+			</category>
+			<category id="00-00006055" parentid="00-00001890">06 Альбомы для студентов серия XL
+			</category>
+			<category id="00-00002134" parentid="00-00001890">04 Для пастели
+			</category>
+			<category id="00-00000009" parentid="00-00001890">03 Для черчения и графики
+			</category>
+			<category id="00-00001891" parentid="00-00001890">01 Акварель
+			</category>
+			<category id="00-00001904" parentid="00-00001890">02 Масло и акрил
+			</category>
+			<category id="ЦУ-00001707" parentid="ЦУ-00001708">02 Тетради А4
+			</category>
+			<category id="00-00002170" parentid="00-00000004">01 Альбомы для рисования
+			</category>
+			<category id="00-00003679" parentid="00-00003677">01 Разноцветные ученические линеры
+			</category>
+			<category id="00-00003680" parentid="00-00003677">02 Многоразовые ученические линеры
+			</category>
+			<category id="00-00003682" parentid="00-00003677">03 Подростковая серия Bruynzeel
+			</category>
+			<category id="00-00003683" parentid="00-00003677">04 Чернографитовые карандаши с ластиком
+			</category>
+			<category id="00-00003684" parentid="00-00003677">05 Ластики
+			</category>
+			<category id="00-00003686" parentid="00-00003677">06 Текстовые маркеры-выделители
+			</category>
+			<category id="00-00003687" parentid="00-00003677">10 Циркули, точилки
+			</category>
+			<category id="00-00005688" parentid="00-00003677">07 Шариковые ручки MXZ
+			</category>
+			<category id="00-00005689" parentid="00-00003677">08 Механические карандаши
+			</category>
+			<category id="00-00005690" parentid="00-00003677">09 Ручки разные
+			</category>
+			<category id="00-00001039" parentid="00-00001038">Accademia
+			</category>
+			<category id="00-00001066" parentid="00-00001038">Artist Paperpack
+			</category>
+			<category id="00-00001073" parentid="00-00001038">Bristol
+			</category>
+			<category id="00-00001077" parentid="00-00001038">Carrara
+			</category>
+			<category id="00-00001084" parentid="00-00001038">Classic artists journal
+			</category>
+			<category id="00-00001089" parentid="00-00001038">Disegno Ecologico per Arti
+			</category>
+			<category id="00-00001097" parentid="00-00001038">Pergamon
+			</category>
+			<category id="00-00001104" parentid="00-00001038">Schizzi
+			</category>
+			<category id="00-00001120" parentid="00-00001038">Traccia
+			</category>
+			<category id="00-00000382" parentid="00-00000389">03 Canson® Edition
+			</category>
+			<category id="00-00002485" parentid="00-00002484">01 Акриловые краски AMSTERDAM Standardt (тубы)
+			</category>
+			<category id="00-00005710" parentid="00-00002484">04 Акриловые краски AMSTERDAM (банка 0,5л и 1л)
+			</category>
+			<category id="00-00005453" parentid="00-00002484">02 Акриловые краски AMSTERDAM (аэрозоль)
+			</category>
+			<category id="00-00005454" parentid="00-00002484">03 Акриловые маркеры AMSTERDAM
+			</category>
+			<category id="ЦБ-00003744" parentid="00-00002484">07 Вспомогательные средства AMSTERDAM
+			</category>
+			<category id="ЦБ-00000962" parentid="00-00002484">06 Чернила акриловые AMSTERDAM банка, стекло 30мл
+			</category>
+			<category id="ЦБ-00000736" parentid="00-00002484">05 Акриловые краски AMSTERDAM Expert (тубы)
+			</category>
+			<category id="ЦБ-00003593" parentid="00-00003469">06 Серия BRUYNZEEL Back to school
+			</category>
+			<category id="00-00004478" parentid="00-00003469">02 Детская серия
+			</category>
+			<category id="00-00005274" parentid="00-00003469">05 Наборы карандашей Bruynzeel Expression
+			</category>
+			<category id="00-00003676" parentid="00-00003469">01 Дизайн, хобби, творчество
+			</category>
+			<category id="00-00003677" parentid="00-00003469">03 Школьная серия MXZ
+			</category>
+			<category id="00-00003678" parentid="00-00003469">04 Профессиональные художественные материалы
+			</category>
+			<category id="00-00004313" parentid="00-00003469">13 Акварель, гуашь, лак. Серия 305. Плоская ровная. Синтетика
+			</category>
+			<category id="00-00002407" parentid="00-00002150">03 А4, 100гр
+			</category>
+			<category id="00-00002151" parentid="00-00002150">01 50х65, 100гр
+			</category>
+			<category id="00-00002152" parentid="00-00002150">02 50х65, 125гр
+			</category>
+			<category id="ЦБ-00003538" parentid="ЦБ-00002824">08 Новинки
+			</category>
+			<category id="ЦБ-00002825" parentid="ЦБ-00002824">01 Адресная книга OXFORD
+			</category>
+			<category id="ЦБ-00002826" parentid="ЦБ-00002824">02 Бизнес-тетрадь OXFORD Inrernational
+			</category>
+			<category id="ЦБ-00002827" parentid="ЦБ-00002824">03 Блокнот OXFORD
+			</category>
+			<category id="ЦБ-00002828" parentid="ЦБ-00002824">04 Бумага для флипчартов OXFORD
+			</category>
+			<category id="ЦБ-00002829" parentid="ЦБ-00002824">05 Записная книжка OXFORD Pocket Notes
+			</category>
+			<category id="ЦБ-00002830" parentid="ЦБ-00002824">06 Набор бизнес-тетрадей OXFORD
+			</category>
+			<category id="ЦБ-00002831" parentid="ЦБ-00002824">07 Набор блокнотов OXFORD
+			</category>
+			<category id="ЦБ-00004239" parentid="ЦБ-00004228">01 Strathmore 200 для акварели
+			</category>
+			<category id="ЦУ-00001696" parentid="ЦБ-00004574">01 Маркеры Touch в ассортименте
+			</category>
+			<category id="ЦУ-00001697" parentid="ЦБ-00004574">02 Наборы маркеров Touch
+			</category>
+			<category id="ЦУ-00001698" parentid="ЦБ-00004574">03 Маркеры Touch Brush в ассортименте
+			</category>
+			<category id="ЦУ-00001699" parentid="ЦБ-00004574">04 Наборы маркеров Touch Brush
+			</category>
+			<category id="ЦУ-00001700" parentid="ЦБ-00004574">05 Заправки для маркеров Touch
+			</category>
+			<category id="ЦУ-00001701" parentid="ЦБ-00004574">06 Линеры Touch
+			</category>
+			<category id="ЦУ-00001702" parentid="ЦБ-00004574">07 Линеры Touch Brush
+			</category>
+			<category id="ЦУ-00001703" parentid="ЦБ-00004574">08 Наборы линеров Touch
+			</category>
+			<category id="ЦУ-00001704" parentid="ЦБ-00004574">09 Бумага и альбомы для маркеров Touch
+			</category>
+			<category id="ЦУ-00001705" parentid="ЦБ-00004574">10 Аксессуары Touch
+			</category>
+			<category id="00-00000017" parentid="00-00000199">04 XL®
+			</category>
+			<category id="ЦБ-00001443" parentid="ЦБ-00001429">01 Бумага для офорта в листах Fabriano
+			</category>
+			<category id="00-00003056" parentid="00-00000011">05 Velin Johannot
+			</category>
+			<category id="00-00003061" parentid="00-00000011">06 Arches® Platine
+			</category>
+			<category id="00-00000243" parentid="00-00000011">01 Canson® Edition (Эдишн)
+			</category>
+			<category id="00-00000244" parentid="00-00000011">02 Velin d`Arches® (Велин дАрш)
+			</category>
+			<category id="00-00000245" parentid="00-00000011">03 Velin BFK Rives® (БФК Ривс)
+			</category>
+			<category id="00-00000246" parentid="00-00000011">04 Arches® Ingres MBM (Игрес МБМ)
+			</category>
+			<category id="00-00005324" parentid="00-00000011">07 Arches 88
+			</category>
+			<category id="00-00003473" parentid="00-00005661">07 Гелевые декоративные ручки Gelly Roll
+			</category>
+			<category id="00-00003474" parentid="00-00005661">06 Ручка-контур Glaze
+			</category>
+			<category id="00-00003475" parentid="00-00005661">01 Декоративная ручка Soufflě
+			</category>
+			<category id="00-00003476" parentid="00-00005661">02 Декоративная ручка Metallic
+			</category>
+			<category id="00-00003477" parentid="00-00005661">03 Декоративная ручка Moonlight
+			</category>
+			<category id="00-00003478" parentid="00-00005661">04 Декоративная ручка Stardust
+			</category>
+			<category id="00-00003479" parentid="00-00005661">05 Декоративная ручка Gold Silver Shadow
+			</category>
+			<category id="00-00002169" parentid="00-00002134">01 Mi-Teintes® Touch
+			</category>
+			<category id="00-00001700" parentid="00-00000010">Прочие бумаги
+			</category>
+			<category id="00-00002209" parentid="00-00002134">02 Mi-Teintes® (Митант)
+			</category>
+			<category id="00-00006894" parentid="00-00007665">01 Карандаши пастельные Pastel в ассортименте
+			</category>
+			<category id="00-00007709" parentid="00-00007665">02 Наборы пастельных карандашей Pastel
+			</category>
+			<category id="00-00007710" parentid="00-00007665">03 Наборы карандашей Pastel Collection
+			</category>
+			<category id="00-00000273" parentid="00-00000012">01 Картон Conservation для хранения
+			</category>
+			<category id="00-00000274" parentid="00-00000012">02 Картон для паспарту Mi-Teintes® (Митант)
+			</category>
+			<category id="ЦУ-00004410" parentid="00-00000012">03 Картон для паспарту Mosaica
+			</category>
+			<category id="00-00004318" parentid="00-00004316">01 Акварель, гуашь. Серия 150. Круглая коническая. Пони/коза
+			</category>
+			<category id="00-00004319" parentid="00-00004316">02 Масло, акрил, гуашь. Серия 220. Плоская ровная. Щетина
+			</category>
+			<category id="00-00004320" parentid="00-00004316">03 Масло, акрил, гуашь. Серия 221. Круглая. Щетина
+			</category>
+			<category id="00-00004321" parentid="00-00004316">04 Масло, акрил, гуашь. Серия 222. Плоская с закругленным концом. Щетина
+			</category>
+			<category id="00-00004322" parentid="00-00004316">05 Плакатные кисти: гуашь. Серия 350. Круглая ровная. Щетина
+			</category>
+			<category id="00-00004323" parentid="00-00004316">06 Малярные кисти: Лак, масло, акрил, гуашь. Серия 360. Плоская широкая, ровная. Щетина
+			</category>
+			<category id="ЦУ-00001744" parentid="ЦУ-00001743">01 Краска акриловая LOUVRE 80мл
+			</category>
+			<category id="ЦУ-00001745" parentid="ЦУ-00001743">03 Наборы акриловых красок LOUVRE
+			</category>
+			<category id="ЦУ-00001746" parentid="ЦУ-00001743">02 Краска акриловая LOUVRE 200мл
+			</category>
+			<category id="ЦУ-00002083" parentid="ЦУ-00002063">01 Краски масляные Mussini 35мл
+			</category>
+			<category id="ЦУ-00002084" parentid="ЦУ-00002063">02 Наборы масляных красок Mussini
+			</category>
+			<category id="ЦУ-00001841" parentid="ЦУ-00000344">01 Маркеры Tombow ABT Dual Brush в ассортименте
+			</category>
+			<category id="ЦУ-00001842" parentid="ЦУ-00000344">02 Наборы маркеров Tombow ABT Dual Brush
+			</category>
+			<category id="ЦБ-00001120" parentid="00-00002482">01 Масляная пастель VAN GOGH в ассортименте
+			</category>
+			<category id="ЦБ-00001121" parentid="00-00002482">02 Масляная пастель VAN GOGH Наборы
+			</category>
+			<category id="00-00005802" parentid="00-00004123">02 Наборы кисточек Art Creation Акварель
+			</category>
+			<category id="00-00005803" parentid="00-00004123">01 Наборы кисточек Art Creation Масло/Акрил/Гуашь
+			</category>
+			<category id="00-00003930" parentid="00-00003678">07 Сопутствующие товары
+			</category>
+			<category id="ЦБ-00004158" parentid="00-00003678">05 Музейная серия карандашей Bruynzeel
+			</category>
+			<category id="00-00003689" parentid="00-00003678">01 Акварельные карандаши Design
+			</category>
+			<category id="00-00003690" parentid="00-00003678">02 Чернографитовые карандаши Design
+			</category>
+			<category id="00-00003691" parentid="00-00003678">03 Цветные карандаши Design
+			</category>
+			<category id="00-00003692" parentid="00-00003678">04 Пастельные карандаши Design
+			</category>
+			<category id="00-00003693" parentid="00-00003678">08 Чернографитовые карандаши, серия BUROTEK
+			</category>
+			<category id="00-00003694" parentid="00-00003678">06 Наборы для каллиграфии Bruynzeel
+			</category>
+			<category id="00-00001290" parentid="ЦУ-00004526">32 SCHOELLERSHAMMER
+			</category>
+			<category id="00-00001474" parentid="ЦУ-00004526">30 MITSUBISHI
+			</category>
+			<category id="00-00001481" parentid="ЦУ-00004526">33 Китайские бумаги
+			</category>
+			<category id="00-00002211" parentid="ЦУ-00004526">04 Пивной картон
+			</category>
+			<category id="ЦБ-00004573" parentid="ЦУ-00004526">29 РКХ НОМЕНКЛАТУРА
+			</category>
+			<category id="ЦБ-00004593" parentid="ЦУ-00004526">10 CHAMELEON PENS
+			</category>
+			<category id="ЦБ-00004594" parentid="ЦУ-00004526">11 MANETTI
+			</category>
+			<category id="ЦБ-00004595" parentid="ЦУ-00004526">12 MASSERINI
+			</category>
+			<category id="ЦБ-00004590" parentid="ЦУ-00004526">09 MIJELLO
+			</category>
+			<category id="ЦБ-00004591" parentid="ЦУ-00004526">17 Graphmaster Markers
+			</category>
+			<category id="ЦБ-00004587" parentid="ЦУ-00004526">07 RHODIA
+			</category>
+			<category id="ЦБ-00004588" parentid="ЦУ-00004526">08 LEFRANC
+			</category>
+			<category id="ЦБ-00004578" parentid="ЦУ-00004526">26 FERRARIO
+			</category>
+			<category id="ЦБ-00004579" parentid="ЦУ-00004526">16 LIQUITEX
+			</category>
+			<category id="ЦБ-00004580" parentid="ЦУ-00004526">15 UNISON
+			</category>
+			<category id="ЦБ-00004581" parentid="ЦУ-00004526">20 Kuretake / ZIG
+			</category>
+			<category id="ЦБ-00004582" parentid="ЦУ-00004526">22 MABEF
+			</category>
+			<category id="ЦБ-00004597" parentid="ЦУ-00004526">13 NAZIONALE
+			</category>
+			<category id="ЦБ-00004598" parentid="ЦУ-00004526">27 Pebeo
+			</category>
+			<category id="ЦБ-00004599" parentid="ЦУ-00004526">06 CLAIRE FONTAINE
+			</category>
+			<category id="ЦБ-00004600" parentid="ЦУ-00004526">21 William Mitchell
+			</category>
+			<category id="ЦБ-00004604" parentid="ЦУ-00004526">28 Winsor из РХК
+			</category>
+			<category id="ЦБ-00004605" parentid="ЦУ-00004526">18 POTENTATE
+			</category>
+			<category id="ЦБ-00004606" parentid="ЦУ-00004526">19 CHARTPAK
+			</category>
+			<category id="ЦБ-00004607" parentid="ЦУ-00004526">21 HIGGINS
+			</category>
+			<category id="ЦБ-00004608" parentid="ЦУ-00004526">14 Belle Arti
+			</category>
+			<category id="ЦБ-00004244" parentid="ЦУ-00004526">31 MONT MARTE
+			</category>
+			<category id="ЦБ-00005148" parentid="ЦУ-00004526">24 NUUNA
+			</category>
+			<category id="ЦБ-00005149" parentid="ЦУ-00004526">25 Открытки ручной работы
+			</category>
+			<category id="ЦБ-00005129" parentid="ЦУ-00004526">23 SAUNDERS
+			</category>
+			<category id="ЦБ-00003163" parentid="ЦУ-00004526">34 STRATHMORE
+			</category>
+			<category id="ЦБ-00003178" parentid="ЦУ-00004526">05 ПЕНОКАРТОН
+			</category>
+			<category id="GI81130" parentid="ЦУ-00004526">02 GRAPHIT
+			</category>
+			<category id="00-00006213" parentid="ЦУ-00004526">01 STYLEFILE
+			</category>
+			<category id="ЦБ-00000163" parentid="ЦУ-00004526">03 WINSOR NEWTON
+			</category>
+			<category id="ЦБ-00001111" parentid="00-00002475">01 Пастель сухая Rembrandt в ассортименте
+			</category>
+			<category id="ЦБ-00001112" parentid="00-00002475">02 Пастель сухая Rembrandt наборы
+			</category>
+			<category id="00-00000285" parentid="00-00000005">01 CAD материалы для струйной печати
+			</category>
+			<category id="00-00001249" parentid="00-00000005">02 Материалы для ручной работы и лазерной печати
+			</category>
+			<category id="00-00000389" parentid="00-00000393">04 1557®
+			</category>
+			<category id="ЦБ-00004220" parentid="ЦБ-00003071">01 Калька Reflex
+			</category>
+			<category id="ЦБ-00004221" parentid="ЦБ-00003071">02 Альбомы Reflex
+			</category>
+			<category id="ЦУ-00001777" parentid="ЦБ-00004576">01 Кисти художественные
+			</category>
+			<category id="ЦУ-00001778" parentid="ЦБ-00004576">02 Кисти для хобби
+			</category>
+			<category id="ЦУ-00001779" parentid="ЦБ-00004576">03 Кисти для ногтевого дизайна
+			</category>
+			<category id="ЦУ-00001780" parentid="ЦБ-00004576">04 Наборы кистей
+			</category>
+			<category id="ЦУ-00001781" parentid="ЦБ-00004576">05 Прочее
+			</category>
+			<category id="00-00004898" parentid="00-00002486">05 Гуашь TALENS
+			</category>
+			<category id="00-00002487" parentid="00-00002486">01 Чернила TALENS
+			</category>
+			<category id="00-00002488" parentid="00-00002486">02 Вспомогательные средства TALENS
+			</category>
+			<category id="00-00002489" parentid="00-00002486">03 Аксессуары TALENS
+			</category>
+			<category id="00-00002490" parentid="00-00002486">04 Мольберты TALENS
+			</category>
+			<category id="ЦБ-00000741" parentid="ЦБ-00000736">01 Акрил AMSTERDAM туба 150мл
+			</category>
+			<category id="ЦБ-00000742" parentid="ЦБ-00000736">02 Акрил AMSTERDAM банка 400мл
+			</category>
+			<category id="ЦБ-00000916" parentid="ЦБ-00000736">03 Акрил AMSTERDAM туба 75мл
+			</category>
+			<category id="ЦБ-00001444" parentid="ЦБ-00001430">01 Склейки, альбомы для пастели Fabriano
+			</category>
+			<category id="ЦБ-00001445" parentid="ЦБ-00001430">02 Бумага для пастели в листах Fabriano Tiziano
+			</category>
+			<category id="ЦБ-00001446" parentid="ЦБ-00001430">03 Бумага для пастели в рулонах Fabriano Tiziano
+			</category>
+			<category id="00-00004899" parentid="00-00004898">01 Гуашь Talens в тубах 20мл, 60 цветов
+			</category>
+			<category id="00-00004900" parentid="00-00004898">02 Гуашь Talens в тубах 60мл, 2 цвета
+			</category>
+			<category id="00-00004901" parentid="00-00004898">03 Гуашь Talens в стекле 16мл, 50 цветов
+			</category>
+			<category id="00-00004902" parentid="00-00004898">04 Гуашь Talens в стекле 16мл металлики
+			</category>
+			<category id="00-00004903" parentid="00-00004898">05 Гуашь Talens в стекле 50мл, 45 цветов
+			</category>
+			<category id="00-00004904" parentid="00-00004898">06 Гуашь Talens в стекле 50мл металлики
+			</category>
+			<category id="00-00004905" parentid="00-00004898">07 Наборы гуаши Talens
+			</category>
+			<category id="00-00006187" parentid="00-00004898">08 Гуашь Talens в стекле 16мл флюоресцентные цвета
+			</category>
+			<category id="00-00006193" parentid="00-00004898">09 Гуашь Talens в стекле 50мл флюоресцентные цвета
+			</category>
+			<category id="00-00006891" parentid="00-00007666">07 Карандаши цветные Metallic в ассортименте
+			</category>
+			<category id="00-00006892" parentid="00-00007666">01 Карандаши цветные Artists в ассортименте
+			</category>
+			<category id="00-00006893" parentid="00-00007666">09 Карандаши цветные Studio в ассортименте
+			</category>
+			<category id="00-00007309" parentid="00-00007666">05 Карандаши цветные Drawing в ассортименте
+			</category>
+			<category id="00-00007307" parentid="00-00007666">03 Карандаши цветные Coloursoft в ассортименте
+			</category>
+			<category id="00-00007711" parentid="00-00007666">11 Наборы карандашей Colour Collection
+			</category>
+			<category id="00-00007712" parentid="00-00007666">10 Наборы цветных карандашей Studio
+			</category>
+			<category id="00-00007713" parentid="00-00007666">02 Наборы цветных карандашей Artists
+			</category>
+			<category id="00-00007714" parentid="00-00007666">04 Наборы цветных карандашей Coloursoft
+			</category>
+			<category id="00-00007715" parentid="00-00007666">06 Наборы цветных карандашей Drawing
+			</category>
+			<category id="00-00007716" parentid="00-00007666">08 Наборы цветных карандашей Metallic
+			</category>
+			<category id="ЦБ-00002739" parentid="00-00007666">12 Карандаши цветные Procolour в ассортименте
+			</category>
+			<category id="ЦБ-00002740" parentid="00-00007666">13 Набор цветных карандашей Procolour
+			</category>
+			<category id="ЦБ-00003946" parentid="00-00007666">14 Набор цветных карандашей Lightfast
+			</category>
+			<category id="ЦБ-00004909" parentid="00-00007666">15 Карандаши цветные Lightfast в ассортименте
+			</category>
+			<category id="ЦУ-00000075" parentid="ЦУ-00000071">01 Кисти художественные VanGogh
+			</category>
+			<category id="ЦУ-00002312" parentid="ЦУ-00000071">02 Кисти художественные Amsterdam
+			</category>
+			<category id="ЦУ-00001748" parentid="ЦУ-00001747">01 Краска масляная LOUVRE 60мл
+			</category>
+			<category id="ЦУ-00001749" parentid="ЦУ-00001747">02 Наборы масляных красок LOUVRE
+			</category>
+			<category id="ЦУ-00002077" parentid="ЦУ-00002076">01 Масляные краски Norma professional 35мл
+			</category>
+			<category id="ЦУ-00002078" parentid="ЦУ-00002076">02 Масляные краски Norma professional 120мл
+			</category>
+			<category id="ЦУ-00002079" parentid="ЦУ-00002076">03 Наборы масляных красок Norma professional
+			</category>
+			<category id="ЦУ-00004187" parentid="ЦУ-00004527">04 da Vinci
+			</category>
+			<category id="ЦУ-00000036" parentid="ЦУ-00004527">06 LEONARD
+			</category>
+			<category id="ЦУ-00000052" parentid="ЦУ-00004527">05 Hahnemuhle
+			</category>
+			<category id="ЦБ-00004602" parentid="ЦУ-00004527">02 ESCODA
+			</category>
+			<category id="ЦБ-00004603" parentid="ЦУ-00004527">01 Daniel Smith
+			</category>
+			<category id="ЦБ-00004586" parentid="ЦУ-00004527">03 SCHMINCKE
+			</category>
+			<category id="00-00005275" parentid="00-00005274">01 Цветные карандаши Bruynzeel Expression Colour
+			</category>
+			<category id="00-00005276" parentid="00-00005274">02 Акварельные карандаши Bruynzeel Expression Aquarel
+			</category>
+			<category id="00-00005277" parentid="00-00005274">03 Карандаши для графики Bruynzeel Expression
+			</category>
+			<category id="ЦБ-00003931" parentid="ЦБ-00003178">02 Пенокартон Корея
+			</category>
+			<category id="ЦБ-00003932" parentid="ЦБ-00003178">01 Пенокартон Emball’iso
+			</category>
+			<category id="ЦУ-00004754" parentid="00-00003480">01 Ручка капиллярная Pigma Micron цветные
+			</category>
+			<category id="ЦУ-00004755" parentid="00-00003480">03 Наборы ручек Pigma Micron
+			</category>
+			<category id="ЦУ-00004756" parentid="00-00003480">02 Ручка капиллярная Pigma Micron черные
+			</category>
+			<category id="ЦУ-00000348" parentid="ЦУ-00000345">05 Стержни для ручек
+			</category>
+			<category id="ЦУ-00001850" parentid="ЦУ-00000345">04 Роллеры
+			</category>
+			<category id="ЦУ-00001833" parentid="ЦУ-00000345">01 Линеры Tombow Mono
+			</category>
+			<category id="ЦУ-00001834" parentid="ЦУ-00000345">02 Шариковые ручки
+			</category>
+			<category id="ЦУ-00001835" parentid="ЦУ-00000345">03 Многофункциональные ручки ZOOM L104
+			</category>
+			<category id="ЦУ-00001855" parentid="ЦУ-00000345">07 Дисплеи с ручками
+			</category>
+			<category id="ЦУ-00001859" parentid="ЦУ-00000345">06 Наборы ручек
+			</category>
+			<category id="ЦУ-00003706" parentid="ЦУ-00003705">01 Ручки капиллярные Copic в ассортименте
+			</category>
+			<category id="ЦУ-00003707" parentid="ЦУ-00003705">02 Наборы ручек капиллярных Copic
+			</category>
+			<category id="ЦУ-00003708" parentid="ЦУ-00003705">03 Наконечники для ручек
+			</category>
+			<category id="ЦБ-00004945" parentid="00-00002491">09 Краски для декорирования Art Creation
+			</category>
+			<category id="00-00004028" parentid="00-00002491">01 Акриловые краски Art Creation
+			</category>
+			<category id="00-00004072" parentid="00-00002491">02 Масляные краски Art Creation
+			</category>
+			<category id="00-00004123" parentid="00-00002491">04 Наборы кисточек Art Creation
+			</category>
+			<category id="00-00004151" parentid="00-00002491">05 Наборы мастихинов Art Creation
+			</category>
+			<category id="00-00004941" parentid="00-00002491">07 Мольберты Art Creation
+			</category>
+			<category id="00-00004959" parentid="00-00002491">08 Холсты Art Creation
+			</category>
+			<category id="00-00005408" parentid="00-00002491">06 Аксессуары Art Creation
+			</category>
+			<category id="00-00002492" parentid="00-00002491">03 Наборы красок Art Creation
+			</category>
+			<category id="ЦУ-00002088" parentid="ЦБ-00004599">03 Бумага для смешаных техник
+			</category>
+			<category id="ЦУ-00002089" parentid="ЦБ-00004599">11 Образцы, тестовая бумага
+			</category>
+			<category id="ЦУ-00002090" parentid="ЦБ-00004599">07 Альбомы, блокноты для маркера
+			</category>
+			<category id="ЦУ-00001814" parentid="ЦБ-00004599">02 Бумага для пастели
+			</category>
+			<category id="ЦУ-00001819" parentid="ЦБ-00004599">06 Альбомы, блокноты для сухих техник
+			</category>
+			<category id="ЦУ-00001820" parentid="ЦБ-00004599">04 Альбомы, блокноты для акрила
+			</category>
+			<category id="ЦУ-00001821" parentid="ЦБ-00004599">05 Альбомы, блокноты для масла
+			</category>
+			<category id="ЦУ-00001828" parentid="ЦБ-00004599">10 Образцы, тестовая бумага
+			</category>
+			<category id="ЦУ-00001831" parentid="ЦБ-00004599">08 Бумага для творчества
+			</category>
+			<category id="ЦУ-00001832" parentid="ЦБ-00004599">09 Тетради
+			</category>
+			<category id="ЦУ-00001809" parentid="ЦБ-00004599">01 Бумага для акварели ClairFontaine
+			</category>
+			<category id="00-00000393" parentid="00-00000397">05 C a grain®
+			</category>
+			<category id="ЦУ-00001720" parentid="ЦБ-00004596">01 Держатели для перьев Manuscript
+			</category>
+			<category id="ЦУ-00001721" parentid="ЦБ-00004596">02 Перья для каллиграфии Manuscript в ассортименте
+			</category>
+			<category id="ЦУ-00001722" parentid="ЦБ-00004596">03 Наборы перьев для каллиграфии Manuscript
+			</category>
+			<category id="ЦУ-00001723" parentid="ЦБ-00004596">04 Наборы пишущих узлов Manuscript
+			</category>
+			<category id="ЦУ-00001724" parentid="ЦБ-00004596">05 Пишущие узлы Manuscript в ассортименте
+			</category>
+			<category id="ЦУ-00001725" parentid="ЦБ-00004596">06 Чернила Manuscript
+			</category>
+			<category id="ЦУ-00001726" parentid="ЦБ-00004596">07 Тушь Manuscript
+			</category>
+			<category id="ЦУ-00001727" parentid="ЦБ-00004596">08 Наборы для каллиграфии Manuscript
+			</category>
+			<category id="ЦУ-00001728" parentid="ЦБ-00004596">09 Ручки перьевые Manuscript
+			</category>
+			<category id="ЦУ-00001729" parentid="ЦБ-00004596">10 Наборы маркеров Manuscript
+			</category>
+			<category id="ЦУ-00001730" parentid="ЦБ-00004596">11 Кисти и наборы кистей Manuscript
+			</category>
+			<category id="ЦУ-00001731" parentid="ЦБ-00004596">12 Бумага для каллиграфии Manuscript
+			</category>
+			<category id="ЦУ-00001732" parentid="ЦБ-00004596">13 Наборы картриджей Manuscript
+			</category>
+			<category id="ЦУ-00001733" parentid="ЦБ-00004596">14 Аксессуары Manuscript
+			</category>
+			<category id="ЦБ-00004998" parentid="ЦБ-00004596">нак
+			</category>
+			<category id="ЦУ-00002471" parentid="ЦУ-00002470">01 Пеналы для маркеров
+			</category>
+			<category id="ЦУ-00002472" parentid="ЦУ-00002470">02 Альбомы
+			</category>
+			<category id="ЦУ-00002473" parentid="ЦУ-00002470">03 Наборы перьев
+			</category>
+			<category id="ЦУ-00002474" parentid="ЦУ-00002470">04 Аксессуары
+			</category>
+			<category id="ЦУ-00002094" parentid="ЦУ-00001819">09 Блокноты KRAFT
+			</category>
+			<category id="ЦУ-00001829" parentid="ЦУ-00001819">06 Блокноты ZAP BOOK
+			</category>
+			<category id="ЦУ-00001830" parentid="ЦУ-00001819">07 Блокноты DESSIN GRAIN
+			</category>
+			<category id="ЦУ-00001822" parentid="ЦУ-00001819">01 Альбомы Bristol
+			</category>
+			<category id="ЦУ-00001823" parentid="ЦУ-00001819">02 Блокноты DESSIN CROQUIS
+			</category>
+			<category id="ЦУ-00001824" parentid="ЦУ-00001819">03 Блокноты GRAF IT
+			</category>
+			<category id="ЦУ-00001825" parentid="ЦУ-00001819">04 Блокноты SKETCH
+			</category>
+			<category id="ЦУ-00001827" parentid="ЦУ-00001819">05 Блокноты GOLDLINE
+			</category>
+			<category id="ЦУ-00002033" parentid="ЦУ-00001819">08 Блокноты CROKBOOK
+			</category>
+			<category id="ЦБ-00001447" parentid="ЦБ-00001431">01 Блокноты, альбомы Fabriano
+			</category>
+			<category id="ЦБ-00001448" parentid="ЦБ-00001431">02 Бумага для рисования и зарисовок в листах Fabriano
+			</category>
+			<category id="ЦБ-00001449" parentid="ЦБ-00001431">03 Бумага для рисования и зарисовок в рулонах Fabriano Accademia
+			</category>
+			<category id="00-00002458" parentid="00-00001073">01 Гофрокартон 50х70
+			</category>
+			<category id="00-00002459" parentid="00-00001073">02 Гофрокартон А4
+			</category>
+			<category id="00-00002419" parentid="00-00000975">05 Вержированная бумага
+			</category>
+			<category id="00-00000976" parentid="00-00000975">01 Бумага с покрытием, А3
+			</category>
+			<category id="00-00000983" parentid="00-00000975">02 Бумага с покрытием, 50*65 см
+			</category>
+			<category id="00-00001457" parentid="00-00000975">03 Бумага с покрытием металлик, А4
+			</category>
+			<category id="00-00003066" parentid="00-00000975">06 Бумага с покрытием Astralux
+			</category>
+			<category id="00-00003148" parentid="00-00000975">07 Текстурированная бумага
+			</category>
+			<category id="00-00003249" parentid="00-00000975">08 Натуральная бумага
+			</category>
+			<category id="00-00002383" parentid="00-00000975">04 Бумага с покрытием, А4
+			</category>
+			<category id="00-00002133" parentid="00-00002012">02 Mi-Teintes® Touch
+			</category>
+			<category id="00-00002167" parentid="00-00002012">01 Mi-Teintes® (Митант)
+			</category>
+			<category id="00-00006895" parentid="00-00007667">01 Карандаши чергнографитные Graphic в ассортименте
+			</category>
+			<category id="00-00007717" parentid="00-00007667">02 Наборы чернографитных карандашей Graphic
+			</category>
+			<category id="00-00007718" parentid="00-00007667">03 Карандаши чернографитные Sketching в ассортименте
+			</category>
+			<category id="00-00007719" parentid="00-00007667">04 Наборы чернографитных карандашей Sketching
+			</category>
+			<category id="00-00007720" parentid="00-00007667">05 Наборы карандашей Sletching Collection
+			</category>
+			<category id="00-00007721" parentid="00-00007667">06 Карандаш чернографитный водорастворимый Sketching в ассортименте
+			</category>
+			<category id="00-00007722" parentid="00-00007667">07 Наборы чернографитных водорастворимых карандашей Sketching
+			</category>
+			<category id="00-00007723" parentid="00-00007667">08 Карандаш чернографитный водорастворимый Graphitone в ассортименте
+			</category>
+			<category id="00-00007724" parentid="00-00007667">09 Наборы чернографитных водорастворимых карандашей Graphitone
+			</category>
+			<category id="00-00007725" parentid="00-00007667">10 Карандаш чернографитный Onyx в ассортименте
+			</category>
+			<category id="00-00007726" parentid="00-00007667">11 Наборы чернографитных карандашей Onyx
+			</category>
+			<category id="ЦУ-00001844" parentid="ЦУ-00001843">01 Корректор-ленты в ассортименте
+			</category>
+			<category id="ЦУ-00001845" parentid="ЦУ-00001843">02 Сменные корректор-ленты
+			</category>
+			<category id="ЦУ-00001846" parentid="ЦУ-00001843">03 Дисплеи с корректор-лентами
+			</category>
+			<category id="ЦБ-00004215" parentid="ЦБ-00002830">06 Набор бизнес-тетрадей OXFORD Off.
+			</category>
+			<category id="ЦБ-00004216" parentid="ЦБ-00002830">07 Набор бизнес-тетрадей OXFORD Beauty EDEN
+			</category>
+			<category id="ЦБ-00004210" parentid="ЦБ-00002830">03 Набор бизнес-тетрадей OXFORD Urban Mix
+			</category>
+			<category id="ЦБ-00004211" parentid="ЦБ-00002830">01 Набор бизнес-тетрадей OXFORD My Colours
+			</category>
+			<category id="ЦБ-00004212" parentid="ЦБ-00002830">02 Набор бизнес-тетрадей OXFORD Essentials Notebook
+			</category>
+			<category id="ЦБ-00004213" parentid="ЦБ-00002830">04 Набор бизнес-тетрадей OXFORD SOS
+			</category>
+			<category id="ЦБ-00004214" parentid="ЦБ-00002830">05 Набор бизнес-тетрадей OXFORD Woman
+			</category>
+			<category id="ЦБ-00005132" parentid="ЦБ-00002830">08 Набор бизнес-тетрадей OXFORD Office Signature
+			</category>
+			<category id="ЦБ-00005146" parentid="ЦБ-00003892">16 SM-LT - Оборудование
+			</category>
+			<category id="ЦБ-00005147" parentid="ЦБ-00003892">17 FERRARIO - Оборудование
+			</category>
+			<category id="ЦБ-00005113" parentid="ЦБ-00003892">09 ShinHanart - Оборудование
+			</category>
+			<category id="ЦБ-00005114" parentid="ЦБ-00003892">10 Claire Fontaine - Оборудование
+			</category>
+			<category id="ЦБ-00005115" parentid="ЦБ-00003892">11 KAWECO - Оборудование
+			</category>
+			<category id="ЦБ-00005116" parentid="ЦБ-00003892">12 MIJELLO - Оборудование
+			</category>
+			<category id="ЦБ-00005117" parentid="ЦБ-00003892">13 Fabriano - Оборудование
+			</category>
+			<category id="ЦБ-00005118" parentid="ЦБ-00003892">14 LEFRANC - Оборудование
+			</category>
+			<category id="ЦБ-00005119" parentid="ЦБ-00003892">15 TOMBOW - Оборудование
+			</category>
+			<category id="ЦБ-00001022" parentid="ЦБ-00003892">07 WINSOR NEWTON - Оборудование W N
+			</category>
+			<category id="ЦБ-00000691" parentid="ЦБ-00003892">08 DERWENT - Образцы и POS материалы
+			</category>
+			<category id="ЦУ-00001734" parentid="ЦБ-00003892">18 Подписные издания - Оборудование
+			</category>
+			<category id="ЦУ-00005061" parentid="ЦБ-00003892">19 Copic - Оборудование
+			</category>
+			<category id="00-00004008" parentid="ЦБ-00003892">02 ROYAL TALENS - Стенды, промо и POS материалы
+			</category>
+			<category id="00-00006372" parentid="ЦБ-00003892">06 GRAPHIT - Оборудование
+			</category>
+			<category id="00-00006218" parentid="ЦБ-00003892">05 STYLEFILE - Оборудование, POS материалы
+			</category>
+			<category id="00-00004148" parentid="ЦБ-00003892">03 BRUYNZEEL-SAKURA - Стенды, промо и POS материалы
+			</category>
+			<category id="00-00007965" parentid="ЦБ-00003892">04 DERWENT- Оборудование
+			</category>
+			<category id="00-00000006" parentid="ЦБ-00003892">01 CANSON - Стенды, промо и POS материалы
+			</category>
+			<category id="ЦУ-00001706" parentid="ЦБ-00004575">01 Значки эмалированные
+			</category>
+			<category id="ЦУ-00001708" parentid="ЦБ-00004575">03 Тетради А5
+			</category>
+			<category id="ЦУ-00001709" parentid="ЦБ-00004575">04 Тетради А6
+			</category>
+			<category id="ЦУ-00001710" parentid="ЦБ-00004575">05 Блокноты
+			</category>
+			<category id="ЦУ-00001711" parentid="ЦБ-00004575">06 Скетчбуки
+			</category>
+			<category id="ЦУ-00001712" parentid="ЦБ-00004575">07 Подарочная упаковка
+			</category>
+			<category id="ЦУ-00001717" parentid="ЦБ-00004575">08 Сувениры
+			</category>
+			<category id="ЦБ-00001122" parentid="00-00008251">01 Пастель сухая VAN GOGH в ассортименте
+			</category>
+			<category id="ЦБ-00001123" parentid="00-00008251">02 Пастель сухая VAN GOGH Наборы
+			</category>
+			<category id="00-00001146" parentid="00-00001145">Esportazione
+			</category>
+			<category id="00-00001153" parentid="00-00001145">Rosaspina
+			</category>
+			<category id="00-00001158" parentid="00-00001145">Tiepolo
+			</category>
+			<category id="00-00001161" parentid="00-00001145">Unica
+			</category>
+			<category id="ЦУ-00001684" parentid="ЦБ-00004583">01 Ручки KAWECO Sport
+			</category>
+			<category id="ЦУ-00001685" parentid="ЦБ-00004583">02 Ручки KAWECO Student
+			</category>
+			<category id="ЦУ-00001686" parentid="ЦБ-00004583">03 Ручки KAWECO Liliput
+			</category>
+			<category id="ЦУ-00001687" parentid="ЦБ-00004583">04 Ручки KAWECO Special
+			</category>
+			<category id="ЦУ-00001688" parentid="ЦБ-00004583">05 Ручки KAWECO Elite
+			</category>
+			<category id="ЦУ-00001689" parentid="ЦБ-00004583">06 Ручки KAWECO Perkeo
+			</category>
+			<category id="ЦУ-00001690" parentid="ЦБ-00004583">10 Аксессуары KAWECO
+			</category>
+			<category id="ЦУ-00001691" parentid="ЦБ-00004583">07 Ручки KAWECO Calligraphy
+			</category>
+			<category id="ЦУ-00004660" parentid="ЦБ-00004583">09 Ручки KAWECO Skyline
+			</category>
+			<category id="ЦУ-00004649" parentid="ЦБ-00004583">08 Ручки KAWECO Supra
+			</category>
+			<category id="ЦУ-00002111" parentid="ЦБ-00004587">05 Сумки
+			</category>
+			<category id="ЦУ-00002112" parentid="ЦБ-00004587">06 Ручки, карандаши, пеналы
+			</category>
+			<category id="ЦУ-00002096" parentid="ЦБ-00004587">01 Блокноты
+			</category>
+			<category id="ЦУ-00002097" parentid="ЦБ-00004587">02 Ежедневники
+			</category>
+			<category id="ЦУ-00002098" parentid="ЦБ-00004587">03 Записные книжки
+			</category>
+			<category id="ЦУ-00002099" parentid="ЦБ-00004587">04 Тетради
+			</category>
+			<category id="ЦУ-00000328" parentid="ЦБ-00004577">01 Альбомы Watercolor
+			</category>
+			<category id="ЦУ-00000332" parentid="ЦБ-00004577">02 Authentic
+			</category>
+			<category id="ЦУ-00000336" parentid="ЦБ-00004577">03 Layflat
+			</category>
+			<category id="ЦУ-00000337" parentid="ЦБ-00004577">04 Наборы HAIKU cards
+			</category>
+			<category id="ЦУ-00000338" parentid="ЦБ-00004577">05 Professional
+			</category>
+			<category id="ЦУ-00000339" parentid="ЦБ-00004577">06 Блокноты Stitched colored
+			</category>
+			<category id="ЦУ-00000340" parentid="ЦБ-00004577">07 Папки картонные
+			</category>
+			<category id="ЦБ-00005074" parentid="ЦБ-00004577">ПОД Вопросом
+			</category>
+			<category id="ЦБ-00004185" parentid="ЦБ-00001432">01 Блокноты в твердом переплете Fabriano Sketchbook
+			</category>
+			<category id="ЦБ-00004186" parentid="ЦБ-00001432">02 Блокноты в твердом переплете Fabriano DrawingBook
+			</category>
+			<category id="ЦБ-00004187" parentid="ЦБ-00001432">03 Блокноты в твердом переплете Fabriano Black DrawingBook
+			</category>
+			<category id="ЦБ-00004188" parentid="ЦБ-00001432">04 Блокноты в твердом переплете Fabriano Watercolour Book
+			</category>
+			<category id="ЦБ-00004189" parentid="ЦБ-00001432">05 Блокноты в твердом переплете Fabriano Ecological DrawingBook
+			</category>
+			<category id="00-00000397" parentid="00-00000401">06 Illustration
+			</category>
+			<category id="ЦУ-00004557" parentid="ЦУ-00000418">01 Альбомы
+			</category>
+			<category id="ЦУ-00004558" parentid="ЦУ-00000418">02 Скетчбуки
+			</category>
+			<category id="ЦУ-00001856" parentid="ЦУ-00001851">03 Клеящие ручки
+			</category>
+			<category id="ЦУ-00001852" parentid="ЦУ-00001851">01 Клей-роллер
+			</category>
+			<category id="ЦУ-00001853" parentid="ЦУ-00001851">02 Клей-карандаш
+			</category>
+			<category id="ЦУ-00001854" parentid="ЦУ-00001851">04 Дисплеи с клеем
+			</category>
+			<category id="00-00005236" parentid="00-00004941">01 Станковые мольберты Art Creation на треноге
+			</category>
+			<category id="00-00005237" parentid="00-00004941">02 Настольные мольберты Art Creation
+			</category>
+			<category id="00-00005238" parentid="00-00004941">03 Этюдники Art Creation
+			</category>
+			<category id="00-00005239" parentid="00-00004941">04 Комплекты Art Creation
+			</category>
+			<category id="ЦБ-00004217" parentid="ЦБ-00002831">01 Набор блокнотов OXFORD Office Signature
+			</category>
+			<category id="ЦБ-00004218" parentid="ЦБ-00002831">02 Набор блокнотов OXFORD Essentials
+			</category>
+			<category id="ЦБ-00004219" parentid="ЦБ-00002831">03 Набор тетрадей OXFORD Notebook
+			</category>
+			<category id="00-00007996" parentid="00-00006866">01 POS материалы производство Россия
+			</category>
+			<category id="ЦУ-00002081" parentid="ЦУ-00002080">01 Пастель сухая Schmincke в ассортименте
+			</category>
+			<category id="ЦУ-00002082" parentid="ЦУ-00002080">02 Наборы сухой пастели Schmincke
+			</category>
+			<category id="ЦУ-00001713" parentid="ЦУ-00001712">01 Бирки
+			</category>
+			<category id="ЦУ-00001714" parentid="ЦУ-00001712">02 Пакеты бумажные
+			</category>
+			<category id="ЦУ-00001715" parentid="ЦУ-00001712">03 Упаковочная бумага
+			</category>
+			<category id="ЦУ-00001716" parentid="ЦУ-00001712">04 Открытки
+			</category>
+			<category id="ЦУ-00000359" parentid="00-00007668">05 Ручки капилярные Paint Pen в ассортименте
+			</category>
+			<category id="ЦУ-00000360" parentid="00-00007668">06 Наборы капилярных ручек Paint Pen
+			</category>
+			<category id="00-00007707" parentid="00-00007668">02 Наборы капилярных ручек Graphik Line Maker
+			</category>
+			<category id="00-00007708" parentid="00-00007668">04 Наборы капилярных ручек Graphik Line Painter
+			</category>
+			<category id="00-00007304" parentid="00-00007668">01 Ручки капилярные Graphik Line Maker в ассортименте
+			</category>
+			<category id="00-00007306" parentid="00-00007668">03 Ручки капилярные Graphik Line Painter в ассортименте
+			</category>
+			<category id="00-00004205" parentid="00-00004204">01 Холсты Royal Talens, 100% хлопок, универсальная грунтовка, на МДФ-доске
+			</category>
+			<category id="00-00004206" parentid="00-00004204">02 Холсты Royal Talens на подрамнике, 100% лён, поверхность medium
+			</category>
+			<category id="00-00004207" parentid="00-00004204">03 Холсты Royal Talens на подрамнике, 100% хлопок, 3D, поверхность fine
+			</category>
+			<category id="00-00004208" parentid="00-00004204">04 Холсты Royal Talens на подрамнике, 100% хлопок, поверхность medium
+			</category>
+			<category id="00-00004210" parentid="00-00004204">05 Холсты Royal Talens в рулоне, универсальная грунтовка
+			</category>
+			<category id="00-00004211" parentid="00-00004204">06 Холсты Royal Talens в рулоне, грунтовка под масло
+			</category>
+			<category id="00-00001169" parentid="00-00001168">Black Drawing Book
+			</category>
+			<category id="00-00001174" parentid="00-00001168">Bouquet
+			</category>
+			<category id="00-00001176" parentid="00-00001168">Drawing Book
+			</category>
+			<category id="00-00001190" parentid="00-00001168">Ecological Drawing Book
+			</category>
+			<category id="00-00001199" parentid="00-00001168">Sketch Book
+			</category>
+			<category id="00-00001214" parentid="00-00001168">Venezia Book
+			</category>
+			<category id="00-00001218" parentid="00-00001168">Watercolour Book
+			</category>
+			<category id="ЦУ-00004496" parentid="ЦУ-00001718">01 Золочение Azienda
+			</category>
+			<category id="ЦУ-00004497" parentid="ЦУ-00001718">02 Золочение Ferrario(РХК)
+			</category>
+			<category id="ЦУ-00001743" parentid="ЦБ-00004588">04 Краска акриловая LOUVRE
+			</category>
+			<category id="ЦУ-00001750" parentid="ЦБ-00004588">06 Наборы акварельных красок LOUVRE
+			</category>
+			<category id="ЦУ-00001751" parentid="ЦБ-00004588">07 Наборы кистей LOUVRE
+			</category>
+			<category id="ЦУ-00001747" parentid="ЦБ-00004588">05 Краска масляная LOUVRE
+			</category>
+			<category id="ЦУ-00001754" parentid="ЦБ-00004588">08 Краски по ткани DECO TEXTIL
+			</category>
+			<category id="ЦУ-00001735" parentid="ЦБ-00004588">01 Краска масляная LB EXTRA FINE
+			</category>
+			<category id="ЦУ-00001736" parentid="ЦБ-00004588">02 Краска масляная LB FINE
+			</category>
+			<category id="ЦУ-00001737" parentid="ЦБ-00004588">03 Краска офортная
+			</category>
+			<category id="00-00000401" parentid="00-00000405">07 Бристоль
+			</category>
+			<category id="ЦУ-00005038" parentid="ЦУ-00000412">09 Наборы Sketchmarker лимитированные
+			</category>
+			<category id="ЦУ-00005049" parentid="ЦУ-00000412">10 Для сборки набора
+			</category>
+			<category id="ЦУ-00003936" parentid="ЦУ-00000412">06 Ручки капиллярные Sketchmarker
+			</category>
+			<category id="ЦУ-00000413" parentid="ЦУ-00000412">01 Маркеры Sketchmarker в ассортименте</category>
+			<category id="ЦУ-00000414" parentid="ЦУ-00000412">02 Наборы маркеров Sketchmarker</category>
+			<category id="ЦУ-00000415" parentid="ЦУ-00000412">03 Маркеры Sketchmarker Brush в ассортименте
+			</category>
+			<category id="ЦУ-00000416" parentid="ЦУ-00000412">04 Наборы маркеров Sketchmarker Brush
+			</category>
+			<category id="ЦУ-00000417" parentid="ЦУ-00000412">05 Чернила спиртовые Sketchmarker
+			</category>
+			<category id="ЦУ-00000418" parentid="ЦУ-00000412">07 Бумага Sketchmarker
+			</category>
+			<category id="ЦУ-00001269" parentid="ЦУ-00000412">08 Аксессуары Sketchmarker
+			</category>
+			<category id="ЦУ-00002113" parentid="ЦУ-00001831">04 Бумага упаковочная
+			</category>
+			<category id="ЦУ-00002091" parentid="ЦУ-00001831">01 Бумага цветная Etival Color
+			</category>
+			<category id="ЦУ-00002092" parentid="ЦУ-00001831">02 Бумага крафт в рулонах
+			</category>
+			<category id="ЦУ-00002093" parentid="ЦУ-00001831">03 Калька
+			</category>
+			<category id="ЦБ-00004190" parentid="ЦБ-00001433">02 Бумага цветная в листах Fabriano Cartacrea
+			</category>
+			<category id="ЦБ-00004191" parentid="ЦБ-00001433">01 Бумага цветная в листах Fabriano Colore
+			</category>
+			<category id="ЦБ-00004199" parentid="ЦБ-00001433">03 Бумага с декоративным покрытием Fabriano наборы
+			</category>
+			<category id="ЦБ-00004242" parentid="ЦБ-00003217">01 Бумага, альбомы, склейки для акварели W N Professional
+			</category>
+			<category id="ЦБ-00004243" parentid="ЦБ-00003217">02 Бумага, альбомы, склейки для акварели W N Classic
+			</category>
+			<category id="00-00004300" parentid="00-00004275">03 Кисти Van Gogh
+			</category>
+			<category id="00-00004316" parentid="00-00004275">04 Кисти Talens
+			</category>
+			<category id="00-00004276" parentid="00-00004275">01 Кисти для декора Decorfin
+			</category>
+			<category id="00-00004277" parentid="00-00004275">02 Кисти Rembrandt
+			</category>
+			<category id="ЦУ-00001755" parentid="ЦУ-00001754">01 Краски по ткани DECO TEXTIL 20мл
+			</category>
+			<category id="ЦУ-00001756" parentid="ЦУ-00001754">02 Краски по ткани DECO TEXTIL 50мл
+			</category>
+			<category id="ЦУ-00004173" parentid="ЦУ-00001717">01 Закладки
+			</category>
+			<category id="ЦУ-00004955" parentid="ЦУ-00004954">01 Питер арт сервис
+			</category>
+			<category id="ЦУ-00004956" parentid="ЦУ-00004954">02 Малевич
+			</category>
+			<category id="00-00004965" parentid="00-00004959">01 Холсты Art Creation Закреплено степлером с изнаночной стороны (18 мм) - 100% хлопок
+			</category>
+			<category id="00-00004974" parentid="00-00004959">02 Холсты Art Creation Закреплено степлером с изнаночной стороны (40 мм) - 100% хлопок
+			</category>
+			<category id="00-00000991" parentid="00-00000990">01 Формат А4
+			</category>
+			<category id="00-00001009" parentid="00-00000990">02 Формат 50х70
+			</category>
+			<category id="00-00001224" parentid="00-00001278">EcoQua
+			</category>
+			<category id="00-00001279" parentid="00-00001278">Kids
+			</category>
+			<category id="00-00001288" parentid="00-00001278">MyPad
+			</category>
+			<category id="00-00001297" parentid="00-00001278">Soft Touch Notebook
+			</category>
+			<category id="00-00001300" parentid="00-00001278">Writing Colours
+			</category>
+			<category id="00-00000405" parentid="00-00000409">08 Montval®
+			</category>
+			<category id="ЦУ-00005228" parentid="ЦУ-00002460">09 Заправки для маркеров Copic - new
+			</category>
+			<category id="ЦУ-00002470" parentid="ЦУ-00002460">06 Аксессуары
+			</category>
+			<category id="ЦУ-00002475" parentid="ЦУ-00002460">04 Заправки для маркеров Copic
+			</category>
+			<category id="ЦУ-00002476" parentid="ЦУ-00002460">08 Серия SenseBook
+			</category>
+			<category id="ЦУ-00002477" parentid="ЦУ-00002460">07 Серия senseBag
+			</category>
+			<category id="ЦУ-00003705" parentid="ЦУ-00002460">05 Ручки капиллярные Copic
+			</category>
+			<category id="ЦУ-00002461" parentid="ЦУ-00002460">01 Маркеры Copic Ciao
+			</category>
+			<category id="ЦУ-00002467" parentid="ЦУ-00002460">03 Маркеры Copic Sketch
+			</category>
+			<category id="ЦУ-00002464" parentid="ЦУ-00002460">02 Маркеры Copic Classic
+			</category>
+			<category id="ЦУ-00002036" parentid="ЦБ-00004590">01 Акварельные краски Mission Gold
+			</category>
+			<category id="ЦУ-00002050" parentid="ЦБ-00004590">05 Пигменты Mission Gold Pearl Pigments
+			</category>
+			<category id="ЦУ-00002051" parentid="ЦБ-00004590">06 Палитры
+			</category>
+			<category id="ЦУ-00002052" parentid="ЦБ-00004590">04 Акварельные краски Mijello Design 100 мл
+			</category>
+			<category id="ЦУ-00002053" parentid="ЦБ-00004590">07 Аксессуары
+			</category>
+			<category id="ЦУ-00002041" parentid="ЦБ-00004590">03 Акварельные краски Mission White
+			</category>
+			<category id="ЦУ-00002038" parentid="ЦБ-00004590">02 Акварельные краски Mission Silver
+			</category>
+			<category id="00-00005448" parentid="00-00005441">01 Гуашь School Colours
+			</category>
+			<category id="00-00005449" parentid="00-00005441">02 Масляная пастель Panda
+			</category>
+			<category id="ЦУ-00001858" parentid="ЦБ-00004589">09 Наборы цветных карандашей Tombow Irojiten
+			</category>
+			<category id="ЦУ-00001860" parentid="ЦБ-00004589">10 Альбомы для рисования
+			</category>
+			<category id="ЦУ-00001861" parentid="ЦБ-00004589">11 Аксессуары
+			</category>
+			<category id="ЦУ-00001851" parentid="ЦБ-00004589">07 Клей
+			</category>
+			<category id="ЦУ-00001843" parentid="ЦБ-00004589">06 Корректор-ленты
+			</category>
+			<category id="ЦУ-00000349" parentid="ЦБ-00004589">01 Грифели Tombow MONO для мех.карандашей
+			</category>
+			<category id="ЦУ-00002095" parentid="ЦБ-00004589">08 Маркеры TwinTone
+			</category>
+			<category id="ЦУ-00000344" parentid="ЦБ-00004589">04 Маркеры Tombow ABT Dual Brush
+			</category>
+			<category id="ЦУ-00000345" parentid="ЦБ-00004589">05 Ручки
+			</category>
+			<category id="ЦУ-00000346" parentid="ЦБ-00004589">03 Ластики
+			</category>
+			<category id="ЦУ-00000347" parentid="ЦБ-00004589">02 Карандаши чернографитовые
+			</category>
+			<category id="00-00001068" parentid="00-00001067">01 Крепированная цветная бумага 32 грм
+			</category>
+			<category id="00-00001069" parentid="00-00001067">02 Крепированная цветная бумага 48 грм
+			</category>
+			<category id="00-00001070" parentid="00-00001067">03 Металлизированная крепированная бумага
+			</category>
+			<category id="00-00001071" parentid="00-00001067">04 Бумага цветная Крафт
+			</category>
+			<category id="00-00001072" parentid="00-00001067">05 Гофрокартон в рулонах
+			</category>
+			<category id="00-00001073" parentid="00-00001067">06 Гофрокартон в листах
+			</category>
+			<category id="00-00001074" parentid="00-00001067">07 Шелковая цветная бумага
+			</category>
+			<category id="00-00001075" parentid="00-00001067">08 Другие бумаги в рулонах
+			</category>
+			<category id="ЦБ-00004946" parentid="ЦБ-00004945">01 Бетонная паста Art Creation
+			</category>
+			<category id="ЦУ-00005639" parentid="ЦБ-00004945">02 Effectliner  Art Creation
+			</category>
+			<category id="ЦУ-00005640" parentid="ЦБ-00004945">03 Краска матовая Blackboard Art Creation
+			</category>
+			<category id="ЦУ-00005641" parentid="ЦБ-00004945">04 Краска Indoor   Outdoor Art Creation
+			</category>
+			<category id="00-00001317" parentid="00-00001316">CartaCrea
+			</category>
+			<category id="00-00001399" parentid="00-00001316">Colore
+			</category>
+			<category id="00-00001423" parentid="00-00001316">Elle Erre
+			</category>
+			<category id="00-00001435" parentid="00-00001316">Metallic Cardboard
+			</category>
+			<category id="00-00004249" parentid="00-00001989">05 Новогодняя акция 2013
+			</category>
+			<category id="00-00000409" parentid="00-00001989">09 Arches®
+			</category>
+			<category id="ЦУ-00001757" parentid="ЦБ-00004593">01 Маркеры Chameleon в ассортименте
+			</category>
+			<category id="ЦУ-00001758" parentid="ЦБ-00004593">02 Наборы маркеров Chameleon
+			</category>
+			<category id="ЦУ-00001759" parentid="ЦБ-00004593">03 Чернила Chameleon
+			</category>
+			<category id="ЦУ-00001760" parentid="ЦБ-00004593">04 Раскраски Chameleon
+			</category>
+			<category id="ЦУ-00001761" parentid="ЦБ-00004593">05 Аксессуары Chameleon
+			</category>
+			<category id="ЦБ-00003875" parentid="00-00005659">03 Наборы Ecoline
+			</category>
+			<category id="ЦБ-00000118" parentid="00-00005659">01 Акварель жидкая Ecoline
+			</category>
+			<category id="ЦБ-00000119" parentid="00-00005659">02 Маркеры акварельные Ecoline
+			</category>
+			<category id="ЦУ-00003965" parentid="ЦБ-00004601">То что добавлено
+			</category>
+			<category id="ЦУ-00004080" parentid="ЦБ-00004601">Что без упаковок
+			</category>
+			<category id="ЦУ-00000308" parentid="ЦБ-00004592">01 Краски акварельные PWC
+			</category>
+			<category id="ЦУ-00000309" parentid="ЦБ-00004592">02 Краски акварельные WATER COLOR PRO
+			</category>
+			<category id="ЦУ-00000310" parentid="ЦБ-00004592">03 Наборы красок POSTER COLOR PRO
+			</category>
+			<category id="ЦУ-00000311" parentid="ЦБ-00004592">04 Наборы красок OIL COLOR PRO
+			</category>
+			<category id="ЦУ-00000312" parentid="ЦБ-00004592">05 Наборы красок ACRYLIC COLOR PRO
+			</category>
+			<category id="ЦУ-00000322" parentid="ЦБ-00004592">06 Аксессуары
+			</category>
+			<category id="ЦУ-00000323" parentid="ЦБ-00004592">07 Вспомогательные средства
+			</category>
+			<category id="ЦУ-00000324" parentid="ЦБ-00004592">08 Наборы акварельных красок Korean Color
+			</category>
+			<category id="ЦУ-00000325" parentid="ЦБ-00004592">09 Наборы акварельных красок SHAMI WATER COLOR
+			</category>
+			<category id="ЦУ-00000326" parentid="ЦБ-00004592">10 Наборы пастели Soft Pastel
+			</category>
+			<category id="ЦУ-00004650" parentid="ЦУ-00001690">02 Чернила Kaweco
+			</category>
+			<category id="ЦУ-00004651" parentid="ЦУ-00001690">01 Перья Kaweco
+			</category>
+			<category id="00-00001989" parentid="00-00001227">10 ALL BLACK BOARD
+			</category>
+			<category id="ЦБ-00003876" parentid="00-00006604">01 Маркеры акварельные Koi
+			</category>
+			<category id="ЦБ-00003877" parentid="00-00006604">02 Наборы маркеров акварельных Koi
+			</category>
+			<category id="ЦУ-00004814" parentid="ЦУ-00005078">02 ПРОАКРИЛ курсы
+			</category>
+			<category id="ЦУ-00005023" parentid="ЦУ-00005078">01 ProAcryl вспомогательный средства
+			</category>
+			<category id="ЦУ-00004355" parentid="ЦБ-00005158">01 Заготовки для декорирования
+			</category>
+			<category id="ЦУ-00004356" parentid="ЦБ-00005158">02 Панно для декорирования
+			</category>
+			<category id="ЦУ-00004357" parentid="ЦБ-00005158">03 Наборы заготовок для декорирования
+			</category>
+			<category id="ЦУ-00005157" parentid="ЦБ-00005158">04 Планшеты художественные
+			</category>
+			<category id="00-00004480" parentid="ЦБ-00001307">01 Cray-Pas Детские наборы масляной пастели
+			</category>
+			<category id="00-00003695" parentid="ЦБ-00001307">02 Cray-Pas масляная пастель в наборах для начинающих
+			</category>
+			<category id="ЦУ-00001719" parentid="ЦБ-00004578">02 Краски Ferrario
+			</category>
+			<category id="00-00002240" parentid="00-00001290">Schoellershammer 70х100
+			</category>
+			<category id="00-00002250" parentid="00-00001290">Schoellershammer А4
+			</category>
+			<category id="00-00001482" parentid="00-00001481">01 Бумага А4
+			</category>
+			<category id="00-00001500" parentid="00-00001481">02 Бумага 50x70
+			</category>
+			<category id="00-00001672" parentid="00-00001481">03 Тонированная бумага
+			</category>
+			<category id="ЦБ-00004225" parentid="ЦБ-00003163">01 Strathmore 500
+			</category>
+			<category id="ЦБ-00004226" parentid="ЦБ-00003163">02 Strathmore 400
+			</category>
+			<category id="ЦБ-00004227" parentid="ЦБ-00003163">03 Strathmore 300
+			</category>
+			<category id="ЦБ-00004228" parentid="ЦБ-00003163">04 Strathmore 200
+			</category>
+			<category id="00-00000700" parentid="00-00000699">Artistico E
+			</category>
+			<category id="00-00000725" parentid="00-00000699">Artistico T
+			</category>
+			<category id="00-00000003" parentid="00-00000002">Холсты  в рулоне
+			</category>
+			<category id="00-00000030" parentid="00-00000002">Холсты на подрамнике 330…
+			</category>
+			<category id="00-00000032" parentid="00-00000002">Холсты на тонком подрамнике
+			</category>
+			<category id="00-00000053" parentid="00-00000002">Холсты на широком подрамнике
+			</category>
+			<category id="00-00001318" parentid="00-00001317">Cartacrea 21x29.7см
+			</category>
+			<category id="00-00001345" parentid="00-00001317">Cartacrea 35x50см
+			</category>
+			<category id="00-00001371" parentid="00-00001317">Cartacrea 50x70см
+			</category>
+			<category id="00-00000073" parentid="00-00000072">01. Маркеры CHAMELEON
+			</category>
+			<category id="00-00000124" parentid="00-00000072">02. Наборы маркеров CHAMELEON
+			</category>
+			<category id="00-00000139" parentid="00-00000072">03. Наборы блендеров CHAMELEON
+			</category>
+			<category id="00-00000150" parentid="00-00000072">04. Раскраски-склейки и альбомы CHAMELEON
+			</category>
+			<category id="00-00000160" parentid="00-00000072">05. Вспомогательные материалы CHAMELEON
+			</category>
+			<category id="00-00000167" parentid="00-00000072">06. Чернила CHAMELEON
+			</category>
+			<category id="00-00000220" parentid="00-00000219">аксесcуары
+			</category>
+			<category id="00-00000224" parentid="00-00000219">маркеры (ксилол)
+			</category>
+			<category id="00-00000357" parentid="00-00000219">наборы маркеров (ксилол)
+			</category>
+			<category id="00-00000376" parentid="00-00000375">Канцелярское направление
+			</category>
+			<category id="00-00000500" parentid="00-00000375">Профессиональное направление
+			</category>
+			<category id="00-00000691" parentid="00-00000375">Хоббийное направление
+			</category>
+			<category id="00-00000502" parentid="00-00000501">DESSIN
+			</category>
+			<category id="00-00000518" parentid="00-00000501">GRAF IT
+			</category>
+			<category id="00-00000535" parentid="00-00000501">SALE!  BRI
+			</category>
+			<category id="00-00000540" parentid="00-00000501">SALE!  KRA
+			</category>
+			<category id="00-00000549" parentid="00-00000501">SCETCH
+			</category>
+			<category id="00-00000557" parentid="00-00000501">Пастель
+			</category>
+			<category id="00-00001125" parentid="00-00000697">04. Бумага для акрила и масла
+			</category>
+			<category id="00-00001133" parentid="00-00000697">05. Бумага для смешанных техник
+			</category>
+			<category id="00-00001145" parentid="00-00000697">06. Бумага для офорта
+			</category>
+			<category id="00-00000850" parentid="00-00000697">02. Бумага для пастели
+			</category>
+			<category id="00-00001438" parentid="00-00000697">10. Открытки и конверты
+			</category>
+			<category id="00-00000698" parentid="00-00000697">01. Бумага для акварели
+			</category>
+			<category id="00-00001038" parentid="00-00000697">03. Бумага для графики и рисунка
+			</category>
+			<category id="00-00001316" parentid="00-00000697">09. Декоративная бумага
+			</category>
+			<category id="00-00001168" parentid="00-00000697">07. Блокноты Fabriano
+			</category>
+			<category id="00-00001278" parentid="00-00000697">08. Записные книжки
+			</category>
+			<category id="00-00004267" parentid="00-00004266">Профессиональное направление
+			</category>
+			<category id="00-00005308" parentid="00-00004266">Хоббийное направление
+			</category>
+			<category id="00-00006823" parentid="00-00006822">Образцы Феррарио
+			</category>
+			<category id="00-00001441" parentid="00-00001440">HIGGINS dye-based чернила
+			</category>
+			<category id="00-00001458" parentid="00-00001440">HIGGINS белые и черные чернила
+			</category>
+			<category id="00-00001464" parentid="00-00001440">HIGGINS наборы чернил
+			</category>
+			<category id="00-00001466" parentid="00-00001440">HIGGINS пигментные чернила
+			</category>
+			<category id="00-00001476" parentid="00-00001440">HIGGINS специальные чернила и аксессуары
+			</category>
+			<category id="00-00004270" parentid="00-00004269">Глина
+			</category>
+			<category id="00-00004277" parentid="00-00004269">Грунты
+			</category>
+			<category id="00-00004282" parentid="00-00004269">Клей
+			</category>
+			<category id="00-00004286" parentid="00-00004269">Клеящея см
+			</category>
+			<category id="00-00005524" parentid="00-00005523">SALE!
+			</category>
+			<category id="00-00005527" parentid="00-00005523">Грунт
+			</category>
+			<category id="00-00005537" parentid="00-00005523">Клей д
+			</category>
+			<category id="00-00004297" parentid="00-00004296">Бронза
+			</category>
+			<category id="00-00004311" parentid="00-00004296">Бронзов
+			</category>
+			<category id="00-00004318" parentid="00-00004296">Крошка
+			</category>
+			<category id="00-00004325" parentid="00-00004296">Поталь
+			</category>
+			<category id="00-00002608" parentid="00-00002607">SALE! Жидкая бронза
+			</category>
+			<category id="00-00002615" parentid="00-00002607">SALE! Паста бронзовая
+			</category>
+			<category id="00-00002618" parentid="00-00002607">Крошка для золочения
+			</category>
+			<category id="00-00002631" parentid="00-00002607">Поталь
+			</category>
+			<category id="00-00002638" parentid="00-00002607">Рулоны Золото/Серебро/Медь
+			</category>
+			<category id="00-00002657" parentid="00-00002656">SALE! Пигменты
+			</category>
+			<category id="00-00004335" parentid="00-00004334">Битумн
+			</category>
+			<category id="00-00004338" parentid="00-00004334">Жидкий
+			</category>
+			<category id="00-00004342" parentid="00-00004334">Лак дл
+			</category>
+			<category id="00-00004349" parentid="00-00004334">Медиум
+			</category>
+			<category id="00-00004351" parentid="00-00004334">Метали
+			</category>
+			<category id="00-00004364" parentid="00-00004334">Спирто
+			</category>
+			<category id="00-00004366" parentid="00-00004334">Шеллак
+			</category>
+			<category id="00-00005544" parentid="00-00005543">Ге
+			</category>
+			<category id="00-00005550" parentid="00-00005543">Гл
+			</category>
+			<category id="00-00005555" parentid="00-00005543">Кр
+			</category>
+			<category id="00-00005561" parentid="00-00005543">Ма
+			</category>
+			<category id="00-00005564" parentid="00-00005543">Па
+			</category>
+			<category id="00-00016091" parentid="00-00013925">CLASSIC Sport
+			</category>
+			<category id="00-00016092" parentid="00-00013925">ICE Sport
+			</category>
+			<category id="00-00016093" parentid="00-00013925">AL Sport
+			</category>
+			<category id="00-00016094" parentid="00-00013925">SKYLINE Sport
+			</category>
+			<category id="00-00016095" parentid="00-00013925">LILIPUT
+			</category>
+			<category id="00-00016096" parentid="00-00013925">AC Sport
+			</category>
+			<category id="00-00016097" parentid="00-00013925">STEEL Sport
+			</category>
+			<category id="00-00016098" parentid="00-00013925">SUPRA
+			</category>
+			<category id="00-00016099" parentid="00-00013925">SKETCH UP
+			</category>
+			<category id="00-00016100" parentid="00-00013925">SPECIAL
+			</category>
+			<category id="00-00016101" parentid="00-00013925">STUDENT
+			</category>
+			<category id="00-00016102" parentid="00-00013925">ELEGANCE
+			</category>
+			<category id="00-00016103" parentid="00-00013925">BRASS Sport
+			</category>
+			<category id="00-00016104" parentid="00-00013925">DIA2
+			</category>
+			<category id="00-00016105" parentid="00-00013925">ELITE
+			</category>
+			<category id="00-00016106" parentid="00-00013925">CALLIGRAPHY
+			</category>
+			<category id="00-00016107" parentid="00-00013925">PERKEO
+			</category>
+			<category id="00-00016116" parentid="00-00013925">Пишущие узлы
+			</category>
+			<category id="00-00016117" parentid="00-00013925">Грифели
+			</category>
+			<category id="00-00016118" parentid="00-00013925">Стержни
+			</category>
+			<category id="00-00016119" parentid="00-00013925">Кейсы, пеналы, футляры, чехлы
+			</category>
+			<category id="00-00016120" parentid="00-00013925">Чернила, картриджи
+			</category>
+			<category id="00-00016121" parentid="00-00013925">Специальные серии
+			</category>
+			<category id="00-00016122" parentid="00-00013925">Аксессуары
+			</category>
+			<category id="00-00007014" parentid="00-00007013">Кисть с резервуаром ZIG Watercolor System BRUSH2O Broad
+			</category>
+			<category id="00-00007025" parentid="00-00007013">Линер ZIG Mangaka
+			</category>
+			<category id="00-00007041" parentid="00-00007013">Маркер акварельный ZIG Art   Graphic Twin
+			</category>
+			<category id="00-00007130" parentid="00-00007013">Маркер акварельный ZIG Clean Color
+			</category>
+			<category id="00-00007177" parentid="00-00007013">Маркер спиртовой ZIG Kurecolour кисть+тонкое перо
+			</category>
+			<category id="00-00007314" parentid="00-00007013">Ручка на водной основе, перо кисть ZIG Kuretake Fudebiyori
+			</category>
+			<category id="00-00007390" parentid="00-00007013">Чернила ZIG Posterman 60 мл
+			</category>
+			<category id="00-00013719" parentid="00-00006884">LB новинки образцы
+			</category>
+			<category id="00-00015601" parentid="00-00006884">LB оборудование
+			</category>
+			<category id="00-00001483" parentid="00-00001482">Новинки Lefranc май 2018
+			</category>
+			<category id="00-00001616" parentid="00-00001482">Профессиональное направление
+			</category>
+			<category id="00-00002092" parentid="00-00001482">Хоббийное направление
+			</category>
+			<category id="00-00007931" parentid="00-00007635">Маркер акриловый LIQUITEX PAINT MARKER Fine
+			</category>
+			<category id="00-00007980" parentid="00-00007635">Маркер акриловый LIQUITEX PAINT MARKER Wide
+			</category>
+			<category id="00-00007636" parentid="00-00007635">Акрил LIQUITEX Basics  250мл туба
+			</category>
+			<category id="00-00007640" parentid="00-00007635">Акрил LIQUITEX Basics 118 мл туба
+			</category>
+			<category id="00-00007681" parentid="00-00007635">Акрил LIQUITEX Basics 400мл банка
+			</category>
+			<category id="00-00007711" parentid="00-00007635">Акрил LIQUITEX Basics 946мл банка
+			</category>
+			<category id="00-00007736" parentid="00-00007635">Акрил LIQUITEX SPRAY  аэрозоль 400 мл
+			</category>
+			<category id="00-00007834" parentid="00-00007635">Вспомогательные средства LIQUITEX
+			</category>
+			<category id="00-00016197" parentid="00-00002385">Перья
+			</category>
+			<category id="00-00016198" parentid="00-00002385">Перья в наборах
+			</category>
+			<category id="00-00016199" parentid="00-00002385">Держатели для перьев, наконечники, накопители, аксессуары
+			</category>
+			<category id="00-00016200" parentid="00-00002385">Чернила
+			</category>
+			<category id="00-00016201" parentid="00-00002385">Конвертеры для заправки чернил
+			</category>
+			<category id="00-00016202" parentid="00-00002385">Ручки перьевые
+			</category>
+			<category id="00-00016203" parentid="00-00002385">Пишущие узлы
+			</category>
+			<category id="00-00016204" parentid="00-00002385">Наборы картриджей
+			</category>
+			<category id="00-00016205" parentid="00-00002385">Наборы для каллиграфии
+			</category>
+			<category id="00-00016206" parentid="00-00002385">Кисти для калиграфии
+			</category>
+			<category id="00-00016207" parentid="00-00002385">Тушь для каллиграфии
+			</category>
+			<category id="00-00016208" parentid="00-00002385">Маркеры
+			</category>
+			<category id="00-00016209" parentid="00-00002385">Бумага для каллиграфии
+			</category>
+			<category id="00-00002603" parentid="00-00002602">I. Основа
+			</category>
+			<category id="00-00002607" parentid="00-00002602">II. Позолота
+			</category>
+			<category id="00-00002656" parentid="00-00002602">III. Вспомогательные материалы
+			</category>
+			<category id="00-00002677" parentid="00-00002676">01. Акварель Mijello Mission Gold тубы 15 мл
+			</category>
+			<category id="00-00002805" parentid="00-00002676">02. Акварель Mijello Mission White туба 15 мл
+			</category>
+			<category id="00-00002867" parentid="00-00002676">03. Акварель Mijello Mission Gold Pan кюветы
+			</category>
+			<category id="00-00002893" parentid="00-00002676">04. Акварель Mijello Mission Silver Pan кюветы
+			</category>
+			<category id="00-00002935" parentid="00-00002676">05. Наборы акварели Mijello
+			</category>
+			<category id="00-00002952" parentid="00-00002676">06. Палитры и аксесуары Mijello
+			</category>
+			<category id="00-00002980" parentid="00-00002676">07. Вспомогательные средства Mijello
+			</category>
+			<category id="00-00002983" parentid="00-00002676">08. Пигменты Mijello Mission Gold Pearl Pigments
+			</category>
+			<category id="00-00006940" parentid="00-00006939">Акварель Mijello Mission Gold 7 мл
+			</category>
+			<category id="00-00002997" parentid="00-00002996">Поталь
+			</category>
+			<category id="00-00004054" parentid="00-00004053">Альбомы для рисования Dwurer Potentate
+			</category>
+			<category id="00-00004063" parentid="00-00004053">Альбомы для рисования Potentate
+			</category>
+			<category id="00-00004118" parentid="00-00004053">Маркеры Potentate спиртовые
+			</category>
+			<category id="00-00004252" parentid="00-00004053">Наборы маркеров Potentate пигментные
+			</category>
+			<category id="00-00004258" parentid="00-00004053">Скетчбуки Potentate
+			</category>
+			<category id="00-00013705" parentid="00-00006768">CH образцы
+			</category>
+			<category id="00-00013806" parentid="00-00006768">SM-LT образцы
+			</category>
+			<category id="00-00013808" parentid="00-00006768">TOMBOW образцы
+			</category>
+			<category id="00-00006884" parentid="00-00006768">LB образцы
+			</category>
+			<category id="00-00006936" parentid="00-00006768">MB образцы
+			</category>
+			<category id="00-00006939" parentid="00-00006768">MJ образцы
+			</category>
+			<category id="00-00006988" parentid="00-00006768">PT (образцы)
+			</category>
+			<category id="00-00006990" parentid="00-00006768">RL образцы
+			</category>
+			<category id="00-00007002" parentid="00-00006768">SH-образцы
+			</category>
+			<category id="00-00007007" parentid="00-00006768">TOUCH-образцы
+			</category>
+			<category id="00-00007024" parentid="00-00006768">ПИ образцы
+			</category>
+			<category id="00-00006769" parentid="00-00006768">BA образцы
+			</category>
+			<category id="00-00006771" parentid="00-00006768">CF образцы
+			</category>
+			<category id="00-00006801" parentid="00-00006768">ES образцы
+			</category>
+			<category id="00-00006803" parentid="00-00006768">FB образцы
+			</category>
+			<category id="00-00006822" parentid="00-00006768">FR образцы
+			</category>
+			<category id="00-00014802" parentid="00-00006768">KW образцы
+			</category>
+			<category id="00-00016251" parentid="00-00000392">rhodia basics
+			</category>
+			<category id="00-00016252" parentid="00-00000392">rhodia classic
+			</category>
+			<category id="00-00016253" parentid="00-00000392">rhodiactive
+			</category>
+			<category id="00-00016254" parentid="00-00000392">rhodia business books
+			</category>
+			<category id="00-00016255" parentid="00-00000392">rhodia ecriture
+			</category>
+			<category id="00-00016256" parentid="00-00000392">rhodia boutique
+			</category>
+			<category id="00-00016257" parentid="00-00000392">rhodiarama
+			</category>
+			<category id="00-00016258" parentid="00-00000392">heritage
+			</category>
+			<category id="00-00006991" parentid="00-00006990">ROUBLOFF
+			</category>
+			<category id="00-00003077" parentid="00-00003007">Профессиональное направление
+			</category>
+			<category id="00-00003933" parentid="00-00003007">Хоббийные кисти
+			</category>
+			<category id="00-00003008" parentid="00-00003007">Кисти для дизайна ногтей
+			</category>
+			<category id="00-00006569" parentid="00-00005746">01. Professional Water Color акварель в наборах
+			</category>
+			<category id="00-00005748" parentid="00-00005746">02. Professional Water Color акварель штучно
+			</category>
+			<category id="00-00005811" parentid="00-00005746">08а. Вспомогательные средства
+			</category>
+			<category id="00-00005818" parentid="00-00005746">10. Shinhan Poster Colors гуашь в наборах
+			</category>
+			<category id="00-00005821" parentid="00-00005746">09. Shinhan Acrylic Pro акриловая краска в наборах
+			</category>
+			<category id="00-00005825" parentid="00-00005746">08. Shinhan Oil Colors масло в наборах
+			</category>
+			<category id="00-00005830" parentid="00-00005746">12. Shinhan Poster Pro гуашь штучно
+			</category>
+			<category id="00-00005834" parentid="00-00005746">11. Shinhan Poster Pro гуашь в наборах
+			</category>
+			<category id="00-00005840" parentid="00-00005746">04. Premium Water Color PWC акварель штучно
+			</category>
+			<category id="00-00005945" parentid="00-00005746">03. Premium Water Color PWC акварель в наборах
+			</category>
+			<category id="00-00005950" parentid="00-00005746">05. Shinhan Korean Color акварель в наборах
+			</category>
+			<category id="00-00005955" parentid="00-00005746">07. Акварельные палитры и акссесуары
+			</category>
+			<category id="00-00005963" parentid="00-00005746">06. Shami Water Color акварель в наборах
+			</category>
+			<category id="00-00013765" parentid="00-00007002">Promo POSM
+			</category>
+			<category id="00-00013767" parentid="00-00007002">Оборудование Shinhan
+			</category>
+			<category id="00-00013788" parentid="00-00007002">Наклейки и выкраски для оборудования
+			</category>
+			<category id="00-00013799" parentid="00-00007002">Образцы и выкраски для клиентов
+			</category>
+			<category id="00-00006576" parentid="00-00006575">SM-LT (новинки апрель)
+			</category>
+			<category id="00-00000864" parentid="00-00000863">Бумага для пастели Fabriano
+			</category>
+			<category id="00-00006658" parentid="00-00006657">01. Брашпены Tombow ABT
+			</category>
+			<category id="00-00006757" parentid="00-00006657">02. Брашпены Tombow ABT в наборах
+			</category>
+			<category id="00-00006774" parentid="00-00006657">03. Брашпены Fudenosuke, TwinTone и линеры MONO
+			</category>
+			<category id="00-00006787" parentid="00-00006657">04. Карандаши Irojiten цветные
+			</category>
+			<category id="00-00006791" parentid="00-00006657">05. Бумага для рисования Tombow
+			</category>
+			<category id="00-00006794" parentid="00-00006657">06. Карандаши механические Tombow MONO Graph, Zoom, Yula-Sha,
+			</category>
+			<category id="00-00006816" parentid="00-00006657">07. Карандаши чернографитные Tombow MONO 100
+			</category>
+			<category id="00-00006837" parentid="00-00006657">08. Грифели Tombow MONO для мех. карандашей
+			</category>
+			<category id="00-00006858" parentid="00-00006657">09. Корректирующая лента Tombow MONO
+			</category>
+			<category id="00-00006877" parentid="00-00006657">10. Ластики Tombow MONO
+			</category>
+			<category id="00-00006910" parentid="00-00006657">11. Шариковые ручки и роллеры
+			</category>
+			<category id="00-00006970" parentid="00-00006657">12. Сменные стержни Tombow
+			</category>
+			<category id="00-00006997" parentid="00-00006657">13. Клеящие материалы Tombow
+			</category>
+			<category id="00-00005968" parentid="00-00005967">альбомы, блокноты
+			</category>
+			<category id="00-00005975" parentid="00-00005967">Заправки и перья
+			</category>
+			<category id="00-00006076" parentid="00-00005967">Линеры
+			</category>
+			<category id="00-00006120" parentid="00-00005967">маркеры TOUCH BRUSH
+			</category>
+			<category id="00-00006325" parentid="00-00005967">маркеры TOUCH TWIN
+			</category>
+			<category id="00-00006530" parentid="00-00005967">наборы TOUCH BRUSH
+			</category>
+			<category id="00-00006550" parentid="00-00005967">наборы TOUCH TWIN
+			</category>
+			<category id="00-00016247" parentid="00-00007007">Оборудование TOUCH
+			</category>
+			<category id="00-00016248" parentid="00-00007007">POS
+			</category>
+			<category id="00-00011641" parentid="00-00011640">Акварель 21 мл
+			</category>
+			<category id="00-00011656" parentid="00-00011640">Акварель 8 мл
+			</category>
+			<category id="00-00011697" parentid="00-00011640">Акварель Winsor Newton Professional в кюветах
+			</category>
+			<category id="00-00011794" parentid="00-00011640">Акварель Winsor Newton Professional в тюбике 14 мл
+			</category>
+			<category id="00-00011817" parentid="00-00011640">Акварель Winsor Newton Professional в тюбике 5 мл
+			</category>
+			<category id="00-00011914" parentid="00-00011640">Акварель в маленьких кюветах
+			</category>
+			<category id="00-00000598" parentid="00-00000597">CARDINAL (Целюл
+			</category>
+			<category id="00-00000602" parentid="00-00000597">ETIVAL (100% Це
+			</category>
+			<category id="00-00000633" parentid="00-00000597">FONTAINE (100%
+			</category>
+			<category id="00-00006941" parentid="00-00006940">Акварель Mijello Mission Gold 7 мл Группа A
+			</category>
+			<category id="00-00006953" parentid="00-00006940">Акварель Mijello Mission Gold 7 мл Группа B
+			</category>
+			<category id="00-00006963" parentid="00-00006940">Акварель Mijello Mission Gold 7 мл Группа C
+			</category>
+			<category id="00-00006973" parentid="00-00006940">Акварель Mijello Mission Gold 7 мл Группа D
+			</category>
+			<category id="00-00006978" parentid="00-00006940">Акварель Mijello Mission Gold 7 мл Группа E
+			</category>
+			<category id="00-00001715" parentid="00-00001714">На
+			</category>
+			<category id="00-00001724" parentid="00-00001723">Акри
+			</category>
+			<category id="00-00001772" parentid="00-00001723">Набо
+			</category>
+			<category id="00-00004420" parentid="00-00004419">Acrilic Master
+			</category>
+			<category id="00-00004645" parentid="00-00004419">Apa Color
+			</category>
+			<category id="00-00004900" parentid="00-00004419">Распродажа!
+			</category>
+			<category id="00-00000443" parentid="00-00000442">CROKBOOK
+			</category>
+			<category id="00-00000449" parentid="00-00000442">GOLDLINE
+			</category>
+			<category id="00-00000476" parentid="00-00000442">ZAP BOOK
+			</category>
+			<category id="00-00007835" parentid="00-00007834">LIQUITEX E
+			</category>
+			<category id="00-00007846" parentid="00-00007834">LIQUITEX F
+			</category>
+			<category id="00-00007863" parentid="00-00007834">LIQUITEX G
+			</category>
+			<category id="00-00007889" parentid="00-00007834">LIQUITEX S
+			</category>
+			<category id="00-00007905" parentid="00-00007834">LIQUITEX V
+			</category>
+			<category id="ЦБ-00005017" parentid="ЦБ-00003550">Скрепка 2019
+			</category>
+			<category id="00-00005319" parentid="00-00005318">SALE! AMBIENT(1000мл) Д
+			</category>
+			<category id="00-00005330" parentid="00-00005318">SALE! Кисти для декора
+			</category>
+			<category id="00-00005339" parentid="00-00005318">SALE! Краски по дереву
+			</category>
+			<category id="00-00005350" parentid="00-00005318">SALE! Мозайка
+			</category>
+			<category id="00-00005376" parentid="00-00005318">SALE! Стеки скульптурны
+			</category>
+			<category id="00-00005378" parentid="00-00005318">SALE! Трафареты
+			</category>
+			<category id="00-00005409" parentid="00-00005318">SALE! Фосфорицирующая к
+			</category>
+			<category id="00-00005416" parentid="00-00005318">Битум
+			</category>
+			<category id="00-00005420" parentid="00-00005318">Восковая патина
+			</category>
+			<category id="00-00005435" parentid="00-00005318">Глиттеры CRAFT
+			</category>
+			<category id="00-00005452" parentid="00-00005318">Лак Gloss Shane (прозра
+			</category>
+			<category id="00-00005463" parentid="00-00005318">Лаки
+			</category>
+			<category id="00-00005469" parentid="00-00005318">Пасты
+			</category>
+			<category id="00-00002124" parentid="00-00002093">Патина
+			</category>
+			<category id="00-00002094" parentid="00-00002093">Валики
+			</category>
+			<category id="00-00002099" parentid="00-00002093">Вспомагательные средства
+			</category>
+			<category id="00-00002110" parentid="00-00002093">Наборы кистей
+			</category>
+			<category id="00-00005571" parentid="00-00005522">IV. Вспомагательные материалы
+			</category>
+			<category id="00-00005543" parentid="00-00005522">III. Покрытие для декупажа
+			</category>
+			<category id="00-00005523" parentid="00-00005522">I. Основа для декупажа
+			</category>
+			<category id="00-00001838" parentid="00-00001837">Вивальди 120гр
+			</category>
+			<category id="00-00001877" parentid="00-00001837">Finface
+			</category>
+			<category id="00-00001995" parentid="00-00005891">Art Board 20х30
+			</category>
+			<category id="00-00016167" parentid="00-00007513">Муми-тролли
+			</category>
+			<category id="00-00007514" parentid="00-00007513">Мифические существа
+			</category>
+			<category id="00-00007527" parentid="00-00007513">Писатели и художники
+			</category>
+			<category id="00-00007550" parentid="00-00007513">Собачки
+			</category>
+			<category id="00-00001618" parentid="00-00001617">Глина CHARBONNEL
+			</category>
+			<category id="00-00001622" parentid="00-00001617">Клей CHARBONNEL
+			</category>
+			<category id="00-00001625" parentid="00-00001617">Мордан CHARBONNEL
+			</category>
+			<category id="00-00004334" parentid="00-00004268">III. Покрытие
+			</category>
+			<category id="00-00004375" parentid="00-00004268">IV. Вспомагательные
+			</category>
+			<category id="00-00004296" parentid="00-00004268">II. Позолота
+			</category>
+			<category id="00-00004269" parentid="00-00004268">I. Основа
+			</category>
+			<category id="00-00003079" parentid="00-00003078">Серия ЖБЛ 1Л4Ш - Лам
+			</category>
+			<category id="00-00003085" parentid="00-00003078">Серия ЖСЛ  1С4Ш- Лам
+			</category>
+			<category id="00-00000377" parentid="00-00000376">ESSENTIALS (AGE BAG)
+			</category>
+			<category id="00-00000437" parentid="00-00000376">SALE! Калька
+			</category>
+			<category id="00-00000442" parentid="00-00000376">Блокноты
+			</category>
+			<category id="00-00012042" parentid="00-00012041">Серия 5301
+			</category>
+			<category id="00-00012057" parentid="00-00012041">Серия 5522
+			</category>
+			<category id="00-00012063" parentid="00-00012041">Серия 5523
+			</category>
+			<category id="00-00012070" parentid="00-00012041">Серия 5524
+			</category>
+			<category id="00-00012079" parentid="00-00012041">Серия 5525
+			</category>
+			<category id="00-00012087" parentid="00-00012041">Серия 5630
+			</category>
+			<category id="00-00012094" parentid="00-00012041">Серия 5631
+			</category>
+			<category id="00-00012101" parentid="00-00012041">Серия 5632
+			</category>
+			<category id="00-00012108" parentid="00-00012041">Серия 5633
+			</category>
+			<category id="00-00012115" parentid="00-00012041">Серия 5634
+			</category>
+			<category id="00-00003009" parentid="00-00003008">AK93R (Ногтевой дизайн, колонок, л
+			</category>
+			<category id="00-00003012" parentid="00-00003008">DB13R (Ногтевой дизайн, белка, кру
+			</category>
+			<category id="00-00003015" parentid="00-00003008">DC43R (Ногтевой дизайн, желтая син
+			</category>
+			<category id="00-00003018" parentid="00-00003008">DK13R (Ногтевой дизайн, колонок, к
+			</category>
+			<category id="00-00003024" parentid="00-00003008">DK43R (Ногтевой дизайн, колонок ст
+			</category>
+			<category id="00-00003027" parentid="00-00003008">DK63R (ногтевой дизайн, наклонная,
+			</category>
+			<category id="00-00003031" parentid="00-00003008">DS13R (Ногтевой дизайн, синетика п
+			</category>
+			<category id="00-00003036" parentid="00-00003008">DS33R (ногтевой дизайн, овал, имит
+			</category>
+			<category id="00-00003039" parentid="00-00003008">DS63R (ногтевой дизайн, наклонная,
+			</category>
+			<category id="00-00003043" parentid="00-00003008">GC23R (Ногтевой дизайн, синтетика
+			</category>
+			<category id="00-00003046" parentid="00-00003008">GC33R (Ногтевой дизайн синтетика о
+			</category>
+			<category id="00-00003050" parentid="00-00003008">GC63R (Ногтевой дизайн, синтетика
+			</category>
+			<category id="00-00003053" parentid="00-00003008">GK23R (Ногтевой дизайн, колонок пл
+			</category>
+			<category id="00-00003057" parentid="00-00003008">GK63R (Ногтевой дизайн, колонок, н
+			</category>
+			<category id="00-00003060" parentid="00-00003008">GN33R. Ногтевой дизайн, синтетика
+			</category>
+			<category id="00-00003062" parentid="00-00003008">GN63R. (Ногтевой дизайн, синтетика
+			</category>
+			<category id="00-00003065" parentid="00-00003008">Наборы кистей JB
+			</category>
+			<category id="00-00008318" parentid="00-00008317">Акварель группа 1
+			</category>
+			<category id="00-00008439" parentid="00-00008317">Акварель группа 2
+			</category>
+			<category id="00-00008513" parentid="00-00008317">Акварель группа 3
+			</category>
+			<category id="00-00008560" parentid="00-00008317">Акварель группа 4
+			</category>
+			<category id="00-00008572" parentid="00-00008317">Акварель группа 5
+			</category>
+			<category id="00-00008577" parentid="00-00008317">Акварель группа 6
+			</category>
+			<category id="00-00008579" parentid="00-00008317">Цветовые карты
+			</category>
+			<category id="00-00008597" parentid="00-00008596">Кисть синтетика круглая Escoda Perla 1435 White Toray  короткая ручка с
+			</category>
+			<category id="00-00008605" parentid="00-00008596">Кисть синтетика круглая Escoda Prado 1468 ручка съемная металлическая
+			</category>
+			<category id="00-00008612" parentid="00-00008596">Кисть синтетика страйпер Escoda Perla 1436 White Toray  короткая ручка
+			</category>
+			<category id="00-00008616" parentid="00-00008596">Наборы кистей
+			</category>
+			<category id="00-00008643" parentid="00-00008596">Серия 1004,Кисть пони круглая Escoda Artesana 1004 короткая ручка
+			</category>
+			<category id="00-00008653" parentid="00-00008596">Серия 1125,Кисть белка круглая Escoda Aquario 1125 короткая ручка красн
+			</category>
+			<category id="00-00008670" parentid="00-00008596">Серия 1130, Кисть белка круглая Escoda Aquario 1130 короткая ручка серо
+			</category>
+			<category id="00-00008676" parentid="00-00008596">Серия 1210, Кисть колонок круглая Escoda Optimo 1210 короткая ручка син
+			</category>
+			<category id="00-00008690" parentid="00-00008596">Серия 1212 ,Кисть колонок круглая Escoda Rezerva 1212 Tajmyr короткая р
+			</category>
+			<category id="00-00008698" parentid="00-00008596">Серия 1214,Кисть колонок круглая Escoda Rezerva 1214 Tajmyr ручка съёмн
+			</category>
+			<category id="00-00008705" parentid="00-00008596">Серия 1215, Кисть колонок круглая Escoda Optimo 1215 серебряная ручка,
+			</category>
+			<category id="00-00008712" parentid="00-00008596">Серия 1222, Кисть колонок плоская язык Escoda Rezerva 1222 Tajmyr кор
+			</category>
+			<category id="00-00008718" parentid="00-00008596">Серия 1226, Кисть колонок плоская Rezerva 1226 Tajmyr короткая ручка бо
+			</category>
+			<category id="00-00008724" parentid="00-00008596">Серия 1230,Кисть колонок круглая Grafilo 1230 Tajmyr короткая ручка кор
+			</category>
+			<category id="00-00008730" parentid="00-00008596">Серия 1310, Кисть колонок круглая графическая Optimo ручка короткая
+			</category>
+			<category id="00-00008737" parentid="00-00008596">Серия 1410, кисти Barokko 1410 Gold Toray синтетика,ручка короткая
+			</category>
+			<category id="00-00008742" parentid="00-00008596">Серия 1430, Кисть синтетика круглая Perla 1430 White Toray короткая руч
+			</category>
+			<category id="00-00008760" parentid="00-00008596">Серия 1438, Кисть синтетика круглая Perla 1438 White Toray серебряная р
+			</category>
+			<category id="00-00008764" parentid="00-00008596">Серия 1462, Кисти синтетика Prado Gold Tame, круглые
+			</category>
+			<category id="00-00008769" parentid="00-00008596">Серия 1524 , Кисть синтетика плоская Ultimo, короткая черная ручка
+			</category>
+			<category id="00-00008773" parentid="00-00008596">Серия 1525, Кисть синтетика круглая  Ultimo 1525 Tendo короткая ручка ч
+			</category>
+			<category id="00-00008789" parentid="00-00008596">Серия 1526, кисти синтетика круглые со съемной ручкой
+			</category>
+			<category id="00-00008796" parentid="00-00008596">Серия 1530,Кисть синтетика круглая mop  Ultimo 1530 Tendo короткая ру
+			</category>
+			<category id="00-00008802" parentid="00-00008596">Серия 1532, Кисть синтетика плоская  Perla 1532 White Toray короткая ру
+			</category>
+			<category id="00-00008817" parentid="00-00008596">Серия 1540, Кисти синтетика, круглые Versatil
+			</category>
+			<category id="00-00008822" parentid="00-00008596">Серия 1548, Кисти синтетика, круглые Versatil со съемной ручкой
+			</category>
+			<category id="00-00008829" parentid="00-00008596">Серия 1549, Кисть синтетика круглая, с удлиненным ворсом ручка длинная ко
+			</category>
+			<category id="00-00008836" parentid="00-00008596">Серия 2032, Кисть флейц белка Aquario 2032  деревянная ручка п/лак
+			</category>
+			<category id="00-00008841" parentid="00-00008596">Серия 2234, Кисть флейц ушной волос
+			</category>
+			<category id="00-00008845" parentid="00-00008596">Серия 2350, Кисть флейц синтетика Primera 2350 деревянная ручка п/лак
+			</category>
+			<category id="00-00008854" parentid="00-00008596">Серия 2360,Кисть флейц щетина белая Clasico 2360 деревянная ручка п/лак
+			</category>
+			<category id="00-00008863" parentid="00-00008596">Серия 2370, Кисть флейц щетина белая  Clasico 2370 короткий ворс дерев.
+			</category>
+			<category id="00-00008872" parentid="00-00008596">Серия 2410, Кисть колонок круглая  Optimo 2410 длинная ручка синяя
+			</category>
+			<category id="00-00008889" parentid="00-00008596">Серия 2420,Кисть колонок круглая Grafilo 2420 Tajmyr длинная ручка кори
+			</category>
+			<category id="00-00008904" parentid="00-00008596">Серия 2531, Кисть синтетика круглая Perla 2531 White Toray длинная ручк
+			</category>
+			<category id="00-00008921" parentid="00-00008596">Серия 2632, Кисть синтетика плоская язык Perla 2632 White Toray длинная
+			</category>
+			<category id="00-00008936" parentid="00-00008596">Серия 2813, Кисть колонок плоская язык Optimo 2813 длинная ручка синя
+			</category>
+			<category id="00-00008949" parentid="00-00008596">Серия 2820, Кисть колонок плоская язык Grafilo 2820 Tajmyr длинная ру
+			</category>
+			<category id="00-00008961" parentid="00-00008596">Серия 2913, Кисть колонок плоская  Optimo 2913 длинная ручка синяя
+			</category>
+			<category id="00-00008974" parentid="00-00008596">Серия 2920, Кисть колонок плоская  Grafilo 2920 Tajmyr длинная ручка ко
+			</category>
+			<category id="00-00008987" parentid="00-00008596">Серия 4233, Кисть синтетика веерная  Perla 4233 длинная ручка серая
+			</category>
+			<category id="00-00008991" parentid="00-00008596">Серия 4237, Кисть синтетика веерная Escoda Barroco 4237 длинная ручка з
+			</category>
+			<category id="00-00008995" parentid="00-00008596">Серия 4338, Кисть барсук веерная Escoda Arco 4338 длинная ручка красная
+			</category>
+			<category id="00-00008999" parentid="00-00008596">Серия 4433, Кисть синтетика веерная Escoda Marfin 4433 длинная ручка кр
+			</category>
+			<category id="00-00009003" parentid="00-00008596">Серия 7700, Кисть из натуральной щетины круглая с квадратным краем
+			</category>
+			<category id="00-00009090" parentid="00-00009089">Акрил Pebeo Artist 37 мл
+			</category>
+			<category id="00-00009170" parentid="00-00009089">Акрил Pebeo Studio 100 мл
+			</category>
+			<category id="00-00009233" parentid="00-00009089">Акрил Pebeo Studio 500 мл
+			</category>
+			<category id="00-00009240" parentid="00-00009089">Лаки
+			</category>
+			<category id="00-00009266" parentid="00-00009089">Маркеры для ткани кисточный Pebeo Setascrib
+			</category>
+			<category id="00-00009302" parentid="00-00009089">Маркеры по керамике Pebeo Porcelaine 150
+			</category>
+			<category id="00-00009321" parentid="00-00009089">Масло PEBEO Studio XL 180 мл
+			</category>
+			<category id="00-00009334" parentid="00-00009089">Масло PEBEO Studio XL 200 мл
+			</category>
+			<category id="00-00009389" parentid="00-00009089">Масло PEBEO Studio XL 37 мл
+			</category>
+			<category id="00-00009442" parentid="00-00009089">Масло PEBEO XL Dyna 37 мл
+			</category>
+			<category id="00-00009450" parentid="00-00009089">Масло PEBEO XL Glaze 37 мл
+			</category>
+			<category id="00-00009456" parentid="00-00009089">Масляные краски D Art 37 мл
+			</category>
+			<category id="00-00009517" parentid="00-00009089">Масляные маркеры  4ARTIST MARKER
+			</category>
+			<category id="00-00009567" parentid="00-00009089">Чернила акварельные Pebeo Colorex 45 мл
+			</category>
+			<category id="00-00009627" parentid="00-00009089">Чернила акриловые Pebeo Artist acrilics liquid 45 мл
+			</category>
+			<category id="00-00009815" parentid="00-00009814">Акварель Schmincke Horadam кювета 1,6 мл
+			</category>
+			<category id="00-00009961" parentid="00-00009814">Акварель Schmincke Horadam туба 5 м
+			</category>
+			<category id="00-00010110" parentid="00-00009814">Акриловые краски  Schmincke Akademie 60 мл
+			</category>
+			<category id="00-00010171" parentid="00-00009814">Акриловые краски  Schmincke College 200 мл
+			</category>
+			<category id="00-00010208" parentid="00-00009814">Акриловые краски  Schmincke College 75 мл
+			</category>
+			<category id="00-00010245" parentid="00-00009814">Акриловые краски Schmincke Akademie 120 мл
+			</category>
+			<category id="00-00010306" parentid="00-00009814">Масляные краски  Schmincke Akademie 200 м
+			</category>
+			<category id="00-00010345" parentid="00-00009814">Масляные краски  Schmincke Akademie 60 м
+			</category>
+			<category id="00-00010394" parentid="00-00009814">Масляные краски  Schmincke College 200 мл
+			</category>
+			<category id="00-00010419" parentid="00-00009814">Масляные краски  Schmincke College 35 мл
+			</category>
+			<category id="00-00010444" parentid="00-00009814">Масляные краски Schmincke MUSSINI 35 мл
+			</category>
+			<category id="00-00010553" parentid="00-00009814">Масляные краски Schmincke Norma professional 120 мл
+			</category>
+			<category id="00-00010558" parentid="00-00009814">Масляные краски Schmincke Norma professional 35 мл
+			</category>
+			<category id="00-00010643" parentid="00-00009814">Пастель
+			</category>
+			<category id="00-00011179" parentid="00-00011178">Альбомы
+			</category>
+			<category id="00-00011205" parentid="00-00011178">Бумага в листах
+			</category>
+			<category id="00-00011225" parentid="00-00011178">Бумага в рулонах
+			</category>
+			<category id="00-00012151" parentid="00-00011639">Лаки
+			</category>
+			<category id="00-00012178" parentid="00-00011639">Масло Winsor Newton WINTON 37 мл
+			</category>
+			<category id="00-00012226" parentid="00-00011639">Наборы красок Winsor Newton
+			</category>
+			<category id="00-00012242" parentid="00-00011639">Тушь Winsor Newton 30 мл для каллиграфии
+			</category>
+			<category id="00-00012261" parentid="00-00011639">Тушь Winsor Newton банка 14 мл
+			</category>
+			<category id="00-00011954" parentid="00-00011639">Акрил Winsor Newton Galeria 60 мл
+			</category>
+			<category id="00-00012015" parentid="00-00011639">Блокноты для эскизов Winsor Newton
+			</category>
+			<category id="00-00012041" parentid="00-00011639">Кисти Winsor Newton
+			</category>
+			<category id="00-00011640" parentid="00-00011639">Акварель
+			</category>
+			<category id="00-00012319" parentid="00-00012318">Ежедневная коллекция
+			</category>
+			<category id="00-00012368" parentid="00-00012318">Открытки ручной работы рождественская коллекция
+			</category>
+			<category id="00-00005620" parentid="00-00005619">Крафт
+			</category>
+			<category id="00-00005631" parentid="00-00005619">Крафт (глитер)
+			</category>
+			<category id="00-00005652" parentid="00-00005619">По стеклу
+			</category>
+			<category id="00-00005668" parentid="00-00005667">SALE! DECO G
+			</category>
+			<category id="00-00005714" parentid="00-00005667">Vetro Color
+			</category>
+			<category id="00-00005740" parentid="00-00005667">Гели
+			</category>
+			<category id="00-00009814" parentid="00-00007634">КК Schmincke
+			</category>
+			<category id="00-00008596" parentid="00-00007634">КК Escoda
+			</category>
+			<category id="00-00009009" parentid="00-00007634">КК Nuuna
+			</category>
+			<category id="00-00009089" parentid="00-00007634">КК Pebeo
+			</category>
+			<category id="00-00007635" parentid="00-00007634">Liquitex
+			</category>
+			<category id="00-00012318" parentid="00-00007634">КК Открытки ручной работы
+			</category>
+			<category id="00-00011233" parentid="00-00007634">КК Unison
+			</category>
+			<category id="00-00011639" parentid="00-00007634">КК Winsor
+			</category>
+			<category id="00-00008317" parentid="00-00007634">КК Daniel Smith
+			</category>
+			<category id="00-00011178" parentid="00-00007634">КК St Cuthberts Mill
+			</category>
+			<category id="00-00004119" parentid="00-00004118">Наборы маркеров Potentate спир
+			</category>
+			<category id="00-00001875" parentid="00-00001874">Lefra
+			</category>
+			<category id="00-00002050" parentid="00-00001874">Масля
+			</category>
+			<category id="00-00002063" parentid="00-00001874">Набор
+			</category>
+			<category id="00-00005027" parentid="00-00005026">Oil Master
+			</category>
+			<category id="00-00005080" parentid="00-00005026">Van Dyck
+			</category>
+			<category id="00-00002111" parentid="00-00002110">Набор из 3
+			</category>
+			<category id="00-00002117" parentid="00-00002110">Набор из 4
+			</category>
+			<category id="00-00002119" parentid="00-00002110">Набор из 5
+			</category>
+			<category id="00-00002122" parentid="00-00002110">Набор из 6
+			</category>
+			<category id="00-00005891" parentid="00-00005754">Завести в базу
+			</category>
+			<category id="00-00001484" parentid="00-00001483">Краска масляная LB EXTRA FINE 20 мл
+			</category>
+			<category id="00-00006824" parentid="00-00006823">инструкиця по золочению
+			</category>
+			<category id="00-00001633" parentid="00-00001632">Грунт для офорта
+			</category>
+			<category id="00-00001642" parentid="00-00001632">Краска офортная 200 ml
+			</category>
+			<category id="00-00001661" parentid="00-00001632">Краска офортная 60 ml
+			</category>
+			<category id="00-00000558" parentid="00-00000557">IN
+			</category>
+			<category id="00-00000562" parentid="00-00000557">PA
+			</category>
+			<category id="00-00000585" parentid="00-00000557">SA
+			</category>
+			<category id="00-00013813" parentid="00-00007024">оборудование
+			</category>
+			<category id="00-00007513" parentid="00-00007512">Значки
+			</category>
+			<category id="00-00007562" parentid="00-00007512">Открытки и конверты
+			</category>
+			<category id="00-00007577" parentid="00-00007512">Пакеты
+			</category>
+			<category id="00-00007581" parentid="00-00007512">Скетчбуки и блокноты
+			</category>
+			<category id="00-00007594" parentid="00-00007512">Тетради
+			</category>
+			<category id="00-00007616" parentid="00-00007512">Упаковочная бумага
+			</category>
+			<category id="00-00016166" parentid="00-00007512">Бирки
+			</category>
+			<category id="00-00000597" parentid="00-00000500">Акварель
+			</category>
+			<category id="00-00000656" parentid="00-00000500">Акрил, гуашь и масло
+			</category>
+			<category id="00-00000671" parentid="00-00000500">Маркеры и каллиграфия
+			</category>
+			<category id="00-00000677" parentid="00-00000500">Смешанные техники
+			</category>
+			<category id="00-00001713" parentid="00-00001616">Рисование
+			</category>
+			<category id="00-00001632" parentid="00-00001616">Офорт
+			</category>
+			<category id="00-00001617" parentid="00-00001616">Золочение
+			</category>
+			<category id="00-00003078" parentid="00-00003077">Золочение
+			</category>
+			<category id="00-00004268" parentid="00-00004267">Золочение
+			</category>
+			<category id="00-00004386" parentid="00-00004267">Рисование
+			</category>
+			<category id="00-00003092" parentid="00-00003077">Рисование
+			</category>
+			<category id="00-00000501" parentid="00-00000500">Cухие техники
+			</category>
+			<category id="ЦБ-00003174" parentid="00-00002256">Тендер
+			</category>
+			<category id="00-00002257" parentid="00-00002256">Офис Балашиха
+			</category>
+			<category id="00-00002258" parentid="00-00002256">Офис Сергиев Посад
+			</category>
+			<category id="00-00002259" parentid="00-00002256">Склад Электросталь
+			</category>
+			<category id="00-00003093" parentid="00-00003092">1У19 Ушной коров.вол
+			</category>
+			<category id="00-00003100" parentid="00-00003092">1У29 Ушной коров.вол
+			</category>
+			<category id="00-00003107" parentid="00-00003092">1У47 Ушной коров.вол
+			</category>
+			<category id="00-00003109" parentid="00-00003092">Кисти белка круглые
+			</category>
+			<category id="00-00003117" parentid="00-00003092">Наборы в деревянных
+			</category>
+			<category id="00-00003132" parentid="00-00003092">Наборы ЭКО
+			</category>
+			<category id="00-00003136" parentid="00-00003092">Серия 1010 Кисти кру
+			</category>
+			<category id="00-00003149" parentid="00-00003092">Серия 1012 Кисти кру
+			</category>
+			<category id="00-00003166" parentid="00-00003092">Серия 101F Кисти кру
+			</category>
+			<category id="00-00003177" parentid="00-00003092">Серия 1022, Кисти ко
+			</category>
+			<category id="00-00003185" parentid="00-00003092">Серия 1040. Кисти шл
+			</category>
+			<category id="00-00003189" parentid="00-00003092">Серия 1050, Кисти ко
+			</category>
+			<category id="00-00003197" parentid="00-00003092">Серия 1052, кисти ко
+			</category>
+			<category id="00-00003214" parentid="00-00003092">Серия 1110,Кисти из
+			</category>
+			<category id="00-00003226" parentid="00-00003092">Серия 1112, Кисти кр
+			</category>
+			<category id="00-00003243" parentid="00-00003092">Серия 1115  Кисти кр
+			</category>
+			<category id="00-00003253" parentid="00-00003092">Серия 1117, кисти кр
+			</category>
+			<category id="00-00003269" parentid="00-00003092">Серия 111F. Кисти кр
+			</category>
+			<category id="00-00003280" parentid="00-00003092">Серия 1122, Кисть ко
+			</category>
+			<category id="00-00003288" parentid="00-00003092">Серия 1127 Кисть кол
+			</category>
+			<category id="00-00003300" parentid="00-00003092">Серия 1167, Кисти ко
+			</category>
+			<category id="00-00003305" parentid="00-00003092">Серия 1210, Кисти кр
+			</category>
+			<category id="00-00003319" parentid="00-00003092">Серия 1212, кисть си
+			</category>
+			<category id="00-00003326" parentid="00-00003092">Серия 1222, Кисти пл
+			</category>
+			<category id="00-00003344" parentid="00-00003092">Серия 1232, кисти си
+			</category>
+			<category id="00-00003352" parentid="00-00003092">Серия 1240 Шлеппер с
+			</category>
+			<category id="00-00003355" parentid="00-00003092">Серия 1272, Кисти ве
+			</category>
+			<category id="00-00003365" parentid="00-00003092">Серия 1310, Кисти си
+			</category>
+			<category id="00-00003377" parentid="00-00003092">Серия 1312, Кисти кр
+			</category>
+			<category id="00-00003389" parentid="00-00003092">Серия 1315, Кисти  к
+			</category>
+			<category id="00-00003399" parentid="00-00003092">Серия 1317, Кисти кр
+			</category>
+			<category id="00-00003412" parentid="00-00003092">Серия 1322, кисть си
+			</category>
+			<category id="00-00003430" parentid="00-00003092">Серия 1327, Кисти пл
+			</category>
+			<category id="00-00003447" parentid="00-00003092">Серия 1332, Кисти си
+			</category>
+			<category id="00-00003455" parentid="00-00003092">Серия 1337, кисти ов
+			</category>
+			<category id="00-00003463" parentid="00-00003092">Серия 1362, Кисти си
+			</category>
+			<category id="00-00003470" parentid="00-00003092">Серия 1365 Кисти нак
+			</category>
+			<category id="00-00003477" parentid="00-00003092">Серия 1410, Кисти кр
+			</category>
+			<category id="00-00003491" parentid="00-00003092">Серия 1412, Кисти кр
+			</category>
+			<category id="00-00003505" parentid="00-00003092">Серия 1417, Кисти кр
+			</category>
+			<category id="00-00003519" parentid="00-00003092">Серия 141F, кисти бе
+			</category>
+			<category id="00-00003527" parentid="00-00003092">Серия 1422, Кисти пл
+			</category>
+			<category id="00-00003539" parentid="00-00003092">Серия 1450, Кисти кр
+			</category>
+			<category id="00-00003553" parentid="00-00003092">Серия 1452, Кисти бе
+			</category>
+			<category id="00-00003565" parentid="00-00003092">Серия 1457, Кисти бе
+			</category>
+			<category id="00-00003567" parentid="00-00003092">Серия 1612, Кисти кр
+			</category>
+			<category id="00-00003576" parentid="00-00003092">Серия 1622, кисти пл
+			</category>
+			<category id="00-00003592" parentid="00-00003092">Серия 1632, Кисти ов
+			</category>
+			<category id="00-00003608" parentid="00-00003092">Серия 1672, Кисти ве
+			</category>
+			<category id="00-00003618" parentid="00-00003092">Серия 1685, Кисти тр
+			</category>
+			<category id="00-00003625" parentid="00-00003092">Серия 1722, кисти ще
+			</category>
+			<category id="00-00003634" parentid="00-00003092">Серия 1S15, Кисти кр
+			</category>
+			<category id="00-00003647" parentid="00-00003092">Серия 1S25, Кисти пл
+			</category>
+			<category id="00-00003665" parentid="00-00003092">Серия 1S35, Кисти ов
+			</category>
+			<category id="00-00003673" parentid="00-00003092">Серия 1S65, Кисти на
+			</category>
+			<category id="00-00003681" parentid="00-00003092">Серия 1А10, Кисти кр
+			</category>
+			<category id="00-00003695" parentid="00-00003092">Серия 1В12, Кисти кр
+			</category>
+			<category id="00-00003708" parentid="00-00003092">Серия 1В22, кисти пл
+			</category>
+			<category id="00-00003724" parentid="00-00003092">Серия 1В32, кисти ов
+			</category>
+			<category id="00-00003736" parentid="00-00003092">Серия 1М12, Кисти си
+			</category>
+			<category id="00-00003743" parentid="00-00003092">Серия 1М22, Кисти си
+			</category>
+			<category id="00-00003754" parentid="00-00003092">Серия 1М32, Кисти си
+			</category>
+			<category id="00-00003762" parentid="00-00003092">Серия 1Р1G, Кисти кр
+			</category>
+			<category id="00-00003774" parentid="00-00003092">Серия 1Р2G, кисти пл
+			</category>
+			<category id="00-00003785" parentid="00-00003092">Серия 1Р3G, кисти ов
+			</category>
+			<category id="00-00003793" parentid="00-00003092">Серия 1Р6G,Кисти ско
+			</category>
+			<category id="00-00003800" parentid="00-00003092">Серия 1Т14, кисти кр
+			</category>
+			<category id="00-00003812" parentid="00-00003092">Серия 1Т24, кисти пл
+			</category>
+			<category id="00-00003824" parentid="00-00003092">Серия 1Т34, Кисти ов
+			</category>
+			<category id="00-00003831" parentid="00-00003092">Серия 1Т64, кисти на
+			</category>
+			<category id="00-00003838" parentid="00-00003092">Серия 1У39, Кисти ко
+			</category>
+			<category id="00-00003845" parentid="00-00003092">Серия 2D10, Кисти кр
+			</category>
+			<category id="00-00003852" parentid="00-00003092">Серия 2F10, Кисти кр
+			</category>
+			<category id="00-00003864" parentid="00-00003092">Серия 2F2Р, Кисти Фл
+			</category>
+			<category id="00-00003871" parentid="00-00003092">Серия 301Т, кисти ко
+			</category>
+			<category id="00-00003881" parentid="00-00003092">Серия 5T2P, Кисти фл
+			</category>
+			<category id="00-00003888" parentid="00-00003092">Серия DKG3R (белка+к
+			</category>
+			<category id="00-00003893" parentid="00-00003092">Серия QA10 Кисти для
+			</category>
+			<category id="00-00003898" parentid="00-00003092">Серия QD15, Кисти ми
+			</category>
+			<category id="00-00003903" parentid="00-00003092">Серия QF10, Кисть кр
+			</category>
+			<category id="00-00003908" parentid="00-00003092">Серия ЖПФ, Кисти фле
+			</category>
+			<category id="00-00003915" parentid="00-00003092">Серия ЖСФ Кисти флей
+			</category>
+			<category id="00-00003923" parentid="00-00003092">Серия ЖЩФ, кисти фле
+			</category>
+			<category id="00-00004387" parentid="00-00004386">Распродажа! Аксессуары
+			</category>
+			<category id="00-00004419" parentid="00-00004386">Акриловые краски
+			</category>
+			<category id="00-00004919" parentid="00-00004386">Вспомогательные средства
+			</category>
+			<category id="00-00005026" parentid="00-00004386">Масляные краски
+			</category>
+			<category id="00-00001723" parentid="00-00001713">Акриловые краски
+			</category>
+			<category id="00-00001781" parentid="00-00001713">Акссесуары для рисова
+			</category>
+			<category id="00-00001814" parentid="00-00001713">Вспомагательные матер
+			</category>
+			<category id="00-00001863" parentid="00-00001713">Гуашевые краски
+			</category>
+			<category id="00-00001867" parentid="00-00001713">Литографические каран
+			</category>
+			<category id="00-00001874" parentid="00-00001713">Масляные краски
+			</category>
+			<category id="00-00001714" parentid="00-00001713">Акварельные краски
+			</category>
+			<category id="00-00002077" parentid="00-00001713">Пастель
+			</category>
+			<category id="00-00002081" parentid="00-00001713">Тушь
+			</category>
+			<category id="00-00002087" parentid="00-00001713">Чернила
+			</category>
+			<category id="00-00005186" parentid="00-00004386">Наборы красок
+			</category>
+			<category id="00-00005206" parentid="00-00004386">Пастель
+			</category>
+			<category id="00-00005596" parentid="00-00005595">SALE! Краска по керамике
+			</category>
+			<category id="00-00005619" parentid="00-00005595">Контуры
+			</category>
+			<category id="00-00005667" parentid="00-00005595">Краска по стеклу
+			</category>
+			<category id="00-00002129" parentid="00-00002128">Акриловые наборы красок
+			</category>
+			<category id="00-00002137" parentid="00-00002128">Вспомагательные средства
+			</category>
+			<category id="00-00002143" parentid="00-00002128">Роспись ткани
+			</category>
+			<category id="00-00002218" parentid="00-00002128">Стекло, Керамика, Форфор
+			</category>
+			<category id="00-00002144" parentid="00-00002143">Контур для ткани
+			</category>
+			<category id="00-00002152" parentid="00-00002143">Краска по ткани
+			</category>
+			<category id="00-00002215" parentid="00-00002143">Наборы красок по
+			</category>
+			<category id="00-00002340" parentid="00-00000001">Mabef
+			</category>
+			<category id="00-00002385" parentid="00-00000001">Manuscript
+			</category>
+			<category id="00-00002602" parentid="00-00000001">Masserini
+			</category>
+			<category id="00-00002996" parentid="00-00000001">Nazionale
+			</category>
+			<category id="00-00000697" parentid="00-00000001">Fabriano
+			</category>
+			<category id="00-00001482" parentid="00-00000001">LeFranc
+			</category>
+			<category id="00-00001440" parentid="00-00000001">Higgins Ink
+			</category>
+			<category id="00-00004053" parentid="00-00000001">Potentate
+			</category>
+			<category id="00-00004266" parentid="00-00000001">Ferrario
+			</category>
+			<category id="00-00003007" parentid="00-00000001">Roubloff
+			</category>
+			<category id="00-00002676" parentid="00-00000001">Mijello
+			</category>
+			<category id="00-00005746" parentid="00-00000001">Shinhanart
+			</category>
+			<category id="00-00005967" parentid="00-00000001">Touch
+			</category>
+			<category id="00-00007506" parentid="00-00000001">ИП Назаров
+			</category>
+			<category id="00-00007508" parentid="00-00000001">Подарочные наборы ArtQ
+			</category>
+			<category id="00-00007512" parentid="00-00000001">Подписные издания
+			</category>
+			<category id="00-00006657" parentid="00-00000001">Tombow
+			</category>
+			<category id="00-00006575" parentid="00-00000001">SM-LT
+			</category>
+			<category id="00-00007013" parentid="00-00000001">Kuretake / ZIG
+			</category>
+			<category id="00-00013818" parentid="00-00000001">Graphmaster Markers
+			</category>
+			<category id="00-00013925" parentid="00-00000001">Kaweco
+			</category>
+			<category id="00-00013065" parentid="00-00000001">William Mitchell
+			</category>
+			<category id="00-00000392" parentid="00-00000001">Rhodia
+			</category>
+			<category id="00-00000375" parentid="00-00000001">ClaireFontaine
+			</category>
+			<category id="00-00000219" parentid="00-00000001">Chartpak
+			</category>
+			<category id="00-00000072" parentid="00-00000001">Chameleon
+			</category>
+			<category id="00-00000002" parentid="00-00000001">Belle Arti
+			</category>
+			<category id="00-00015591" parentid="00-00000001">Manetti
+			</category>
+			<category id="00-00016086" parentid="00-00000001">Cappelletto
+			</category>
+			<category id="00-00002219" parentid="00-00002218">Конту
+			</category>
+			<category id="00-00002231" parentid="00-00002218">Краск
+			</category>
+			<category id="00-00002330" parentid="00-00002218">Набор
+			</category>
+			<category id="ЦБ-00005070" parentid="00-00014841">01 Значки
+			</category>
+			<category id="ЦБ-00005071" parentid="00-00014841">02 Бирки
+			</category>
+			<category id="ЦБ-00005076" parentid="00-00014841">01 Размер а4
+			</category>
+			<category id="ЦБ-00005077" parentid="00-00014841">02 Размер А5
+			</category>
+			<category id="ЦБ-00005078" parentid="00-00014841">03 Размер А3
+			</category>
+			<category id="ЦБ-00005079" parentid="00-00014841">05 Тетради А5
+			</category>
+			<category id="ЦБ-00005080" parentid="00-00014841">06 Тетради А4
+			</category>
+			<category id="ЦБ-00005073" parentid="00-00014841">04 Упаковочная бумага
+			</category>
+			<category id="00-00001303" parentid="00-00001918">03 Товары для обучения
+			</category>
+			<category id="00-00014841" parentid="00-00001919">Удаленные
+			</category>
+			<category id="00-00001918" parentid="00-00001919">Удалено (лишние папки и т.д.)
+			</category>
+			<category id="00-00006768" parentid="00-00001919">PХК (образцы, оборудование)
+			</category>
+			<category id="00-00006868" parentid="00-00001919">06 Новые маркеры
+			</category>
+			<category id="00-00007303" parentid="00-00001919">03 Ручки капилярные
+			</category>
+			<category id="00-00007569" parentid="00-00001919">04 GTHTYTCNB
+			</category>
+			<category id="00-00007687" parentid="00-00001919">07
+			</category>
+			<category id="ЦБ-00005081" parentid="00-00001919">07 Тердаид А6
+			</category>
+			<category id="ЦБ-00005072" parentid="00-00001919">03 Открытки
+			</category>
+			<category id="ЦБ-00004999" parentid="00-00001919">а5
+			</category>
+			<category id="ЦБ-00004997" parentid="00-00001919">дер
+			</category>
+			<category id="ЦБ-00004745" parentid="00-00001919">а5
+			</category>
+			<category id="ЦБ-00004746" parentid="00-00001919">f4
+			</category>
+			<category id="ЦБ-00001308" parentid="00-00001919">- Профессиональные художественные материалы
+			</category>
+			<category id="ЦБ-00001305" parentid="00-00001919">- Дизайн, хобби, творчество
+			</category>
+			<category id="00-00000001" parentid="00-00001919">Русская Художественная Компания
+			</category>
+			<category id="ЦУ-00001870" parentid="00-00001919">КИСТИ АРТАВАНГАРД НЕВЕРНЫЙ АРТИКУЛ
+			</category>
+			<category id="00-00008265" parentid="00-00001919">07 Не дана информация
+			</category>
+			<category id="00-00007634" parentid="00-00001919">Красный Карандаш
+			</category>
+			<category id="00-00005309" parentid="00-00005308">SALE! Наборы для детского творчества
+			</category>
+			<category id="00-00005318" parentid="00-00005308">Декорирование
+			</category>
+			<category id="00-00005595" parentid="00-00005308">Роспись
+			</category>
+			<category id="00-00002128" parentid="00-00002092">Роспись
+			</category>
+			<category id="00-00002093" parentid="00-00002092">Декорирование
+			</category>
+			<category id="00-00005522" parentid="00-00005308">Декупаж
+			</category>
+			<category id="00-00003934" parentid="00-00003933">Наборы для творчества
+			</category>
+			<category id="00-00003940" parentid="00-00003933">Наборы кистей для хобби
+			</category>
+			<category id="00-00003943" parentid="00-00003933">Серия 01RB
+			</category>
+			<category id="00-00003946" parentid="00-00003933">Серия 02RB
+			</category>
+			<category id="00-00003951" parentid="00-00003933">Серия 03RB
+			</category>
+			<category id="00-00003956" parentid="00-00003933">Серия 04RB
+			</category>
+			<category id="00-00003961" parentid="00-00003933">Серия 05RB
+			</category>
+			<category id="00-00003967" parentid="00-00003933">Серия 06RB
+			</category>
+			<category id="00-00003973" parentid="00-00003933">Серия 07RB
+			</category>
+			<category id="00-00003978" parentid="00-00003933">Серия 08RB
+			</category>
+			<category id="00-00003990" parentid="00-00003933">Серия 09RB
+			</category>
+			<category id="00-00003993" parentid="00-00003933">Серия 10RB
+			</category>
+			<category id="00-00003996" parentid="00-00003933">Серия 10АRB
+			</category>
+			<category id="00-00003999" parentid="00-00003933">Серия 11RB
+			</category>
+			<category id="00-00004001" parentid="00-00003933">Серия 12RB
+			</category>
+			<category id="00-00004005" parentid="00-00003933">Серия 13RB
+			</category>
+			<category id="00-00004009" parentid="00-00003933">Серия 14RB
+			</category>
+			<category id="00-00004014" parentid="00-00003933">Серия 15RB
+			</category>
+			<category id="00-00004020" parentid="00-00003933">Серия 16RB
+			</category>
+			<category id="00-00004025" parentid="00-00003933">Серия 17RB
+			</category>
+			<category id="00-00004032" parentid="00-00003933">Серия 18RB
+			</category>
+			<category id="00-00004037" parentid="00-00003933">Серия 19RB
+			</category>
+			<category id="00-00004040" parentid="00-00003933">Серия 20RB
+			</category>
+			<category id="00-00004043" parentid="00-00003933">Серия 21RB
+			</category>
+			<category id="00-00004047" parentid="00-00003933">Серия 22RB
+			</category>
+		</categories>
+		<offers>
+			<offer id="00-00002819" available="true">
+        <name>Вкладыш BLICK А1 ПВХ 180мкн антибликовый матовый</name>
+        <price>524</price>
+        <categoryId>00-00008008</categoryId>
+        <vat>1</vat>
+        <vendor></vendor>
+				<outlets>
+					<outlet id="0" instock="0"/>
+				</outlets>
+        <barcode>4604193490172</barcode>
+			</offer>
+			<offer id="00-00002820" available="true">
+        <name>Вкладыш BLICK А2 ПВХ 180мкн антибликовый матовый</name>
+        <price>295</price>
+        <categoryId>00-00008008</categoryId>
+        <vat>1</vat>
+        <vendor></vendor>
+				<outlets>
+					<outlet id="0" instock="0"/>
+				</outlets>
+        <barcode>4604193490196</barcode>
+			</offer>
+			<offer id="00-00002821" available="true">
+        <name>Вкладыш BLICK А3 ПВХ 180мкн антибликовый матовый</name>
+        <price>161</price>
+        <categoryId>00-00008008</categoryId>
+        <vat>1</vat>
+        <vendor></vendor>
+				<outlets>
+					<outlet id="0" instock="0"/>
+				</outlets>
+        <barcode>4604193490127</barcode>
+			</offer>
+			<offer id="00124" available="true">
+        <name>Пастель в ассортименте с пленэра половинки</name>
+        <price></price>
+        <categoryId>00-00005375</categoryId>
+        <vat>1</vat>
+        <vendor>ROYAL TALENS</vendor>
+				<outlets>
+					<outlet id="0" instock="0"/>
+				</outlets>
+        <barcode>2000035379001</barcode>
+			</offer>
+			<offer id="00125" available="true">
+        <name>Кисти в ассортименте Pinax</name>
+        <price></price>
+        <categoryId>00-00005375</categoryId>
+        <vat>1</vat>
+        <vendor>ROYAL TALENS</vendor>
+				<outlets>
+					<outlet id="0" instock="0"/>
+				</outlets>
+        <barcode>2000035379018</barcode>
+			</offer>
+			<offer id="00126" available="true">
+        <name>Планшет деревянный А4 и А3</name>
+        <price></price>
+        <categoryId>00-00005375</categoryId>
+        <vat>1</vat>
+        <vendor>ROYAL TALENS</vendor>
+				<outlets>
+					<outlet id="0" instock="0"/>
+				</outlets>
+        <barcode>2000035379025</barcode>
+			</offer>
+			<offer id="0027" available="true"><name></name><price>1015</price><categoryId>00-00007996</categoryId><vat>1</vat><vendor></vendor>
+				<outlets>
+					<outlet id="0" instock="0"/>
+				</outlets><barcode>2000035379186</barcode>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>
