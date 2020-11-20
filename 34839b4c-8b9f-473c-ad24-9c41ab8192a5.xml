@@ -1,0 +1,1282 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2020-11-20 17:24">
+  <shop>
+    <name>По инструментам</name>
+    <company>Юнитул</company>
+    <url>http://on-tools.ru/</url>
+    <phone>+7 (495) 268-14-99</phone>
+    <platform>Shop-Script</platform>
+    <version>7.5.1.287</version>
+    <currencies>
+      <currency id="RUB" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="625">Ручной</category>
+      <category id="862" parentId="625">Расходники для электроинструмента</category>
+      <category id="871" parentId="862">Диски отрезные по металлу</category>
+      <category id="1993" parentId="871">По алюминию</category>
+      <category id="1995" parentId="871">По металлу</category>
+      <category id="1297" parentId="871">По нержавеющей стали</category>
+      <category id="1994" parentId="871">По чугуну</category>
+      <category id="1252" parentId="862">Диски пильные по металлу</category>
+      <category id="915" parentId="862">Диски шлифовальные</category>
+      <category id="1248" parentId="862">Коронки биметаллические</category>
+      <category id="1282" parentId="1248">Державки для биметаллических коронок</category>
+      <category id="1281" parentId="1248">Наборы биметаллических коронок</category>
+      <category id="897" parentId="862">Сверла по металлу</category>
+      <category id="1286" parentId="897">Вышлифованные сверла по металлу</category>
+      <category id="1287" parentId="897">Кобальтовые сверла по металлу</category>
+      <category id="1526" parentId="897">Титановые сверла по металлу</category>
+      <category id="1289" parentId="897">Нешлифованные сверла по металлу</category>
+      <category id="1285" parentId="897">Парооксидированные сверла по металлу</category>
+      <category id="881" parentId="897">Наборы сверл по металлу</category>
+      <category id="906" parentId="862">Сверла ступенчатые по металлу</category>
+      <category id="1284" parentId="906">Наборы сверл ступенчатых</category>
+      <category id="953" parentId="862">Диски заточные</category>
+      <category id="873" parentId="862">Зенкеры конические</category>
+      <category id="1255" parentId="862">Пилки для электролобзика</category>
+      <category id="1323" parentId="1255">Наборы пилок для лобзика</category>
+      <category id="1253" parentId="862">Полотна для сабельных ножовок</category>
+      <category id="919" parentId="862">Щетки-крацовки</category>
+      <category id="1290" parentId="919">Дисковые щетки-крацовки</category>
+      <category id="1420" parentId="919">Кистевые щетки-крацовки</category>
+      <category id="1294" parentId="919">Конические щетки-крацовки</category>
+      <category id="1293" parentId="919">Наборы щеток-крацовок</category>
+      <category id="1418" parentId="919">Полимерные щетки-крацовки</category>
+      <category id="1414" parentId="919">Ручные щетки-крацовки</category>
+      <category id="1291" parentId="919">Чашечные щетки-крацовки</category>
+      <category id="1972" parentId="862">Круги шлифовальные</category>
+      <category id="1975" parentId="1972">Круги шлифовальные без липучки</category>
+      <category id="1973" parentId="1972">Круги шлифовальные без отверстий</category>
+      <category id="1976" parentId="1972">Круги шлифовальные лепестковые веерные</category>
+      <category id="1977" parentId="1972">Круги лепестковые шлифовальные</category>
+      <category id="1974" parentId="1972">Круги шлифовальные с отверстиями</category>
+      <category id="1981" parentId="1972">Тарелки опорные для шлифовальных кругов</category>
+      <category id="1979" parentId="862">Листы шлифовальные</category>
+      <category id="1980" parentId="862">Ленты бесконечные</category>
+      <category id="1978" parentId="862">Треугольники шлифовальные</category>
+      <category id="890" parentId="862">Полировальные насадки</category>
+      <category id="1241" parentId="862">Сверла фрезеровальные</category>
+      <category id="1245" parentId="862">Коронки универсальные</category>
+      <category id="1269" parentId="1245">Державки и сверла для коронок</category>
+      <category id="1268" parentId="862">Наборы универсальных сверл</category>
+      <category id="907" parentId="862">Сверла универсальные</category>
+      <category id="2044" parentId="862">Специальные пилки для электролобзика</category>
+      <category id="867" parentId="862">Буры и зубила</category>
+      <category id="1275" parentId="867">Буры SDS max</category>
+      <category id="2091" parentId="1275">Удлинители для буров SDS max</category>
+      <category id="1274" parentId="867">Буры SDS plus</category>
+      <category id="892" parentId="867">Буры проломные</category>
+      <category id="2000" parentId="892">Удлинители для проломных буров</category>
+      <category id="910" parentId="867">Зубила для перфораторов</category>
+      <category id="884" parentId="867">Наборы буров для перфоратора</category>
+      <category id="2002" parentId="884">Удлинители буров</category>
+      <category id="1276" parentId="867">Наборы зубил</category>
+      <category id="2020" parentId="867">Патроны и переходники</category>
+      <category id="911" parentId="867">Пики для отбойных молотков</category>
+      <category id="864" parentId="862">Диски алмазные</category>
+      <category id="1278" parentId="864">Диски алмазные для УШМ (22,2 мм)</category>
+      <category id="1279" parentId="864">Диски алмазные для бензорезов (25,4 мм)</category>
+      <category id="1277" parentId="864">Диски алмазные для электроплиткореза (25,4 мм)</category>
+      <category id="1752" parentId="864">Диски алмазные для бензорезов и плиткорезов (20 мм)</category>
+      <category id="1251" parentId="862">Диски отрезные по камню</category>
+      <category id="866" parentId="862">Коронки буровые</category>
+      <category id="1333" parentId="866">Буровые коронки в сборе</category>
+      <category id="869" parentId="866">Державки для буровых коронок</category>
+      <category id="981" parentId="866">Клинья для выбивания центрирующего сверла</category>
+      <category id="1334" parentId="866">Коронки по бетону</category>
+      <category id="1335" parentId="866">Наборы коронок</category>
+      <category id="2001" parentId="866">Патроны и переходники</category>
+      <category id="913" parentId="866">Центрирующие сверла для коронок</category>
+      <category id="978" parentId="862">Коронки с карбид-вольфрамовой крошкой</category>
+      <category id="1271" parentId="978">Державки и сверла для твердосплавных коронок</category>
+      <category id="894" parentId="862">Сверла по бетону</category>
+      <category id="880" parentId="894">Набор сверл по бетону</category>
+      <category id="865" parentId="862">Чашки алмазные шлифовальные по бетону</category>
+      <category id="2088" parentId="862">Для удаления швов</category>
+      <category id="872" parentId="862">Диски пильные по дереву</category>
+      <category id="2085" parentId="872">Пильные диски, посадочный диаметр - 10 мм</category>
+      <category id="1322" parentId="872">Пильные диски, посадочный диаметр - 12,7 мм</category>
+      <category id="1753" parentId="872">Пильные диски, посадочный диаметр - 15 мм</category>
+      <category id="1314" parentId="872">Пильные диски, посадочный диаметр - 16 мм</category>
+      <category id="1315" parentId="872">Пильные диски, посадочный диаметр - 20 мм</category>
+      <category id="1319" parentId="872">Пильные диски, посадочный диаметр - 25 мм</category>
+      <category id="1321" parentId="872">Пильные диски, посадочный диаметр - 25,4 мм</category>
+      <category id="1320" parentId="872">Пильные диски, посадочный диаметр - 28,6 мм</category>
+      <category id="1316" parentId="872">Пильные диски, посадочный диаметр - 30 мм</category>
+      <category id="1317" parentId="872">Пильные диски, посадочный диаметр - 32 мм</category>
+      <category id="1318" parentId="872">Пильные диски, посадочный диаметр - 50 мм</category>
+      <category id="1450" parentId="862">Наборы для врезки замков</category>
+      <category id="874" parentId="862">Пилы кольцевые</category>
+      <category id="870" parentId="874">Державки для коронок по дереву</category>
+      <category id="895" parentId="862">Сверла по дереву</category>
+      <category id="1308" parentId="895">Балеринки</category>
+      <category id="1306" parentId="895">Перьевые сверла по дереву</category>
+      <category id="3034" parentId="1306">Наборы перьевых сверл по дереву</category>
+      <category id="1548" parentId="895">Сверла с зенкером</category>
+      <category id="1304" parentId="895">Сверла Левиса</category>
+      <category id="912" parentId="1304">Удлинители для сверл Левиса</category>
+      <category id="1305" parentId="895">Сверла Форстнера</category>
+      <category id="893" parentId="895">Сверла опалубочные</category>
+      <category id="1307" parentId="895">Спиральные сверла по дереву</category>
+      <category id="1547" parentId="862">Фрезы по дереву</category>
+      <category id="1802" parentId="1547">Наборы фрез по дереву</category>
+      <category id="1239" parentId="862">Алмазные коронки</category>
+      <category id="1240" parentId="862">Коронки твердосплавные</category>
+      <category id="1270" parentId="1240">Державки и сверла для коронок</category>
+      <category id="1272" parentId="862">Наборы по кафелю и стеклу</category>
+      <category id="896" parentId="862">Сверла по кафелю и стеклу</category>
+      <category id="2092" parentId="896">Наборы сверл по кафелю и стеклу</category>
+      <category id="1273" parentId="896">Кондукторы для алмазных сверл</category>
+      <category id="887" parentId="862">Насадки для гравера</category>
+      <category id="1344" parentId="887">Алмазные</category>
+      <category id="1340" parentId="887">Круги</category>
+      <category id="1342" parentId="887">Наборы для гравера</category>
+      <category id="1343" parentId="887">Оправки</category>
+      <category id="1338" parentId="887">Цанги</category>
+      <category id="1339" parentId="887">Цилиндры</category>
+      <category id="1337" parentId="887">Шарошки</category>
+      <category id="1341" parentId="887">Щетки</category>
+      <category id="1482" parentId="862">Насадки для миксера</category>
+      <category id="1479" parentId="1482">Венчики для миксера для красок</category>
+      <category id="1481" parentId="1482">Венчики для миксера для наливных полов</category>
+      <category id="1480" parentId="1482">Венчики для миксера для раствора</category>
+      <category id="1806" parentId="862">Щетки для шлифмашин</category>
+      <category id="817" parentId="625">Пена и герметики</category>
+      <category id="677" parentId="817">Герметики</category>
+      <category id="682" parentId="817">Клей монтажный (жидкие гвозди)</category>
+      <category id="1345" parentId="817">Очистители для пены</category>
+      <category id="686" parentId="817">Пена монтажная</category>
+      <category id="687" parentId="817">Пистолеты для герметика</category>
+      <category id="694" parentId="687">Сменные сопла</category>
+      <category id="688" parentId="817">Пистолеты для пены</category>
+      <category id="673" parentId="625">Малярный и отделочный</category>
+      <category id="674" parentId="673">Малярные кисти</category>
+      <category id="2077" parentId="674">Плоские флейцевые кисти</category>
+      <category id="1486" parentId="674">Кисти-макловицы</category>
+      <category id="1492" parentId="674">Кисти для водной краски</category>
+      <category id="1487" parentId="674">Круглые кисти</category>
+      <category id="1493" parentId="674">Кисти для пропитки</category>
+      <category id="1488" parentId="674">Радиаторные кисти</category>
+      <category id="1491" parentId="674">Тонкие кисти</category>
+      <category id="1490" parentId="674">Наборы кистей</category>
+      <category id="676" parentId="673">Валики малярные</category>
+      <category id="1502" parentId="676">Структурные валики</category>
+      <category id="1504" parentId="676">Валики для наливных полов</category>
+      <category id="1501" parentId="676">Прижимные валики</category>
+      <category id="698" parentId="676">Удлинители для валиков</category>
+      <category id="692" parentId="676">Ручки для валиков</category>
+      <category id="539" parentId="673">Ванночки и решетки</category>
+      <category id="678" parentId="673">Гладилки</category>
+      <category id="1507" parentId="678">Зубчатые гладилки</category>
+      <category id="1506" parentId="678">Нержавеющие гладилки</category>
+      <category id="1508" parentId="678">Пластиковые гладилки</category>
+      <category id="1505" parentId="678">Стальные гладилки</category>
+      <category id="689" parentId="673">Для обоев</category>
+      <category id="679" parentId="673">Емкости</category>
+      <category id="1509" parentId="679">Ведра</category>
+      <category id="1512" parentId="679">Кадки</category>
+      <category id="1511" parentId="679">Ковши</category>
+      <category id="1510" parentId="679">Кюветы</category>
+      <category id="2045" parentId="673">Затирки</category>
+      <category id="680" parentId="673">Кельмы</category>
+      <category id="1515" parentId="680">Кельмы бетонщика</category>
+      <category id="1514" parentId="680">Кельмы каменщика</category>
+      <category id="1516" parentId="680">Кельмы отделочника</category>
+      <category id="1517" parentId="680">Кельмы печника</category>
+      <category id="1518" parentId="680">Кельмы плиточника</category>
+      <category id="691" parentId="680">Расшивки каменщика</category>
+      <category id="1519" parentId="680">Угловые кельмы</category>
+      <category id="1513" parentId="680">Кельмы штукатура</category>
+      <category id="2048" parentId="673">Клеи обойные</category>
+      <category id="1001" parentId="673">Крестики для плитки</category>
+      <category id="533" parentId="673">Маркеры и карандаши</category>
+      <category id="2047" parentId="673">Обезжириватели</category>
+      <category id="684" parentId="673">Отвесы</category>
+      <category id="690" parentId="673">Правила алюминиевые</category>
+      <category id="534" parentId="673">Разбрызгиватели "шарманка"</category>
+      <category id="695" parentId="673">Соколы штукатурные</category>
+      <category id="675" parentId="673">Терки и бруски</category>
+      <category id="1495" parentId="675">Бруски шлифовальные</category>
+      <category id="696" parentId="675">Терки полиуретановые</category>
+      <category id="947" parentId="675">Терки с покрытием</category>
+      <category id="2075" parentId="675">Удлинители</category>
+      <category id="699" parentId="673">Шнуры разметочные</category>
+      <category id="683" parentId="699">Краситель для шнуров</category>
+      <category id="700" parentId="673">Шпатели</category>
+      <category id="1521" parentId="700">Зубчатые</category>
+      <category id="1522" parentId="700">Нержавеющие</category>
+      <category id="1525" parentId="700">Пластиковые</category>
+      <category id="1520" parentId="700">Резиновые</category>
+      <category id="1523" parentId="700">Стальные</category>
+      <category id="1524" parentId="700">Японские</category>
+      <category id="704" parentId="625">Клейкие ленты</category>
+      <category id="742" parentId="704">Армированные ленты</category>
+      <category id="746" parentId="704">Бордюрные ленты</category>
+      <category id="744" parentId="704">Двусторонние ленты</category>
+      <category id="745" parentId="704">Изоленты</category>
+      <category id="749" parentId="704">Малярные ленты</category>
+      <category id="747" parentId="704">Металлизированные ленты</category>
+      <category id="537" parentId="704">Пистолеты для лент</category>
+      <category id="754" parentId="704">Сигнальные ленты</category>
+      <category id="748" parentId="704">Углолозащитные ленты</category>
+      <category id="755" parentId="704">Упаковочные ленты</category>
+      <category id="775" parentId="625">Измерительный инструмент</category>
+      <category id="1461" parentId="775">Рулетки измерительные</category>
+      <category id="1463" parentId="1461">Мерные ленты</category>
+      <category id="1465" parentId="1461">Мерительные колеса</category>
+      <category id="786" parentId="775">Штангенциркули</category>
+      <category id="781" parentId="775">Микрометры</category>
+      <category id="641" parentId="775">Ключи динамометрические</category>
+      <category id="826" parentId="775">Лазерный инструмент</category>
+      <category id="1471" parentId="826">Нивелиры лазерные</category>
+      <category id="1470" parentId="826">Уровни лазерные</category>
+      <category id="1472" parentId="826">Дальномеры лазерные (лазерные рулетки)</category>
+      <category id="2062" parentId="826">Ресиверы</category>
+      <category id="1473" parentId="826">Штативы для лазерных нивелиров и уровней</category>
+      <category id="785" parentId="775">Уровни строительные</category>
+      <category id="1452" parentId="785">Коробчатые уровни</category>
+      <category id="1453" parentId="785">Двутавровые уровни</category>
+      <category id="1457" parentId="785">Литые уровни</category>
+      <category id="1454" parentId="785">Магнитные уровни</category>
+      <category id="1459" parentId="785">Электронные уровни</category>
+      <category id="1456" parentId="785">Мини уровни</category>
+      <category id="1458" parentId="785">Раскладные уровни</category>
+      <category id="1967" parentId="785">Уровни для водных работ</category>
+      <category id="1460" parentId="785">Круглые уровни</category>
+      <category id="1455" parentId="785">Уровни-угольники</category>
+      <category id="778" parentId="775">Линейки</category>
+      <category id="1469" parentId="778">Линейки</category>
+      <category id="1466" parentId="778">Складные метры</category>
+      <category id="1467" parentId="778">Счетчики</category>
+      <category id="1468" parentId="778">Телескопические линейки</category>
+      <category id="784" parentId="775">Угольники</category>
+      <category id="779" parentId="775">Малки</category>
+      <category id="783" parentId="775">Угломеры</category>
+      <category id="776" parentId="775">Гидроуровни</category>
+      <category id="1421" parentId="775">Шаблон шага резьбы</category>
+      <category id="642" parentId="775">Измерители зазора</category>
+      <category id="982" parentId="775">Детекторы влажности</category>
+      <category id="1002" parentId="775">Разметочный инструмент</category>
+      <category id="1895" parentId="775">Пирометры инфракрасные</category>
+      <category id="931" parentId="625">Монтажный инструмент</category>
+      <category id="969" parentId="931">Биты для шуруповерта</category>
+      <category id="1832" parentId="969">Биты Phillips</category>
+      <category id="1834" parentId="969">Биты Pozidrive</category>
+      <category id="1836" parentId="969">Шестигранные биты для шуруповерта, HEX</category>
+      <category id="1835" parentId="969">Биты Slot</category>
+      <category id="1837" parentId="969">Биты Torx</category>
+      <category id="1833" parentId="969">Биты с ограничителем PH2</category>
+      <category id="1838" parentId="969">Биты торцовые</category>
+      <category id="2097" parentId="969">Специальные биты</category>
+      <category id="2973" parentId="969">Двухсторонние биты</category>
+      <category id="1840" parentId="969">Адаптеры для бит</category>
+      <category id="2100" parentId="969">Наборы бит для шуруповерта</category>
+      <category id="1839" parentId="969">Биты и сверла</category>
+      <category id="1576" parentId="969">Отвертки с битами и торцевыми головками</category>
+      <category id="1831" parentId="969">Наборы специальных бит</category>
+      <category id="1579" parentId="969">Отвертки с битами для точных работ</category>
+      <category id="1841" parentId="969">Наборы авто бит</category>
+      <category id="1577" parentId="969">Отвертки для бит</category>
+      <category id="1578" parentId="969">Отвертки с битами</category>
+      <category id="840" parentId="931">Отвертки</category>
+      <category id="1564" parentId="840">Крестовые отвертки (PH)</category>
+      <category id="1568" parentId="840">Крестовые отвертки (PZ)</category>
+      <category id="1563" parentId="840">Плоские отвертки (SL)</category>
+      <category id="1569" parentId="840">Отвертки HEX</category>
+      <category id="1570" parentId="840">Отвертки TORX</category>
+      <category id="1565" parentId="840">Диэлектрические отвертки</category>
+      <category id="1572" parentId="840">Отвертки для точных работ</category>
+      <category id="2061" parentId="840">Отвертки специальные</category>
+      <category id="2098" parentId="840">Шестигранные отвертки</category>
+      <category id="1566" parentId="840">Отвертки "Бочки"</category>
+      <category id="2099" parentId="840">Отвертки для насадок</category>
+      <category id="1567" parentId="840">Ударные отвертки</category>
+      <category id="1571" parentId="840">Динамометрические отвертки</category>
+      <category id="995" parentId="840">Наборы отверток</category>
+      <category id="2039" parentId="840">Наборы диэлектрических отверток</category>
+      <category id="1719" parentId="840">Наборы отверток для мобильных устройств</category>
+      <category id="1830" parentId="840">Отвертки со стержнями</category>
+      <category id="1607" parentId="840">Отвертки+губцевые</category>
+      <category id="1573" parentId="840">Намагничиватели</category>
+      <category id="902" parentId="931">Губцевый инструмент</category>
+      <category id="843" parentId="902">Плоскогубцы</category>
+      <category id="1628" parentId="843">Плоскогубцы</category>
+      <category id="2108" parentId="843">Изогнутые плоскогубцы</category>
+      <category id="1629" parentId="843">Диэлектрические плоскогубцы</category>
+      <category id="1633" parentId="843">"Утконосы"</category>
+      <category id="1969" parentId="843">Переставные плоскогубцы</category>
+      <category id="1637" parentId="843">Мини-плоскогубцы</category>
+      <category id="1630" parentId="843">Плоскогубцы для электроники</category>
+      <category id="768" parentId="902">Бокорезы</category>
+      <category id="1623" parentId="768">Бокорезы</category>
+      <category id="1625" parentId="768">Диэлектрические бокорезы</category>
+      <category id="1624" parentId="768">Мини-бокорезы</category>
+      <category id="1626" parentId="768">Силовые бокорезы</category>
+      <category id="857" parentId="902">Тонкогубцы</category>
+      <category id="1643" parentId="857">Диэлектрические тонкогубцы</category>
+      <category id="1641" parentId="857">Для электроники</category>
+      <category id="1639" parentId="857">Изогнутые тонкогубцы</category>
+      <category id="1642" parentId="857">Круглогубцы</category>
+      <category id="1640" parentId="857">Мини-тонкогубцы</category>
+      <category id="816" parentId="902">Клещи переставные</category>
+      <category id="1648" parentId="816">Диэлектрические клещи переставные</category>
+      <category id="1649" parentId="816">Клещи переставные</category>
+      <category id="971" parentId="902">Набор губцевых инструментов</category>
+      <category id="1000" parentId="902">Кусачки для кафеля</category>
+      <category id="815" parentId="902">Кусачки торцевые</category>
+      <category id="1644" parentId="815">Диэлектрические кусачки</category>
+      <category id="1646" parentId="815">Клещи</category>
+      <category id="1647" parentId="815">Кусачки торцевые</category>
+      <category id="1645" parentId="815">Мини-кусачки</category>
+      <category id="841" parentId="902">Пинцеты</category>
+      <category id="824" parentId="931">Ключи</category>
+      <category id="1127" parentId="824">Комбинированные ключи</category>
+      <category id="1128" parentId="824">Трещоточные ключи</category>
+      <category id="1126" parentId="824">Рожковые ключи</category>
+      <category id="1129" parentId="824">Накидные ключи</category>
+      <category id="933" parentId="824">Имбусовые ключи</category>
+      <category id="1619" parentId="933">Ключи имбусовые HEX</category>
+      <category id="1618" parentId="933">Ключи имбусовые TORX</category>
+      <category id="1622" parentId="933">Наборы имбусовых ключей TORX</category>
+      <category id="1621" parentId="933">Наборы дюймовых имбусовых ключей</category>
+      <category id="793" parentId="933">Инструмент для спортинвентаря</category>
+      <category id="934" parentId="824">Разводные ключи</category>
+      <category id="1617" parentId="934">Диэлектрические разводные ключи</category>
+      <category id="980" parentId="824">Газовые ключи</category>
+      <category id="1615" parentId="980">Ключи "Rigit"</category>
+      <category id="1616" parentId="980">Сантехнические ключи</category>
+      <category id="1614" parentId="980">Трубные ключи с изогнутыми губками</category>
+      <category id="1613" parentId="980">Трубные ключи с прямыми губками</category>
+      <category id="1612" parentId="824">Быстрозажимные ключи</category>
+      <category id="1130" parentId="824">Шарнирные ключи</category>
+      <category id="646" parentId="824">Ключи балонные</category>
+      <category id="640" parentId="824">Ключи трубчатые и торцевые</category>
+      <category id="1138" parentId="640">Г-образные ключи</category>
+      <category id="1142" parentId="640">Двусторонние ключи</category>
+      <category id="639" parentId="640">Ключи свечные</category>
+      <category id="1144" parentId="640">Наборы торцовых ключей</category>
+      <category id="1143" parentId="640">Односторонние торцовые ключи</category>
+      <category id="1141" parentId="640">Ступичные ключи</category>
+      <category id="1140" parentId="640">Трубчатые ключи</category>
+      <category id="633" parentId="824">Наборы гаечных ключей</category>
+      <category id="1133" parentId="633">Комбинированные ключи</category>
+      <category id="1137" parentId="633">Накидные ключи</category>
+      <category id="1135" parentId="633">Рожковые</category>
+      <category id="1134" parentId="633">Трещоточные ключи</category>
+      <category id="1136" parentId="633">Шарнирные ключи</category>
+      <category id="636" parentId="931">Торцовые головки</category>
+      <category id="1148" parentId="636">Головки торцовые</category>
+      <category id="1149" parentId="636">Ударные головки</category>
+      <category id="631" parentId="636">Биты-головки</category>
+      <category id="1151" parentId="636">Свечные головки</category>
+      <category id="1984" parentId="636">Наборы торцевых головок</category>
+      <category id="1150" parentId="636">Переходники и адаптеры</category>
+      <category id="638" parentId="636">Трещотки и воротки для торцовых головок</category>
+      <category id="854" parentId="931">Степлеры</category>
+      <category id="1591" parentId="854">Степлеры тип 53</category>
+      <category id="1592" parentId="854">Степлеры тип 140</category>
+      <category id="1593" parentId="854">Степлеры тип 7/28/36 (кабельные)</category>
+      <category id="1594" parentId="854">Степлеры тип 13</category>
+      <category id="1597" parentId="854">Плаеры</category>
+      <category id="1982" parentId="854">Пистолеты скобозабивные электрические</category>
+      <category id="1983" parentId="854">Пневмостеплеры</category>
+      <category id="1596" parentId="854">Молотки для скоб</category>
+      <category id="1595" parentId="854">Скобоудалители</category>
+      <category id="1601" parentId="854">Скобы и гвозди для степлеров</category>
+      <category id="2939" parentId="1601">Скобы для пневмостеплеров</category>
+      <category id="2132" parentId="1601">Скобы для степлера тип 53 ( А/3/530 )</category>
+      <category id="1580" parentId="1601">Скобы для степлера тип 140 ( G/4/11 )</category>
+      <category id="1582" parentId="1601">Скобы тип H/13/19</category>
+      <category id="1588" parentId="1601">Скобы тип 24</category>
+      <category id="2041" parentId="1601">Скобы для пневмостеплера тип 53F (D/GA)</category>
+      <category id="1586" parentId="1601">Скобы тип 73</category>
+      <category id="1584" parentId="1601">Скобы тип 80</category>
+      <category id="1583" parentId="1601">Скобы тип С/14/606/55</category>
+      <category id="1587" parentId="1601">Скобы тип 7/28/36 (кабельные)</category>
+      <category id="1556" parentId="1601">Штифты для степлеров</category>
+      <category id="773" parentId="1601">Гвозди для степлеров</category>
+      <category id="791" parentId="931">Заклепочники</category>
+      <category id="1606" parentId="791">Заклепочники для анкеров</category>
+      <category id="1605" parentId="791">Прошивные заклепочники</category>
+      <category id="1602" parentId="791">Ручные заклепочники</category>
+      <category id="1603" parentId="791">Силовые заклепочники</category>
+      <category id="1604" parentId="791">Трещоточные заклепчники</category>
+      <category id="790" parentId="931">Зажимы ручные</category>
+      <category id="1663" parentId="790">Зажимы жестянщика</category>
+      <category id="1661" parentId="790">Зажимы ручные</category>
+      <category id="1662" parentId="790">Зажимы сварщика</category>
+      <category id="1664" parentId="790">Точечные зажимы</category>
+      <category id="798" parentId="931">Распорки</category>
+      <category id="801" parentId="931">Тиски</category>
+      <category id="1652" parentId="801">Мини-тиски</category>
+      <category id="1654" parentId="801">Слесарные тиски</category>
+      <category id="1650" parentId="801">Станочные тиски</category>
+      <category id="1651" parentId="801">Столярные тиски</category>
+      <category id="1653" parentId="801">Трубные тиски</category>
+      <category id="799" parentId="931">Струбцины</category>
+      <category id="1656" parentId="799">F-образные струбцины</category>
+      <category id="2969" parentId="799">U-образные струбцины</category>
+      <category id="2972" parentId="799">Параллельные струбцины</category>
+      <category id="2968" parentId="799">Рычажные струбцины</category>
+      <category id="1660" parentId="799">Пистолетные струбцины</category>
+      <category id="1655" parentId="799">G-образные струбцины</category>
+      <category id="1657" parentId="799">С-образные струбцины</category>
+      <category id="2760" parentId="799">Струбцины для специальных работ</category>
+      <category id="2970" parentId="2760">Струбцины для корпусной мебели</category>
+      <category id="2942" parentId="2760">Струбцины для сварки</category>
+      <category id="2945" parentId="2760">Струбцины для сварочных столов</category>
+      <category id="2944" parentId="2760">Станочные струбцины</category>
+      <category id="2971" parentId="2760">Струбцины для стропил</category>
+      <category id="2947" parentId="2760">Струбцины с коленчатым рычагом</category>
+      <category id="2949" parentId="2760">Струбцины для кромок</category>
+      <category id="2946" parentId="2760">Цанговые струбцины</category>
+      <category id="2950" parentId="2760">Вспомогательный инструмент</category>
+      <category id="1658" parentId="799">Ручные струбцины</category>
+      <category id="1659" parentId="799">Столярные стяжки</category>
+      <category id="2082" parentId="799">Рельсовые струбцины</category>
+      <category id="2087" parentId="799">Приспособления для струбцин</category>
+      <category id="635" parentId="931">Съемно-демонтажный инструмент</category>
+      <category id="1154" parentId="635">Внешние съемники подшипников</category>
+      <category id="1155" parentId="635">Внутренние съемники подшипников</category>
+      <category id="1159" parentId="635">Экстракторы</category>
+      <category id="1162" parentId="635">Компрессоры для пружин</category>
+      <category id="1158" parentId="635">Съемники стопорных колец</category>
+      <category id="1161" parentId="635">Съемники для фильтров</category>
+      <category id="1160" parentId="635">Съемники шаровых опор</category>
+      <category id="1156" parentId="635">Наборы съемников подшипников</category>
+      <category id="898" parentId="931">Наборы слесарного инструмента</category>
+      <category id="1610" parentId="898">Биты+головки</category>
+      <category id="1609" parentId="898">Наборы инструмента для машины и гаража</category>
+      <category id="634" parentId="898">Слесарные наборы</category>
+      <category id="966" parentId="931">Вязка арматуры</category>
+      <category id="975" parentId="625">Ударный инструмент</category>
+      <category id="829" parentId="975">Молотки</category>
+      <category id="1349" parentId="829">Слесарные молотки</category>
+      <category id="1353" parentId="829">Столярные молотки</category>
+      <category id="1347" parentId="829">Молотки каменщика</category>
+      <category id="1346" parentId="829">Молотки кровельщика</category>
+      <category id="1350" parentId="829">Молотки-топорики</category>
+      <category id="1352" parentId="829">Рихтовочные молотки</category>
+      <category id="1354" parentId="1352">Сменные бойки</category>
+      <category id="1376" parentId="829">Рукоятки для молотков</category>
+      <category id="813" parentId="975">Киянки</category>
+      <category id="1366" parentId="813">Деревянные</category>
+      <category id="1365" parentId="813">Резиновые</category>
+      <category id="825" parentId="975">Кувалды</category>
+      <category id="1359" parentId="825">Большие кувалды</category>
+      <category id="1358" parentId="825">Кувалды по камню</category>
+      <category id="1356" parentId="825">Безынерционные кувалды</category>
+      <category id="1357" parentId="825">Мини-кувалды</category>
+      <category id="828" parentId="975">Ломы-гвоздодеры</category>
+      <category id="1361" parentId="828">Ломы-гвоздодеры</category>
+      <category id="1362" parentId="828">Гвоздодеры и монтажки</category>
+      <category id="1360" parentId="828">Ломы</category>
+      <category id="1364" parentId="828">Монтировки-гвоздодеры</category>
+      <category id="1363" parentId="828">"Ледоколы"</category>
+      <category id="812" parentId="975">Кирки</category>
+      <category id="792" parentId="975">Зубила</category>
+      <category id="1368" parentId="792">Плоские зубила</category>
+      <category id="1367" parentId="792">Острые зубила</category>
+      <category id="1369" parentId="792">Зубила-конопатки</category>
+      <category id="1370" parentId="792">Наборы зубил</category>
+      <category id="811" parentId="975">Кернеры</category>
+      <category id="788" parentId="975">Добойники</category>
+      <category id="3038" parentId="975">Обжимки для заклепок</category>
+      <category id="649" parentId="975">Инструмент для кузовных работ</category>
+      <category id="651" parentId="649">Молотки рихтовочные</category>
+      <category id="652" parentId="649">Наборы для правки кузова</category>
+      <category id="654" parentId="649">Правки рихтовочные</category>
+      <category id="814" parentId="975">Клейма</category>
+      <category id="900" parentId="625">Резать и пилить</category>
+      <category id="720" parentId="900">Ножи</category>
+      <category id="725" parentId="720">Ножи с сегментированными лезвиями</category>
+      <category id="722" parentId="720">Лезвия сегментированные</category>
+      <category id="2102" parentId="720">Ножи с трапециевидными лезвиями</category>
+      <category id="2101" parentId="720">Лезвия трапециевидные</category>
+      <category id="944" parentId="720">Безопасные ножи</category>
+      <category id="945" parentId="720">Ножи для творчества</category>
+      <category id="1562" parentId="720">Специальные ножи</category>
+      <category id="946" parentId="720">Специальные лезвия</category>
+      <category id="721" parentId="720">Коврики и линейки</category>
+      <category id="731" parentId="720">Скребки</category>
+      <category id="723" parentId="720">Лезвия для скребков</category>
+      <category id="729" parentId="720">Универсальные ножи</category>
+      <category id="727" parentId="720">Многофункциональные ножи</category>
+      <category id="728" parentId="720">Складные ножи</category>
+      <category id="732" parentId="720">Точилки для ножей</category>
+      <category id="838" parentId="900">Ножницы по металлу</category>
+      <category id="837" parentId="900">Ножницы для профиля</category>
+      <category id="1634" parentId="900">Ножницы технические</category>
+      <category id="769" parentId="900">Болторезы</category>
+      <category id="794" parentId="900">Кабелерезы</category>
+      <category id="1535" parentId="900">Тросорезы</category>
+      <category id="827" parentId="900">Лобзики ручные</category>
+      <category id="2068" parentId="827">Полотна для ручных лобзиков</category>
+      <category id="820" parentId="900">Нарезание резьбы</category>
+      <category id="822" parentId="820">Метчики</category>
+      <category id="1423" parentId="822">Наборы метчиков</category>
+      <category id="771" parentId="820">Воротки для метчиков</category>
+      <category id="823" parentId="820">Плашки (лерки)</category>
+      <category id="1424" parentId="823">Наборы плашек</category>
+      <category id="772" parentId="820">Воротки для плашек</category>
+      <category id="831" parentId="820">Наборы метчиков и плашек</category>
+      <category id="821" parentId="820">Клуппы трубные</category>
+      <category id="1099" parentId="821">Резцы для клуппов</category>
+      <category id="1097" parentId="821">Набор клуппов</category>
+      <category id="1422" parentId="820">Шаблоны для резьбы</category>
+      <category id="1003" parentId="900">Ножовки по металлу</category>
+      <category id="1111" parentId="1003">Полотна по кафелю, керамике и стеклу</category>
+      <category id="1558" parentId="1003">Полотна по металлу</category>
+      <category id="2043" parentId="1003">Универсальные</category>
+      <category id="839" parentId="900">Ножовки по дереву</category>
+      <category id="1549" parentId="839">Средние ножовки по дереву (30-40 см)</category>
+      <category id="1550" parentId="839">Крупные ножовки по дереву (45-60 см)</category>
+      <category id="1540" parentId="839">Ножовки для фанеры</category>
+      <category id="1545" parentId="839">Выкружные ножовки</category>
+      <category id="1538" parentId="839">Японские ножовки</category>
+      <category id="1536" parentId="839">Универсальные ножовки</category>
+      <category id="1546" parentId="839">Двуручные ножовки</category>
+      <category id="1557" parentId="839">Сменные ручки и полотна для ножовок</category>
+      <category id="1544" parentId="839">Разводки для пил</category>
+      <category id="1560" parentId="900">Стусла</category>
+      <category id="1551" parentId="1560">Стусла поворотные</category>
+      <category id="1539" parentId="1560">Стусла+ножовки</category>
+      <category id="1559" parentId="900">Ножовки для стройматериалов</category>
+      <category id="1541" parentId="1559">Ножовки для гипсокартона</category>
+      <category id="1543" parentId="1559">Ножовки для пенобетона</category>
+      <category id="1542" parentId="1559">Ножовки для полистирола</category>
+      <category id="999" parentId="900">Плиткорезы</category>
+      <category id="1528" parentId="999">Плиткорезы ручные</category>
+      <category id="1527" parentId="999">Режущие элементы</category>
+      <category id="997" parentId="900">Стеклорезы</category>
+      <category id="847" parentId="900">Развальцовки</category>
+      <category id="859" parentId="900">Труборезы и трубогибы</category>
+      <category id="850" parentId="859">Ролики для труборезов</category>
+      <category id="1531" parentId="859">Трубогибы</category>
+      <category id="1529" parentId="859">Труборезы для металла</category>
+      <category id="1530" parentId="859">Труборезы для пластика</category>
+      <category id="1532" parentId="859">Фаскосниматели</category>
+      <category id="789" parentId="900">Дыроколы</category>
+      <category id="733" parentId="625">По кафелю и стеклу</category>
+      <category id="734" parentId="733">Крестики для плитки</category>
+      <category id="735" parentId="733">Кусачки для кафеля</category>
+      <category id="736" parentId="733">Плиткорезы</category>
+      <category id="848" parentId="733">Разметочный инструмент</category>
+      <category id="737" parentId="733">Стеклодомкраты</category>
+      <category id="738" parentId="733">Стеклорезы</category>
+      <category id="899" parentId="625">Шлифование и обработка</category>
+      <category id="920" parentId="899">Шлифовальная бумага</category>
+      <category id="1381" parentId="920">Шлифовальная бумага в рулонах</category>
+      <category id="1380" parentId="920">Шлифшкурка бумажной основе</category>
+      <category id="1379" parentId="920">Шлифшкурка на тканевой основе</category>
+      <category id="851" parentId="899">Рубанки</category>
+      <category id="1383" parentId="851">Классические рубанки</category>
+      <category id="1387" parentId="851">Полуфуганки</category>
+      <category id="1385" parentId="851">Специальные рубанки</category>
+      <category id="1384" parentId="851">Мини-рубанки</category>
+      <category id="1382" parentId="851">Струги</category>
+      <category id="1386" parentId="851">Деревянные рубанки</category>
+      <category id="836" parentId="851">Ножи для рубанка</category>
+      <category id="853" parentId="899">Стамески</category>
+      <category id="1412" parentId="853">Наборы для заточки стамесок</category>
+      <category id="1409" parentId="853">Наборы плоских стамесок</category>
+      <category id="1407" parentId="853">Наборы резцов</category>
+      <category id="1410" parentId="853">Наборы фигурных стамесок</category>
+      <category id="1411" parentId="853">Плоские стамески</category>
+      <category id="1408" parentId="853">Полукруглые стамески</category>
+      <category id="1406" parentId="853">Токарные резцы</category>
+      <category id="3031" parentId="899">Шаберы</category>
+      <category id="943" parentId="899">Напильники</category>
+      <category id="1388" parentId="943">Плоские напильники</category>
+      <category id="1391" parentId="943">Квадратные напильники</category>
+      <category id="1392" parentId="943">Трехгранные напильники</category>
+      <category id="1390" parentId="943">Полукруглые напильники</category>
+      <category id="1389" parentId="943">Круглые напильники</category>
+      <category id="1393" parentId="943">Наборы напильников</category>
+      <category id="1395" parentId="943">Напильники из карбид-вольфрама</category>
+      <category id="1396" parentId="943">Напильники с алмазным напылением</category>
+      <category id="1399" parentId="943">Ножевые напильники</category>
+      <category id="1398" parentId="943">Пазовые напильники</category>
+      <category id="1400" parentId="943">Ручки для напильников</category>
+      <category id="1394" parentId="943">Для заточки инструмента</category>
+      <category id="833" parentId="899">Надфили</category>
+      <category id="849" parentId="899">Рашпили</category>
+      <category id="1402" parentId="849">Плоские рашпили</category>
+      <category id="1403" parentId="849">Полукруглые рашпили</category>
+      <category id="1401" parentId="849">Круглые рашпили</category>
+      <category id="1404" parentId="849">Обдирочные рашпили</category>
+      <category id="1405" parentId="849">Наборы рашпилей</category>
+      <category id="770" parentId="899">Бруски абразивные</category>
+      <category id="921" parentId="899">Губки шлифовальные</category>
+      <category id="2071" parentId="899">Салфетки полировальные</category>
+      <category id="2069" parentId="899">Полировальные пасты</category>
+      <category id="922" parentId="899">Сетка шлифовальная</category>
+      <category id="758" parentId="625">Хранение инструмента</category>
+      <category id="1722" parentId="758">Инструментальные тележки</category>
+      <category id="1476" parentId="758">Лотки</category>
+      <category id="761" parentId="758">Органайзеры</category>
+      <category id="762" parentId="758">Пояса для инструментов</category>
+      <category id="1478" parentId="758">Рюкзаки</category>
+      <category id="657" parentId="758">Сиденья и лежаки</category>
+      <category id="763" parentId="758">Сумки для инструментов</category>
+      <category id="1477" parentId="758">Ящики для инструментов</category>
+      <category id="1475" parentId="758">Ящики на колесах</category>
+      <category id="759" parentId="625">Верстаки</category>
+      <category id="976" parentId="625">Пленки и сетки</category>
+      <category id="743" parentId="976">Бинт строительный</category>
+      <category id="750" parentId="976">Войлочные покрытия</category>
+      <category id="752" parentId="976">Москитные сетки</category>
+      <category id="751" parentId="976">Пленки защитные</category>
+      <category id="753" parentId="976">Стеклотканевые сетки</category>
+      <category id="741" parentId="976">Тенты универсальные</category>
+      <category id="661" parentId="625">В машину</category>
+      <category id="3055" parentId="661">Аксессуары для машины</category>
+      <category id="1916" parentId="661">Газовые горелки</category>
+      <category id="1931" parentId="661">Зарядные устройства</category>
+      <category id="663" parentId="661">Компрессоры автомобильные</category>
+      <category id="664" parentId="661">Лебедки</category>
+      <category id="660" parentId="661">Освещение для ремонта</category>
+      <category id="669" parentId="661">Паяльные лампы</category>
+      <category id="666" parentId="661">Пусковые провода</category>
+      <category id="672" parentId="661">Ремни для крепления груза</category>
+      <category id="665" parentId="661">Саперные лопаты</category>
+      <category id="668" parentId="661">Тросы буксировочные</category>
+      <category id="643" parentId="661">Шиномонтаж</category>
+      <category id="1163" parentId="643">Грузики</category>
+      <category id="644" parentId="643">Домкраты</category>
+      <category id="1990" parentId="644">Подкатные</category>
+      <category id="1987" parentId="644">Бутылочные</category>
+      <category id="1988" parentId="644">Винтовые</category>
+      <category id="1991" parentId="644">Реечные</category>
+      <category id="1989" parentId="644">Пневматические</category>
+      <category id="3049" parentId="644">Опоры для домкрата</category>
+      <category id="645" parentId="643">Инструмент для шиномонтажа</category>
+      <category id="647" parentId="643">Пистолеты для подкачки шин</category>
+      <category id="648" parentId="643">Подставки страховочные</category>
+      <category id="667" parentId="661">Щетки для снега</category>
+      <category id="795" parentId="625">Перемещение груза</category>
+      <category id="796" parentId="795">Каретки для талей</category>
+      <category id="2060" parentId="795">Колесные опоры</category>
+      <category id="2034" parentId="795">Лебедки</category>
+      <category id="1451" parentId="795">Переноска блоков</category>
+      <category id="1428" parentId="795">Складные тележки</category>
+      <category id="998" parentId="795">Стеклодомкраты</category>
+      <category id="800" parentId="795">Тали цепные</category>
+      <category id="972" parentId="625">Стремянки и лестницы</category>
+      <category id="1377" parentId="972">Лестницы алюминиевые</category>
+      <category id="1378" parentId="972">Лестницы-трансформеры</category>
+      <category id="973" parentId="972">Вышки-туры</category>
+      <category id="538" parentId="625">Монтажные пояса</category>
+      <category id="659" parentId="625">Вспомогательное оборудование</category>
+      <category id="802" parentId="625">Хозтовары</category>
+      <category id="3033" parentId="802">Сушилки для обуви</category>
+      <category id="803" parentId="802">Веревки и шнуры</category>
+      <category id="1435" parentId="803">Веревки</category>
+      <category id="1431" parentId="803">Резиновые с крюками</category>
+      <category id="1429" parentId="803">Тросы</category>
+      <category id="1433" parentId="803">Фалы</category>
+      <category id="1432" parentId="803">Шнуры</category>
+      <category id="1430" parentId="803">Шпагаты</category>
+      <category id="1425" parentId="802">Для окон и дверей</category>
+      <category id="3665" parentId="1425">Ручки дверные</category>
+      <category id="926" parentId="1425">Задвижки дверные</category>
+      <category id="925" parentId="1425">Доводчики дверные</category>
+      <category id="927" parentId="1425">Замки</category>
+      <category id="1445" parentId="927">"Личинки"</category>
+      <category id="1442" parentId="927">Велосипедные замки</category>
+      <category id="1446" parentId="927">Врезные замки</category>
+      <category id="1448" parentId="927">Всепогодные замки</category>
+      <category id="1447" parentId="927">Заготовки ключей</category>
+      <category id="1449" parentId="927">Кодовые замки</category>
+      <category id="1444" parentId="927">Наборы для врезки</category>
+      <category id="1443" parentId="927">Навесные замки</category>
+      <category id="992" parentId="1425">Петли дверные</category>
+      <category id="1436" parentId="992">Для металлических дверей</category>
+      <category id="1439" parentId="992">Левые</category>
+      <category id="1440" parentId="992">Правые</category>
+      <category id="1438" parentId="992">Разъемные</category>
+      <category id="1441" parentId="992">Универсальные</category>
+      <category id="3364" parentId="1425">Проушины</category>
+      <category id="1426" parentId="802">Для уборки</category>
+      <category id="805" parentId="1426">Мешки для мусора</category>
+      <category id="1720" parentId="1426">Ручные щетки</category>
+      <category id="806" parentId="1426">Стеклоочистители</category>
+      <category id="808" parentId="1426">Щетки для пола</category>
+      <category id="1721" parentId="1426">Щетки для унитаза</category>
+      <category id="2095" parentId="1426">Веники и совки</category>
+      <category id="1427" parentId="802">Инструмент</category>
+      <category id="804" parentId="1427">Лупы</category>
+      <category id="1635" parentId="1427">Ножницы хозяйственные</category>
+      <category id="2015" parentId="1635">Точилки для ножниц</category>
+      <category id="807" parentId="1427">Шила</category>
+      <category id="2046" parentId="802">Клея</category>
+      <category id="2011" parentId="802">Кухонная утварь и аксессуары</category>
+      <category id="2052" parentId="2011">Кухонные принадлежности</category>
+      <category id="3051" parentId="2011">Губки для посуды</category>
+      <category id="3052" parentId="2011">Салфетки</category>
+      <category id="2012" parentId="2011">Ножи кухонные</category>
+      <category id="2022" parentId="2012">Точилки для ножей</category>
+      <category id="2013" parentId="2011">Ножницы кухонные</category>
+      <category id="2014" parentId="2013">Точилки для ножниц</category>
+      <category id="2051" parentId="2011">Посуда для приготовления</category>
+      <category id="924" parentId="802">Мышеловки</category>
+      <category id="3044" parentId="802">Вешалки</category>
+      <category id="756" parentId="802">Уплотнители</category>
+      <category id="3043" parentId="802">Емкости</category>
+      <category id="994" parentId="625">По видам работ</category>
+      <category id="2133" parentId="994">Товары для субботника</category>
+      <category id="1797" parentId="994">Вакуумные насосы</category>
+      <category id="904" parentId="994">Диэлектрические инструменты</category>
+      <category id="941" parentId="904">Диэлектрические кабелерезы</category>
+      <category id="940" parentId="904">Диэлектрические ключи</category>
+      <category id="937" parentId="904">Диэлектрические наборы</category>
+      <category id="936" parentId="904">Диэлектрические отвертки</category>
+      <category id="935" parentId="904">Диэлектрический губцевый инструмент</category>
+      <category id="2038" parentId="904">Наборы диэлектрических отверток</category>
+      <category id="844" parentId="904">Плоскогубцы для снятия изоляции</category>
+      <category id="942" parentId="904">Съемники изоляции</category>
+      <category id="984" parentId="994">Инструмент для гипсокартона</category>
+      <category id="1747" parentId="994">Нагреть</category>
+      <category id="195">Крепеж</category>
+      <category id="196" parentId="195">Саморезы и шурупы</category>
+      <category id="197" parentId="196">Саморезы для гипсокартона</category>
+      <category id="199" parentId="196">Саморезы по металлу</category>
+      <category id="200" parentId="196">Шурупы по дереву</category>
+      <category id="2109" parentId="196">Винты-конфирматы</category>
+      <category id="201" parentId="196">Саморезы для оконного профиля</category>
+      <category id="198" parentId="196">Кровельные саморезы</category>
+      <category id="2086" parentId="198">Инструмент для саморезов</category>
+      <category id="3037" parentId="196">Шурупы по бетону</category>
+      <category id="202" parentId="195">Дюбели</category>
+      <category id="207" parentId="202">Дюбель-гвозди</category>
+      <category id="205" parentId="202">Дюбели с шурупом</category>
+      <category id="204" parentId="202">Полипропиленовые дюбели</category>
+      <category id="203" parentId="202">Дюбели для гипсокартона</category>
+      <category id="208" parentId="202">Гвоздевые дюбели</category>
+      <category id="206" parentId="202">Дюбели для изоляции</category>
+      <category id="217" parentId="195">Метрический крепеж</category>
+      <category id="218" parentId="217">Болты</category>
+      <category id="219" parentId="217">Винты</category>
+      <category id="220" parentId="217">Гайки</category>
+      <category id="221" parentId="217">Шайбы</category>
+      <category id="222" parentId="217">Шпильки</category>
+      <category id="260" parentId="195">Заклепки</category>
+      <category id="261" parentId="260">Заклепки вытяжные</category>
+      <category id="977" parentId="260">Заклепки резьбовые</category>
+      <category id="246" parentId="195">Гвозди</category>
+      <category id="247" parentId="246">Быстрофиксирующие гвозди</category>
+      <category id="250" parentId="246">Винтовые гвозди</category>
+      <category id="251" parentId="246">Ершеные гвозди</category>
+      <category id="252" parentId="246">Гвозди с потайной головкой</category>
+      <category id="248" parentId="246">Строительные гвозди</category>
+      <category id="253" parentId="246">Толевые гвозди</category>
+      <category id="249" parentId="246">Финишные гвозди</category>
+      <category id="223" parentId="195">Грузовой крепеж</category>
+      <category id="224" parentId="223">Блоки</category>
+      <category id="225" parentId="223">Зажимы троса</category>
+      <category id="226" parentId="223">Карабины</category>
+      <category id="231" parentId="223">Коуши</category>
+      <category id="232" parentId="223">Крюки</category>
+      <category id="227" parentId="223">Рым-болты/гайки</category>
+      <category id="269" parentId="223">Скобы такелажные</category>
+      <category id="233" parentId="223">Соединители цепей</category>
+      <category id="228" parentId="223">Талрепы</category>
+      <category id="229" parentId="223">Тросы стальные</category>
+      <category id="230" parentId="223">Цепи</category>
+      <category id="210" parentId="195">Анкеры</category>
+      <category id="211" parentId="210">Анкерные болты</category>
+      <category id="216" parentId="210">Для гипсокартона</category>
+      <category id="212" parentId="210">Забивные анкеры</category>
+      <category id="213" parentId="210">Рамные анкеры</category>
+      <category id="215" parentId="210">Регулируемые по высоте анкеры</category>
+      <category id="214" parentId="210">Анкеры с кольцом</category>
+      <category id="262" parentId="195">Для деревянных конструкций</category>
+      <category id="265" parentId="262">Крепежный угол</category>
+      <category id="266" parentId="262">Перфоленты монтажные</category>
+      <category id="263" parentId="262">Опоры для бруса</category>
+      <category id="264" parentId="262">Пластины</category>
+      <category id="268" parentId="262">Скобы строительные</category>
+      <category id="572" parentId="195">Крепеж для маяков</category>
+      <category id="234" parentId="195">Мебельный крепеж</category>
+      <category id="235" parentId="234">Винты-конфирматы</category>
+      <category id="236" parentId="234">Заглушки</category>
+      <category id="237" parentId="234">Крепеж для вагонки</category>
+      <category id="929" parentId="234">Накладки для мебели</category>
+      <category id="238" parentId="234">Уголки мебельные</category>
+      <category id="1060" parentId="234">Уголки-кронштейны</category>
+      <category id="914" parentId="234">Центровки-кернеры по дереву</category>
+      <category id="239" parentId="234">Шканты</category>
+      <category id="254" parentId="195">Сантехнический крепеж</category>
+      <category id="209" parentId="254">Дюбели для клипсы</category>
+      <category id="1960" parentId="254">Крепления для радиаторов</category>
+      <category id="255" parentId="254">Наборы для крепления сантехники</category>
+      <category id="256" parentId="254">Скобы-держатели для труб</category>
+      <category id="257" parentId="254">Хомуты для труб</category>
+      <category id="258" parentId="195">Хомуты</category>
+      <category id="573" parentId="258">Хомуты  нейлоновые</category>
+      <category id="259" parentId="258">Хомуты из стали</category>
+      <category id="240" parentId="195">Электромонтажный крепеж</category>
+      <category id="241" parentId="240">Дюбели для хомута</category>
+      <category id="242" parentId="240">Дюбели-хомуты</category>
+      <category id="243" parentId="240">Площадки под хомуты</category>
+      <category id="244" parentId="240">Скобы для кабеля</category>
+      <category id="245" parentId="240">Хомуты  нейлоновые</category>
+      <category id="3056" parentId="195">Наборы крепежа</category>
+      <category id="477">Спецодежда</category>
+      <category id="503" parentId="477">Перчатки и рукавицы</category>
+      <category id="504" parentId="503">Краги спилковые</category>
+      <category id="525" parentId="503">Перчатки резиновые</category>
+      <category id="528" parentId="503">Рукавицы рабочие</category>
+      <category id="485" parentId="477">Для головы</category>
+      <category id="494" parentId="485">Полумаски фильтрующие (респираторы)</category>
+      <category id="1232" parentId="494">Респираторы и маски против газов</category>
+      <category id="1233" parentId="494">Сменные фильтры для респираторов</category>
+      <category id="518" parentId="485">Очки защитные</category>
+      <category id="486" parentId="485">Каска защитная</category>
+      <category id="535" parentId="485">Маски сварщика</category>
+      <category id="517" parentId="485">Очки сварщика</category>
+      <category id="513" parentId="485">Наушники</category>
+      <category id="531" parentId="485">Беруши</category>
+      <category id="3054" parentId="485">Шапки</category>
+      <category id="478" parentId="485">Щитки защитные</category>
+      <category id="498" parentId="477">Наколенники</category>
+      <category id="483" parentId="477">Жилеты</category>
+      <category id="480" parentId="477">Одежда защитная</category>
+      <category id="989" parentId="477">Комбинезоны</category>
+      <category id="987" parentId="477">Брюки</category>
+      <category id="990" parentId="477">Куртки</category>
+      <category id="1632" parentId="477">Рубашки</category>
+      <category id="1627" parentId="477">Толстовки</category>
+      <category id="505" parentId="477">Обувь</category>
+      <category id="143">Сад и отдых</category>
+      <category id="405" parentId="143">Для полива</category>
+      <category id="151" parentId="405">Шланги</category>
+      <category id="1031" parentId="151">Поливочные шланги</category>
+      <category id="1029" parentId="151">Всасывающие шланги</category>
+      <category id="1030" parentId="151">Растягивающиеся шланги</category>
+      <category id="2040" parentId="151">Для подземной системы полива</category>
+      <category id="1027" parentId="151">Шланги-дождеватели</category>
+      <category id="1028" parentId="151">Сочащиеся шланги</category>
+      <category id="1032" parentId="151">Соединительные шланги</category>
+      <category id="144" parentId="405">Соединители для шлангов</category>
+      <category id="1009" parentId="144">Соединители для поливочных шлангов</category>
+      <category id="1010" parentId="144">Муфты для поливочных шлангов</category>
+      <category id="1013" parentId="144">Двусторонние соединители для поливочных шлангов</category>
+      <category id="2120" parentId="144">Соединители с хомутом для поливочных шлангов</category>
+      <category id="2119" parentId="144">Соединители с клапаном для поливочных шлангов</category>
+      <category id="2123" parentId="144">Адаптеры для внутренней резьбы</category>
+      <category id="2122" parentId="144">Адаптеры для внешней резьбы</category>
+      <category id="2118" parentId="144">Тройники для поливочных шлангов</category>
+      <category id="1011" parentId="144">Распределители для поливочных шлангов</category>
+      <category id="1019" parentId="144">Наборы поливочные</category>
+      <category id="1014" parentId="144">Фильтры и прокладки</category>
+      <category id="146" parentId="405">Распылители</category>
+      <category id="1015" parentId="146">Веерные распылители</category>
+      <category id="1018" parentId="146">Импульсные распылители</category>
+      <category id="1016" parentId="146">Круговые распылители</category>
+      <category id="1017" parentId="146">Многофункциональные распылители</category>
+      <category id="1022" parentId="146">Распылители-наконечники</category>
+      <category id="1021" parentId="146">Пистолеты на удлинителе</category>
+      <category id="147" parentId="146">Пистолеты-распылители</category>
+      <category id="149" parentId="405">Катушки для шлангов</category>
+      <category id="150" parentId="405">Ролики для шлангов</category>
+      <category id="145" parentId="405">Таймеры полива</category>
+      <category id="2031" parentId="405">Блоки управления поливом</category>
+      <category id="2023" parentId="405">Счетчики воды</category>
+      <category id="2025" parentId="405">Микрокапельный полив</category>
+      <category id="2758" parentId="2025">Готовые комплекты</category>
+      <category id="2754" parentId="2025">Шланги для микрокапельного полива</category>
+      <category id="2759" parentId="2025">Принадлежности</category>
+      <category id="2756" parentId="2025">Насадки</category>
+      <category id="2755" parentId="2025">Соединители</category>
+      <category id="2757" parentId="2025">Крепления</category>
+      <category id="2026" parentId="2025">Вертикальное садоводство</category>
+      <category id="2027" parentId="405">Подземный полив</category>
+      <category id="2965" parentId="2027">Дождеватели выдвижные</category>
+      <category id="2029" parentId="2027">Принадлежности для установки</category>
+      <category id="2028" parentId="2027">Соединители</category>
+      <category id="2030" parentId="2027">Шланги для подземной системы полива</category>
+      <category id="153" parentId="405">Лейки</category>
+      <category id="148" parentId="405">Опрыскиватели</category>
+      <category id="1007" parentId="405">Щетки для мойки</category>
+      <category id="152" parentId="405">Душ садовый</category>
+      <category id="1023" parentId="405">Рукомойники</category>
+      <category id="404" parentId="143">Для деревьев и травы</category>
+      <category id="159" parentId="404">Секаторы садовые</category>
+      <category id="1024" parentId="404">Ножницы цветочные</category>
+      <category id="160" parentId="404">Сучкорезы</category>
+      <category id="161" parentId="404">Штанговые сучкорезы</category>
+      <category id="158" parentId="404">Пилы садовые</category>
+      <category id="1301" parentId="158">Лучковые пилы</category>
+      <category id="1300" parentId="158">Садовые пилы</category>
+      <category id="1302" parentId="158">Складные пилы</category>
+      <category id="1303" parentId="158">Сменные полотна для садовых пил</category>
+      <category id="1889" parentId="404">Топоры</category>
+      <category id="1892" parentId="1889">Колуны</category>
+      <category id="1894" parentId="1889">Топорища и клинья</category>
+      <category id="1890" parentId="1889">Топоры</category>
+      <category id="1891" parentId="1889">Топоры-колуны</category>
+      <category id="1893" parentId="1889">Туристические топоры</category>
+      <category id="2021" parentId="404">Инструмент для лесозаготовок</category>
+      <category id="157" parentId="404">Ножницы для травы</category>
+      <category id="156" parentId="404">Кусторезы ручные</category>
+      <category id="154" parentId="404">Газонокосилки механические</category>
+      <category id="155" parentId="404">Косы</category>
+      <category id="175" parentId="404">Плодосборники</category>
+      <category id="2050" parentId="175">Ручки для плодосборников</category>
+      <category id="406" parentId="143">Для почвы</category>
+      <category id="165" parentId="406">Лопаты</category>
+      <category id="1041" parentId="165">Автомобильные</category>
+      <category id="1042" parentId="165">Снеговые</category>
+      <category id="1038" parentId="165">Совковые</category>
+      <category id="1039" parentId="165">Штыковые</category>
+      <category id="1043" parentId="165">Черенки для лопат</category>
+      <category id="3046" parentId="165">Рукоятки для лопат</category>
+      <category id="169" parentId="406">Тачки садовые и строительные</category>
+      <category id="2083" parentId="169">Колеса для садовых тачек</category>
+      <category id="163" parentId="406">Вилы</category>
+      <category id="164" parentId="406">Грабли</category>
+      <category id="1036" parentId="164">Быстросъемные</category>
+      <category id="1033" parentId="164">Веерные</category>
+      <category id="1035" parentId="164">Для газона</category>
+      <category id="1034" parentId="164">Садовые</category>
+      <category id="1037" parentId="164">Черенки для грабель</category>
+      <category id="162" parentId="406">Буры земляные</category>
+      <category id="184" parentId="406">Катки</category>
+      <category id="412" parentId="406">Культиваторы</category>
+      <category id="166" parentId="406">Мотыги</category>
+      <category id="168" parentId="406">Ручной садовый инструмент</category>
+      <category id="1045" parentId="168">Быстросъемные</category>
+      <category id="1054" parentId="168">Вилки</category>
+      <category id="1047" parentId="168">Грабельки</category>
+      <category id="1044" parentId="168">Для борозд и лунок</category>
+      <category id="1055" parentId="168">Корнеудалители</category>
+      <category id="1050" parentId="168">Культиваторы ручные</category>
+      <category id="1049" parentId="168">Мотыжки</category>
+      <category id="1052" parentId="168">Наборы</category>
+      <category id="1053" parentId="168">Ножи</category>
+      <category id="1056" parentId="168">Рыхлители</category>
+      <category id="1046" parentId="168">Совочки</category>
+      <category id="179" parentId="406">Скамейки садовые</category>
+      <category id="401" parentId="406">Ледорубы</category>
+      <category id="394" parentId="406">Утрамбовщики и забиватели</category>
+      <category id="996" parentId="143">Ограды и парники</category>
+      <category id="1006" parentId="996">Арки и шпалеры</category>
+      <category id="1004" parentId="996">Бордюрные ленты</category>
+      <category id="172" parentId="996">Ограды и заборы</category>
+      <category id="174" parentId="996">Парники</category>
+      <category id="1005" parentId="996">Сетка для забора</category>
+      <category id="395" parentId="996">Укрывной материал</category>
+      <category id="188" parentId="143">Плащи дождевики</category>
+      <category id="407" parentId="143">Вспомогательный садовый инструмент</category>
+      <category id="3058" parentId="407">Кормушки для птиц</category>
+      <category id="3057" parentId="407">Ледянки</category>
+      <category id="183" parentId="407">Демонстрационные лотки</category>
+      <category id="173" parentId="407">Защита от  грызунов</category>
+      <category id="185" parentId="407">Контейнеры и корзины</category>
+      <category id="176" parentId="407">Подвески для инструмента</category>
+      <category id="177" parentId="407">Проволока подвязочная</category>
+      <category id="2035" parentId="407">Сеялки</category>
+      <category id="182" parentId="407">Ярлыки и колышки</category>
+      <category id="3045" parentId="407">Горшки</category>
+      <category id="408" parentId="143">Для пикника</category>
+      <category id="3053" parentId="408">Для похода</category>
+      <category id="396" parentId="408">Аксессуары</category>
+      <category id="187" parentId="408">Горелки</category>
+      <category id="393" parentId="408">Кипятильники</category>
+      <category id="171" parentId="408">Мангалы</category>
+      <category id="178" parentId="408">Решетки - гриль</category>
+      <category id="180" parentId="408">Средства от комаров</category>
+      <category id="186" parentId="408">Термосы и термокружки</category>
+      <category id="181" parentId="408">Шампуры</category>
+      <category id="13">Сантехника</category>
+      <category id="559" parentId="13">Гибкая подводка</category>
+      <category id="560" parentId="559">Гибкая подводка для воды</category>
+      <category id="561" parentId="559">Сильфоны для газа</category>
+      <category id="546" parentId="13">Краны</category>
+      <category id="1071" parentId="546">Вентили</category>
+      <category id="548" parentId="546">Краны для воды</category>
+      <category id="549" parentId="546">Краны для газа</category>
+      <category id="1070" parentId="546">Пластиковые</category>
+      <category id="568" parentId="13">Сантехнический инструмент</category>
+      <category id="569" parentId="568">Вантузы</category>
+      <category id="570" parentId="568">Сантехнические тросы</category>
+      <category id="1205" parentId="568">Сварочные аппараты для полипропиленовых труб</category>
+      <category id="562" parentId="13">Сифоны</category>
+      <category id="563" parentId="562">Сифоны</category>
+      <category id="564" parentId="562">Сливные шланги</category>
+      <category id="1110" parentId="13">Трубогибы</category>
+      <category id="541" parentId="13">Трубы и фитинги</category>
+      <category id="543" parentId="541">Металлопластиковая труба</category>
+      <category id="544" parentId="541">Пресс инструмент ШиреФит</category>
+      <category id="545" parentId="541">Фитинги ШиреФит</category>
+      <category id="1061" parentId="545">Заглушки</category>
+      <category id="1063" parentId="545">Коллекторы</category>
+      <category id="1062" parentId="545">Краны</category>
+      <category id="1065" parentId="545">Муфты</category>
+      <category id="1064" parentId="545">Переходники</category>
+      <category id="1066" parentId="545">Скобы</category>
+      <category id="1067" parentId="545">Соединители</category>
+      <category id="1068" parentId="545">Тройники</category>
+      <category id="1069" parentId="545">Удлинители</category>
+      <category id="542" parentId="541">Фитинги для металлопластиковых труб</category>
+      <category id="565" parentId="13">Уплотнительные материалы</category>
+      <category id="567" parentId="565">Лен</category>
+      <category id="2049" parentId="565">Нити</category>
+      <category id="566" parentId="565">Фумлента</category>
+      <category id="550" parentId="13">Фитинги резьбовые</category>
+      <category id="555" parentId="550">Бочонки</category>
+      <category id="551" parentId="550">Заглушки</category>
+      <category id="552" parentId="550">Коллекторы</category>
+      <category id="553" parentId="550">Крестовины</category>
+      <category id="554" parentId="550">Муфты</category>
+      <category id="556" parentId="550">Переходники</category>
+      <category id="557" parentId="550">Тройники</category>
+      <category id="558" parentId="550">Уголки</category>
+      <category id="2110" parentId="13">Фильтры для воды</category>
+      <category id="2111" parentId="2110">Картриджи</category>
+    </categories>
+    <delivery-options>
+      <option cost="0" days="" order-before="24"/>
+    </delivery-options>
+    <offers>
+      <offer available="true" id="133147">
+        <url>http://on-tools.ru/ruchnoy-instrument/montazhnyy-instrument/steplery/pnevmosteplery/stepler-zubr-profyessional-pnevmaticheskiy-tip-53--3190-/</url>
+        <price>4108.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1983</categoryId>
+        <picture>http://on-tools.ru/wa-data/protected/shop/products/47/31/133147/images/38938.jpg</picture>
+        <picture>http://on-tools.ru/wa-data/protected/shop/products/47/31/133147/images/179235.jpg</picture>
+        <picture>http://on-tools.ru/wa-data/protected/shop/products/47/31/133147/images/38939.jpg</picture>
+        <picture>http://on-tools.ru/wa-data/protected/shop/products/47/31/133147/images/38940.jpg</picture>
+        <picture>http://on-tools.ru/wa-data/protected/shop/products/47/31/133147/images/38941.jpg</picture>
+        <picture>http://on-tools.ru/wa-data/protected/shop/products/47/31/133147/images/38942.jpg</picture>
+        <picture>http://on-tools.ru/wa-data/protected/shop/products/47/31/133147/images/38943.jpg</picture>
+        <picture>http://on-tools.ru/wa-data/protected/shop/products/47/31/133147/images/104364.jpg</picture>
+        <picture>http://on-tools.ru/wa-data/protected/shop/products/47/31/133147/images/104365.jpg</picture>
+        <name>Степлер пневматический для скоб тип 53F (10-22 мм) и тип 140 (10-14 мм), ЗУБР Профессионал,  ( 3190 )</name>
+        <vendor>ЗУБР</vendor>
+        <model>ПРОФЕССИОНАЛ</model>
+        <vendorCode>3190</vendorCode>
+        <description><![CDATA[Пневматический степлер ЗУБР ПРОФЕССИОНАЛ для скоб тип 53F/ тип 140, ( 3190 ) 
+Профессиональный степлер для установки скоб из проволоки средней толщины. • Сферы применения: - изготовление и отделка мягкой и корпусной мебели; - отделочные и обивочные работы, декорирование; - изготовление деревянных ящиков, шкатулок, бильярдных столов, картинных рам, фоторамок, деревянных решеток и маркизов; - производство деревянных элементов радиотелевизионной аппаратуры; - производство и ремонт обуви; - крепление изоляции; - предварительный монтаж в бумажной промышленности; - крепление сидений при производстве офисной мебели, в авто- и мототехнике. Технические характеристики: • Размер скоб: - тип 53F(20GA) 10-22 мм; - тип 140 10-14 мм; • Расход воздуха: 0.33 л/мин*; • Максимальный уровень шума: 93.5 дБ; • Уровень вибрации: 1.85 м2; • Количество скоб в магазине - 100 шт; • Габаритные размеры: 250х174х55 мм; • Вес 1.2 кг; * объем воздуха для установки 25 скоб за 1 минуту при давлении 6.2 бар.                                                      Пневматический степлер "ЗУБР" серии ЭКСПЕРТ - незаменимый инструмент для профессиональных задач.]]></description>
+        <weight>1.390</weight>
+      </offer>
+      <offer available="true" id="133148">
+        <url>http://on-tools.ru/ruchnoy-instrument/montazhnyy-instrument/steplery/pnevmosteplery/stepler-zubr-profyessional-pnevmaticheskiy-tip-55300--3192-/</url>
+        <price>7524.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1983</categoryId>
+        <picture>http://on-tools.ru/wa-data/protected/shop/products/48/31/133148/images/38944.jpg</picture>
+        <picture>http://on-tools.ru/wa-data/protected/shop/products/48/31/133148/images/174210.jpg</picture>
+        <picture>http://on-tools.ru/wa-data/protected/shop/products/48/31/133148/images/174211.jpg</picture>
+        <picture>http://on-tools.ru/wa-data/protected/shop/products/48/31/133148/images/174212.jpg</picture>
+        <picture>http://on-tools.ru/wa-data/protected/shop/products/48/31/133148/images/174213.jpg</picture>
+        <picture>http://on-tools.ru/wa-data/protected/shop/products/48/31/133148/images/38945.jpg</picture>
+        <picture>http://on-tools.ru/wa-data/protected/shop/products/48/31/133148/images/38946.jpg</picture>
+        <picture>http://on-tools.ru/wa-data/protected/shop/products/48/31/133148/images/38947.jpg</picture>
+        <picture>http://on-tools.ru/wa-data/protected/shop/products/48/31/133148/images/38948.jpg</picture>
+        <picture>http://on-tools.ru/wa-data/protected/shop/products/48/31/133148/images/38949.jpg</picture>
+        <name>Степлер пневматический для скоб тип 55 (16-30 мм) и тип 300 (10-35 мм), ЗУБР Профессионал,  ( 3192 )</name>
+        <vendor>ЗУБР</vendor>
+        <model>ПРОФЕССИОНАЛ</model>
+        <vendorCode>3192</vendorCode>
+        <description><![CDATA[Пневматический степлер ЗУБР ПРОФЕССИОНАЛ 2 в 1, для скоб и гвоздей, ( 3192 ) Универсальный профессиональный пневмостеплер для установки скоб и гвоздей из толстой проволоки. • Сферы применения: - изготовление мебельных каркасов; - сборка мягкой и корпусной мебели; - крепление задних стенок шкафов, ящиков; - сборка дверей, крепление закладных; - крепление панелей, досок, молдингов, раскладок; - производство ящиков, коробок, рамок; - изготовление заборов, решеток, строительных конструкций; - крепление изоляционных материалов; - монтаж половых досок. Технические характеристики: • Размер: - скоба тип 55 16-30 мм; - гвоздь тип 300 10-35 мм; • Расход воздуха: 0.46 л/мин*; • Максимальный уровень шума: 93.8 дБ; • Уровень вибрации: 1.91 м/2; • Количество скоб в магазине - 100 шт; • Габаритные размеры: 260х200х59 мм; • Вес 1.2 кг; • Насадка для защиты поверхностей от повреждения. * объем воздуха для установки 25 скоб за 1 минуту при давлении 6.2 бар.                                                      Пневматический степлер "ЗУБР" серии ЭКСПЕРТ - незаменимый инструмент для профессиональных задач.]]></description>
+        <weight>1.430</weight>
+      </offer>
+      <offer available="true" id="133149">
+        <url>http://on-tools.ru/ruchnoy-instrument/montazhnyy-instrument/steplery/pnevmosteplery/stepler-zubr-profyessional-pnevmaticheskiy-tip-80--3191-/</url>
+        <price>5276.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1983</categoryId>
+        <picture>http://on-tools.ru/wa-data/protected/shop/products/49/31/133149/images/38950.jpg</picture>
+        <picture>http://on-tools.ru/wa-data/protected/shop/products/49/31/133149/images/174946.jpg</picture>
+        <picture>http://on-tools.ru/wa-data/protected/shop/products/49/31/133149/images/174945.jpg</picture>
+        <picture>http://on-tools.ru/wa-data/protected/shop/products/49/31/133149/images/38953.jpg</picture>
+        <picture>http://on-tools.ru/wa-data/protected/shop/products/49/31/133149/images/38952.jpg</picture>
+        <picture>http://on-tools.ru/wa-data/protected/shop/products/49/31/133149/images/38954.jpg</picture>
+        <picture>http://on-tools.ru/wa-data/protected/shop/products/49/31/133149/images/38955.jpg</picture>
+        <picture>http://on-tools.ru/wa-data/protected/shop/products/49/31/133149/images/38951.jpg</picture>
+        <picture>http://on-tools.ru/wa-data/protected/shop/products/49/31/133149/images/104362.jpg</picture>
+        <picture>http://on-tools.ru/wa-data/protected/shop/products/49/31/133149/images/104363.jpg</picture>
+        <name>Степлер пневматический для скоб тип 80 (6-16 мм), ЗУБР Профессионал,  ( 3191 )</name>
+        <vendor>ЗУБР</vendor>
+        <model>ПРОФЕССИОНАЛ</model>
+        <vendorCode>3191</vendorCode>
+        <description><![CDATA[<p>Пневматический степлер ЗУБР ПРОФЕССИОНАЛ для скоб тип 80, ( 3191 ) Профессиональный степлер для установки скоб из тонкой проволоки. • Сферы применения: - изготовление и отделка мягкой и корпусной мебели; - отделочные и обивочные работы, декорирование; - изготовление деревянных ящиков, шкатулок, бильярдных столов, картинных рам, фоторамок, деревянных решеток и маркизов; - крепление изоляции; - крепление сидений при производстве офисной мебели, в авто- и мототехнике. Технические характеристики: • Размер скоб: - тип 80 6-16 мм; • Расход воздуха: 0.12 л/мин*; • Максимальный уровень шума: 98,3 дБ; • Уровень вибрации: 1.85 м/2; • Количество скоб в магазине - 160 шт; • Габаритные размеры: 255х155х45 мм; • Вес 0,9 кг; * объем воздуха для установки 25 скоб за 1 минуту при давлении 6.2 бар. Пневматический степлер "ЗУБР" серии ЭКСПЕРТ - незаменимый инструмент для профессиональных задач.</p>]]></description>
+        <weight>1.020</weight>
+      </offer>
+      <offer available="true" id="136352">
+        <url>http://on-tools.ru/sad-i-otdykh/dlya-poliva/soediniteli-polivochnoy-sistemy/mufty/mufta-grinda-expert-latunnaya-shlang-shlang-34--8-426143_z01-/</url>
+        <price>1174.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1010</categoryId>
+        <picture>http://on-tools.ru/wa-data/protected/shop/products/52/63/136352/images/42486.jpg</picture>
+        <name>Муфта GRINDA "EXPERT" латунная, шланг-шланг, 3/4",  ( 8-426143_z01 )</name>
+        <vendor>GRINDA</vendor>
+        <vendorCode>8-426143_z01</vendorCode>
+        <description><![CDATA[Муфта шланг-шланг 3/4" GRINDA ( 8-426143_z01 ) Предназначена для быстрого и надежного соединения (удлинения) двух участков поливочного шланга диаметром 3/4" без помощи соединителей.                                                      Быстросъемные аксессуары для поливочных систем, выполненные из латуни, гарантируют максимально прочное и надежное соединение без протечек. Уплотнительные кольца всех изделий изготовлены из EPDM-резины повышенной эластичности, обеспечивающей устойчивость к температурным и химическим воздействиям. Применяются для быстрого и надежного соединения (удлинения) двух участков поливочного шланга без помощи соединителей.]]></description>
+        <weight>0.170</weight>
+      </offer>
+      <offer available="true" id="136364">
+        <url>http://on-tools.ru/sad-i-otdykh/dlya-poliva/soediniteli-polivochnoy-sistemy/raspredeliteli/raspredelitel-grinda-expert-dvukhkanalnyy-metallicheskiy-34-1--426112-/</url>
+        <price>795.00</price>
+        <oldprice>980.00</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>1011</categoryId>
+        <picture>http://on-tools.ru/wa-data/protected/shop/products/64/63/136364/images/42498.jpg</picture>
+        <name>Распределитель GRINDA "EXPERT" двухканальный, металлический, 3/4"-1",  ( 426112 )</name>
+        <vendor>GRINDA</vendor>
+        <vendorCode>426112</vendorCode>
+        <description><![CDATA[<p>Распределитель двухканальный латунный GRINDA, 3/4-1 ( 426112 ) Распределитель GRINDA двухканальный металлический, серия EXPERT, применяется для одновременного подключения двух водозаборных линий к водопроводной трубе или крану с внешней резьбой 1". Поливочные системы GRINDA – профессиональное качество по доступным ценам. • Изготовлен из цинкового сплава, ударопрочного пластика и термопластичной резины • Адаптер 3/4" в комплекте • Диаметр распределения: 3/4"-1" Быстросъемные аксессуары для поливочных систем, выполненные из латуни, гарантируют максимально прочное и надежное соединение без протечек. Уплотнительные кольца всех изделий изготовлены из EPDM-резины повышенной эластичности, обеспечивающей устойчивость к температурным и химическим воздействием. Применяется для одновременного подключения двух водозаборных линий к водопроводной трубе или крану внешней резьбой 3/4" или 1".</p>]]></description>
+        <weight>0.320</weight>
+      </offer>
+      <offer available="true" id="136367">
+        <url>http://on-tools.ru/sad-i-otdykh/dlya-poliva/soediniteli-polivochnoy-sistemy/raspredeliteli/raspredelitel-grinda-dvukhkanalnyy-iz-udaroprochnoy-plastmassy--8-426312_z01-/</url>
+        <price>872.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1011</categoryId>
+        <picture>http://on-tools.ru/wa-data/protected/shop/products/67/63/136367/images/42501.jpg</picture>
+        <name>Распределитель двухканальный, GRINDA 8-426312, "резьба внешняя 3/4" x 1" - соединитель", из ударопрочной пластмассы,  ( 8-426312_z01 )</name>
+        <vendor>GRINDA</vendor>
+        <vendorCode>8-426312_z01</vendorCode>
+        <description><![CDATA[<p>Распределитель двухканальный GRINDA ( 8-426312_z01 ) Применяется для одновременного подключения двух водоразборных линий к водопроводной трубе или крану с внешней резьбой 1/2" или 3/4". Изготовлен из ударопрочного пластика. Организовать систему полива самостоятельно и без лишних проблем поможет линейка аксессуаров для систем полива. Ударопрочный пластик в сочетании с уплотнителями из EPDM-резины делают все изделия очень надежными, долговечными и устойчивыми к воздействиям окружающей среды. Применяется для одновременного подключения двух водозаборных линий к водопроводной трубе или крану с внешней резьбой 1/2” или 3/4”.</p>]]></description>
+        <weight>0.150</weight>
+      </offer>
+      <offer available="true" id="136370">
+        <url>http://on-tools.ru/sad-i-otdykh/dlya-poliva/soediniteli-polivochnoy-sistemy/troyniki/troynik-grinda-expert-latunnyy--8-426139_z01-/</url>
+        <price>966.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2118</categoryId>
+        <picture>http://on-tools.ru/wa-data/protected/shop/products/70/63/136370/images/42504.jpg</picture>
+        <name>Тройник GRINDA "EXPERT" латунный  ,  ( 8-426139_z01 )</name>
+        <vendor>GRINDA</vendor>
+        <vendorCode>8-426139_z01</vendorCode>
+        <description><![CDATA[Тройник GRINDA ( 8-426139_z01 ) Предназначен для разветвления поливочного шланга с помощью соединителей.                                                      Быстросъемные аксессуары для поливочных систем, выполненные из латуни, гарантируют максимально прочное и надежное соединение без протечек. Уплотнительные кольца всех изделий изготовлены из EPDM-резины повышенной эластичности, обеспечивающей устойчивость к температурным и химическим воздействиям. Применяется для разветвления поливочного шланга с помощью соединителей.]]></description>
+        <weight>0.150</weight>
+      </offer>
+      <offer available="true" id="136380">
+        <url>http://on-tools.ru/sad-i-otdykh/dlya-poliva/soediniteli-polivochnoy-sistemy/soediniteli/soedinitel-grinda-expert-latunnyy-12--8-426125_z01-/</url>
+        <price>971.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1009</categoryId>
+        <picture>http://on-tools.ru/wa-data/protected/shop/products/80/63/136380/images/42514.jpg</picture>
+        <name>Соединитель GRINDA "EXPERT" латунный, 1/2",  ( 8-426125_z01 )</name>
+        <vendor>GRINDA</vendor>
+        <vendorCode>8-426125_z01</vendorCode>
+        <description><![CDATA[Соединитель 1/2" GRINDA ( 8-426125_z01 ) Предназначен для быстрого и надежного соединения поливочного шланга диаметром 1/2" с насадкой, адаптером, переходником или тройником.                                                      Быстросъемные аксессуары для поливочных систем, выполненные из латуни, гарантируют максимально прочное и надежное соединение без протечек. Уплотнительные кольца всех изделий изготовлены из EPDM-резины повышенной эластичности, обеспечивающей устойчивость к температурным и химическим воздействиям. Применяются для быстрого и надежного соединения поливочного шланга с насадкой, адаптером, переходником или тройником.]]></description>
+        <weight>0.110</weight>
+      </offer>
+      <offer available="true" id="136381">
+        <url>http://on-tools.ru/sad-i-otdykh/dlya-poliva/soediniteli-polivochnoy-sistemy/soediniteli/soedinitel-grinda-expert-latunnyy-34--8-426126_z01-/</url>
+        <price>909.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1009</categoryId>
+        <picture>http://on-tools.ru/wa-data/protected/shop/products/81/63/136381/images/42515.jpg</picture>
+        <name>Соединитель GRINDA "EXPERT" латунный, 3/4",  ( 8-426126_z01 )</name>
+        <vendor>GRINDA</vendor>
+        <vendorCode>8-426126_z01</vendorCode>
+        <description><![CDATA[Соединитель 3/4" GRINDA ( 8-426126_z01 ) Предназначен для быстрого и надежного соединения поливочного шланга диаметром 3/4" с насадкой, адаптером, переходником или тройником.                                                      Быстросъемные аксессуары для поливочных систем, выполненные из латуни, гарантируют максимально прочное и надежное соединение без протечек. Уплотнительные кольца всех изделий изготовлены из EPDM-резины повышенной эластичности, обеспечивающей устойчивость к температурным и химическим воздействиям. Применяются для быстрого и надежного соединения поливочного шланга с насадкой, адаптером, переходником или тройником.]]></description>
+        <weight>0.140</weight>
+      </offer>
+      <offer available="true" id="136382">
+        <url>http://on-tools.ru/sad-i-otdykh/dlya-poliva/soediniteli-polivochnoy-sistemy/soediniteli/soedinitel-grinda-expert-s-avtostopom-latunnyy-34--8-426130_z01-/</url>
+        <price>983.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1009</categoryId>
+        <picture>http://on-tools.ru/wa-data/protected/shop/products/82/63/136382/images/42516.jpg</picture>
+        <name>Соединитель GRINDA "EXPERT" с автостопом латунный, 3/4" ,  ( 8-426130_z01 )</name>
+        <vendor>GRINDA</vendor>
+        <vendorCode>8-426130_z01</vendorCode>
+        <description><![CDATA[Соединитель с автостопом 3/4" GRINDA ( 8-426130_z01) Предназначен для быстрого и надежного соединения поливочного шланга диаметром 3/4" с насадкой, адаптером, переходником или тройником. Наличие автостопа обеспечивает дополнительное удобство при частой сборке/ разборке поливочной системы без перекрытия подачи воды.                                                      Быстросъемные аксессуары для поливочных систем, выполненные из латуни, гарантируют максимально прочное и надежное соединение без протечек. Уплотнительные кольца всех изделий изготовлены из EPDM-резины повышенной эластичности, обеспечивающей устойчивость к температурным и химическим воздействиям. Применяются для быстрого и надежного соединения поливочного шланга с насадкой, адаптером, переходником или тройником.]]></description>
+        <weight>0.150</weight>
+      </offer>
+      <offer available="true" id="136383">
+        <url>http://on-tools.ru/sad-i-otdykh/dlya-poliva/soediniteli-polivochnoy-sistemy/soediniteli/soedinitel-grinda-expert-s-avtostopom-latunnyy-12--8-426129_z01-/</url>
+        <price>1007.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1009</categoryId>
+        <picture>http://on-tools.ru/wa-data/protected/shop/products/83/63/136383/images/42517.jpg</picture>
+        <name>Соединитель GRINDA "EXPERT" с автостопом, латунный, 1/2",  ( 8-426129_z01 )</name>
+        <vendor>GRINDA</vendor>
+        <vendorCode>8-426129_z01</vendorCode>
+        <description><![CDATA[Соединитель с автостопом 1/2" GRINDA ( 8-426129_z01 ) Предназначен для быстрого и надежного соединения поливочного шланга диаметром 1/2" с насадкой, адаптером, переходником или тройником. Наличие автостопа обеспечивает дополнительное удобство при частой сборке/ разборке поливочной системы без перекрытия подачи воды.                                                      Быстросъемные аксессуары для поливочных систем, выполненные из латуни, гарантируют максимально прочное и надежное соединение без протечек. Уплотнительные кольца всех изделий изготовлены из EPDM-резины повышенной эластичности, обеспечивающей устойчивость к температурным и химическим воздействиям. Применяются для быстрого и надежного соединения поливочного шланга с насадкой, адаптером, переходником или тройником.]]></description>
+        <weight>0.110</weight>
+      </offer>
+      <offer available="true" id="136431">
+        <url>http://on-tools.ru/sad-i-otdykh/dlya-poliva/soediniteli-polivochnoy-sistemy/soediniteli-s-khomutom/adapter-vneshniy-raco-original-soedinitel-khomut-12kh34--4250-55223c-/</url>
+        <price>920.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2120</categoryId>
+        <picture>http://on-tools.ru/wa-data/protected/shop/products/31/64/136431/images/42565.jpg</picture>
+        <name>Адаптер внешний (соединитель-труба), RACO "Original" 4250-55223C, 1/2",  ( 4250-55223C )</name>
+        <vendor>RACO</vendor>
+        <vendorCode>4250-55223C</vendorCode>
+        <description><![CDATA[Адаптер внешний RACO "соединитель- хомут внешний", 1/2"- 3/4" ( 4250-55223C ) Применяется как переходник между соединителем и трубой диаметром 1/2" без резьбового соединения.                                                      Благодаря использованию современных технологий элементы поливочной системы RACO Original обеспечивает надежное соединение и продолжительный срок службы. Применяется как переходник между соединителем и трубой диаметром 14–17 мм без резьбового соединения.]]></description>
+        <weight>0.050</weight>
+      </offer>
+      <offer available="true" id="136432">
+        <url>http://on-tools.ru/sad-i-otdykh/dlya-poliva/soediniteli-polivochnoy-sistemy/adaptery-dlya-vneshney-rezby/adapter-vneshniy-raco-profi-soedinitel-rezba-vneshnyaya-latunnyy-1--4246-55013b-/</url>
+        <price>949.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2122</categoryId>
+        <picture>http://on-tools.ru/wa-data/protected/shop/products/32/64/136432/images/42566.jpg</picture>
+        <name>Адаптер внешний RACO "Profi" (соединитель-резьба внешняя) латунный, 1",  ( 4246-55013B )</name>
+        <vendor>RACO</vendor>
+        <vendorCode>4246-55013B</vendorCode>
+        <description><![CDATA[Адаптер внешний RACO "соединитель-резьба внешняя", 1" ( 4246-55013B ) Применяется как переходник между соединителем RACO и трубой диаметром 1" с наружной резьбой.                                                      Поливочные системы RACO Profi изготовлены из высококачественной отполированной латуни гарантирует продолжительный срок службы. Применяется как переходник между соединителем и трубой с внешней резьбой.]]></description>
+        <weight>0.070</weight>
+      </offer>
+      <offer available="true" id="136433">
+        <url>http://on-tools.ru/sad-i-otdykh/dlya-poliva/soediniteli-polivochnoy-sistemy/adaptery-dlya-vneshney-rezby/adapter-vneshniy-raco-profi-soedinitel-rezba-vneshnyaya-latunnyy-12--4246-55010b-/</url>
+        <price>896.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2122</categoryId>
+        <picture>http://on-tools.ru/wa-data/protected/shop/products/33/64/136433/images/42567.jpg</picture>
+        <name>Адаптер внешний RACO "Profi" (соединитель-резьба внешняя) латунный, 1/2",  ( 4246-55010B )</name>
+        <vendor>RACO</vendor>
+        <vendorCode>4246-55010B</vendorCode>
+        <description><![CDATA[Адаптер внешний RACO "соединитель-резьба внешняя", 1/2" ( 4246-55010B ) Применяется как переходник между соединителем RACO и трубой диаметром 1/2" с наружной резьбой.                                                      Поливочные системы RACO Profi изготовлены из высококачественной отполированной латуни гарантирует продолжительный срок службы. Применяется как переходник между соединителем и трубой с внешней резьбой.]]></description>
+        <weight>0.060</weight>
+      </offer>
+      <offer available="true" id="136434">
+        <url>http://on-tools.ru/sad-i-otdykh/dlya-poliva/soediniteli-polivochnoy-sistemy/adaptery-dlya-vneshney-rezby/adapter-vneshniy-raco-profi-soedinitel-rezba-vneshnyaya-latunnyy-34--4246-55012b-/</url>
+        <price>974.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2122</categoryId>
+        <picture>http://on-tools.ru/wa-data/protected/shop/products/34/64/136434/images/42568.jpg</picture>
+        <name>Адаптер внешний RACO "Profi" (соединитель-резьба внешняя) латунный, 3/4",  ( 4246-55012B )</name>
+        <vendor>RACO</vendor>
+        <vendorCode>4246-55012B</vendorCode>
+        <description><![CDATA[Адаптер внешний RACO "соединитель-резьба внешняя", 3/4" ( 4246-55012B ) Применяется как переходник между соединителем RACO и трубой диаметром 3/4" с наружной резьбой.                                                      Поливочные системы RACO Profi изготовлены из высококачественной отполированной латуни гарантирует продолжительный срок службы. Применяется как переходник между соединителем и трубой с внешней резьбой.]]></description>
+        <weight>0.060</weight>
+      </offer>
+      <offer available="true" id="136439">
+        <url>http://on-tools.ru/sad-i-otdykh/dlya-poliva/soediniteli-polivochnoy-sistemy/adaptery-dlya-vnutrenney-rezby/adapter-vnutrenniy-raco-profi-soedinitel-rezba-vnutrennyaya-latunnyy-12--4246-55015b-/</url>
+        <price>896.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2123</categoryId>
+        <picture>http://on-tools.ru/wa-data/protected/shop/products/39/64/136439/images/42573.jpg</picture>
+        <name>Адаптер внутренний RACO "Profi" (соединитель-резьба внутренняя) латунный, 1/2" ,  ( 4246-55015B )</name>
+        <vendor>RACO</vendor>
+        <vendorCode>4246-55015B</vendorCode>
+        <description><![CDATA[Адаптер внутренний RACO "соединитель- резьба внутренняя", 1/2" ( 4246-55015B ) Применяется как переходник между соединителем RACO и трубой диаметром 1/2" с внутренней резьбой. Изготовлен из латуни.                                                      Поливочные системы RACO Profi изготовлены из высококачественной отполированной латуни гарантирует продолжительный срок службы. Применяется как переходник между соединителем и трубой с внутренней резьбой.]]></description>
+        <weight>0.060</weight>
+      </offer>
+      <offer available="true" id="136440">
+        <url>http://on-tools.ru/sad-i-otdykh/dlya-poliva/soediniteli-polivochnoy-sistemy/adaptery-dlya-vnutrenney-rezby/adapter-vnutrenniy-raco-profi-soedinitel-rezba-vnutrennyaya-latunnyy-34--4246-55016b-/</url>
+        <price>933.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2123</categoryId>
+        <picture>http://on-tools.ru/wa-data/protected/shop/products/40/64/136440/images/42574.jpg</picture>
+        <name>Адаптер внутренний RACO "Profi" (соединитель-резьба внутренняя) латунный, 3/4" ,  ( 4246-55016B )</name>
+        <vendor>RACO</vendor>
+        <vendorCode>4246-55016B</vendorCode>
+        <description><![CDATA[Адаптер внутренний RACO "соединитель-резьба внутренняя", 3/4" ( 4246-55016B ) Применяется как переходник между соединителем RACO и трубой диаметром 3/4" с внутренней резьбой. Изготовлен из латуни.                                                      Поливочные системы RACO Profi изготовлены из высококачественной отполированной латуни гарантирует продолжительный срок службы. Применяется как переходник между соединителем и трубой с внутренней резьбой.]]></description>
+        <weight>0.050</weight>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
