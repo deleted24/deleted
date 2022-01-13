@@ -1,0 +1,3105 @@
+<?xml version="1.0"  encoding="UTF-8" ?>
+    <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+    <yml_catalog date="2022-01-11 16:01">
+    <shop>
+    <name>«Prival-shop»</name>
+    <company>ИП Благодаров В.В.</company>
+    <url>https://prival-shop.ru/</url>
+    <currencies>        
+        <currency id="RUR" rate="1"/>        
+        <currency id="USD" rate="70"/>        
+        <currency id="EUR" rate="80"/>        
+        <currency id="CNY" rate="12"/>
+    </currencies>
+    <categories>
+        <category id="1">Все товары</category>
+        <category id="2" parentId="1">Спальный мешок</category>
+        <category id="3" parentId="1">Рюкзак</category>
+        <category id="4" parentId="1">Палатка</category>
+    </categories>
+    <offers>
+        <offer id="1"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=1</url>
+            <barcode>110031410096</barcode>
+            
+            <name>Bobr 25л ткань Oxford 600D /цифра</name>
+            <categoryId>3</categoryId>
+            <price>5400</price>
+            <outlets>                     
+                <outlet id="1" instock="3"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/img1394_72105.jpg</picture>
+            <VendorCode>RPR0007-04</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>Bobr 25л ткань Oxford 600D /цифра/</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            <param name="Вес брутто" unit="кг">1450</param>
+                         
+        </offer>
+        <offer id="187"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=187</url>
+            
+            
+            <name>Bobr 25л ткань Oxford 600D /хаки </name>
+            <categoryId>3</categoryId>
+            <price>5400</price>
+            <outlets>                     
+                <outlet id="1" instock="3"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/rukzaki/img1392_52505.jpg</picture>
+            <VendorCode>RPR0007-05</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            <param name="Вес брутто" unit="кг">1450</param>
+                         
+        </offer>
+        <offer id="188"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=188</url>
+            
+            
+            <name>Бойскаут 25л ткань Oxford 600D кмф-цифра</name>
+            <categoryId>3</categoryId>
+            <price>2400</price>
+            <outlets>                     
+                <outlet id="1" instock="0"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/img1374_20750.jpg</picture>
+            <VendorCode>RPR0032-04</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="2"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=2</url>
+            <barcode>110031410102</barcode>
+            
+            <name>Бойскаут 25л ткань Oxford 600D /хаки</name>
+            <categoryId>3</categoryId>
+            <price>2400</price>
+            <outlets>                     
+                <outlet id="1" instock="3"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/img517_68619.jpg</picture>
+            <VendorCode>RPR0032-05</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>Бойскаут 25л ткань Oxford 600D /хаки/</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="3"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=3</url>
+            <barcode>110031410812</barcode>
+            
+            <name>Жилет Черепашка ткань Oxford 600D /нато</name>
+            <categoryId>3</categoryId>
+            <price>3150</price>
+            <outlets>                     
+                <outlet id="1" instock="0"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/img3248_76450_big.jpg</picture>
+            <VendorCode>RPR0003-04</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>Жилет "Черепашка" ткань Oxford 600D /нато/</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="4"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=4</url>
+            <barcode>110031410126</barcode>
+            
+            <name>Кенгуру 45л ткань Oxford 600D /цифра/ </name>
+            <categoryId>3</categoryId>
+            <price>3220</price>
+            <outlets>                     
+                <outlet id="1" instock="3"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/img1376_94125.jpg</picture>
+            <VendorCode>RPR0006-04</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>Кенгуру 45л ткань Oxford 600D /цифра/</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="5"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=5</url>
+            <barcode>110031410133</barcode>
+            
+            <name>Кузьмич 55л ткань Oxford 600D /цифра/</name>
+            <categoryId>3</categoryId>
+            <price>2450</price>
+            <outlets>                     
+                <outlet id="1" instock="3"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/img1397_23307.jpg</picture>
+            <VendorCode>RPR0010-04</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>Кузьмич 55л ткань Oxford 600D /цифра/</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="6"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=6</url>
+            <barcode>110031410140</barcode>
+            
+            <name>Михалыч 110л ткань Oxford 600D /хаки/ </name>
+            <categoryId>3</categoryId>
+            <price>3300</price>
+            <outlets>                     
+                <outlet id="1" instock="3"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/img2899_15194.jpg</picture>
+            <VendorCode>RPR0017-05</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>Михалыч 110л ткань Oxford 600D /хаки/</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="7"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=7</url>
+            <barcode>110031410157</barcode>
+            
+            <name>Михалыч 110л ткань Oxford 600D /цифра/ </name>
+            <categoryId>3</categoryId>
+            <price>3300</price>
+            <outlets>                     
+                <outlet id="1" instock="3"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/img2898_17257.jpg</picture>
+            <VendorCode>RPR0017-04</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>Михалыч 110л ткань Oxford 600D /цифра/</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="8"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=8</url>
+            <barcode>110031410164</barcode>
+            
+            <name>Походный 35л  ткань Oxford 600D /хаки/ </name>
+            <categoryId>3</categoryId>
+            <price>2900</price>
+            <outlets>                     
+                <outlet id="1" instock="3"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/img789_52003.jpg</picture>
+            <VendorCode>RPR0002-05</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>Походный 35л  ткань Oxford 600D /хаки/</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="9"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=9</url>
+            <barcode>110031410171</barcode>
+            
+            <name>Походный 35л  ткань Oxford 600D /цифра/ </name>
+            <categoryId>3</categoryId>
+            <price>2900</price>
+            <outlets>                     
+                <outlet id="1" instock="3"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/rukzaki/img1372_52356.jpg</picture>
+            <VendorCode>RPR0002-04</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>Походный 35л  ткань Oxford 600D /цифра/</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="10"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=10</url>
+            <barcode>110031410188</barcode>
+            
+            <name>Промысловый 30л ткань палаточная 100% х/б /хаки/</name>
+            <categoryId>3</categoryId>
+            <price>1850</price>
+            <outlets>                     
+                <outlet id="1" instock="0"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/rukzaki/img498_33196.jpg</picture>
+            <VendorCode>RPR0018-05</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>Промысловый 30л ткань палаточная 100% х/б /хаки/</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="11"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=11</url>
+            <barcode>110031410195</barcode>
+            
+            <name>Промысловый 50л ткань палаточная 100% х/б /хаки/</name>
+            <categoryId>3</categoryId>
+            <price>2100</price>
+            <outlets>                     
+                <outlet id="1" instock="3"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/rukzaki/img499_11984.jpg</picture>
+            <VendorCode>RPR0019-05</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>Промысловый 50л ткань палаточная 100% х/б /хаки/</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="12"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=12</url>
+            <barcode>110031410201</barcode>
+            
+            <name>Рюкзак-баул 100л ткань Oxford 600D /цифра/</name>
+            <categoryId>3</categoryId>
+            <price>3450</price>
+            <outlets>                     
+                <outlet id="1" instock="3"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/rukzaki/img3012_31662.jpg</picture>
+            <VendorCode>RPR0033-04</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>Рюкзак-баул 100л ткань Oxford 600D /цифра/</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="13"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=13</url>
+            <barcode>110031410218</barcode>
+            
+            <name>Скаут 40л ткань Авизент 100% х/б /хаки/</name>
+            <categoryId>3</categoryId>
+            <price>3250</price>
+            <outlets>                     
+                <outlet id="1" instock="3"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/img508_97827.jpg</picture>
+            <VendorCode>RPR0054-05</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>Скаут 40л ткань Авизент 100% х/б /хаки/</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="14"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=14</url>
+            <barcode>110031410225</barcode>
+            
+            <name>Скаут 55л ткань  Oxford 600D /цифра/</name>
+            <categoryId>3</categoryId>
+            <price>2950</price>
+            <outlets>                     
+                <outlet id="1" instock="3"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/img515_68506.jpg</picture>
+            <VendorCode>RPR0027-04</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>Скаут 55л ткань  Oxford 600D /цифра/</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="15"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=15</url>
+            <barcode>110031410232</barcode>
+            
+            <name>Скаут 55л ткань Oxford 600D /хаки/</name>
+            <categoryId>3</categoryId>
+            <price>2950</price>
+            <outlets>                     
+                <outlet id="1" instock="3"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/img514_27837.jpg</picture>
+            <VendorCode>RPR0027-05</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>Скаут 55л ткань Oxford 600D /хаки/</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="16"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=16</url>
+            <barcode>110031410249</barcode>
+            
+            <name>Скаут 70л ткань Oxford 600D /синий/ трекинговый</name>
+            <categoryId>3</categoryId>
+            <price>3600</price>
+            <outlets>                     
+                <outlet id="1" instock="0"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/rukzaki/img2882_59305_big.jpg</picture>
+            <VendorCode>RPR0058-12</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>Скаут 70л ткань Oxford 600D /синий/ трекинговый</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="17"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=17</url>
+            <barcode>110031410256</barcode>
+            
+            <name>SITY 18л ткань Oxford 600D василек </name>
+            <categoryId>3</categoryId>
+            <price>1400</price>
+            <outlets>                     
+                <outlet id="1" instock="0"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/img3106_67384.jpg</picture>
+            <VendorCode>RPR0056-13</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>SITY 18л ткань Oxford 600D василек</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="18"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=18</url>
+            <barcode>110031410263</barcode>
+            
+            <name>SITY 18л ткань Oxford 600D голубой </name>
+            <categoryId>3</categoryId>
+            <price>1400</price>
+            <outlets>                     
+                <outlet id="1" instock="3"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/rukzaki/img3105_34127.jpg</picture>
+            <VendorCode>RPR0056-26</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>SITY 18л ткань Oxford 600D голубой</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="19"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=19</url>
+            <barcode>110031410270</barcode>
+            
+            <name>SITY 18л ткань Oxford 600D синий </name>
+            <categoryId>3</categoryId>
+            <price>1400</price>
+            <outlets>                     
+                <outlet id="1" instock="0"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/img3107_27145.jpg</picture>
+            <VendorCode>RPR0056-12</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>SITY 18л ткань Oxford 600D синий</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="20"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=20</url>
+            <barcode>110031410287</barcode>
+            
+            <name>STARK КД 15л ткань Кордон, ткань Oxford /хаки+черный/ </name>
+            <categoryId>3</categoryId>
+            <price>2100</price>
+            <outlets>                     
+                <outlet id="1" instock="3"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/img69_13235.jpg</picture>
+            <VendorCode>RPR0040-03</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>STARK КД 15л ткань Кордон, ткань Oxford /хаки+черный/</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="21"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=21</url>
+            <barcode>110031410294</barcode>
+            
+            <name>STARK КД 15л ткань Кордон, ткань Oxford /черный/ </name>
+            <categoryId>3</categoryId>
+            <price>2100</price>
+            <outlets>                     
+                <outlet id="1" instock="0"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/img69_13235.jpg</picture>
+            <VendorCode>RPR0040-01</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>STARK КД 15л ткань Кордон, ткань Oxford /черный/</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="22"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=22</url>
+            <barcode>110031410300</barcode>
+            
+            <name>Артек 25л ткань Авизент 100% х/б /хаки/</name>
+            <categoryId>3</categoryId>
+            <price>2100</price>
+            <outlets>                     
+                <outlet id="1" instock="0"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/img2867_22660.jpg</picture>
+            <VendorCode>RPR0037-05</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>Артек 25л ткань Авизент 100% х/б /хаки/</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="23"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=23</url>
+            <barcode>110031410317</barcode>
+            
+            <name>Артек 25л ткань Хлопок 100% /синий/ </name>
+            <categoryId>3</categoryId>
+            <price>2100</price>
+            <outlets>                     
+                <outlet id="1" instock="3"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/img2878_16183.jpg</picture>
+            <VendorCode>RPR0038-12</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>Артек 25л ткань Хлопок 100% /синий/</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="24"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=24</url>
+            <barcode>110031410324</barcode>
+            
+            <name>Сумка Bag transformer 27л чёрн соты</name>
+            <categoryId>3</categoryId>
+            <price>2780</price>
+            <outlets>                     
+                <outlet id="1" instock="3"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/img3224_28592.jpg</picture>
+            <VendorCode>RPR0066-01</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>Сумка Bag transformer 27л чёрн соты</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="25"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=25</url>
+            <barcode>110031410331</barcode>
+            
+            <name>Сумка Bag transformer 27л хаки соты</name>
+            <categoryId>3</categoryId>
+            <price>2780</price>
+            <outlets>                     
+                <outlet id="1" instock="3"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/img3222_30368.jpg</picture>
+            <VendorCode>RPR0066-05</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>Сумка Bag transformer 27л хаки соты</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="26"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=26</url>
+            <barcode>110031410348</barcode>
+            
+            <name>Сумка Bag transformer 40л чёрн соты</name>
+            <categoryId>3</categoryId>
+            <price>2900</price>
+            <outlets>                     
+                <outlet id="1" instock="0"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/img3224_28592.jpg</picture>
+            <VendorCode>RPR0067-01</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>Сумка Bag transformer 40л чёрн соты</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="27"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=27</url>
+            <barcode>110031410355</barcode>
+            
+            <name>Сумка Bag transformer 40л хаки соты</name>
+            <categoryId>3</categoryId>
+            <price>2900</price>
+            <outlets>                     
+                <outlet id="1" instock="3"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/img3223_89705.jpg</picture>
+            <VendorCode>RPR0067-05</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>Сумка Bag transformer 40л хаки соты</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="28"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=28</url>
+            <barcode>110031410362</barcode>
+            
+            <name>Привал 35л ткань Oxford 420T ПВХ /синий/</name>
+            <categoryId>3</categoryId>
+            <price>2400</price>
+            <outlets>                     
+                <outlet id="1" instock="3"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/img45_16225.jpg</picture>
+            <VendorCode>RPR0043-12</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>Привал 35л ткань Oxford 420T ПВХ /синий/</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="29"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=29</url>
+            <barcode>110031410379</barcode>
+            
+            <name>Форос 30л ткань Oxford 600D /хаки+цифра/</name>
+            <categoryId>3</categoryId>
+            <price>2900</price>
+            <outlets>                     
+                <outlet id="1" instock="3"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/img2874_39351.jpg</picture>
+            <VendorCode>RPR0039-17</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>Форос 30л ткань Oxford 600D /хаки+цифра/</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="30"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=30</url>
+            <barcode>110031410386</barcode>
+            
+            <name>Aллигатор КД 80л ткань КОРДОН /цифра/</name>
+            <categoryId>3</categoryId>
+            <price>5800</price>
+            <outlets>                     
+                <outlet id="1" instock="0"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/rukzaki/img3108_84604.jpg</picture>
+            <VendorCode>RPR0052-04</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>Aллигатор КД 80л ткань КОРДОН /цифра/</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="31"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=31</url>
+            <barcode>110031410393</barcode>
+            
+            <name>STREET КД 35л ткань КОРДОН /хаки/ New</name>
+            <categoryId>3</categoryId>
+            <price>3300</price>
+            <outlets>                     
+                <outlet id="1" instock="3"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/img3088_95277.jpg</picture>
+            <VendorCode>RPR0049-05</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>STREET КД 35л ткань КОРДОН /хаки/ New</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="32"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=32</url>
+            <barcode>110031410409</barcode>
+            
+            <name>Бобер КД 55л ткань КОРДОН /черный/ New</name>
+            <categoryId>3</categoryId>
+            <price>4470</price>
+            <outlets>                     
+                <outlet id="1" instock="3"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/img3177_39828.jpg</picture>
+            <VendorCode>RPR0053-01</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>Бобер КД 55л ткань КОРДОН /черный/ New</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="33"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=33</url>
+            <barcode>110031410416</barcode>
+            
+            <name>Бойскаут КД 25л ткань КОРДОН /хаки/ New</name>
+            <categoryId>3</categoryId>
+            <price>2700</price>
+            <outlets>                     
+                <outlet id="1" instock="0"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/rukzaki/img3178_30540.jpg</picture>
+            <VendorCode>RPR0061-05</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>Бойскаут КД 25л ткань КОРДОН /хаки/ New</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="34"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=34</url>
+            <barcode>110031410423</barcode>
+            
+            <name>Маршрутный КД 45л ткань КОРДОН /т. хаки/</name>
+            <categoryId>3</categoryId>
+            <price>3900</price>
+            <outlets>                     
+                <outlet id="1" instock="3"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/img3089_40663.jpg</picture>
+            <VendorCode>RPR0050-05</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>Маршрутный КД 45л ткань КОРДОН /т. хаки/</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="35"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=35</url>
+            <barcode>110031410430</barcode>
+            
+            <name>Скаут КД 70л ткань КОРДОН /т.хаки/ New</name>
+            <categoryId>3</categoryId>
+            <price>3900</price>
+            <outlets>                     
+                <outlet id="1" instock="0"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/img3085_64185.jpg</picture>
+            <VendorCode>RPR0051-05</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>Скаут КД 70л ткань КОРДОН /т.хаки/ New</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="36"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=36</url>
+            <barcode>110031410447</barcode>
+            
+            <name>Cкаут КД 55л ткань КОРДОН /хаки/ New</name>
+            <categoryId>3</categoryId>
+            <price>3600</price>
+            <outlets>                     
+                <outlet id="1" instock="0"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/rukzaki/img3205_12557.jpg</picture>
+            <VendorCode>RPR0059-05</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>Cкаут КД 55л ткань КОРДОН /хаки/ New</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="37"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=37</url>
+            <barcode>110031410454</barcode>
+            
+            <name>Сталкер КД 35л ткань КОРДОН /черный/ New</name>
+            <categoryId>3</categoryId>
+            <price>3300</price>
+            <outlets>                     
+                <outlet id="1" instock="3"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/rukzaki/img3193_18942.jpg</picture>
+            <VendorCode>RPR0063-01</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>Сталкер КД 35л ткань КОРДОН /черный/ New</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="38"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=38</url>
+            <barcode>110031410461</barcode>
+            
+            <name>Сталкер КД 35л ткань КОРДОН /хаки/ New</name>
+            <categoryId>3</categoryId>
+            <price>3300</price>
+            <outlets>                     
+                <outlet id="1" instock="3"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/rukzaki/img3192_22731.jpg</picture>
+            <VendorCode>RPR0063-05</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>Сталкер КД 35л ткань КОРДОН /хаки/ New</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="39"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=39</url>
+            <barcode>110031410478</barcode>
+            
+            <name>Сталкер КД 50л ткань КОРДОН /черный/ New</name>
+            <categoryId>3</categoryId>
+            <price>3600</price>
+            <outlets>                     
+                <outlet id="1" instock="3"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/rukzaki/img3190_40804.jpg</picture>
+            <VendorCode>RPR0046-01</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>Сталкер КД 50л ткань КОРДОН /черный/ New</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="40"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=40</url>
+            <barcode>110031410485</barcode>
+            
+            <name>Сталкер КД MOLLE 35л ткань КОРДОН + моли /т.хаки/</name>
+            <categoryId>3</categoryId>
+            <price>3600</price>
+            <outlets>                     
+                <outlet id="1" instock="3"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/img3091_93183.jpg</picture>
+            <VendorCode>RPR0044-05</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>Сталкер КД MOLLE 35л ткань КОРДОН + моли /т.хаки/</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="41"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=41</url>
+            <barcode>110031410492</barcode>
+            
+            <name>Стрелок КД MOLLE 30л ткань КОРДОН /хаки/ New</name>
+            <categoryId>3</categoryId>
+            <price>3900</price>
+            <outlets>                     
+                <outlet id="1" instock="3"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/rukzaki/img3181_24094.jpg</picture>
+            <VendorCode>RPR0057-05</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>Стрелок КД MOLLE 30л ткань КОРДОН /хаки/ New</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="42"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=42</url>
+            <barcode>110031410508</barcode>
+            
+            <name>Форос КД 30л /хаки/ New</name>
+            <categoryId>3</categoryId>
+            <price>3300</price>
+            <outlets>                     
+                <outlet id="1" instock="3"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/rukzaki/img3182_23989.jpg</picture>
+            <VendorCode>RPR0064-05</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>Форос КД 30л /хаки/ New</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="71"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=71</url>
+            <barcode>110031410713</barcode>
+            
+            <name>Рюкзак Prival Кенгуру КД 45 Черный</name>
+            <categoryId>3</categoryId>
+            <price>3900</price>
+            <outlets>                     
+                <outlet id="1" instock="3"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/img3199_30308_big.jpg</picture>
+            <VendorCode>RPR0065-01</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>Рюкзак Prival Кенгуру КД 45 Черный</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="72"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=72</url>
+            <barcode>110031410720</barcode>
+            
+            <name>Рюкзак Prival Кузьмич 45 Камуфляж лес хаки</name>
+            <categoryId>3</categoryId>
+            <price>2100</price>
+            <outlets>                     
+                <outlet id="1" instock="3"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/rukzaki/img3010_36614.jpg</picture>
+            <VendorCode>RPR0009-07</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>Рюкзак Prival Кузьмич 45 Камуфляж лес хаки</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="73"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=73</url>
+            <barcode>110031410737</barcode>
+            
+            <name>Рюкзак Prival Кузьмич 45 хаки/черный</name>
+            <categoryId>3</categoryId>
+            <price>2100</price>
+            <outlets>                     
+                <outlet id="1" instock="3"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/rukzaki/img3196_35346.jpg</picture>
+            <VendorCode>RPR0009-03</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>Рюкзак Prival Кузьмич 45 хаки/черный</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="74"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=74</url>
+            <barcode>110031410744</barcode>
+            
+            <name>Рюкзак Prival Кузьмич 55 хаки</name>
+            <categoryId>3</categoryId>
+            <price>2450</price>
+            <outlets>                     
+                <outlet id="1" instock="3"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/img56_30065.jpg</picture>
+            <VendorCode>RPR0010-05</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>Рюкзак Prival Кузьмич 55 хаки</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="83"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=83</url>
+            <barcode>110037664066</barcode>
+            
+            <name>Рюкзак Prival STARK 15л cmf blue</name>
+            <categoryId>3</categoryId>
+            <price>2300</price>
+            <outlets>                     
+                <outlet id="1" instock="3"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/rukzaki/stark/img3284_73563_big.jpg</picture>
+            <VendorCode>RPR0040-60</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>Рюкзак Prival STARK 15л cmf blue</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="84"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=84</url>
+            <barcode>110037664073</barcode>
+            
+            <name>Рюкзак Prival STARK 15л cmf grey</name>
+            <categoryId>3</categoryId>
+            <price>2300</price>
+            <outlets>                     
+                <outlet id="1" instock="3"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/rukzaki/stark/img3285_89667.jpg</picture>
+            <VendorCode>RPR0040-50</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>Рюкзак Prival STARK 15л cmf grey</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="85"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=85</url>
+            <barcode>110037664080</barcode>
+            
+            <name>Рюкзак Prival STARK 15л cmf khaki</name>
+            <categoryId>3</categoryId>
+            <price>2300</price>
+            <outlets>                     
+                <outlet id="1" instock="3"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>https://prival-shop.ru/UserFiles/Image/rukzaki/stark/img3284_73563.jpg</picture>
+            <VendorCode>RPR0040-40</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>Рюкзак Prival STARK 15л cmf khaki</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="86"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=86</url>
+            <barcode>110037664097</barcode>
+            
+            <name>Рюкзак Prival  STREET 23л cmf blue</name>
+            <categoryId>3</categoryId>
+            <price>3180</price>
+            <outlets>                     
+                <outlet id="1" instock="3"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/rukzaki/stark/img3284_73563.jpg</picture>
+            <VendorCode>RPR0049-60</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>Рюкзак Prival  STREET 23л cmf blue</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="110"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=110</url>
+            <barcode>110037664103</barcode>
+            
+            <name>Рюкзак Prival Street 23л cmf khaki</name>
+            <categoryId>3</categoryId>
+            <price>3180</price>
+            <outlets>                     
+                <outlet id="1" instock="0"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/img3289_53189_big.jpg</picture>
+            <VendorCode>RPR0049-50</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>Рюкзак Prival Street 23л cmf khaki</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="111"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=111</url>
+            <barcode>110037664110</barcode>
+            
+            <name>Рюкзак Prival Street 23л cmf grey</name>
+            <categoryId>3</categoryId>
+            <price>3180</price>
+            <outlets>                     
+                <outlet id="1" instock="3"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/img3288_31451_big.jpg</picture>
+            <VendorCode>RPR0049-40</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>Рюкзак Prival Street 23л cmf grey</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="112"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=112</url>
+            <barcode>110037664127</barcode>
+            
+            <name>Рюкзак Prival  Грот 25л cmf blue</name>
+            <categoryId>3</categoryId>
+            <price>2970</price>
+            <outlets>                     
+                <outlet id="1" instock="3"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/rukzaki/street/img3287_17684_big.jpg</picture>
+            <VendorCode>RPR0035-60</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>Рюкзак Prival  Грот 25л cmf blue</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="113"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=113</url>
+            <barcode>110037664134</barcode>
+            
+            <name>Рюкзак Prival Грот 25л cmf grey</name>
+            <categoryId>3</categoryId>
+            <price>2970</price>
+            <outlets>                     
+                <outlet id="1" instock="0"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/img3291_89765.jpg</picture>
+            <VendorCode>RPR0035-50</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>Рюкзак Prival Грот 25л cmf grey</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="114"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=114</url>
+            <barcode>110037664141</barcode>
+            
+            <name>Рюкзак Prival Грот 25л cmf khaki</name>
+            <categoryId>3</categoryId>
+            <price>2970</price>
+            <outlets>                     
+                <outlet id="1" instock="0"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/img3292_87563.jpg</picture>
+            <VendorCode>RPR0035-40</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>Рюкзак Prival Грот 25л cmf khaki</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="115"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=115</url>
+            <barcode>110037664158</barcode>
+            
+            <name>Рюкзак Prival  Форос 30л cmf blue</name>
+            <categoryId>3</categoryId>
+            <price>3300</price>
+            <outlets>                     
+                <outlet id="1" instock="3"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/img3293_63316.jpg</picture>
+            <VendorCode>RPR0039-60</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>Рюкзак Prival  Форос 30л cmf blue</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="116"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=116</url>
+            <barcode>110037664165</barcode>
+            
+            <name>Рюкзак Prival Форос 30л cmf grey</name>
+            <categoryId>3</categoryId>
+            <price>3300</price>
+            <outlets>                     
+                <outlet id="1" instock="3"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/img3294_54459_big.jpg</picture>
+            <VendorCode>RPR0039-50</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>Рюкзак Prival Форос 30л cmf grey</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="117"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=117</url>
+            <barcode>110037664172</barcode>
+            
+            <name>Рюкзак Prival Форос 30л cmf khaki</name>
+            <categoryId>3</categoryId>
+            <price>3300</price>
+            <outlets>                     
+                <outlet id="1" instock="3"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/img3295_88297_big.jpg</picture>
+            <VendorCode>RPR0039-40</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>Рюкзак Prival Форос 30л cmf khaki</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="87"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=87</url>
+            <barcode>110025045440</barcode>
+            
+            <name>Палатка туристическая Prival Турист 2 </name>
+            <categoryId>4</categoryId>
+            <price>4350</price>
+            <outlets>                     
+                <outlet id="1" instock="0"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://goods-xml.ru/goods/public/2462044048383.jpg</picture>
+            <VendorCode>PPR-0009</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>Палатка туристическая Prival Турист 2</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="88"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=88</url>
+            <barcode>110025045457</barcode>
+            
+            <name>Палатка туристическая Prival Турист 3 </name>
+            <categoryId>4</categoryId>
+            <price>4950</price>
+            <outlets>                     
+                <outlet id="1" instock="0"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://goods-xml.ru/goods/public/2462044048390.jpg</picture>
+            <VendorCode>PPR-0010</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>Палатка туристическая Prival Турист 3</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="89"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=89</url>
+            <barcode>110025045464</barcode>
+            
+            <name>Палатка туристическая Prival Турист 4</name>
+            <categoryId>4</categoryId>
+            <price>5850</price>
+            <outlets>                     
+                <outlet id="1" instock="0"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://goods-xml.ru/goods/public/2462044048529.png</picture>
+            <VendorCode>PPR-0011</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>Палатка туристическая Prival Турист 4</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="90"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=90</url>
+            <barcode>110025045419</barcode>
+            
+            <name>Палатка туристическая Prival Берлога 4 </name>
+            <categoryId>4</categoryId>
+            <price>15600</price>
+            <outlets>                     
+                <outlet id="1" instock="0"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://goods-xml.ru/goods/public/2462044049755.jpg</picture>
+            <VendorCode>PPR-0001</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>Палатка туристическая Prival Берлога 4</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="91"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=91</url>
+            <barcode>110025045433</barcode>
+            
+            <name>Палатка туристическая Prival Терса 2 </name>
+            <categoryId>4</categoryId>
+            <price>10000</price>
+            <outlets>                     
+                <outlet id="1" instock="0"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://goods-xml.ru/goods/public/2462044049762.jpg</picture>
+            <VendorCode>PPR-0005</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>Палатка туристическая Prival Терса 2</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="92"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=92</url>
+            <barcode>110025045426</barcode>
+            
+            <name>Палатка туристическая Prival Дельта 3 </name>
+            <categoryId>4</categoryId>
+            <price>12300</price>
+            <outlets>                     
+                <outlet id="1" instock="0"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://goods-xml.ru/goods/public/2462044059846.png</picture>
+            <VendorCode>PPR-0004</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>Палатка туристическая Prival Дельта 3</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="93"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=93</url>
+            <barcode>110025045402</barcode>
+            
+            <name>Палатка туристическая Prival Артек 3 </name>
+            <categoryId>4</categoryId>
+            <price>6750</price>
+            <outlets>                     
+                <outlet id="1" instock="0"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://goods-xml.ru/goods/public/artek3.png</picture>
+            <VendorCode>PPR-0008</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>Палатка туристическая Prival Артек 3</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="45"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=45</url>
+            <barcode>110031410539</barcode>
+            
+            <name>ПРИВАЛ Левый  /одеяло с капюшоном, размер 220х80, t - 10 +10С/</name>
+            <categoryId>2</categoryId>
+            <price>4370</price>
+            <outlets>                     
+                <outlet id="1" instock="3"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/spalniki/img946_67582.jpg</picture>
+            <VendorCode>SPR0001-L</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>ПРИВАЛ Левый  /одеяло с капюшоном, размер 220х80, t - 10 +10С/</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="46"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=46</url>
+            <barcode>110031410546</barcode>
+            
+            <name>ПРИВАЛ Правый  /одеяло с капюшоном, размер 220х80, t - 10 +10С/</name>
+            <categoryId>2</categoryId>
+            <price>4370</price>
+            <outlets>                     
+                <outlet id="1" instock="3"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/spalniki/img946_67582.jpg</picture>
+            <VendorCode>SPR0001-R</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>ПРИВАЛ Правый  /одеяло с капюшоном, размер 220х80, t - 10 +10С/</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="47"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=47</url>
+            <barcode>110026438357</barcode>
+            
+            <name>ПРИВАЛ КМФ Левый /одеяло с капюшоном, размер 220х80, t - 10 +10С/</name>
+            <categoryId>2</categoryId>
+            <price>4370</price>
+            <outlets>                     
+                <outlet id="1" instock="0"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/img947_30674.jpg</picture>
+            <VendorCode>SPR0002-L</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>ПРИВАЛ КМФ Левый /одеяло с капюшоном, размер 220х80, t - 10 +10С/</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="48"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=48</url>
+            <barcode>110031410553</barcode>
+            
+            <name>ПРИВАЛ КМФ Правый /одеяло с капюшоном, размер 220х80, t - 10 +10С/</name>
+            <categoryId>2</categoryId>
+            <price>4370</price>
+            <outlets>                     
+                <outlet id="1" instock="0"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/img947_30674.jpg</picture>
+            <VendorCode>SPR0002-R</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>ПРИВАЛ КМФ Правый /одеяло с капюшоном, размер 220х80, t - 10 +10С/</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="50"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=50</url>
+            <barcode>110031410560</barcode>
+            
+            <name>Double-Lux /одеяло с подголовником, размер 220х160, t -15 +10C/ </name>
+            <categoryId>2</categoryId>
+            <price>6680</price>
+            <outlets>                     
+                <outlet id="1" instock="0"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/img2953_35293.jpg</picture>
+            <VendorCode>SPR0004  </VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>Double-Lux /одеяло с подголовником, размер 220х160, t -15 +10C/</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="51"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=51</url>
+            <barcode>110026438326</barcode>
+            
+            <name>ЛЕТНИЙ XL /одеяло с подголовником, размер 220х95, t +5 +18C/</name>
+            <categoryId>2</categoryId>
+            <price>2350</price>
+            <outlets>                     
+                <outlet id="1" instock="0"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/img2862_33306.jpg</picture>
+            <VendorCode>SPR0008</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>ЛЕТНИЙ XL /одеяло с подголовником, размер 220х95, t +5 +18C/</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="52"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=52</url>
+            <barcode>110031410577</barcode>
+            
+            <name>БЕРЛОГА Левый /одеяло с капюшоном, размер 220х95, t -15 +5С/</name>
+            <categoryId>2</categoryId>
+            <price>4560</price>
+            <outlets>                     
+                <outlet id="1" instock="3"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/spalniki/img7_37966.jpg</picture>
+            <VendorCode>SPR0009-L</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>БЕРЛОГА Левый /одеяло с капюшоном, размер 220х95, t -15 +5С/</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="53"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=53</url>
+            <barcode>110031410584</barcode>
+            
+            <name>БЕРЛОГА Правый  /одеяло с капюшоном, размер 220х95, t -15 +5С/</name>
+            <categoryId>2</categoryId>
+            <price>4560</price>
+            <outlets>                     
+                <outlet id="1" instock="3"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/spalniki/img7_37966.jpg</picture>
+            <VendorCode>SPR0009-R</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>БЕРЛОГА Правый  /одеяло с капюшоном, размер 220х95, t -15 +5С/</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="54"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=54</url>
+            <barcode>110031410591</barcode>
+            
+            <name>БЕРЛОГА КМФ  Левый  /одеяло с капюшоном, размер 220х95, t -15 +5С/</name>
+            <categoryId>2</categoryId>
+            <price>4560</price>
+            <outlets>                     
+                <outlet id="1" instock="3"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/img8_31918.jpg</picture>
+            <VendorCode>SPR0010-L</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>БЕРЛОГА КМФ  Левый  /одеяло с капюшоном, размер 220х95, t -15 +5С/</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="55"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=55</url>
+            <barcode>110031410607</barcode>
+            
+            <name>БЕРЛОГА II Левый  /одеяло с капюшоном, размер 220х110, t -20 +4С/</name>
+            <categoryId>2</categoryId>
+            <price>5680</price>
+            <outlets>                     
+                <outlet id="1" instock="3"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/spalniki/img9_10106.jpg</picture>
+            <VendorCode>SPR0011-L</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>БЕРЛОГА II Левый  /одеяло с капюшоном, размер 220х110, t -20 +4С/</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="56"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=56</url>
+            <barcode>110031410614</barcode>
+            
+            <name>БЕРЛОГА II  Правый/одеяло с капюшоном, размер 220х110, t -20 +4С/</name>
+            <categoryId>2</categoryId>
+            <price>5680</price>
+            <outlets>                     
+                <outlet id="1" instock="3"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/spalniki/img9_10106.jpg</picture>
+            <VendorCode>SPR0011-R</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>БЕРЛОГА II  Правый/одеяло с капюшоном, размер 220х110, t -20 +4С/</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="57"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=57</url>
+            <barcode>110031410621</barcode>
+            
+            <name>БЕРЛОГА II КМФ Левый /одеяло с капюшоном, размер 220х110, t -20 +4С/</name>
+            <categoryId>2</categoryId>
+            <price>5680</price>
+            <outlets>                     
+                <outlet id="1" instock="3"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/spalniki/img10_37594.jpg</picture>
+            <VendorCode>SPR0012-L</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>БЕРЛОГА II КМФ Левый /одеяло с капюшоном, размер 220х110, t -20 +4С/</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="58"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=58</url>
+            <barcode>110031410638</barcode>
+            
+            <name>БЕРЛОГА II КМФ  Правый /одеяло с капюшоном, размер 220х110, t -20 +4С/</name>
+            <categoryId>2</categoryId>
+            <price>5680</price>
+            <outlets>                     
+                <outlet id="1" instock="3"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/spalniki/img10_37594.jpg</picture>
+            <VendorCode>SPR0012-R</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>БЕРЛОГА II КМФ  Правый /одеяло с капюшоном, размер 220х110, t -20 +4С/</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="59"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=59</url>
+            <barcode>110031410645</barcode>
+            
+            <name>СЕВЕРНЫЙ Левый /одеяло с капюшоном, размер 220х95 см, t -24 +0С/ НОВИНКА!</name>
+            <categoryId>2</categoryId>
+            <price>6320</price>
+            <outlets>                     
+                <outlet id="1" instock="3"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/spalniki/img3206_28745.jpg</picture>
+            <VendorCode>SPR0034-L</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>СЕВЕРНЫЙ Левый /одеяло с капюшоном, размер 220х95 см, t -24 +0С/ НОВИНКА!</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="60"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=60</url>
+            <barcode>110031410652</barcode>
+            
+            <name>СЕВЕРНЫЙ Правый /одеяло с капюшоном, размер 220х95 см, t -24 +0С/ НОВИНКА!</name>
+            <categoryId>2</categoryId>
+            <price>6320</price>
+            <outlets>                     
+                <outlet id="1" instock="3"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/spalniki/img3206_28745.jpg</picture>
+            <VendorCode>SPR0034-R</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>СЕВЕРНЫЙ Правый /одеяло с капюшоном, размер 220х95 см, t -24 +0С/ НОВИНКА!</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="61"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=61</url>
+            <barcode>110031410669</barcode>
+            
+            <name>СТЕПНОЙ XL Левый /одеяло с подголовником, размер 220х95, t -7 +10C/</name>
+            <categoryId>2</categoryId>
+            <price>3520</price>
+            <outlets>                     
+                <outlet id="1" instock="3"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/spalniki/img2_54207.jpg</picture>
+            <VendorCode>SPR0015-L</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>СТЕПНОЙ XL Левый /одеяло с подголовником, размер 220х95, t -7 +10C/</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="62"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=62</url>
+            <barcode>110031410676</barcode>
+            
+            <name>СТЕПНОЙ XL Правый /одеяло с подголовником, размер 220х95, t -7 +10C/</name>
+            <categoryId>2</categoryId>
+            <price>3520</price>
+            <outlets>                     
+                <outlet id="1" instock="3"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/spalniki/img2_54207.jpg</picture>
+            <VendorCode>SPR0015-R</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>СТЕПНОЙ XL Правый /одеяло с подголовником, размер 220х95, t -7 +10C/</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="63"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=63</url>
+            <barcode>110031410683</barcode>
+            
+            <name>ПОХОДНЫЙ XL /одеяло, размер 200х95, t -10 +7С/</name>
+            <categoryId>2</categoryId>
+            <price>2800</price>
+            <outlets>                     
+                <outlet id="1" instock="0"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/spalniki/img106_27118.jpg</picture>
+            <VendorCode>SPR0018    </VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>ПОХОДНЫЙ XL /одеяло, размер 200х95, t -10 +7С/</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="64"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=64</url>
+            <barcode>110031410690</barcode>
+            
+            <name>ARMY SLEEP  BAG /одеяло с подголовником, размер 210х90, t -10 +15С/</name>
+            <categoryId>2</categoryId>
+            <price>3600</price>
+            <outlets>                     
+                <outlet id="1" instock="3"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/spalniki/img3092_37910.jpg</picture>
+            <VendorCode>SPR0020</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>ARMY SLEEP  BAG /одеяло с подголовником, размер 210х90, t -10 +15С/</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="65"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=65</url>
+            <barcode>110031410706</barcode>
+            
+            <name>Чехол компрессионный для спальных мешков NEW</name>
+            <categoryId>2</categoryId>
+            <price>600</price>
+            <outlets>                     
+                <outlet id="1" instock="0"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/spalniki/img3195_31426.jpg</picture>
+            <VendorCode>SPR0032-1</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>Чехол компрессионный для спальных мешков NEW</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="66"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=66</url>
+            <barcode>110026650179</barcode>
+            
+            <name>Спальный мешок Prival Camp bag плюс серый/зелёный</name>
+            <categoryId>2</categoryId>
+            <price>2320</price>
+            <outlets>                     
+                <outlet id="1" instock="0"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/img3255_76891_big.jpg</picture>
+            <VendorCode>SPR0022-1</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>Спальный мешок Prival Camp bag плюс серый/зелёный</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="67"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=67</url>
+            <barcode>110026438364</barcode>
+            
+            <name>Спальный мешок Prival Camp bag плюс синий/василек</name>
+            <categoryId>2</categoryId>
+            <price>2320</price>
+            <outlets>                     
+                <outlet id="1" instock="3"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/img3253_30414.jpg</picture>
+            <VendorCode>SPR0022-4</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>Спальный мешок Prival Camp bag плюс синий/василек</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="68"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=68</url>
+            <barcode>110026650186</barcode>
+            
+            <name>Спальный мешок Prival Camp bag плюс серый/коричневый</name>
+            <categoryId>2</categoryId>
+            <price>2320</price>
+            <outlets>                     
+                <outlet id="1" instock="3"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/img3256_23637.jpg</picture>
+            <VendorCode>SPR0022-5</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>Спальный мешок Prival Camp bag плюс серый/коричневый</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="69"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=69</url>
+            <barcode>110026650193</barcode>
+            
+            <name>Спальный мешок Prival Camp bag плюс синий/серый</name>
+            <categoryId>2</categoryId>
+            <price>2320</price>
+            <outlets>                     
+                <outlet id="1" instock="3"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/img3254_20769.jpg</picture>
+            <VendorCode>SPR0022-3</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>Спальный мешок Prival Camp bag плюс синий/серый</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="70"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=70</url>
+            <barcode>110026650209</barcode>
+            
+            <name>Спальный мешок Prival Лапландия КМФ одеяло с капюшоном</name>
+            <categoryId>2</categoryId>
+            <price>6560</price>
+            <outlets>                     
+                <outlet id="1" instock="0"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/img3252_79707.jpg</picture>
+            <VendorCode>SPR0036</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>Спальный мешок Prival Лапландия КМФ одеяло с капюшоном</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="75"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=75</url>
+            <barcode>110031410751</barcode>
+            
+            <name>Спальный мешок Prival Берлога КМФ Правый</name>
+            <categoryId>2</categoryId>
+            <price>4560</price>
+            <outlets>                     
+                <outlet id="1" instock="3"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/img8_31918.jpg</picture>
+            <VendorCode>SPR0010-R</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>Спальный мешок Prival Берлога КМФ Правый</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="76"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=76</url>
+            <barcode>110031410768</barcode>
+            
+            <name>Спальный мешок Prival Camp Bag плюс кукла</name>
+            <categoryId>2</categoryId>
+            <price>2320</price>
+            <outlets>                     
+                <outlet id="1" instock="3"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/spalniki/img3030_24750.jpg</picture>
+            <VendorCode>SPR0023-3</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>Спальный мешок Prival Camp Bag плюс кукла</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="77"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=77</url>
+            <barcode>110031410775</barcode>
+            
+            <name>Спальный мешок Prival Camp Bag плюс К2</name>
+            <categoryId>2</categoryId>
+            <price>2320</price>
+            <outlets>                     
+                <outlet id="1" instock="0"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/spalniki/img3041_15540.jpg</picture>
+            <VendorCode>SPR0023-4</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>Спальный мешок Prival Camp Bag плюс К2</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="78"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=78</url>
+            <barcode>110031410782</barcode>
+            
+            <name>Спальный мешок Prival Camp Bag плюс пиксель</name>
+            <categoryId>2</categoryId>
+            <price>2320</price>
+            <outlets>                     
+                <outlet id="1" instock="3"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/spalniki/img3028_30442.jpg</picture>
+            <VendorCode>SPR0023-1</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>Спальный мешок Prival Camp Bag плюс пиксель</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="79"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=79</url>
+            <barcode>110031410799</barcode>
+            
+            <name>Спальный мешок Prival Робинзон</name>
+            <categoryId>2</categoryId>
+            <price>2940</price>
+            <outlets>                     
+                <outlet id="1" instock="0"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/img3200_40409.jpg</picture>
+            <VendorCode>SPR0033</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>Спальный мешок Prival Робинзон</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="81"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=81</url>
+            <barcode>110026438340</barcode>
+            
+            <name>Спальный мешок Prival Camp Bag пиксель</name>
+            <categoryId>2</categoryId>
+            <price>1590</price>
+            <outlets>                     
+                <outlet id="1" instock="0"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/img3185_77081.jpg</picture>
+            <VendorCode>SPR0031-1</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>Спальный мешок Prival Camp Bag пиксель</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="82"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=82</url>
+            <barcode>110031410805</barcode>
+            
+            <name>Спальный мешок Prival Camp bag плюс питон</name>
+            <categoryId>2</categoryId>
+            <price>2320</price>
+            <outlets>                     
+                <outlet id="1" instock="0"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/spalniki/img3040_22142_big.jpg</picture>
+            <VendorCode>SPR0023-2</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>Спальный мешок Prival Camp bag плюс питон</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="43"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=43</url>
+            <barcode>110037922357</barcode>
+            
+            <name>LAIR /одеяло с капюшоном, размер 230х80, t - 10 +8С/ НОВИНКА!</name>
+            <categoryId>2</categoryId>
+            <price>3760</price>
+            <outlets>                     
+                <outlet id="1" instock="0"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/img3215_93915.jpg</picture>
+            <VendorCode>SHL0001</VendorCode>
+            <vendor>HALT</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>LAIR /одеяло с капюшоном, размер 230х80, t - 10 +8С/ НОВИНКА!</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="94"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=94</url>
+            <barcode>110036723894</barcode>
+            
+            <name>LAIR XL сп. мешок цв. голубой левый</name>
+            <categoryId>2</categoryId>
+            <price>4240</price>
+            <outlets>                     
+                <outlet id="1" instock="5"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/img3296_49768_big.jpg</picture>
+            <VendorCode>SHL0002-1-L</VendorCode>
+            <vendor>HALT</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>LAIR XL сп. мешок цв. голубой левый</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="95"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=95</url>
+            <barcode>110036723900</barcode>
+            
+            <name>LAIR XL сп. мешок цв. голубой правый</name>
+            <categoryId>2</categoryId>
+            <price>4240</price>
+            <outlets>                     
+                <outlet id="1" instock="5"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/img3296_49768_big.jpg</picture>
+            <VendorCode>SHL0002-1-R</VendorCode>
+            <vendor>HALT</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>LAIR XL сп. мешок цв. голубой правый</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="96"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=96</url>
+            <barcode>110036723917</barcode>
+            
+            <name>LAIR XL сп. мешок цв. зеленый левый</name>
+            <categoryId>2</categoryId>
+            <price>4240</price>
+            <outlets>                     
+                <outlet id="1" instock="5"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/img3298_56065_big.jpg</picture>
+            <VendorCode>SHL0002-2-L</VendorCode>
+            <vendor>HALT</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>LAIR XL сп. мешок цв. зеленый левый</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="97"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=97</url>
+            <barcode>110036723924</barcode>
+            
+            <name>LAIR XL сп. мешок цв. зеленый правый</name>
+            <categoryId>2</categoryId>
+            <price>4240</price>
+            <outlets>                     
+                <outlet id="1" instock="5"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/img3298_56065_big.jpg</picture>
+            <VendorCode>SHL0002-2-R</VendorCode>
+            <vendor>HALT</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>LAIR XL сп. мешок цв. зеленый правый</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="98"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=98</url>
+            <barcode>110036723931</barcode>
+            
+            <name>LAIR XL сп. мешок цв. коричневый левый</name>
+            <categoryId>2</categoryId>
+            <price>4240</price>
+            <outlets>                     
+                <outlet id="1" instock="5"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/img3300_10884_big.jpg</picture>
+            <VendorCode>SHL0002-3-L</VendorCode>
+            <vendor>HALT</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>LAIR XL сп. мешок цв. коричневый левый</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="99"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=99</url>
+            <barcode>110036723948</barcode>
+            
+            <name>LAIR XL сп. мешок цв. коричневый правый</name>
+            <categoryId>2</categoryId>
+            <price>4240</price>
+            <outlets>                     
+                <outlet id="1" instock="5"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/img3300_10884_big.jpg</picture>
+            <VendorCode>SHL0002-3-R</VendorCode>
+            <vendor>HALT</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>LAIR XL сп. мешок цв. коричневый правый</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="100"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=100</url>
+            <barcode>110036723955</barcode>
+            
+            <name>LAIR XL сп. мешок цв. серый левый</name>
+            <categoryId>2</categoryId>
+            <price>4240</price>
+            <outlets>                     
+                <outlet id="1" instock="5"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/img3302_95387_big.jpg</picture>
+            <VendorCode>SHL0002-4-L</VendorCode>
+            <vendor>HALT</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>LAIR XL сп. мешок цв. серый левый</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="101"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=101</url>
+            <barcode>110036723962</barcode>
+            
+            <name>LAIR XL сп. мешок цв. серый правый</name>
+            <categoryId>2</categoryId>
+            <price>4240</price>
+            <outlets>                     
+                <outlet id="1" instock="5"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/img3302_95387_big.jpg</picture>
+            <VendorCode>SHL0002-4-R</VendorCode>
+            <vendor>HALT</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>LAIR XL сп. мешок цв. серый правый</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="44"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=44</url>
+            <barcode>110037922371</barcode>
+            
+            <name>LAIR XL  /одеяло с капюшоном, размер 230х95, t - 12 +6С/ НОВИНКА!</name>
+            <categoryId>2</categoryId>
+            <price>4240</price>
+            <outlets>                     
+                <outlet id="1" instock="5"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/img3216_19135.jpg</picture>
+            <VendorCode>SHL0002</VendorCode>
+            <vendor>HALT</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>LAIR XL  /одеяло с капюшоном, размер 230х95, t - 12 +6С/ НОВИНКА!</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="102"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=102</url>
+            <barcode>110036723979</barcode>
+            
+            <name>LAIR сп. мешок цв. голубой левый</name>
+            <categoryId>2</categoryId>
+            <price>3760</price>
+            <outlets>                     
+                <outlet id="1" instock="5"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/img3304_22482_big.jpg</picture>
+            <VendorCode>SHL0001-1-L</VendorCode>
+            <vendor>HALT</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>LAIR сп. мешок цв. голубой левый</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="103"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=103</url>
+            <barcode>110036723986</barcode>
+            
+            <name>LAIR сп. мешок цв. голубой правый</name>
+            <categoryId>2</categoryId>
+            <price>3760</price>
+            <outlets>                     
+                <outlet id="1" instock="5"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/img3304_22482_big.jpg</picture>
+            <VendorCode>SHL0001-1-R</VendorCode>
+            <vendor>HALT</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>LAIR сп. мешок цв. голубой правый</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="104"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=104</url>
+            <barcode>110036723993</barcode>
+            
+            <name>LAIR сп. мешок цв. зеленый левый</name>
+            <categoryId>2</categoryId>
+            <price>3760</price>
+            <outlets>                     
+                <outlet id="1" instock="5"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/img3306_79283_big.jpg</picture>
+            <VendorCode>SHL0001-2-L</VendorCode>
+            <vendor>HALT</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>LAIR сп. мешок цв. зеленый левый</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="105"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=105</url>
+            <barcode>110036724006</barcode>
+            
+            <name>LAIR сп. мешок цв. зеленый правый</name>
+            <categoryId>2</categoryId>
+            <price>3760</price>
+            <outlets>                     
+                <outlet id="1" instock="5"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/img3306_79283_big.jpg</picture>
+            <VendorCode>SHL0001-2-R</VendorCode>
+            <vendor>HALT</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>LAIR сп. мешок цв. зеленый правый</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="106"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=106</url>
+            <barcode>110036724013</barcode>
+            
+            <name>LAIR сп. мешок цв. коричневый левый</name>
+            <categoryId>2</categoryId>
+            <price>3760</price>
+            <outlets>                     
+                <outlet id="1" instock="5"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/img3308_26419_big.jpg</picture>
+            <VendorCode>SHL0001-3-L</VendorCode>
+            <vendor>HALT</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>LAIR сп. мешок цв. коричневый левый</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="107"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=107</url>
+            <barcode>110036724020</barcode>
+            
+            <name>LAIR сп. мешок цв. коричневый правый</name>
+            <categoryId>2</categoryId>
+            <price>3760</price>
+            <outlets>                     
+                <outlet id="1" instock="5"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/img3308_26419_big.jpg</picture>
+            <VendorCode>SHL0001-3-R</VendorCode>
+            <vendor>HALT</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>LAIR сп. мешок цв. коричневый правый</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="108"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=108</url>
+            <barcode>110036724037</barcode>
+            
+            <name>LAIR сп. мешок цв. серый левый</name>
+            <categoryId>2</categoryId>
+            <price>3760</price>
+            <outlets>                     
+                <outlet id="1" instock="5"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/img3310_65134_big.jpg</picture>
+            <VendorCode>SHL0001-4-L</VendorCode>
+            <vendor>HALT</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>LAIR сп. мешок цв. серый левый</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="109"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=109</url>
+            <barcode>110036724044</barcode>
+            
+            <name>LAIR сп. мешок цв. серый правый</name>
+            <categoryId>2</categoryId>
+            <price>3760</price>
+            <outlets>                     
+                <outlet id="1" instock="5"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/img3310_65134_big.jpg</picture>
+            <VendorCode>SHL0001-4-R</VendorCode>
+            <vendor>HALT</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            <description>LAIR сп. мешок цв. серый правый</description>
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="120"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=120</url>
+            
+            
+            <name>Camp Comfort XL спальный мешок цв. K2</name>
+            <categoryId>2</categoryId>
+            <price>2690</price>
+            <outlets>                     
+                <outlet id="1" instock="3"/>                 
+            </outlets>
+            <vat>1</vat>
+            
+            <VendorCode>SPR0035-4</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="121"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=121</url>
+            
+            
+            <name>Camp Comfort XL спальный мешок цв. кукла</name>
+            <categoryId>2</categoryId>
+            <price>2690</price>
+            <outlets>                     
+                <outlet id="1" instock="3"/>                 
+            </outlets>
+            <vat>1</vat>
+            
+            <VendorCode>SPR0035-3</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="122"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=122</url>
+            
+            
+            <name>Camp Comfort XL спальный мешок цв. пиксель</name>
+            <categoryId>2</categoryId>
+            <price>2690</price>
+            <outlets>                     
+                <outlet id="1" instock="3"/>                 
+            </outlets>
+            <vat>1</vat>
+            
+            <VendorCode>SPR0035-1</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="123"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=123</url>
+            
+            
+            <name>Camp Comfort XL спальный мешок цв.хаки</name>
+            <categoryId>2</categoryId>
+            <price>2690</price>
+            <outlets>                     
+                <outlet id="1" instock="3"/>                 
+            </outlets>
+            <vat>1</vat>
+            
+            <VendorCode>SPR0035-5</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="124"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=124</url>
+            
+            
+            <name>Camp Comfort спальный мешок цв. кукла</name>
+            <categoryId>2</categoryId>
+            <price>1840</price>
+            <outlets>                     
+                <outlet id="1" instock="3"/>                 
+            </outlets>
+            <vat>1</vat>
+            
+            <VendorCode>SPR0036-3</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="125"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=125</url>
+            
+            
+            <name>СЕЛИГЕР + сп. мешок</name>
+            <categoryId>2</categoryId>
+            <price>2350</price>
+            <outlets>                     
+                <outlet id="1" instock="3"/>                 
+            </outlets>
+            <vat>1</vat>
+            
+            <VendorCode>SPR0006</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="126"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=126</url>
+            
+            
+            <name>СТЕПНОЙ XL КМФ спальный мешок левый</name>
+            <categoryId>2</categoryId>
+            <price>3520</price>
+            <outlets>                     
+                <outlet id="1" instock="3"/>                 
+            </outlets>
+            <vat>1</vat>
+            
+            <VendorCode>SPR0016-L</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="127"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=127</url>
+            
+            
+            <name>СТЕПНОЙ XL КМФ спальный мешок правый</name>
+            <categoryId>2</categoryId>
+            <price>3520</price>
+            <outlets>                     
+                <outlet id="1" instock="3"/>                 
+            </outlets>
+            <vat>1</vat>
+            
+            <VendorCode>SPR0016-R</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="128"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=128</url>
+            
+            
+            <name>ТАЕЖНЫЙ спальный мешок левый</name>
+            <categoryId>2</categoryId>
+            <price>6650</price>
+            <outlets>                     
+                <outlet id="1" instock="3"/>                 
+            </outlets>
+            <vat>1</vat>
+            
+            <VendorCode>SPR0007-L</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="129"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=129</url>
+            
+            
+            <name>ТАЕЖНЫЙ спальный мешок правый</name>
+            <categoryId>2</categoryId>
+            <price>6650</price>
+            <outlets>                     
+                <outlet id="1" instock="3"/>                 
+            </outlets>
+            <vat>1</vat>
+            
+            <VendorCode>SPR0007-R</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="130"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=130</url>
+            
+            
+            <name>STREET КД 23л хаки</name>
+            <categoryId>3</categoryId>
+            <price>3180</price>
+            <outlets>                     
+                <outlet id="1" instock="0"/>                 
+            </outlets>
+            <vat>1</vat>
+            
+            <VendorCode>RPR0070-05</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="131"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=131</url>
+            
+            
+            <name>STREET КД 23л черный</name>
+            <categoryId>3</categoryId>
+            <price>3180</price>
+            <outlets>                     
+                <outlet id="1" instock="0"/>                 
+            </outlets>
+            <vat>1</vat>
+            
+            <VendorCode>RPR0070-01</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="132"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=132</url>
+            
+            
+            <name>STREET КД 35л черный</name>
+            <categoryId>3</categoryId>
+            <price>3300</price>
+            <outlets>                     
+                <outlet id="1" instock="3"/>                 
+            </outlets>
+            <vat>1</vat>
+            
+            <VendorCode>RPR0049-01</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="133"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=133</url>
+            
+            
+            <name>Бобер 55л цифра</name>
+            <categoryId>3</categoryId>
+            <price>3900</price>
+            <outlets>                     
+                <outlet id="1" instock="0"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>http://prival-shop.ru/UserFiles/Image/img1390_14556.jpg</picture>
+            <VendorCode>RPR0004-04</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="189"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=189</url>
+            
+            
+            <name>Бобер 55л хаки</name>
+            <categoryId>3</categoryId>
+            <price>3900</price>
+            <outlets>                     
+                <outlet id="1" instock="3"/>                 
+            </outlets>
+            <vat>1</vat>
+            <picture>https://prival-shop.ru/goods/foto/bober_khaki.jpg</picture>
+            <VendorCode>RPR0004-05</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="134"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=134</url>
+            
+            
+            <name>Бобер КД 55л хаки</name>
+            <categoryId>3</categoryId>
+            <price>4470</price>
+            <outlets>                     
+                <outlet id="1" instock="3"/>                 
+            </outlets>
+            <vat>1</vat>
+            
+            <VendorCode>RPR0053-05</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+        <offer id="135"  available="true">
+            <url>https://prival-shop.ru/goods/catalog.php?op=view&amp;id=135</url>
+            
+            
+            <name>Грот 25л цифра</name>
+            <categoryId>3</categoryId>
+            <price>2970</price>
+            <outlets>                     
+                <outlet id="1" instock="0"/>                 
+            </outlets>
+            <vat>1</vat>
+            
+            <VendorCode>PRP0035-04</VendorCode>
+            <vendor>PRIVAL</vendor>
+            <currencyId>RUR</currencyId>
+            <param name="Страна изготовитель">Россия</param>
+            
+            <shipment-options>
+                <option days="2" order-before="17" />
+            </shipment-options>
+            
+                         
+        </offer>
+    </offers>
+    </shop>
+    </yml_catalog>
