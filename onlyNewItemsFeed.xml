@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE yml_catalog SYSTEM "shops.dtd"><yml_catalog date="2022-02-22 16:02:52">
+    <shop>
+        <name>Элит Кофе</name>
+        <company>ООО "Элит Кофе"</company>
+        <url>https://elitecaps.ru</url>
+        <platform>BSM/Yandex/Market</platform>
+        <version>1.1.0</version>
+        <enable_auto_discounts>true</enable_auto_discounts>
+        <categories>
+            <category id="1">Капсулы для кофемашин Nespresso®</category>
+            <category id="6" parentId="1">Коллекция Эспрессо</category>
+            <category id="11" parentId="1">Коллекция Ароматика</category>
+            <category id="15" parentId="1">Коллекция Вокруг света</category>
+            <category id="21">Капсулы для кофемашин Dolce Gusto®</category>
+            <category id="4">Свежеобжаренный кофе в зернах</category>
+            <category id="16" parentId="4">Эспрессо смеси</category>
+            <category id="17" parentId="4">Арабика моно-сорта</category>
+            <category id="18" parentId="4">Робуста моно-сорта</category>
+            <category id="22" parentId="21">Черный кофе</category>
+            <category id="23" parentId="21">Растворимые напитки</category>
+            <category id="24" parentId="21">Ароматизированный кофе</category>
+            <category id="19" parentId="4">Ароматика</category>
+        </categories>
+        <currencies>
+            <currency id="RUR" rate="1"/>
+        </currencies>
+        <offers><offer id="1310510" type="vendor.model">
+        <url>
+            https://elitecaps.ru/
+        </url>
+        <price>160</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>24</categoryId>
+        <picture>
+            http://kofegambini.ru/elte_images/0302/crema_round.jpg
+        </picture>
+        <vendor>Elite Coffee Collection</vendor>
+        <model>Капсулы для кофемашин Dolce Gusto® Crema</model>
+        <typePrefix>Капсулы для кофемашин Dolce Gusto®</typePrefix>
+        <description>
+            Cладкий и бархатистый кофе с устойчивой воздушной пенкой.Прекрасно выверенный баланс Арабики Южной Америки и Африканской Робусты позволяют по-настоящему насладиться мягким изысканным вкусом и ярким неповторимым ароматом.Рекомендованный объем готового напитка-90мл</description>
+        <param name="Название">Ароматизированный кофе</param>
+    </offer>
+    <offer id="1170110" type="vendor.model">
+        <price>160</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>15</categoryId>
+        <picture>
+            http://kofegambini.ru/img/common/arabika.png
+        </picture>
+        <vendor>Gambini</vendor>
+        <model>Кофе в капсулах Gambini Арабика</model>
+        <typePrefix>для системы Nespresso® Original</typePrefix>
+        <description>
+        Высокогорная отборная Арабика из Колумбии, Гватемалы и Бразилии. Насыщенный и глубокий вкус. Рекомендованный объем готового напитка-60мл. Капсулы совместимы с системой Nespresso Original.</description>
+        <param name="Название">Черный кофе</param>
+    </offer>
+    <offer id="1170910" type="vendor.model">
+        <price>160</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>11</categoryId>
+        <picture>
+            http://kofegambini.ru/img/common/france.png
+        </picture>
+        <vendor>Gambini</vendor>
+        <model>Кофе в капсулах Gambini Французская ваниль</model>
+        <typePrefix>для системы Nespresso® Original</typePrefix>
+        <description>
+        Сочетание отборных сортов кофе с ванильными мотивами придают напитку уникальный аромат, сочетающий в себе одновременно и горькие и сладкие нотки. 100% арабика.</description>
+        <param name="Название">Ароматизированный кофе</param>
+    </offer>
+    <offer id="1311510" type="vendor.model">
+        <url>
+            https://elitecaps.ru/
+        </url>
+        <price>160</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>24</categoryId>
+        <picture>
+            http://kofegambini.ru/elte_images/0302/chocoalmond.jpg
+        </picture>
+        <vendor>Elite Coffee Collection</vendor>
+        <model>Капсулы для кофемашин Dolce Gusto® Шоколадный миндаль</model>
+        <typePrefix>Капсулы для кофемашин Dolce Gusto®</typePrefix>
+        <description>
+            Cладкий и бархатистый кофе с устойчивой воздушной пенкой.Прекрасно выверенный баланс Арабики Южной Америки и Африканской Робусты позволяют по-настоящему насладиться мягким изысканным вкусом и ярким неповторимым ароматом.Рекомендованный объем готового напитка-90мл</description>
+        <param name="Название">Ароматизированный кофе</param>
+    </offer>
+    <offer id="1310410" type="vendor.model">
+        <url>
+            https://elitecaps.ru/
+        </url>
+        <price>160</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>24</categoryId>
+        <picture>
+            http://kofegambini.ru/elte_images/0802/lungo.jpg
+        </picture>
+        <vendor>Elite Coffee Collection</vendor>
+        <model>Капсулы для кофемашин Dolce Gusto® Lungo</model>
+        <typePrefix>Капсулы для кофемашин Dolce Gusto®</typePrefix>
+        <description>
+            Lungo– особенный кофе с насыщенным вкусом и легкой шоколадной горчинкой.Сочетание Арабики Южной и Центральной Америки с легким прикосновением Робусты рождает плотный насыщенный вкус этого бленда.Рекомендованный объем готового напитка-120мл</description>
+        <param name="Название">Ароматизированный кофе</param>
+    </offer>
+    <offer id="1170210" type="vendor.model">
+        <price>160</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>15</categoryId>
+        <picture>
+            http://kofegambini.ru/img/common/italia.png
+        </picture>
+        <vendor>Gambini</vendor>
+        <model>Кофе в капсулах Gambini Итальяно</model>
+        <typePrefix>для системы Nespresso® Original</typePrefix>
+        <description>
+        Высокогорная отборная Арабика из Индии и Бразилии с добавление высококачественной Робусты из Индии. Сбалансированный и насыщенный вкус.Рекомендованный объем готового напитка-60мл. Капсулы совместимы с системой Nespresso Original.</description>
+        <param name="Название">Черный кофе</param>
+    </offer>
+    <offer id="1170810" type="vendor.model">
+        <price>160</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>11</categoryId>
+        <picture>
+            http://kofegambini.ru/img/common/irlandia.png
+        </picture>
+        <vendor>Gambini</vendor>
+        <model>Кофе в капсулах Gambini Ирландский крем</model>
+        <typePrefix>для системы Nespresso® Original</typePrefix>
+        <description>
+        В этом уникальном десертном сорте удачно соединились вкус дорогого ирландского ликера с ароматом какао, виски и шоколада, с нежностью натуральных сливок. Все вместе они придают кофе мягкий, насыщенный и слегка кремовый вкус.Рекомендованный объем готового напитка-60мл.Капсулы совместимы с системой Nespresso Original.</description>
+        <param name="Название">Ароматизированный кофе</param>
+    </offer>
+    <offer id="1171410" type="vendor.model">
+        <price>160</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>11</categoryId>
+        <picture>
+            http://kofegambini.ru/elte_images/0802/chocoalmond.jpg
+        </picture>
+        <vendor>Gambini</vendor>
+        <model>Кофе в капсулах Gambini Шоколадный миндаль</model>
+        <typePrefix>для системы Nespresso® Original</typePrefix>
+        <description>
+        Ароматизированный кофе Шоколадный миндаль на основе 100% арабики характеризуется насыщенным и ярким вкусом, присущим высококачественной Арабике, который дополняется удивительным ароматом шоколада с нотками миндаля.Рекомендованный объем готового напитка-60мл.Капсулы совместимы с системой Nespresso Original.</description>
+        <param name="Название">Ароматизированный кофе</param>
+    </offer>
+    <offer id="1311210" type="vendor.model">
+        <url>
+            https://elitecaps.ru/
+        </url>
+        <price>160</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>24</categoryId>
+        <picture>
+            http://kofegambini.ru/elte_images/0802/creamirish.jpg
+        </picture>
+        <vendor>Elite Coffee Collection</vendor>
+        <model>Капсулы для кофемашин Dolce Gusto® Ирландский крем</model>
+        <typePrefix>Капсулы для кофемашин Dolce Gusto®</typePrefix>
+        <description>
+        Ароматизированный кофе Шоколадный миндаль на основе 100% арабики характеризуется насыщенным и ярким вкусом, присущим высококачественной Арабике, который дополняется удивительным ароматом шоколада с нотками миндаля.Рекомендованный объем готового напитка-60мл.Капсулы совместимы с системой Nespresso Original.</description>
+        <param name="Название">Ароматизированный кофе</param>
+    </offer>
+    <offer id="1311410" type="vendor.model">
+        <url>
+            https://elitecaps.ru/
+        </url>
+        <price>160</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>24</categoryId>
+        <picture>
+            http://kofegambini.ru/elte_images/0802/french.jpg
+        </picture>
+        <vendor>Elite Coffee Collection</vendor>
+        <model>Капсулы для кофемашин Dolce Gusto® Французская ваниль</model>
+        <typePrefix>Капсулы для кофемашин Dolce Gusto®</typePrefix>
+        <description>
+        Аромат французской ванили уже стал практически классическим для ароматизированных сортов кофе и занял достойное место среди самых известных сортов. Сочетание отборных сортов кофе с ванильными мотивами придают напитку уникальный аромат, сочетающий в себе одновременно и горькие и сладкие нотки.Рекомендованный объем готового напитка-60мл.</description>
+        <param name="Название">Ароматизированный кофе</param>
+    </offer>
+
+
+
+</offers></shop></yml_catalog>
