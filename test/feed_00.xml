@@ -274,10 +274,9 @@
     <param name="ISBN">9780359310449</param>
     <param name="Количество страниц">88</param>
     <param name="Язык текста">Русский</param>
-    <param name="Weight">153</param>
-    <param name="Width">70</param>
-    <param name="Length">250</param>
-    <param name="Height">180</param>
+    <param name="Ширина">70</param>
+    <param name="Длинна">250</param>
+    <param name="Высота">180</param>
    </offer>
   </offers>
  </shop>
