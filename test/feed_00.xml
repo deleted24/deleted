@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2022-07-05 03:09">
+ <shop>
+  <name>Т 8</name>
+  <company>АО &quot;Т 8&quot;</company>
+  <url>http://t8group.ru</url>
+  <currencies>
+   <currency id="RUB" rate="1"/>
+  </currencies>
+  <categories>
+   <category id="140101010101">Бестселлеры</category>
+   <category id="140102010101">Отечественная классическая проза</category>
+   <category id="2463684633818098">Зарубежная классическая проза</category>
+   <category id="140102020101">Космос</category>
+   <category id="140102020102">Постапокалипсис</category>
+   <category id="140102020103">Научные</category>
+   <category id="140102020104">Боевики</category>
+   <category id="140102020105">Антиутопия</category>
+   <category id="140102020106">Мистика, магия</category>
+   <category id="140102030101">психологические</category>
+   <category id="140102030102">криминальные</category>
+   <category id="140102030103">исторические</category>
+   <category id="140102030104">боевики</category>
+   <category id="140102030105">любовные</category>
+   <category id="140102030106">шпионские</category>
+   <category id="140102030107">иронические</category>
+   <category id="140102040101">Поэзия</category>
+   <category id="140102050101">Сентиментальная проза</category>
+   <category id="140102060101">Современная отечественная проза</category>
+   <category id="2463684633818099">Современная зарубежная проза</category>
+   <category id="140102070101">Эпос и фольклор</category>
+   <category id="140102080101">Литература на иностранных языках</category>
+   <category id="140103010101">Познаем мир</category>
+   <category id="140103010102">Развитие речи</category>
+   <category id="140103010103">Математика</category>
+   <category id="140103010104">Обучающие игры</category>
+   <category id="140103020101">Книги с наклейками</category>
+   <category id="140103020102">Музыкальные книги</category>
+   <category id="140103020103">Интерактивные книги</category>
+   <category id="140103020104">Панорамки</category>
+   <category id="140103020105">Потешки, скороговорки, загадки</category>
+   <category id="140103030101">Учимся читать, азбуки</category>
+   <category id="140103030102">Учимся писать, прописи</category>
+   <category id="140103030103">Книги для развития мышления</category>
+   <category id="140103030104">Викторины и головоломки</category>
+   <category id="140103030105">Иностранные языки</category>
+   <category id="140103030106">Обучающие игры для дошкольников</category>
+   <category id="140103030107">Хрестоматии</category>
+   <category id="140103040101">Сказки</category>
+   <category id="140103040102">Детские детективы</category>
+   <category id="140103040103">Детские фэнтези и фантастика</category>
+   <category id="140103040104">Рассказы и повести</category>
+   <category id="140103040105">Стихи</category>
+   <category id="140103040106">Комиксы для детей</category>
+   <category id="140103050101">Космос</category>
+   <category id="140103050102">Тело человека</category>
+   <category id="140103050103">Животные и растения</category>
+   <category id="140103050104">Универсальные энциклопедии</category>
+   <category id="140103050105">Наука и техника</category>
+   <category id="140103050106">История</category>
+   <category id="140103050107">Планета Земля</category>
+   <category id="140103050201">Хобби, спорт, досуг</category>
+   <category id="140103050301">Религиозная литература для детей</category>
+   <category id="140103050401">Этикет, гигиена, безопасность</category>
+   <category id="2463684633818105">Раскраски</category>
+   <category id="140104010101">Физика и астрономия</category>
+   <category id="140104010102">Химия</category>
+   <category id="140104010103">Математика</category>
+   <category id="140104010104">Биология</category>
+   <category id="140104010106">Психология</category>
+   <category id="140104010107">Философия</category>
+   <category id="140104010108">Педагогика</category>
+   <category id="140104010109">История</category>
+   <category id="140104010110">Филология</category>
+   <category id="140104010111">Социология</category>
+   <category id="140104010112">Политология</category>
+   <category id="140104010113">Право</category>
+   <category id="140104010114">Военное дело</category>
+   <category id="2463684633817749">Современная наука</category>
+   <category id="140105010101">Книги о путешествиях</category>
+   <category id="140105010102">Атласы и карты</category>
+   <category id="140105010103">Путеводители</category>
+   <category id="140106010101">Ислам</category>
+   <category id="140106010102">Религии мира</category>
+   <category id="140106010103">Религиоведение</category>
+   <category id="140106010104">Христианство</category>
+   <category id="140107010101">Астрология и гороскопы</category>
+   <category id="140107010201">Гадание и карты Таро</category>
+   <category id="140107010301">Магия</category>
+   <category id="140107010401">Сонники</category>
+   <category id="140107010501">Тайны и загадки</category>
+   <category id="140107010601">Эзотерические знания</category>
+   <category id="140108010101">инновационный менеджмент</category>
+   <category id="140108010102">менеджиент организаций</category>
+   <category id="140108010103">основы менеджента</category>
+   <category id="140108010104">стратегический менеджмент</category>
+   <category id="140108010105">Тайм-менеджмент</category>
+   <category id="140108010106">финансовые менеджмент</category>
+   <category id="140108030101">Интернет маркетинг</category>
+   <category id="140108030102">Реклама</category>
+   <category id="140108030103">SMM</category>
+   <category id="140108030104">Основы меркетинга</category>
+   <category id="140108030105">Брендинг</category>
+   <category id="140108020101">Промышленный маркетинг</category>
+   <category id="140108040101">Техника продаж</category>
+   <category id="140108040102">Розничная торговля</category>
+   <category id="140108040103">Интернет торговля</category>
+   <category id="140108040104">Закупки и логистика</category>
+   <category id="140108050101">Бухгалтерский учет</category>
+   <category id="140108050102">Налогообложение</category>
+   <category id="140108050103">Финансовый аудит</category>
+   <category id="140108060101">Делопроизводство</category>
+   <category id="140108060102">Подбор и управление персоналом</category>
+   <category id="140108060103">Карьера</category>
+   <category id="140108070101">История экономики</category>
+   <category id="140108070102">Мировая экономика</category>
+   <category id="140108070103">Экономика предприятий</category>
+   <category id="140108070104">Экономическая теория</category>
+   <category id="140108080101">Финансовый рынок</category>
+   <category id="140108080102">Управления финансами</category>
+   <category id="140108080103">Инвестирование</category>
+   <category id="140108080104">Трейдинг</category>
+   <category id="140108090101">Ведение переговоров</category>
+   <category id="140108090102">Искусство убеждения</category>
+   <category id="140108090103">Публичные выступления</category>
+   <category id="140108090104">Развитие красоречия</category>
+   <category id="140108100101">Лидерство</category>
+   <category id="140108100102">Психология руководителей</category>
+   <category id="140108100103">Мотивация</category>
+   <category id="140108110101">Старапы</category>
+   <category id="140108110102">Истории успеха</category>
+   <category id="140109010101">Популярная медицина</category>
+   <category id="140109010102">Специальная медицина</category>
+   <category id="140109010103">Анатомия человека</category>
+   <category id="140109010104">Великие люди медицины</category>
+   <category id="140109010105">Медицинские энциклопедии и справочники</category>
+   <category id="140109010106">Фармакология</category>
+   <category id="140109010107">Секс и камасутра</category>
+   <category id="140109020101">Мода и стиль</category>
+   <category id="140109020102">Макияж и уход</category>
+   <category id="140109030101">Правильное питание</category>
+   <category id="140109030102">Спортивное питание</category>
+   <category id="140109030103">Диеты для похудения</category>
+   <category id="140109040101">Виды спорта</category>
+   <category id="140109040102">Виды единоборств</category>
+   <category id="140109040103">История спорта</category>
+   <category id="140109040104">Спортивные стратегии</category>
+   <category id="140109040105">Биографии спортсменов</category>
+   <category id="140109050101">Фитнес</category>
+   <category id="140109050103">Йога</category>
+   <category id="140110010101">Культурология</category>
+   <category id="140110010201">Искусствоведение</category>
+   <category id="140110020101">Дизайн интерьера</category>
+   <category id="140110020102">Графический дизайн</category>
+   <category id="140110020103">Ландшафтный дизайн</category>
+   <category id="140110020104">Промышленный дизайн</category>
+   <category id="2463684633818100">Основы дизайна</category>
+   <category id="2463684633818102">Леттеринг</category>
+   <category id="140110030101">Основы архитектуры</category>
+   <category id="140110030102">Градостроительство</category>
+   <category id="140110030103">История архитектуры</category>
+   <category id="140110030104">Здания и сооружения</category>
+   <category id="140110040101">История живописи и графики</category>
+   <category id="140110040102">Шедевры живописи и графики</category>
+   <category id="140110040103">Стили и направления</category>
+   <category id="140110040104">Художники</category>
+   <category id="140110050101">История скульптуры</category>
+   <category id="140110050102">Шедевры скульптуры</category>
+   <category id="140110060101">История фотографии</category>
+   <category id="140110060102">Руководства по фотосъемке</category>
+   <category id="140110060103">Шедевры фотографии</category>
+   <category id="140110060104">Известные фотографы</category>
+   <category id="140110070101">Искусство кино</category>
+   <category id="140110070102">Искусство театра</category>
+   <category id="140110070103">Актерское мастерство</category>
+   <category id="140110080101">История музыки</category>
+   <category id="140110080102">Основы музыки</category>
+   <category id="140110080103">Музыканты</category>
+   <category id="140110090101">История моды</category>
+   <category id="140110090102">Дизайнеры</category>
+   <category id="140111010101">Кулинарные рецепты</category>
+   <category id="140111010102">Напитки</category>
+   <category id="140111010103">Книги для записи рецептов</category>
+   <category id="140111020101">Охота и рыбалка</category>
+   <category id="140111020103">Собирательство</category>
+   <category id="140111030101">Книги по рукоделию</category>
+   <category id="140111030102">Вязание и шитьё</category>
+   <category id="140111040101">Ремонт, внутренние отделочные работы</category>
+   <category id="140111040102">Строительство</category>
+   <category id="140111050101">Аквариум, террариумы</category>
+   <category id="140111050102">Кошки</category>
+   <category id="140111050103">Собаки</category>
+   <category id="140111050104">Птицы</category>
+   <category id="140111050105">Другие виды животных</category>
+   <category id="140111060101">Организация праздников</category>
+   <category id="140111060102">Сборники тостов, поздравлений</category>
+   <category id="140111060103">Сборники песен</category>
+   <category id="140111060104">Кроссворды, скандворды, головоломки, игры</category>
+   <category id="140111070101">Комнатные растения</category>
+   <category id="140111070102">Овощи, фрукты, ягоды</category>
+   <category id="140111070103">Энциклопедии садовода и огородника</category>
+   <category id="140111080101">Марки</category>
+   <category id="140111080102">Монеты и банкноты</category>
+   <category id="140111080103">Ордена и медали</category>
+   <category id="140111080104">Оружие</category>
+   <category id="140111080105">Другие виды коллекционирования</category>
+   <category id="140112010101">Подготовка к ЕГЭ</category>
+   <category id="140112020101">Подготовка к ОГЭ</category>
+   <category id="140112030101">Школьные учебники</category>
+   <category id="2463684633818209">Справочники и сборники задач</category>
+   <category id="140112040101">Демонстрационные материалы</category>
+   <category id="140112040102">Дошкольное обучение</category>
+   <category id="140112040103">Коррекционная педагогика</category>
+   <category id="2463684633818211">Методические пособия</category>
+   <category id="140112050101">Двуязычные  словари</category>
+   <category id="140112050102">Разговорники</category>
+   <category id="140112050103">Словари русского языка</category>
+   <category id="140112050104">Словари на иностранных языках</category>
+   <category id="140112060101">Подготовка в ВУЗ</category>
+   <category id="140112060102">Учебники для ВУЗов</category>
+   <category id="140112060103">Вспомогательные материалы для студентов</category>
+   <category id="140112070101">Игра на музыкальных инструментах</category>
+   <category id="140112070102">Шашки и шахматы</category>
+   <category id="140112070103">Языки</category>
+   <category id="140112070104">Компьютерные программы и программирование</category>
+   <category id="140112070105">Хобби и творчество</category>
+   <category id="2463684633818101">Рисование</category>
+   <category id="140112080101">Иностранные языки</category>
+   <category id="140112090101">Универсальные энциклопедии</category>
+   <category id="140112100101">ПДД</category>
+   <category id="140113010101">Артбуки</category>
+   <category id="140113010102">Комиксы</category>
+   <category id="140113010103">Комиксы для детей</category>
+   <category id="140113010104">Манга</category>
+   <category id="140114010101">Журнал</category>
+   <category id="140114010102">Газета</category>
+   <category id="140115010101">Детская литература</category>
+   <category id="140115010102">Художественная литература</category>
+   <category id="140115010103">Нехудожественная литература</category>
+   <category id="2463684633817732">Альбомы для новорожденных</category>
+   <category id="2463684633817735">Беременность и роды</category>
+   <category id="2463684633817738">Детская психология и здоровье</category>
+   <category id="2463684633817747">Биографии и мемуары</category>
+   <category id="2463684633817748">Письма, эссе, интервью</category>
+  </categories>
+  <offers>
+   <offer id="10806253" type="book" available="true">
+    <name>Нимфа-Дриада</name>
+    <price>1819.00</price>
+    <categoryId>140102040101</categoryId>
+    <picture>http://f.letmeprint.ru/258222203-675cb12e/preview_10806253_907x0.jpg</picture>
+    <vat>1</vat>
+    <shipment-options>
+     <option days="1" order-before="11"/>
+    </shipment-options>
+    <description>Мир волшебства перекликающийся с мифологическими существами. Главная героиня книги нимфа - дриада Эрфира. Ей
+
+совместно с друзьями предстоит пройти испытания для поиска истинной любви и...
+
+Удаётся ли им пройти испытания? Что они приобретут после
+
+этого? Какие приключения и опасности ждут их?</description>
+    <barcode>9780359310449</barcode>
+    <outlets>
+     <outlet id="0" instock="1000"/>
+    </outlets>
+    <param name="Год изданияи">2021</param>
+    <param name="Возрастное ограничение">14+</param>
+    <param name="Вес">153</param>
+    <param name="Формат">15x23</param>
+    <param name="Издательство">Blurb</param>
+    <param name="Тип обложки">мягкая обложка</param>
+    <param name="Автор">Токарева О.В.</param>
+    <param name="ISBN">9780359310449</param>
+    <param name="Количество страниц">88</param>
+    <param name="Язык текста">Русский</param>
+    <param name="Weight">153</param>
+    <param name="Width">70</param>
+    <param name="Length">250</param>
+    <param name="Height">180</param>
+   </offer>
+  </offers>
+ </shop>
+</yml_catalog>
