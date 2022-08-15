@@ -1,0 +1,2335 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE yml_catalog
+  SYSTEM 'shops.dtd'>
+<yml_catalog date="2022-08-15T13:50:08+03:00">
+	<shop>
+		<name>GooodsBuy</name>
+		<company>ИП Дзивалковский</company>
+		<url>https://gooodsbuy.com</url>
+		<platform>BSM/Yandex/Market</platform>
+		<version>2.2.5</version>
+		<cpa>1</cpa>
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		<categories>
+			<category id="278">Одежда, аксессуары</category>
+			<category id="279" parentId="278">Женская одежда</category>
+			<category id="371" parentId="279">Брюки, шорты, юбки</category>
+			<category id="280" parentId="279">Сумки, обувь</category>
+			<category id="372" parentId="279">Футболки, поло</category>
+			<category id="281" parentId="278">Мужская одежда</category>
+			<category id="373" parentId="281">Брюки, шорты</category>
+			<category id="377" parentId="281">Верхняя одежда</category>
+			<category id="374" parentId="281">Футболки, майки</category>
+			<category id="283" parentId="278">Детская одежда</category>
+			<category id="375" parentId="283">Брюки, шорты, юбки</category>
+			<category id="378" parentId="283">Шапки</category>
+			<category id="360" parentId="278">Спортивный инвентарь</category>
+			<category id="361" parentId="360">Очки для плавания</category>
+			<category id="285">Электроника</category>
+			<category id="286" parentId="285">Аксессуары для мобильных телефонов</category>
+			<category id="287" parentId="286">Чехлы, стекла, шнуры</category>
+			<category id="289">Бижутерия и ювелирные изделия</category>
+			<category id="291">Бытовая химия</category>
+			<category id="292" parentId="291">Личная гигиена</category>
+			<category id="293">Продукты питания</category>
+			<category id="294" parentId="293">Напитки</category>
+			<category id="366" parentId="294">Чай,кофе</category>
+			<category id="295" parentId="293">Кондитерские изделия</category>
+			<category id="367" parentId="295">Освежающие конфеты, пастилки</category>
+			<category id="368" parentId="295">Хлебцы, снэки</category>
+			<category id="297" parentId="293">Бакалея</category>
+			<category id="370" parentId="297">Консервы, соусы</category>
+			<category id="300" parentId="370">Овощные</category>
+			<category id="301" parentId="370">Рыбные</category>
+			<category id="335" parentId="370">Оливки, грибы</category>
+			<category id="336" parentId="370">Соусы, томатная паста</category>
+			<category id="298" parentId="297">Крупы, злаковые, хлопья</category>
+			<category id="299" parentId="297">Макаронные изделия</category>
+		</categories>
+		<enable_auto_discounts>true</enable_auto_discounts>
+		<offers>
+			<offer id="1809" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/zhenskaya_odezhda/futbolki_polo/1809/</url>
+				<price>2625</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>372</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/733/frax835qiqfdow5wa8waz9zi6r2u6ml5.JPG</picture>
+				<vendor>UNDER ARMOUR</vendor>
+				<model>Майка с длинным рукавом Under Armour фиолетовая с надписью BANDITS 19, р.S/ М</model>
+				<outlets>
+					<outlet id="18176" instock="1"/>
+				</outlets>
+			</offer>
+			<offer id="1810" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/produkty_pitaniya/konditerskie_izdeliya/osvezhayushchie_konfety_pastilki/1810/</url>
+				<price>295.2</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>367</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/b1d/4sl4c4wem2h5qcq3jrp0ixcu7w656ry1.jpg</picture>
+				<vendor>+2F</vendor>
+				<model>Полоски для свежести дыхания +2F. Вкус Клубника(12шт/упак)</model>
+				<outlets>
+					<outlet id="18176" instock="1"/>
+				</outlets>
+			</offer>
+			<offer id="1812" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/produkty_pitaniya/konditerskie_izdeliya/osvezhayushchie_konfety_pastilki/1812/</url>
+				<price>295.2</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>367</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/1d3/hqfu3vb3yi1qv5el1w2fsvl8s18yf1i3.jpg</picture>
+				<vendor>Fuwei</vendor>
+				<model>Полоски для свежести дыхания +2F. Вкус Перечная мята(12шт/упак)</model>
+				<outlets>
+					<outlet id="18176" instock="1"/>
+				</outlets>
+			</offer>
+			<offer id="1813" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/bytovaya_khimiya/lichnaya_gigiena/1813/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>292</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/b62/y6lg2c3sofdyd1qti4xojm1sl10aqgxz.jpg</picture>
+				<vendor>+2F</vendor>
+				<model>Гигиенический набор для путешествий Travel Comfort №1</model>
+				<outlets>
+					<outlet id="18176" instock="1"/>
+				</outlets>
+			</offer>
+			<offer id="1816" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/produkty_pitaniya/bakaleya/konservy_sousy/ovoshchnye/1816/</url>
+				<price>119.2</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>300</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/61c/mdl96s3kjbnjaviuy612ohu26plscon9.png</picture>
+				<vendor>SANTORO</vendor>
+				<model>SANTORO Соус вегетарианский с перцами 212мл/180гр</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="1823" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/zhenskaya_odezhda/futbolki_polo/1823/</url>
+				<price>2625</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>372</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/db7/hti33h8ak3sg1tcmyw4aqf7p95djusx4.jpg</picture>
+				<vendor>UNDER ARMOUR</vendor>
+				<model>Футболка спортивная женская UNDER ARMOUR, синяя с надписью Auburn, размер M</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="1827" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/elektronika/aksessuary_dlya_mobilnykh_telefonov/chekhly_stekla_shnury/1827/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>287</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/146/2u8a2njojneyripdk6ob775ibn8xzwrv.jpg</picture>
+				<vendor>App.ori</vendor>
+				<model>Чехол силиконовый для iPhone Xs Max</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="1830" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/zhenskaya_odezhda/sumki_obuv/1830/</url>
+				<price>999</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>280</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/ccb/8dm73r7rsqaxbmzjgkrv0f3313adbtdk.jpg</picture>
+				<vendor>GoodsBuy</vendor>
+				<model>Рюкзак молодежный Авокадо-желтый Godspeed (Dulu Ge)</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="1831" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/zhenskaya_odezhda/sumki_obuv/1831/</url>
+				<price>999</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>280</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/3b3/lkrir5435m5jgevy2y7ia4jzeyx236ao.jpg</picture>
+				<vendor>GoodsBuy</vendor>
+				<model>Рюкзак молодежный Авокадо-зеленый Godspeed (Dulu Ge)</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="1832" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/zhenskaya_odezhda/sumki_obuv/1832/</url>
+				<price>999</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>280</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/653/h6vephb0hcz2xaok1ltwt93dxpmvldey.jpg</picture>
+				<vendor>GoodsBuy</vendor>
+				<model>Рюкзак молодежный Коты Godspeed (Gfiea)</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="1835" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/produkty_pitaniya/napitki/chay_kofe/1835/</url>
+				<price>248.8</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>366</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/6ba/4jc143daydmj9ewspmrsjanaa14z54gl.jpg</picture>
+				<vendor>Чай в большом городе</vendor>
+				<model>Чай &quot;Пуэр&quot; порционный в бумажном стаканчике, 250 мл. 16 стакан/уп</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="1836" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/produkty_pitaniya/napitki/chay_kofe/1836/</url>
+				<price>248.8</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>366</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/316/jkrp3ecrakczri4x312gkc1yo0frldma.png</picture>
+				<vendor>Чай в большом городе</vendor>
+				<model>Чай &quot;Молочный улун&quot; порционный, в бумажном стаканчике, 250 мл 16стак/уп</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="1837" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/produkty_pitaniya/napitki/chay_kofe/1837/</url>
+				<price>248.8</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>366</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/e96/mzpiwn9o2ivjpk1ruit10b75aoexq13g.jpg</picture>
+				<vendor>Чай в большом городе</vendor>
+				<model>Чай &quot;Зеленый с жасмином&quot; порционный в бумажном стаканчике, 250 мл. 16 стакан/упак</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="1839" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/produkty_pitaniya/napitki/chay_kofe/1839/</url>
+				<price>279.2</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>366</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/012/rc76pxpymer80bc7soqw6vt5vqnun6v9.jpg</picture>
+				<vendor>Чай в большом городе</vendor>
+				<model>Кофе &quot;по-бразильски&quot; порционный, в бумажном стаканчике, 250 мл, 14 стакан/упак</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="1847" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/detskaya_odezhda/shapki_/1847/</url>
+				<price>420</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>378</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/0fa/72d0nykkve05hbvgxm5kfx38g62m4d6z.jpg</picture>
+				<vendor>ARCTIC PAW</vendor>
+				<model>Комплект детская шапка и варежки д/девочек, красная с оленем, р.2-4г</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="1858" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/zhenskaya_odezhda/bryuki_shorty_yubki/1858/</url>
+				<price>1875</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>371</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/7eb/o2bv4aah51kesh7usf5zn5vakw2q9klq.jpg</picture>
+				<vendor>UNDER ARMOUR</vendor>
+				<model>Шорты спортивные женские Under Armour, синие с белыми вставками Notre Dame, размер S-M</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="1865" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/zhenskaya_odezhda/futbolki_polo/1865/</url>
+				<price>2625</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>372</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/860/n2piqlrzop5lrjxc56znzvk2zvz4w8j1.JPG</picture>
+				<vendor>UNDER ARMOUR</vendor>
+				<model>Футболка спортивная женская UNDER ARMOUR, черная с надписью Maryland, размер S/M</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="1868" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/zhenskaya_odezhda/futbolki_polo/1868/</url>
+				<price>2625</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>372</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/574/923w66iayktv72q26tyf7eyv7ouuc2c8.JPG</picture>
+				<vendor>UNDER ARMOUR</vendor>
+				<model>Майка тренировочная женская UNDER ARMOUR  с длинным рукавом, красная &quot;U&quot;, размер S-M</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="1869" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/zhenskaya_odezhda/futbolki_polo/1869/</url>
+				<price>2625</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>372</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/87f/k4hw1le51kcm1a5y9clagpumnn22d6ij.JPG</picture>
+				<vendor>UNDER ARMOUR</vendor>
+				<model>Майка тренировочная женская UNDER ARMOUR  с длинным рукавом, красная Maryland , размер S-M</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="1870" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/zhenskaya_odezhda/futbolki_polo/1870/</url>
+				<price>2625</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>372</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/71d/yiujo1qqf5sw0033xwea1oihlcv35dsa.jpg</picture>
+				<vendor>UNDER ARMOUR</vendor>
+				<model>Майка тренировочная женская UNDER ARMOUR  с длинным рукавом, бордо California, размер M</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="1871" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/zhenskaya_odezhda/futbolki_polo/1871/</url>
+				<price>2625</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>372</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/ce6/6an8j85h028oykha4ijargqfw5mtxh6d.JPG</picture>
+				<vendor>UNDER ARMOUR</vendor>
+				<model>Майка тренировочная женская UNDER ARMOUR  с длинным рукавом, красная UTAN, размер S-M</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="1873" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/zhenskaya_odezhda/futbolki_polo/1873/</url>
+				<price>2625</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>372</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/313/vfkgkr7dv03gvvyx2ak55fz0gap18aaz.JPG</picture>
+				<vendor>UNDER ARMOUR</vendor>
+				<model>Майка тренировочная женская UNDER ARMOUR  с длинным рукавом, красная, размер S-M</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="1874" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/produkty_pitaniya/bakaleya/konservy_sousy/1874/</url>
+				<price>103.2</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>370</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/b94/8hcnuvxdyenw57r0jbupp5ioon0cvarb.png</picture>
+				<vendor>MAYUMI</vendor>
+				<model>Соус соевый &quot;Легкий&quot; MAYUMI, стекл/бут, 150мл/24</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="1875" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/zhenskaya_odezhda/futbolki_polo/1875/</url>
+				<price>2625</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>372</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/77c/656xdeertoyfs1wm60eushltdk7qzj6z.JPG</picture>
+				<vendor>UNDER ARMOUR</vendor>
+				<model>Майка с длинным рукавом Under Armour синяя с надписью California 19, р. М</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="1876" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/zhenskaya_odezhda/futbolki_polo/1876/</url>
+				<price>2250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>372</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/3aa/y846p0n9tgb5cg5yot8n3vu15duia72j.jpg</picture>
+				<vendor>UNDER ARMOUR</vendor>
+				<model>Майка спортивная женская UNDER ARMOUR без рукавов, синяя надписью Notre Dame, размер L/G</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="1877" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/zhenskaya_odezhda/futbolki_polo/1877/</url>
+				<price>1687.5</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>372</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/e5a/31ujrs77qy3sdsb92u7jrbk9ahrkgf68.jpg</picture>
+				<vendor>UNDER ARMOUR</vendor>
+				<model>Майка спортивная женская UNDER ARMOUR без рукавов, белая с надписью Cincinnatt, размер M</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="1878" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/zhenskaya_odezhda/futbolki_polo/1878/</url>
+				<price>2250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>372</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/568/6xhhsifjyp8r29e11jjae1co9oz4ck7n.jpg</picture>
+				<vendor>UNDER ARMOUR</vendor>
+				<model>Майка спортивная женская UNDER ARMOUR без рукавов, красная с надписью St.Johns, размер S</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="1879" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/zhenskaya_odezhda/futbolki_polo/1879/</url>
+				<price>2250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>372</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/aef/h9jq2ezcutb2pr361s10ae2nqiwkv1dl.JPG</picture>
+				<vendor>UNDER ARMOUR</vendor>
+				<model>Майка спортивная женская UNDER ARMOUR без рукавов, белая с надписью CAL 12, размер S-M</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="1882" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/zhenskaya_odezhda/futbolki_polo/1882/</url>
+				<price>2625</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>372</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/041/c7zoofpvltyseoqta8s1c7w2axsnk6ib.JPG</picture>
+				<vendor>NIKE</vendor>
+				<model>Майка с коротким рукавом NIKE голубая с белым, р.М</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="1886" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/zhenskaya_odezhda/futbolki_polo/1886/</url>
+				<price>1687.5</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>372</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/c80/jxqln4h9f0q97mtnexi4xum8gl73yvv3.JPG</picture>
+				<vendor>UNDER ARMOUR</vendor>
+				<model>Майка без рукавов двусторонняя Under Armour синяя с бел SETON HALL 32, р.L/G</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="1887" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/zhenskaya_odezhda/futbolki_polo/1887/</url>
+				<price>1200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>372</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/0fc/w003b5uykuz1thn368ms5sms5t4jjq26.jpg</picture>
+				<vendor>NIKE</vendor>
+				<model>Майка без рукавов баскетболн.двусторонняя NIKE синяя/желтая CRABS LACROSSE, р.L/G</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="1891" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/zhenskaya_odezhda/futbolki_polo/1891/</url>
+				<price>1687.5</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>372</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/d71/kh7rqml641dj60acbzyuw5392fbdpxh4.jpg</picture>
+				<vendor>NIKE</vendor>
+				<model>Майка без рукавов NIKE красная с надписью син VIRGINIA 00, р.M</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="1892" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/zhenskaya_odezhda/futbolki_polo/1892/</url>
+				<price>2250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>372</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/1bd/sp69z436f6vpsejvbw344njh8bqvy7u4.JPG</picture>
+				<vendor>UNDER ARMOUR</vendor>
+				<model>Майка без рукавов Under Armour синяя с бел SETON HALL 30, р.M</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="1893" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/zhenskaya_odezhda/futbolki_polo/1893/</url>
+				<price>1687.5</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>372</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/2ef/kjygnaa4okg09ya9vwxs4aclo9exvmic.jpg</picture>
+				<vendor>NIKE</vendor>
+				<model>Майка без рукавов NIKE бордо с надписью USC 17, р.M</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="1894" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/zhenskaya_odezhda/futbolki_polo/1894/</url>
+				<price>1687.5</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>372</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/f7b/1ifzrzrpri37z833n60x7khoq3217jv6.jpg</picture>
+				<vendor>NIKE</vendor>
+				<model>Майка без рукавов NIKE черная надписью STANFORD 32, р.M</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="1895" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/zhenskaya_odezhda/futbolki_polo/1895/</url>
+				<price>2250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>372</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/79b/i8finove1uo6k4kalvg2ib0ix1qh7kfz.JPG</picture>
+				<vendor>UNDER ARMOUR</vendor>
+				<model>Майка без рукавов Under Armour серая с надписью LOYOLA , р.S/M</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="1896" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/zhenskaya_odezhda/futbolki_polo/1896/</url>
+				<price>2250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>372</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/94d/kapxni3fschf5o39dd8ozdpdj6mt1l7g.JPG</picture>
+				<vendor>UNDER ARMOUR</vendor>
+				<model>Майка без рукавов Under Armour синяя с надписью SJOHN'S 3 , р.L/G</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="1897" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/zhenskaya_odezhda/futbolki_polo/1897/</url>
+				<price>1687.5</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>372</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/b5a/jjl8897n983na6t7h82c9wwv6ajhzt5j.jpg</picture>
+				<vendor>UNDER ARMOUR</vendor>
+				<model>Майка без рукавов Under Armour красная с надписью MARYLAND 13, р.L/G</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="1898" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/zhenskaya_odezhda/futbolki_polo/1898/</url>
+				<price>1687.5</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>372</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/7c5/g8mgibg89swfbpen28s7u6tk9ud9eb2o.jpg</picture>
+				<vendor>UNDER ARMOUR</vendor>
+				<model>Майка без рукавов Under Armour черная х/б, р.L/G</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="1900" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/zhenskaya_odezhda/futbolki_polo/1900/</url>
+				<price>1687.5</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>372</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/0ab/4gco8as0nne8kau6f13pmjwfsdd6fayd.jpg</picture>
+				<vendor>UNDER ARMOUR</vendor>
+				<model>Майка без рукавов Under Armour серая х/б, р.M</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="1901" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/zhenskaya_odezhda/futbolki_polo/1901/</url>
+				<price>1687.5</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>372</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/482/s84xwxqzpnz9n3b3bcedkl9deg7np1b7.jpg</picture>
+				<vendor>UNDER ARMOUR</vendor>
+				<model>Майка без рукавов Under Armour синяя/белая двусторон NOTRE DAME 31, р.S/M</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="1903" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/zhenskaya_odezhda/futbolki_polo/1903/</url>
+				<price>1687.5</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>372</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/b1f/rj3hmz2n7o39k92ph7xqexasv3zz9vnl.jpg</picture>
+				<vendor>NIKE</vendor>
+				<model>Майка без рукавов NIKE красная надписью GEORGIA 00, р.M</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="1905" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/zhenskaya_odezhda/futbolki_polo/1905/</url>
+				<price>2250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>372</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/0b8/epoa7ni85l9larc9u618bex64ubjq6au.JPG</picture>
+				<vendor>UNDER ARMOUR</vendor>
+				<model>Майка без рукавов Under Armour белая с синим NOTRE DAME, р.S/M</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="1907" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/zhenskaya_odezhda/futbolki_polo/1907/</url>
+				<price>2625</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>372</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/701/fwx8ksbwzheh7xngvc8ncdx7pcry7lll.JPG</picture>
+				<vendor>UNDER ARMOUR</vendor>
+				<model>Майка с длинным рукавом Under Armour красная с надписью DAVIDSON, р. М</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="1908" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/zhenskaya_odezhda/sumki_obuv/1908/</url>
+				<price>3000</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>280</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/287/jmig674f3vnf643nr7xnhda1s1r7eyn2.jpg</picture>
+				<vendor>Christian Lacroix</vendor>
+				<model>Женская сумка-тоут Christian LaCroix Margaux большая черная с полосатой вставкой</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="1909" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/zhenskaya_odezhda/sumki_obuv/1909/</url>
+				<price>2642</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>280</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/685/8xfe9p55tny0rszo2mh587bfi033hnrw.jpg</picture>
+				<vendor>Christian Lacroix</vendor>
+				<model>Женская сумка-тоут Christian LaCroix Liliane большая принт пестрый квадрат/черн</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="1911" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/zhenskaya_odezhda/sumki_obuv/1911/</url>
+				<price>2642</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>280</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/5f1/v549tva23118dpnujm3xp3z7qws7lyw1.jpg</picture>
+				<vendor>Christian Lacroix</vendor>
+				<model>Женская сумка-шоппер Christian LaCroix Anabelle цвет мака, маленькая</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="1913" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/zhenskaya_odezhda/sumki_obuv/1913/</url>
+				<price>2642</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>280</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/049/uekyxkvjaeulbcdaqtl6a5bh0230804e.jpg</picture>
+				<vendor>Christian Lacroix</vendor>
+				<model>Женская сумка Christian LaCroix Giulia Mini черная</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="1915" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/zhenskaya_odezhda/sumki_obuv/1915/</url>
+				<price>2642</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>280</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/0e9/n7vyqv0n1nh7qctu1xdxpbhpy84ldiy8.jpg</picture>
+				<vendor>Christian Lacroix</vendor>
+				<model>Женская сумка Christian LaCroix ViVienne черная с голубыми вставками</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="1916" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/bizhuteriya_i_yuvelirnye_izdeliya/1916/</url>
+				<price>1500</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>289</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/c89/fbhaku8a3fkc63em6efo65ev0w14hbgr.png</picture>
+				<vendor>Swarovski Elements</vendor>
+				<model>Браслет тенисный Swarovski Elements покр. Золото 14к</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="1925" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/produkty_pitaniya/bakaleya/krupy_zlakovye_khlopya/1925/</url>
+				<price>47.2</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>298</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/084/2c9sxxs7n5l9nkqmbxc2lh7vagx6wtf2.png</picture>
+				<vendor>Мистраль</vendor>
+				<model>Каша овсяная МИСТРАЛЬ Манго-персик 40гр</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="1926" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/produkty_pitaniya/bakaleya/konservy_sousy/1926/</url>
+				<price>150.4</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>370</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/de0/okdehd6wuovilbwo0260ba1eepztsz9g.png</picture>
+				<vendor>MAYUMI</vendor>
+				<model>Соус соевый &quot;Классический&quot; MAYUMI, стекл/бут, 150мл/24</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="1933" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/produkty_pitaniya/bakaleya/konservy_sousy/1933/</url>
+				<price>119.2</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>370</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/13d/j93nku2zah15aqipf3olpc2tpg4ts9jh.png</picture>
+				<vendor>MAYUMI</vendor>
+				<model>Соус острый &quot;Чили&quot; MAYUMI, стекл/бут, 150мл/24</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="1936" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/produkty_pitaniya/bakaleya/konservy_sousy/olivki_griby/1936/</url>
+				<price>119.2</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>335</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/20b/udsyynqeq82xkpc4skjqq7jaimgc4va5.jpg</picture>
+				<vendor>SANTORO</vendor>
+				<model>SANTORO Грибной микс 314мл</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="1938" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/produkty_pitaniya/bakaleya/konservy_sousy/sousy_tomatnaya_pasta/1938/</url>
+				<price>112</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>336</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/9db/f0t14r5sk2i6yc3s6nnuckxznfwxl5q4.jpg</picture>
+				<vendor>Мистраль</vendor>
+				<model>Помидоры POMATO протёртые 390 г, тетропак</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="1939" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/produkty_pitaniya/bakaleya/konservy_sousy/rybnye/1939/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>301</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/796/edpucnpr7sesfz73uu92h4ayyohm6h14.jpg</picture>
+				<vendor>FORTUNA</vendor>
+				<model>Салат с тунцом FORTUNA с кукурузой и овощами 230гр</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="1944" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/produkty_pitaniya/bakaleya/krupy_zlakovye_khlopya/1944/</url>
+				<price>40</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>298</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/f46/cb9mswz1s1lhh8xl17ce2r324ukpqb55.png</picture>
+				<vendor>Мистраль</vendor>
+				<model>Второе блюдо МИСТРАЛЬ легко готовить Гречотто 230 гр.</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="1951" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/zhenskaya_odezhda/futbolki_polo/1951/</url>
+				<price>2625</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>372</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/973/ipwyfal4g354jax7krs7h8ryzmb7qgzc.JPG</picture>
+				<vendor>UNDER ARMOUR</vendor>
+				<model>Майка с коротким рукавом на пуговицах Under Armour Texac TeCH 9, черн, р.S/M</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="1952" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/produkty_pitaniya/bakaleya/krupy_zlakovye_khlopya/1952/</url>
+				<price>55.2</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>298</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/1e5/2u9coujc1syft3w9bv03fkck9colymgh.png</picture>
+				<vendor>FITSTART</vendor>
+				<model>Рис FITSTART Жасмин red 5*80гр</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="1960" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/zhenskaya_odezhda/futbolki_polo/1960/</url>
+				<price>1950</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>372</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/4f4/c5pe09cwu4pw5g1wp583cpoj6mixdpx3.jpg</picture>
+				<vendor>NIKE</vendor>
+				<model>Майка с длинным рукавом NIKE черная с надписью &quot;0&quot;, р.S/ М</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="1961" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/muzhskaya_odezhda/futbolki_mayki/1961/</url>
+				<price>1875</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>374</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/6c1/qoa7dbeqrllhsrs56l9bv8mk28cz0obx.jpg</picture>
+				<vendor>Champion</vendor>
+				<model>Футболка мужская Champion NHL Buffalo Sabres , цвет navy, размер 2XL</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="1963" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/zhenskaya_odezhda/futbolki_polo/1963/</url>
+				<price>1950</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>372</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/3d2/tvvlk8sr0qwi91kbdf37mocqj88dqrnh.jpg</picture>
+				<vendor>NIKE</vendor>
+				<model>Майка с длинным рукавом NIKE белая с надписью Oregon Ducks 17, р.М</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="1964" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/zhenskaya_odezhda/futbolki_polo/1964/</url>
+				<price>1950</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>372</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/316/v4oteuy9xa0a1amly33djyou63rmx1a1.jpg</picture>
+				<vendor>NIKE</vendor>
+				<model>Майка с длинным рукавом NIKE красная с белым, р.L</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="1965" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/muzhskaya_odezhda/futbolki_mayki/1965/</url>
+				<price>2625</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>374</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/72a/kqwltupcqsfjpyzdm8k0c03y71h2qvtp.JPG</picture>
+				<vendor>NIKE</vendor>
+				<model>Майка с коротким рукавом NIKE, черн принт белый 19, р.M</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="1966" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/zhenskaya_odezhda/futbolki_polo/1966/</url>
+				<price>2625</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>372</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/91f/c4tu0qxgpkuyqoqzgfj6zk5x3ngct5wx.JPG</picture>
+				<vendor>NIKE</vendor>
+				<model>Майка с коротким рукавом NIKE красн с белым PLAYER 11, р.M</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="1968" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/zhenskaya_odezhda/futbolki_polo/1968/</url>
+				<price>2625</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>372</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/52a/pflphm87vp6a0zlxtsdug25gz2d8cyrw.JPG</picture>
+				<vendor>NIKE</vendor>
+				<model>Майка с коротким рукавом NIKE зеленая LACROSSE 24, р.M</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="1971" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/zhenskaya_odezhda/futbolki_polo/1971/</url>
+				<price>2625</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>372</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/36e/bpdd6ythm7nvu65usizw3jp7m4exb1s4.JPG</picture>
+				<vendor>UNDER ARMOUR</vendor>
+				<model>Майка с коротким рукавом Under Armour Notre Dame 19, зеленая, р.S/M</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="1972" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/zhenskaya_odezhda/futbolki_polo/1972/</url>
+				<price>1950</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>372</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/65d/5xr29zr3etpo44m9co6k5scwx2btluxy.jpg</picture>
+				<vendor>UNDER ARMOUR</vendor>
+				<model>Майка с коротким рукавом Under Armour бордо EAGLES 21, с пуговицами, р. 2XL/3XL</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="1973" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/zhenskaya_odezhda/futbolki_polo/1973/</url>
+				<price>2625</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>372</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/372/2xdhvwh3pb2b97y53ofbtzwzs4qdjxw3.JPG</picture>
+				<vendor>UNDER ARMOUR</vendor>
+				<model>Майка с коротким рукавом Under Armour синяя с желт CAL 8, р.M</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="1974" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/zhenskaya_odezhda/futbolki_polo/1974/</url>
+				<price>1950</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>372</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/d3a/zfoubzz7qcnvl1b8fkxk7utj54t8y6vl.jpg</picture>
+				<vendor>NIKE</vendor>
+				<model>Майка с коротким рукавом NIKE бордо с надписью &quot;Bama 15&quot;, р.М</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="1976" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/zhenskaya_odezhda/futbolki_polo/1976/</url>
+				<price>1950</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>372</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/d3b/snit3y627hgj2vq96o8zro1xmdvoq87m.JPG</picture>
+				<vendor>NIKE</vendor>
+				<model>Майка с коротким рукавом NIKE синяя с надписью PENN STATE 15, р.М</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="1977" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/bytovaya_khimiya/lichnaya_gigiena/1977/</url>
+				<price>259</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>292</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/446/ofp2g69zmcdajf7v2xb4d54by4g25fk3.jpg</picture>
+				<vendor>+2F</vendor>
+				<model>Мыло туалетное для путешествий (полоски), в боксе. Спайка из 5 шт.</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="1978" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/bytovaya_khimiya/lichnaya_gigiena/1978/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>292</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/ee2/uwp8yoaawp4fzm2ektso9wz54qxq8gid.png</picture>
+				<vendor>+2F</vendor>
+				<model>Зубная щетка с нанесенной пастой 2 шт(упаковка 5 шт)</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="1979" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/produkty_pitaniya/konditerskie_izdeliya/osvezhayushchie_konfety_pastilki/1979/</url>
+				<price>284</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>367</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/9e8/haesopnzu5eqqa0mklav4w1cp71jylus.jpg</picture>
+				<vendor>Science Care</vendor>
+				<model>Пастилки для свежего дыхания, бодрящие с экстрактом зеленого чая и кофеина, вкус Мята. Упаковка 12шт</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="1980" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/produkty_pitaniya/konditerskie_izdeliya/osvezhayushchie_konfety_pastilki/1980/</url>
+				<price>326.4</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>367</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/2aa/mq1y7lqu8exmot3r7o4amcjkn3jxow09.jpg</picture>
+				<vendor>Science Care</vendor>
+				<model>Полоски для свежего дыхания с мелатонином, вкус Мята. Упаковка 12шт</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="1982" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/muzhskaya_odezhda/futbolki_mayki/1982/</url>
+				<price>1875</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>374</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/1b5/2n5r5q7xsr92gk693y1jrbdxarx4iwi2.png</picture>
+				<vendor>Champion</vendor>
+				<model>Футболка мужская Champion Disney World , цвет navy, размер 2XL</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="1985" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/zhenskaya_odezhda/sumki_obuv/1985/</url>
+				<price>24999</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>280</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/de6/auizf3405wyce28om00uzypt2zls38e9.jpg</picture>
+				<vendor>Michael Kors</vendor>
+				<model>Сумка женская  MICHAEL KORS,коричневая</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="1986" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/muzhskaya_odezhda/futbolki_mayki/1986/</url>
+				<price>1875</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>374</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/b50/77c27syp0jsqcc1252gr1ey96jufg1en.JPG</picture>
+				<vendor>Champion</vendor>
+				<model>Футболка мужская Champion Double Dry Elevetion, бел/черн S</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="1989" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/muzhskaya_odezhda/futbolki_mayki/1989/</url>
+				<price>2625</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>374</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/bd3/l86y2qau38he2zyj62alv21rempknq2t.jpg</picture>
+				<vendor>Champion</vendor>
+				<model>Футболка мужская Champion NHL Atlanta Flames, цвет scarlet, 2XL</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="1990" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/muzhskaya_odezhda/futbolki_mayki/1990/</url>
+				<price>2625</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>374</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/640/6403eee170e0279be8a99fa73a34949b.jpg</picture>
+				<vendor>Champion</vendor>
+				<model>Футболка мужская Champion NHL Kansas City, цвет scarlet, 2XL</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="1991" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/produkty_pitaniya/konditerskie_izdeliya/khlebtsy_sneki/1991/</url>
+				<price>66.4</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>368</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/1e6/gndha2fa2sp1e8ba42yuj923h1bunh4p.png</picture>
+				<vendor>Мистраль</vendor>
+				<model>Хлебцы МИСТРАЛЬ пшеничные цельнозерн Красный булгур с базиликом100 гр</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="2000" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/muzhskaya_odezhda/futbolki_mayki/2000/</url>
+				<price>2625</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>374</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/8e5/8e57249a254c368a18def35a51f1c39e.jpg</picture>
+				<vendor>Champion</vendor>
+				<model>Футболка мужская Champion NHL Washington Capital, цвет scarlet, 2XL</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="2001" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/muzhskaya_odezhda/futbolki_mayki/2001/</url>
+				<price>2625</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>374</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/a74/rhm2z9w539pm427icg2uxvxut3m02yg5.jpg</picture>
+				<vendor>Champion</vendor>
+				<model>Футболка мужская Champion NHL Winnipeg Jets , цвет navy, размер 2XL</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="2024" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/detskaya_odezhda/shapki_/2024/</url>
+				<price>420</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>378</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/79c/6tt37de504ezq32cdbe663uncba3jsh5.jpg</picture>
+				<vendor>ARCTIC PAW</vendor>
+				<model>Комплект детская шапка и варежки д/мальч, синяя с паровоз, р.1-2года</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="2032" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/zhenskaya_odezhda/sumki_obuv/2032/</url>
+				<price>4999</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>280</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/a38/z01n0hlunc1gqp6uxwpa6hgvko33ckcc.jpg</picture>
+				<vendor>Michael Kors</vendor>
+				<model>Кошелек женский MICHAEL KORS,черный</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="2036" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/detskaya_odezhda/shapki_/2036/</url>
+				<price>420</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>378</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/a00/0neacn0qzx2n4iei9vze4b47d6ip4ajg.png</picture>
+				<vendor>ARCTIC PAW</vendor>
+				<model>Шапка детская толстая вязка серая с бежевым, размер 2-4года</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="2037" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/detskaya_odezhda/shapki_/2037/</url>
+				<price>420</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>378</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/5a1/u15l7v84mfjr0l3om5kuwkkbexwv2q3v.png</picture>
+				<vendor>ARCTIC PAW</vendor>
+				<model>Шапка детская толстая вязка серая/хаки/беж, размер 2-4года</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="2038" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/detskaya_odezhda/shapki_/2038/</url>
+				<price>420</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>378</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/763/8f8u9opa0vj6kqi3u144bhdsi08jrvfd.png</picture>
+				<vendor>ARCTIC PAW</vendor>
+				<model>Шапка детская толстая вязка полоска хаки/беж с подкладкой,р 4-8лет</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="2039" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/detskaya_odezhda/shapki_/2039/</url>
+				<price>420</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>378</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/b6e/209fdigitp5haviq25utiv48l4dwtnjj.png</picture>
+				<vendor>ARCTIC PAW</vendor>
+				<model>Шапка детская толстая вязка полоска беж/кирпич/бел/коричн,р 4-8лет</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="2041" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/detskaya_odezhda/shapki_/2041/</url>
+				<price>420</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>378</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/385/lgcj25wv15ajl49lf0cmaq55e9emrwl7.jpg</picture>
+				<vendor>ARCTIC PAW</vendor>
+				<model>Комплект детская шапка и варежки д/мальч, черн с ракетой, р.2-4г</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="2043" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/detskaya_odezhda/shapki_/2043/</url>
+				<price>420</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>378</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/3be/ggzq5oto98o4z7ev04n6rm9gkfj6a8dj.jpg</picture>
+				<vendor>ARCTIC PAW</vendor>
+				<model>Комплект детская шапка и варежки д/девочек, красная снеговик, р.2-4г</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="2047" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/produkty_pitaniya/bakaleya/konservy_sousy/2047/</url>
+				<price>239.2</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>370</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/cc5/ogs5oei89rvwpvfkicw6gobjdzhmtfzg.png</picture>
+				<vendor>SANTORO</vendor>
+				<model>SANTORO Песто из миндаля 212мл/180гр</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="2048" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/produkty_pitaniya/bakaleya/konservy_sousy/olivki_griby/2048/</url>
+				<price>199.2</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>335</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/843/dfqbobkcu1ygtenufnjulxxvuumzmwiu.jpg</picture>
+				<vendor>SANTORO</vendor>
+				<model>SANTORO Острые шампиньоны 314мл</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="2057" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/bytovaya_khimiya/lichnaya_gigiena/2057/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>292</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/941/khu8jbj6vj1ef39vnwx86y08vyfrg5pp.jpg</picture>
+				<vendor>+2F</vendor>
+				<model>Антисептик для рук и поверхностей. Спайка 5 шт.</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="2064" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/produkty_pitaniya/bakaleya/konservy_sousy/ovoshchnye/2064/</url>
+				<price>154.4</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>300</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/1bd/wajdwvb75yt47f1oajlhr6ixdxu0y46r.png</picture>
+				<vendor>Мистраль</vendor>
+				<model>Аджика АМЦА абхазская копченая 200 гр.</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="2065" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/produkty_pitaniya/konditerskie_izdeliya/khlebtsy_sneki/2065/</url>
+				<price>81.6</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>368</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/4d4/uemuvma7l6dn5olaadsiwrubphm8amek.png</picture>
+				<vendor>Мистраль</vendor>
+				<model>Хлебцы МИСТРАЛЬ рисовые Басмати с диким рисом 100 гр</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="2066" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/produkty_pitaniya/bakaleya/konservy_sousy/ovoshchnye/2066/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>300</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/8ec/o9d4z3ilbr95rs8p5iwt9f8tyadkbfln.jpg</picture>
+				<vendor>Мистраль</vendor>
+				<model>Аджика АМЦА абхазская крестьянская острая 200 гр.</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="2090" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/produkty_pitaniya/konditerskie_izdeliya/khlebtsy_sneki/2090/</url>
+				<price>39.2</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>368</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/315/z2kzwgfhc5k5d2lpr3ocfpkmumgzdg1x.png</picture>
+				<vendor>FITSTART</vendor>
+				<model>Хлебцы FITSTART из полбы 80 г.</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="2098" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/produkty_pitaniya/bakaleya/konservy_sousy/2098/</url>
+				<price>150.4</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>370</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/309/mk7tzieudba7un000z2exqd7qq12ml9u.png</picture>
+				<vendor>MAYUMI</vendor>
+				<model>Соус соевый &quot;Японский&quot; MAYUMI, стекл/бут, 150мл/24</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="2099" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/produkty_pitaniya/bakaleya/konservy_sousy/2099/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>370</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/601/x0um8e6lftwa0lrlxc5043oi8sqzvt2o.png</picture>
+				<vendor>MAYUMI</vendor>
+				<model>Соус цитрусовый &quot;Понзу&quot; MAYUMI, стекл/бут, 150мл/24</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="2101" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/produkty_pitaniya/konditerskie_izdeliya/khlebtsy_sneki/2101/</url>
+				<price>72</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>368</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/396/yeky00ndk70me2si9k8u50mpai48sg42.jpg</picture>
+				<vendor>FINN CRISP</vendor>
+				<model>Сухарики FINN CRISP Original (ржаные) 100гр</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="2102" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/produkty_pitaniya/konditerskie_izdeliya/khlebtsy_sneki/2102/</url>
+				<price>119.2</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>368</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/0aa/ic57qulwlcuktpgy0w6rj5wj1i9enadk.png</picture>
+				<vendor>FINN CRISP</vendor>
+				<model>Хлебцы FINN CRISP Sesame( пшеничные с кунжутом) 250гр</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="2103" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/produkty_pitaniya/konditerskie_izdeliya/khlebtsy_sneki/2103/</url>
+				<price>59.2</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>368</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/689/1grqs1qsrncfse5mcgox8gaaet27ja9x.png</picture>
+				<vendor>FITSTART</vendor>
+				<model>Хлебцы FITSTART рисовые SUPERFOOD с семенами чиа 90гр</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="2104" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/produkty_pitaniya/konditerskie_izdeliya/khlebtsy_sneki/2104/</url>
+				<price>63.2</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>368</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/5d1/kl3pk02osoz0qz1lzp5fy5a5czl8kjsv.jpg</picture>
+				<vendor>FITSTART</vendor>
+				<model>Хлебцы FITSTART рисовые Манго-маракуйя 100 гр</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="2105" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/produkty_pitaniya/konditerskie_izdeliya/khlebtsy_sneki/2105/</url>
+				<price>46.4</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>368</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/ff4/fgknsubub1uu6wgm0wbkxosuhrowte2c.jpg</picture>
+				<vendor>FITSTART</vendor>
+				<model>Хлебцы FITSTART рисовые Морская соль 90 г.</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="2107" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/produkty_pitaniya/konditerskie_izdeliya/khlebtsy_sneki/2107/</url>
+				<price>81.6</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>368</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/0db/su5resco68wjflt32ou4lz0c0jj2cfn7.png</picture>
+				<vendor>Мистраль</vendor>
+				<model>Хлебцы МИСТРАЛЬ рисовые Басмати 100 гр</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="2108" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/produkty_pitaniya/konditerskie_izdeliya/khlebtsy_sneki/2108/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>368</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/b8d/1e1z8y314itqmywc3ee68311yt74rbb8.png</picture>
+				<vendor>Мистраль</vendor>
+				<model>Хлебцы МИСТРАЛЬ рисовые Коричневыйрис с зелен гречкой 100 гр</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="2109" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/produkty_pitaniya/konditerskie_izdeliya/khlebtsy_sneki/2109/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>368</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/194/fh4wkj3wrcyuv2e0zdx6f90m2q6mios7.png</picture>
+				<vendor>Мистраль</vendor>
+				<model>Хлебцы МИСТРАЛЬ рисовые с отрубями и овсян хлопьями 100 гр</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="2140" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/zhenskaya_odezhda/sumki_obuv/2140/</url>
+				<price>2642</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>280</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/afe/aets0mtgsqm1q0xuwaxml0rbrpiww2vo.jpg</picture>
+				<vendor>Christian Lacroix</vendor>
+				<model>Женская сумка Christian LaCroix Giulia Satchel голубая с тонкой белой полоской, тканевая</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="2153" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/zhenskaya_odezhda/bryuki_shorty_yubki/2153/</url>
+				<price>2625</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>371</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/4b5/06ib542f9x7n5cuv18me45hwemo64sfm.JPG</picture>
+				<vendor>UNDER ARMOUR</vendor>
+				<model>Брюки-леггинсы женские Under Armour синие/зеленые с надписью Notre Dame, р. М</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="5305" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/zhenskaya_odezhda/bryuki_shorty_yubki/2035/</url>
+				<price>675</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>371</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/a5a/wy6q9aekyiotr2rvci2mi1tmmo0992t7.jpg</picture>
+				<vendor>SIMPLICITY</vendor>
+				<model>Женские утепленные брюки-леггинсы, снежинки/олени, размер S</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="2155" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/muzhskaya_odezhda/verkhnyaya_odezhda_2/2155/</url>
+				<price>4500</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>377</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/e75/xq3h6p3c3do6i21ly1m2jsgip734ov13.jpg</picture>
+				<vendor>UNDER ARMOUR</vendor>
+				<model>Куртка с капюшоном Under Armour серая с голубым, размер 2XL</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="2159" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/produkty_pitaniya/bakaleya/konservy_sousy/2159/</url>
+				<price>224</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>370</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/801/a91m4zt5q1avbxk8tqd8289qjd17pq3q.png</picture>
+				<vendor>Mazzetti</vendor>
+				<model>Соус из бальзамич уксуса MAZZETTI CREMOSO Модена с инжиром 215мл</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="2161" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/muzhskaya_odezhda/bryuki_shorty/2161/</url>
+				<price>1875</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>373</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/133/q5bt2565p2dyh266z396o4dfxte01l83.jpg</picture>
+				<vendor>UNDER ARMOUR</vendor>
+				<model>Шорты спортивные мужские Under Armour, синие с надписью St.Jonson, размер L/G</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="2162" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/muzhskaya_odezhda/bryuki_shorty/2162/</url>
+				<price>1875</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>373</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/9bc/jcjzq2y4u1k9wuv1tfvt1yq8gda2mtuq.jpg</picture>
+				<vendor>UNDER ARMOUR</vendor>
+				<model>Шорты спортивные мужские Under Armour, синие с белым и надписью ND, размер S</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="2180" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/produkty_pitaniya/bakaleya/krupy_zlakovye_khlopya/2180/</url>
+				<price>155.2</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>298</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/170/rlwlfegpfst14jigiy01ufvk6eocu8ue.png</picture>
+				<vendor>Мистраль</vendor>
+				<model>Хлопья МИСТРАЛЬ Фермерский микс 400гр</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="2183" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/produkty_pitaniya/konditerskie_izdeliya/khlebtsy_sneki/2183/</url>
+				<price>32</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>368</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/514/ahx0850fdhktahm2j71c35pydd04m4u3.jpg</picture>
+				<vendor>FITSTART</vendor>
+				<model>Хлебцы FITSTART рисовые SUPERFOOD с семенами киноа 90гр</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="2184" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/produkty_pitaniya/konditerskie_izdeliya/khlebtsy_sneki/2184/</url>
+				<price>68.8</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>368</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/e71/4mymk0w3xk5xz8tzbbct0bh4vn6us6u2.png</picture>
+				<vendor>FITSTART</vendor>
+				<model>Хлебцы FITSTART рисовые Карри 90гр</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="2236" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/muzhskaya_odezhda/futbolki_mayki/2236/</url>
+				<price>2625</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>374</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/c7e/ev47m1tobmwn30ja0hr4is6ebmjhumf5.JPG</picture>
+				<vendor>NIKE</vendor>
+				<model>Майка с коротким рукавом NIKE бордовая с белым, размер М</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="4754" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/produkty_pitaniya/konditerskie_izdeliya/khlebtsy_sneki/4754/</url>
+				<price>40</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>368</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/ac4/4vixob6v36ltrkuwm3ojvconss1yts5e.png</picture>
+				<vendor>FITSTART</vendor>
+				<model>Хлебцы FITSTART мультизлаковые Апельсин 100гр</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="4755" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/produkty_pitaniya/konditerskie_izdeliya/khlebtsy_sneki/4755/</url>
+				<price>68.8</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>368</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/5af/0nk2xy9k9qya8l0y8gwzibwb1k14iloo.png</picture>
+				<vendor>FITSTART</vendor>
+				<model>Хлебцы FITSTART рисовые Chocolate 100 гр</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="4761" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/produkty_pitaniya/bakaleya/krupy_zlakovye_khlopya/4761/</url>
+				<price>104</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>298</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/a2c/gru9sn4gwfwcher7sed2yq2tbjdr4b44.jpg</picture>
+				<vendor>Мистраль</vendor>
+				<model>Рис Мистраль длиннозерный 800гр</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="3529" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/muzhskaya_odezhda/verkhnyaya_odezhda_2/2193/</url>
+				<price>4999</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>377</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/9e0/9mtwfn7d2sw5ea602vrnlks2b8dg1p8l.png</picture>
+				<vendor>Champion</vendor>
+				<model>Штормовка Champion с капюшоном и логотипом Ohio University, красная</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="3532" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/muzhskaya_odezhda/verkhnyaya_odezhda_2/2195/</url>
+				<price>4999</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>377</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/cde/zh3x8vb5u8012c86y1xtz2n102nw4wbc.jpg</picture>
+				<vendor>Champion</vendor>
+				<model>Штормовка Champion с капюшоном и логотипом UNIVERSAL WASHINGTON,черная</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="3536" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/detskaya_odezhda/bryuki_shorty_yubki_1/2201/</url>
+				<price>480</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>375</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/f50/1mgq42bmxekf7v08oq9yusc1k3sm63e1.png</picture>
+				<vendor>Simpli Kids</vendor>
+				<model>Шорты-плавки детские. Крокодилы.</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="3537" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/detskaya_odezhda/bryuki_shorty_yubki_1/2202/</url>
+				<price>480</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>375</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/6fa/37q8pq4q3kuvbl34kjnpnjot4ghebrjn.png</picture>
+				<vendor>Simpli Kids</vendor>
+				<model>Шорты-плавки детские. Осьминоги.</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="3703" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/muzhskaya_odezhda/bryuki_shorty/2154/</url>
+				<price>2250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>373</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/898/umlijw0qieh8m0uaeg1g1lu8bxmt3r9f.jpg</picture>
+				<vendor>NIKE</vendor>
+				<model>Брюки спортивные мужские NIKE черные, размер L/G</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="4105" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/elektronika/aksessuary_dlya_mobilnykh_telefonov/chekhly_stekla_shnury/2247/</url>
+				<price>700</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>287</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/468/kve2luvz5vfbn5p8atx756ji7mj949te.png</picture>
+				<vendor>Tech21</vendor>
+				<model>Чехол Tech 21 Evo Max Series для Apple iPhone X/XS, черный</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="4115" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/muzhskaya_odezhda/futbolki_mayki/2186/</url>
+				<price>1875</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>374</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/74e/74e813663f944710f0f21657e86eec06.jpg</picture>
+				<vendor>Champion</vendor>
+				<model>Футболка мужская Champion NHL Los Angeles King, цвет purple</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="4121" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/muzhskaya_odezhda/futbolki_mayki/2187/</url>
+				<price>1875</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>374</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/83c/hq2u31zwqvyovisz33l3c6e27mmpbslp.png</picture>
+				<vendor>Champion</vendor>
+				<model>Футболка мужская Champion NHL Philadelphia Flyers, цвет orange</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="4125" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/elektronika/aksessuary_dlya_mobilnykh_telefonov/chekhly_stekla_shnury/2196/</url>
+				<price>480</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>287</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/edb/wok6kpymtmc81ohyrx8guiz9oe62bk3f.png</picture>
+				<vendor>GoodsBuy</vendor>
+				<model>Чехол для смартфона IPhone 12, с кольцом</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="4128" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/elektronika/aksessuary_dlya_mobilnykh_telefonov/chekhly_stekla_shnury/2197/</url>
+				<price>480</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>287</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/edb/wok6kpymtmc81ohyrx8guiz9oe62bk3f.png</picture>
+				<vendor>GoodsBuy</vendor>
+				<model>Чехол для смартфона IPhone 12PRO Max, с кольцом</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="4131" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/elektronika/aksessuary_dlya_mobilnykh_telefonov/chekhly_stekla_shnury/2198/</url>
+				<price>480</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>287</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/edb/wok6kpymtmc81ohyrx8guiz9oe62bk3f.png</picture>
+				<vendor>GoodsBuy</vendor>
+				<model>Чехол для смартфона IPhone 12PRO, с кольцом</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="4763" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/muzhskaya_odezhda/verkhnyaya_odezhda_2/4762/</url>
+				<price>2500</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>377</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/971/knacppcpr8gmkn1zmkd830df4vzy3muo.png</picture>
+				<vendor>Champion</vendor>
+				<model>Штормовка Champion с капюшоном  и логотипом KANSAS JAYHAWKS, синяя, размер S</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="4943" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/muzhskaya_odezhda/bryuki_shorty/2160/</url>
+				<price>1875</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>373</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/869/2eqii1qnlwt188ncottzll24r6px3gs1.jpg</picture>
+				<vendor>UNDER ARMOUR</vendor>
+				<model>Шорты баскетбольные мужские  Under Armour, синие с зелеными вставками и надписью ND, размер S/M</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="5221" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/zhenskaya_odezhda/bryuki_shorty_yubki/2163/</url>
+				<price>2250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>371</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/daf/k6xr8w1fccdhj2p72mi4fy290xc42cio.JPG</picture>
+				<vendor>UNDER ARMOUR</vendor>
+				<model>Шорты спортивные женские Under Armour, зеленые, размер S</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="5262" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/zhenskaya_odezhda/bryuki_shorty_yubki/2158/</url>
+				<price>2250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>371</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/2f1/cakhp1mn08ze1k3gochhsxjinu316vm3.JPG</picture>
+				<vendor>UNDER ARMOUR</vendor>
+				<model>Шорты женские спортивные UnderArmour, синие с желтой надписью CAL, размер М</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="4898" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/produkty_pitaniya/bakaleya/makaronnye_izdeliya_1/4898/</url>
+				<price>36</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>299</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/7c1/8kdv535iy4xfq36on78izjjjhn4lsbm4.jpg</picture>
+				<vendor>Мистраль</vendor>
+				<model>Паста Deluxe &quot;Cavatello di Puglia (Кавателло ди Пулья)&quot;  250г</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="4899" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/produkty_pitaniya/bakaleya/krupy_zlakovye_khlopya/4899/</url>
+				<price>115.2</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>298</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/8aa/almzj4brxwjzucp0ou513hjbgnmu9c08.jpg</picture>
+				<vendor>Мистраль</vendor>
+				<model>Булгур МИСТРАЛЬ с нутом по-восточному 5х80гр</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="4900" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/produkty_pitaniya/bakaleya/krupy_zlakovye_khlopya/4900/</url>
+				<price>135.2</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>298</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/3b9/hc27inr6d7xn7026lankeqdqn3vv80w8.jpg</picture>
+				<vendor>Мистраль</vendor>
+				<model>Булгур МИСТРАЛЬ с чечевицей по-восточному 5х80гр</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="4901" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/produkty_pitaniya/bakaleya/4901/</url>
+				<price>51.2</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>297</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/606/ls9omboya8woxe9l4qln2r4sg3b47he9.jpg</picture>
+				<vendor>FITSTART</vendor>
+				<model>Гречка FITSTAR зеленая 5х80гр</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="4902" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/produkty_pitaniya/bakaleya/makaronnye_izdeliya_1/4902/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>299</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/6fe/63ttzb72n2ceby1ro2zd8vyab73bm6ke.jpg</picture>
+				<vendor>Мистраль</vendor>
+				<model>Паста Диталини цельнозерновая 500гр</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="4903" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/produkty_pitaniya/bakaleya/krupy_zlakovye_khlopya/4903/</url>
+				<price>144</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>298</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/528/nb0jqmy64464l9nqcywtbqe312whibv4.jpg</picture>
+				<vendor>Мистраль</vendor>
+				<model>Рис МИСТРАЛЬ Индика Black 5*80гр</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="4904" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/produkty_pitaniya/konditerskie_izdeliya/khlebtsy_sneki/4904/</url>
+				<price>56</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>368</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/fa6/7t9c7djos436pvn0p458w1fijaw8wfd7.jpg</picture>
+				<vendor>FINN CRISP</vendor>
+				<model>Сухарики FINN CRISP Caraway (с тмином) 200гр</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="4906" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/produkty_pitaniya/konditerskie_izdeliya/khlebtsy_sneki/4906/</url>
+				<price>79.2</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>368</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/cf9/858293sxuz3utg3nmikdnsw4y66q85kn.jpg</picture>
+				<vendor>FINN CRISP</vendor>
+				<model>Хлебцы FINN CRISP Original (ржаные) 250гр</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="4907" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/produkty_pitaniya/konditerskie_izdeliya/khlebtsy_sneki/4907/</url>
+				<price>55.2</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>368</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/0cf/k2y06gjvw0vews9zchy9zzr75g59j4g6.jpg</picture>
+				<vendor>FITSTART</vendor>
+				<model>Хлебцы FITSTART карамель, брусника, мед, имбирь, апельсин100гр</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="4924" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/produkty_pitaniya/konditerskie_izdeliya/khlebtsy_sneki/4924/</url>
+				<price>213.6</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>368</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/08d/qmu37km57q5zjbxp15uepek2oxi9vonk.jpg</picture>
+				<vendor>FITSTART</vendor>
+				<model>Хлебцы FITSTART mix 90гр (*3)</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="4977" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/sportivnyy_inventar/ochki_dlya_plavaniya/4977/</url>
+				<price>960</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>361</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/c48/1vs0m4xzax8wio33q7r81rqnrryhwz7j.jpg</picture>
+				<vendor>SPEEDO</vendor>
+				<model>Очки для плавания Speedo Hydrospex прозрачный</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="4978" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/sportivnyy_inventar/ochki_dlya_plavaniya/4978/</url>
+				<price>810</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>361</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/f29/tbkqlcwugqjc78id48xk3dyxaiijsujw.jpg</picture>
+				<vendor>SPEEDO</vendor>
+				<model>Очки для плавания Speedo Relay прозрачный</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="4980" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/sportivnyy_inventar/ochki_dlya_plavaniya/4980/</url>
+				<price>804</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>361</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/f3c/9h5q0azr3bsu2grl2jcirlfv06f8ln43.jpg</picture>
+				<vendor>SPEEDO</vendor>
+				<model>Очки для плавания Speedo Sprint синий</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="4981" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/sportivnyy_inventar/ochki_dlya_plavaniya/4981/</url>
+				<price>804</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>361</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/ab3/3g78xkfvuzxsx53wsw8y8euk4gpo9ey1.jpg</picture>
+				<vendor>SPEEDO</vendor>
+				<model>Очки для плавания Speedo Sprint Дымчато-серый</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="4982" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/sportivnyy_inventar/ochki_dlya_plavaniya/4982/</url>
+				<price>804</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>361</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/418/35sj07mjqety6zet23jselnqq9yt522c.jpg</picture>
+				<vendor>SPEEDO</vendor>
+				<model>Очки для плавания Speedo Sprint прозрачный</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="4989" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/sportivnyy_inventar/ochki_dlya_plavaniya/4989/</url>
+				<price>1344</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>361</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/f3d/ee3epdkh3z23r4lk6nhap9yp10pn2p6u.jpg</picture>
+				<vendor>SPEEDO</vendor>
+				<model>Очки для плавания Speedo Sengar, черные /прозрачное стекло</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="4990" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/sportivnyy_inventar/ochki_dlya_plavaniya/4990/</url>
+				<price>1785</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>361</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/f94/dm2ze3xyacjg8k3wbo6rbljnmqfv23w1.jpg</picture>
+				<vendor>SPEEDO</vendor>
+				<model>Очки для плавания Speedo Aqua Racer  Прозрачный</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="4991" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/sportivnyy_inventar/ochki_dlya_plavaniya/4991/</url>
+				<price>1500</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>361</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/bb4/74qpcolczlnjmomhsaoxy7mtjdw3kr9r.jpg</picture>
+				<vendor>SPEEDO</vendor>
+				<model>Очки для плавания Speedo Jr Hydrospex,  прозрачный</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="4992" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/sportivnyy_inventar/ochki_dlya_plavaniya/4992/</url>
+				<price>828</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>361</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/285/q9k3lo8qx8113p906xdhudpt12j22sm7.jpg</picture>
+				<vendor>SPEEDO</vendor>
+				<model>Очки для плавания Speedo JR Hydrospex прозрачный, оправа зеленая</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="4993" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/sportivnyy_inventar/ochki_dlya_plavaniya/4993/</url>
+				<price>960</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>361</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/9f5/74b83mmih31fe5wtym76sp6z0ulufuzs.jpg</picture>
+				<vendor>SPEEDO</vendor>
+				<model>Очки для плавания Speedo Pro Slicer II  Прозрачный</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="4994" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/sportivnyy_inventar/ochki_dlya_plavaniya/4994/</url>
+				<price>1320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>361</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/f74/cs0hc2vmbvx6sei6rhq3rw2xh8rnrjeq.jpg</picture>
+				<vendor>SPEEDO</vendor>
+				<model>Очки для плавания Speedo XFLEX, розовый/прозрачное стекло</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="4995" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/sportivnyy_inventar/ochki_dlya_plavaniya/4995/</url>
+				<price>1344</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>361</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/f17/svv0t4jszdyto0l30f6korjrsmqohimk.jpg</picture>
+				<vendor>SPEEDO</vendor>
+				<model>Очки для плавания Speedo Women's Vanquisher, голубой</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="4996" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/sportivnyy_inventar/ochki_dlya_plavaniya/4996/</url>
+				<price>894</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>361</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/ec9/zxrjc810pr7yk0b0uyky2m1bnlqran33.jpg</picture>
+				<vendor>SPEEDO</vendor>
+				<model>Очки для плавания Speedo Women's Vanquisher, салатовый</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="4997" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/sportivnyy_inventar/ochki_dlya_plavaniya/4997/</url>
+				<price>1014</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>361</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/7b2/80shlpn5qohczb6hhaioevcqcp2ecwtr.jpg</picture>
+				<vendor>SPEEDO</vendor>
+				<model>Очки для плавания Speedo Speed Socket, черный/прозрачное стекло</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="4998" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/sportivnyy_inventar/ochki_dlya_plavaniya/4998/</url>
+				<price>960</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>361</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/453/45l2cjan5z332oe2vdlllg2gkp1s4cbg.jpg</picture>
+				<vendor>SPEEDO</vendor>
+				<model>Очкт для плавания Speedo Segnar Jr., синие/прозрачное</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="4999" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/sportivnyy_inventar/ochki_dlya_plavaniya/4999/</url>
+				<price>1080</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>361</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/c0a/ycxmys3idl9xpuftxyom18u5zdcx0d3s.jpg</picture>
+				<vendor>SPEEDO</vendor>
+				<model>Очки для плавания Speedo Hydrospex Mirrored  прозрачный/зеркальный</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="5000" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/sportivnyy_inventar/ochki_dlya_plavaniya/5000/</url>
+				<price>2142</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>361</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/aea/o4jx7d4cxds8jk9m1yxvwc41frxhifqp.jpg</picture>
+				<vendor>SPEEDO</vendor>
+				<model>Очки для плавания Speedo XFLEX черные/серые</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="5001" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/sportivnyy_inventar/ochki_dlya_plavaniya/5001/</url>
+				<price>1320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>361</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/416/zxs9wekteudxyl80bgg26agp77cf0inz.jpg</picture>
+				<vendor>SPEEDO</vendor>
+				<model>Очки для плавания Speedo Vanquisher черный/прозрачное стекло</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="5002" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/sportivnyy_inventar/ochki_dlya_plavaniya/5002/</url>
+				<price>984</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>361</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/8d6/nkvg8kv8rnasmi4s4vgtgu895ecjksb3.jpg</picture>
+				<vendor>SPEEDO</vendor>
+				<model>Очки для плавания Speedo JR Hydrospex прозрачный, оправа голубая</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="5003" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/sportivnyy_inventar/ochki_dlya_plavaniya/5003/</url>
+				<price>810</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>361</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/f45/o8abnjgvs2r1qiihheqn0fhbimgpdj5h.jpg</picture>
+				<vendor>SPEEDO</vendor>
+				<model>Очки для плавания Speedo Kid's Hygrospex темно-синие</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="5004" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/sportivnyy_inventar/ochki_dlya_plavaniya/5004/</url>
+				<price>810</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>361</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/dc0/h3forjz4ayzmvonmmh37eorzl9tg5ei8.jpg</picture>
+				<vendor>SPEEDO</vendor>
+				<model>Очки для плавания Speedo Polywog синие</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="5018" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/sportivnyy_inventar/ochki_dlya_plavaniya/5018/</url>
+				<price>810</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>361</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/603/40at65kc5bcawsufaxnt09i7plqmjj1s.jpg</picture>
+				<vendor>SPEEDO</vendor>
+				<model>Очки для плавания Speedo Relay синее стекло</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="5019" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/odezhda_aksessuary/sportivnyy_inventar/ochki_dlya_plavaniya/5019/</url>
+				<price>1344</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>361</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/b0e/rgr1pbgzkczo0xapu71z7eiv1p1fo4qb.jpg</picture>
+				<vendor>SPEEDO</vendor>
+				<model>Очки для плавания Speedo Segnar, черные/дымчатое стекло</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="5130" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/produkty_pitaniya/bakaleya/konservy_sousy/rybnye/5130/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>301</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/796/edpucnpr7sesfz73uu92h4ayyohm6h14.jpg</picture>
+				<vendor>FORTUNA</vendor>
+				<model>Салат с тунцом FORTUNA с кукурузой и овощами 160гр</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="5131" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/produkty_pitaniya/bakaleya/konservy_sousy/rybnye/5131/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>301</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/75e/kfsp1fy3oz7jlry0ejjrjogx4gtdk6ye.jpg</picture>
+				<vendor>FORTUNA</vendor>
+				<model>Салат с тунцом FORTUNA с нутом и овощами 160гр</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="5132" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/produkty_pitaniya/bakaleya/konservy_sousy/rybnye/5132/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>301</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/73d/30zpq5rgjdcf0zmiqslh6crhgcmzn0jb.jpg</picture>
+				<vendor>FORTUNA</vendor>
+				<model>Тунец FORTUNA кусочками с чили перцем 185гр, жест.банк</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="5133" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/produkty_pitaniya/bakaleya/konservy_sousy/rybnye/5133/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>301</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/f36/q0oqyyujulhsm35jk20d1sgwbio91118.jpg</picture>
+				<vendor>FITSTART</vendor>
+				<model>Тунец FORTUNA по-азиатски в соусе нам джим 185гр, жест.банк</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="5161" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/produkty_pitaniya/bakaleya/krupy_zlakovye_khlopya/5161/</url>
+				<price>79.2</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>298</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/ff5/h08v28cinnmbbkerx2o2wtkoopoemd1k.jpg</picture>
+				<vendor>Мистраль</vendor>
+				<model>Хлопья МИСТРАЛЬ Фермерские кукурузные 400гр</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="5162" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/produkty_pitaniya/bakaleya/konservy_sousy/rybnye/5162/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>301</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/615/d8faqz5etc45btwvpwba57usm32vp0ef.jpg</picture>
+				<vendor>FORTUNA</vendor>
+				<model>Тунец FORTUNA филе yellowfin в оливковом масле 185гр ж/б</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="5163" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/produkty_pitaniya/bakaleya/krupy_zlakovye_khlopya/5163/</url>
+				<price>179.2</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>298</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/93e/obtqd0jpxti0jzto1x14n8u4xmoqbazt.jpg</picture>
+				<vendor>Мистраль</vendor>
+				<model>Хлопья МИСТРАЛЬ Фермерские из зеленой гречки 400гр</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="5164" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/produkty_pitaniya/bakaleya/krupy_zlakovye_khlopya/5164/</url>
+				<price>32</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>298</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/3eb/4yvgvcb0p8ubvvylt3gs3ts4szw3i06g.jpg</picture>
+				<vendor>Мистраль</vendor>
+				<model>Каша гречневая МИСТРАЛЬ Красота и стройность 40гр/пак</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="5165" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/produkty_pitaniya/bakaleya/krupy_zlakovye_khlopya/5165/</url>
+				<price>32</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>298</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/6da/afii225xzddvlgnyoarle046hzlbnnil.jpg</picture>
+				<vendor>Мистраль</vendor>
+				<model>Каша из полбы МИСТРАЛЬ Здоровье и молодость 40гр/пак</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="5166" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/produkty_pitaniya/bakaleya/krupy_zlakovye_khlopya/5166/</url>
+				<price>27.2</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>298</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/68a/hjl295rsldq7ebvsppywscjor0w76x6u.jpg</picture>
+				<vendor>Мистраль</vendor>
+				<model>Каша овсяная МИСТРАЛЬ Протеиновая с какао 40гр/пак</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="5167" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/produkty_pitaniya/bakaleya/krupy_zlakovye_khlopya/5167/</url>
+				<price>35.2</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>298</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/983/90buaetc320ytcgkbkon20hma6rtsym9.jpg</picture>
+				<vendor>Мистраль</vendor>
+				<model>Каша пудинг рисовый МИСТРАЛЬ Апельсин-манго-миндаль 40гр/пак</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="5168" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/produkty_pitaniya/bakaleya/krupy_zlakovye_khlopya/5168/</url>
+				<price>35.2</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>298</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/151/82owrwcwf0c7034jom78knp33011nqi2.jpg</picture>
+				<vendor>Мистраль</vendor>
+				<model>Каша пудинг рисовый МИСТРАЛЬ Малина с кокосовым молоком 40гр/пак</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="5169" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/produkty_pitaniya/bakaleya/krupy_zlakovye_khlopya/5169/</url>
+				<price>104.8</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>298</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/7f5/iuynuuenqr28fdn0mxoc57nx6tz4qt7q.jpg</picture>
+				<vendor>Мистраль</vendor>
+				<model>Крупа МИСТРАЛЬ пшеничная Булгур по-турецки 5пакет*80гр</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="5170" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/produkty_pitaniya/bakaleya/krupy_zlakovye_khlopya/5170/</url>
+				<price>140</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>298</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/f39/2etxj5m2tdo263e6k7ms61tk3inhfrdx.jpg</picture>
+				<vendor>FITSTART</vendor>
+				<model>Кускус FITSTART цельнозерновой 5*80гр</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="5171" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/produkty_pitaniya/bakaleya/krupy_zlakovye_khlopya/5171/</url>
+				<price>35.2</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>298</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/7b0/59zljknokqwvugppluwu0unmdj40f8qi.jpg</picture>
+				<vendor>Мистраль</vendor>
+				<model>Отруби овсяные МИСТРАЛЬ &quot;Баланс и тонус&quot; 30гр/пак</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="5172" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/produkty_pitaniya/bakaleya/krupy_zlakovye_khlopya/5172/</url>
+				<price>35.2</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>298</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/965/2etmw06b7w2tynwhan5togw9et0vwaw7.jpg</picture>
+				<vendor>Мистраль</vendor>
+				<model>Отруби овсяные МИСТРАЛЬ &quot;Гармония и легкость&quot; 30гр/пак</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="5173" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/produkty_pitaniya/bakaleya/krupy_zlakovye_khlopya/5173/</url>
+				<price>35.2</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>298</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/e74/h83f2dfylvr25ro7mb9qt4id0zmma7tb.jpg</picture>
+				<vendor>Мистраль</vendor>
+				<model>Отруби овсяные МИСТРАЛЬ &quot;Энергия и бодрость&quot; 30гр/пак</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="5174" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/produkty_pitaniya/bakaleya/krupy_zlakovye_khlopya/5174/</url>
+				<price>116</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>298</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/900/uuhozspyuhqvn2uaop6vzhjndt2n5cmk.jpg</picture>
+				<vendor>Мистраль</vendor>
+				<model>Хлопья МИСТРАЛЬ Рисовые Нежные 400гр</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="5175" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/produkty_pitaniya/konditerskie_izdeliya/khlebtsy_sneki/5175/</url>
+				<price>40.8</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>368</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/48b/7wl4yy09vqmk8gjs5lsr2vg0s8bxxpx8.jpg</picture>
+				<vendor>FITSTART</vendor>
+				<model>Хлебцы FITSTART рисовые Кокос 100гр</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+			<offer id="5218" type="vendor.model">
+				<url>https://gooodsbuy.com/catalog/produkty_pitaniya/bakaleya/krupy_zlakovye_khlopya/5218/</url>
+				<price>94.4</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>298</categoryId>
+				<picture>https://gooodsbuy.com/upload/iblock/82d/h0kpfvil1lhsd29tswhom76gpyov7ukw.jpg</picture>
+				<vendor>Мистраль</vendor>
+				<model>Хлопья МИСТРАЛЬ Дружба 400гр</model>
+				<outlets>
+					<outlet id="18176" instock="0"/>
+				</outlets>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>
